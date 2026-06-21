@@ -1,4 +1,6 @@
----
+const fs = require('fs');
+
+const heroHtml = `---
 ---
 <section class="relative pt-32 pb-20 md:pt-40 md:pb-32 px-4 sm:px-6 lg:px-8 overflow-hidden">
   
@@ -93,3 +95,6 @@
     animation: slow-pan 30s ease-in-out infinite alternate;
   }
 </style>
+`;
+
+fs.writeFileSync('src/components/Hero.astro', heroHtml);
