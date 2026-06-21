@@ -189,18 +189,16 @@
         answers.destination = val;
         if (val === 'other') {
           showEarlyExit(); renderChips();
+          window.dispatchEvent(new CustomEvent('taxomade:answer-change', { detail: answers }));
           return;
         }
         nextStep(2); renderChips();
       } else if (step === 2) {
         answers.origin = val;
-        // Dispatch event for Timeline
-        window.dispatchEvent(new CustomEvent('taxomade:origin-change', { detail: val }));
         nextStep(3); renderChips();
       } else if (step === 3) {
         answers.duration = val;
         if (val === 'short') {
-          // Skip 4 and 5
           showResults(); renderChips();
         } else {
           nextStep(4); renderChips();
@@ -212,6 +210,8 @@
         answers.income = val;
         showResults(); renderChips();
       }
+      
+      window.dispatchEvent(new CustomEvent('taxomade:answer-change', { detail: answers }));
     });
   });
 
@@ -229,6 +229,7 @@
       
       renderChips();
       showStep(prevStep);
+      window.dispatchEvent(new CustomEvent('taxomade:answer-change', { detail: answers }));
     }
   });
 

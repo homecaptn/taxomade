@@ -1,4 +1,6 @@
----
+const fs = require('fs');
+
+const timelineHtml = `---
 ---
 <section id="how-it-works" class="py-20 bg-slate-50 overflow-hidden border-b border-slate-100">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -80,7 +82,7 @@
             </ul>
             <div id="timeline-badge-short" class="hidden mt-auto w-full border-t border-slate-100 pt-3">
               <span class="inline-flex items-center px-2.5 py-1 rounded-md text-xs font-medium bg-slate-100 text-slate-500">
-                Skipped (&lt; 6 months)
+                Skipped (< 6 months)
               </span>
             </div>
           </div>
@@ -182,3 +184,6 @@
     }
   });
 </script>
+`;
+
+fs.writeFileSync('src/components/Timeline.astro', timelineHtml);
