@@ -2,28 +2,32 @@
 ---
 <section id="configurator" class="py-20 bg-slate-50">
   <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="bg-white rounded-3xl shadow-lg border border-slate-100 overflow-hidden">
-      <!-- Header -->
-      <div class="bg-slate-900 px-6 py-4 flex items-center justify-between">
-        <button id="conf-back" class="text-slate-400 hover:text-white transition-colors invisible">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
-        </button>
-        <span id="conf-progress" class="text-slate-300 font-medium text-sm">Step 1 of 5</span>
-        <div class="w-6"></div> <!-- Spacer for flex balance -->
-      </div>
+    <div class="bg-white rounded-2xl shadow-xl border border-slate-200 p-8 md:p-12 min-h-[500px] relative flex flex-col" id="conf-content">
       
-      <!-- Content Area -->
-      <div class="p-8 md:p-12 min-h-[400px] flex flex-col justify-center relative" id="conf-content">
+      <!-- Header / Progress Area -->
+      <div class="mb-10 w-full">
+        <div class="flex items-center justify-between text-sm font-bold text-slate-500 mb-3 uppercase tracking-wider">
+          <span id="conf-progress-text">Step 1 of 5</span>
+          <span id="conf-progress-pct" class="text-blue-600">0%</span>
+        </div>
+        <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden mb-6">
+          <div id="conf-progress-bar" class="bg-blue-600 h-full rounded-full transition-all duration-500" style="width: 0%"></div>
+        </div>
+        <button id="conf-back" class="text-slate-500 hover:text-slate-800 transition-colors hidden font-medium flex items-center w-fit">
+          <svg class="w-5 h-5 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+          Back
+        </button>
+      </div>
         
         <!-- Step 1: Destination -->
         <div class="conf-step active" id="step-1">
-          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">Where are you moving to?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">Where are you moving to?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="1" data-val="greece">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="greece">
               <span class="block text-xl mb-1">🇬🇷</span>
               <span class="block font-semibold">Greece</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2 opacity-70" data-step="1" data-val="other">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 opacity-70" data-step="1" data-val="other">
               <span class="block text-xl mb-1">🇪🇸 🇮🇹 🇧🇬</span>
               <span class="block font-semibold">Spain, Italy, Bulgaria</span>
               <span class="block text-xs text-blue-800 font-medium mt-1 uppercase tracking-wider">Coming soon</span>
@@ -34,7 +38,7 @@
         <!-- Early Exit (Other Countries) -->
         <div class="conf-step hidden" id="step-early-exit">
           <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-4 text-center">We're launching here soon!</h3>
-          <p class="text-center text-slate-600 mb-8">We are currently focused on Greece, but we are launching our services in Spain, Italy, and Bulgaria very soon. Leave your details and we'll reach out when we're ready.</p>
+          <p class="text-left text-slate-600 mb-8">We are currently focused on Greece, but we are launching our services in Spain, Italy, and Bulgaria very soon. Leave your details and we'll reach out when we're ready.</p>
           <div class="text-center">
             <a href="#contact" class="inline-flex w-full sm:w-auto items-center justify-center px-8 py-3.5 text-base font-medium rounded-lg text-white bg-blue-800 hover:bg-blue-900 shadow-md transition-all duration-200">
               Get notified
@@ -44,12 +48,12 @@
 
         <!-- Step 2: Origin -->
         <div class="conf-step hidden" id="step-2">
-          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">Where are you from?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">Where are you from?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="2" data-val="noneu">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="2" data-val="noneu">
               <span class="block font-semibold">I'm from outside the EU</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="2" data-val="eu">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="2" data-val="eu">
               <span class="block font-semibold">I'm from the EU</span>
             </button>
           </div>
@@ -57,12 +61,12 @@
 
         <!-- Step 3: Duration -->
         <div class="conf-step hidden" id="step-3">
-          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">How long do you plan to stay in Greece?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">How long do you plan to stay in Greece?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="3" data-val="short">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="3" data-val="short">
               <span class="block font-semibold">Less than 6 months</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="3" data-val="long">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="3" data-val="long">
               <span class="block font-semibold">6 months or more</span>
             </button>
           </div>
@@ -70,12 +74,12 @@
 
         <!-- Step 4: Employment -->
         <div class="conf-step hidden" id="step-4">
-          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">How will you be working?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">How will you be working?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="4" data-val="freelance">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="freelance">
               <span class="block font-semibold">As a freelancer / self-employed</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="4" data-val="employed">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="employed">
               <span class="block font-semibold">Employed remotely for a company abroad</span>
             </button>
           </div>
@@ -83,18 +87,18 @@
 
         <!-- Step 5: Income -->
         <div class="conf-step hidden" id="step-5">
-          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">Roughly what's your annual income?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">Roughly what's your annual income?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="5" data-val="low">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="5" data-val="low">
               <span class="block font-semibold">Under €25,000</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="5" data-val="mid">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="5" data-val="mid">
               <span class="block font-semibold">€25,000–40,000</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="5" data-val="high">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="5" data-val="high">
               <span class="block font-semibold">€40,000–70,000</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="5" data-val="highest">
+            <button class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="5" data-val="highest">
               <span class="block font-semibold">Over €70,000</span>
             </button>
           </div>
@@ -103,7 +107,7 @@
         <!-- Result Step -->
         <div class="conf-step hidden" id="step-result">
           <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-2 text-center" id="result-title">Here's what you need for your move to Greece.</h3>
-          <p class="text-center text-slate-600 mb-8" id="result-subtitle">Based on your answers, here is exactly what applies to you:</p>
+          <p class="text-left text-slate-600 mb-8" id="result-subtitle">Based on your answers, here is exactly what applies to you:</p>
           
           <div id="result-list" class="space-y-4 mb-8">
             <!-- Populated by JS -->
@@ -189,13 +193,26 @@
     document.querySelectorAll('.conf-step').forEach(el => el.classList.add('hidden'));
     
     document.getElementById(`step-${step}`)?.classList.remove('hidden');
+    
+    const progressText = document.getElementById('conf-progress-text');
+    const progressPct = document.getElementById('conf-progress-pct');
+    const progressBar = document.getElementById('conf-progress-bar');
+    
     if (progressText) progressText.innerText = `Step ${step} of ${totalSteps}`;
     
+    let pct = Math.round(((step - 1) / totalSteps) * 100);
+    if (pct < 0) pct = 0;
+    if (pct > 100) pct = 100;
+    
+    if (progressPct) progressPct.innerText = `${pct}%`;
+    if (progressBar) progressBar.style.width = `${pct}%`;
+    
+    const backBtn = document.getElementById('conf-back');
     if (backBtn) {
       if (historyStack.length > 1) {
-        backBtn.classList.remove('invisible');
+        backBtn.classList.remove('hidden');
       } else {
-        backBtn.classList.add('invisible');
+        backBtn.classList.add('hidden');
       }
     }
   }
@@ -203,16 +220,20 @@
   function showEarlyExit() {
     document.querySelectorAll('.conf-step').forEach(el => el.classList.add('hidden'));
     document.getElementById('step-early-exit')?.classList.remove('hidden');
-    if (progressText) progressText.innerText = 'Coming Soon';
-    if (backBtn) backBtn.classList.remove('invisible');
+    document.getElementById('conf-progress-text')!.innerText = 'Coming Soon';
+    document.getElementById('conf-progress-pct')!.innerText = '100%';
+    document.getElementById('conf-progress-bar')!.style.width = '100%';
+    document.getElementById('conf-back')?.classList.remove('hidden');
     historyStack.push(99); // dummy step id for early exit
   }
 
   function showResults() {
     document.querySelectorAll('.conf-step').forEach(el => el.classList.add('hidden'));
     document.getElementById('step-result')?.classList.remove('hidden');
-    if (progressText) progressText.innerText = 'Recommendation';
-    if (backBtn) backBtn.classList.remove('invisible');
+    document.getElementById('conf-progress-text')!.innerText = 'Recommendation';
+    document.getElementById('conf-progress-pct')!.innerText = '100%';
+    document.getElementById('conf-progress-bar')!.style.width = '100%';
+    document.getElementById('conf-back')?.classList.remove('hidden');
     historyStack.push(100); // dummy for result
 
     const resultList = document.getElementById('result-list');
