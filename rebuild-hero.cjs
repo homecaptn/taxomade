@@ -1,4 +1,7 @@
----
+const fs = require('fs');
+
+// 1. Overwrite Hero.astro entirely
+const heroHtml = `---
 ---
 <section class="relative pt-32 pb-20 md:pt-40 md:pb-32 px-4 sm:px-6 lg:px-8 overflow-hidden border-b border-slate-100">
   <div class="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:32px_32px] pointer-events-none -z-10"></div>
@@ -77,3 +80,15 @@
     100% { transform: translateY(0px); }
   }
 </style>
+`;
+fs.writeFileSync('src/components/Hero.astro', heroHtml);
+
+// 2. Add Prices to index.astro
+let indexAstro = fs.readFileSync('src/pages/index.astro', 'utf-8');
+if (!indexAstro.includes("import Prices")) {
+  indexAstro = indexAstro.replace("import AboutUs from '../components/AboutUs.astro';", "import AboutUs from '../components/AboutUs.astro';\nimport Prices from '../components/Prices.astro';");
+  indexAstro = indexAstro.replace("<Trust />", "<Prices />\n    <Trust />");
+  fs.writeFileSync('src/pages/index.astro', indexAstro);
+}
+
+// 3. Make sure 'Prices' link in Header works. It should already work because it uses <a href="#prices">
