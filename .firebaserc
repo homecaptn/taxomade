@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "homecaptn"
+  },
+  "targets": {
+    "homecaptn": {
+      "hosting": {
+        "taxomade": [
+          "taxomade-app"
+        ]
+      }
+    }
+  }
+}
