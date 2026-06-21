@@ -1,15 +1,20 @@
 ---
 import '../styles/global.css';
+import Header from '../components/Header.astro';
+
 const { title } = Astro.props;
 ---
 <!doctype html>
-<html lang="en">
+<html lang="de" class="scroll-smooth">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>{title}</title>
 	</head>
-	<body>
-		<slot />
+	<body class="bg-gray-50 text-gray-900 antialiased pt-20">
+		<Header />
+		<main>
+			<slot />
+		</main>
 	</body>
 </html>
