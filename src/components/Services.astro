@@ -1,53 +1,111 @@
 ---
 ---
-<section id="services" class="py-24 bg-white">
+<section id="services" class="py-24 bg-slate-50 border-t border-slate-100">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center mb-16">
       <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Our Services</h2>
-      <p class="text-lg text-slate-600 max-w-2xl mx-auto">Everything you need to relocate and work legally, without the headache.</p>
+      <p class="text-lg text-slate-600 max-w-2xl mx-auto" id="services-subtitle">Everything you need to relocate and work legally, without the headache.</p>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6" id="services-grid">
       
-      <!-- AFM -->
-      <div class="bg-slate-50 p-8 rounded-3xl border border-slate-100 hover:border-slate-200 transition-colors">
-        <div class="h-12 w-12 bg-white text-slate-900 rounded-2xl flex items-center justify-center mb-6 shadow-sm border border-slate-100">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V8a2 2 0 00-2-2h-5m-4 0V5a2 2 0 114 0v1m-4 0a2 2 0 104 0m-5 8a2 2 0 100-4 2 2 0 000 4zm0 0c1.306 0 2.417.835 2.83 2M9 14a3.001 3.001 0 00-2.83 2M15 11h3m-3 4h2"></path></svg>
+      <!-- Visa -->
+      <div id="card-visa" class="bg-white p-8 rounded-3xl border border-slate-200 hover:border-slate-300 transition-all duration-500 hover:shadow-lg flex flex-col min-h-[420px] relative mt-4 md:mt-0">
+        <div class="absolute -top-4 left-6 bg-slate-100 text-slate-500 border border-slate-200 text-xs font-bold px-3 py-1.5 rounded-lg">
+          Only for Non-EU
         </div>
-        <h3 class="text-xl font-bold text-slate-900 mb-3">Tax Number (AFM)</h3>
-        <p class="text-slate-600">We secure your local tax number—the foundation for renting, working, and banking.</p>
+        <div class="h-14 w-14 bg-slate-50 text-slate-600 rounded-2xl flex items-center justify-center mb-8 border border-slate-100">
+          <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+        </div>
+        <h3 class="text-2xl font-bold text-slate-900 mb-4">Digital Nomad Visa</h3>
+        <p class="text-slate-600 flex-grow">Full end-to-end handling of your visa application. We collect the documents, submit the file, and track the progress.</p>
+        <button class="mt-8 w-full py-3 border-2 border-slate-200 text-slate-700 font-medium rounded-lg hover:border-slate-300 hover:bg-slate-50 transition-colors">Learn more</button>
       </div>
 
-      <!-- Visa -->
-      <div class="bg-slate-50 p-8 rounded-3xl border border-slate-100 hover:border-slate-200 transition-colors">
-        <div class="h-12 w-12 bg-white text-slate-900 rounded-2xl flex items-center justify-center mb-6 shadow-sm border border-slate-100">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+      <!-- AFM -->
+      <div id="card-afm" class="bg-white p-8 rounded-3xl border border-slate-200 hover:border-slate-300 transition-all duration-500 hover:shadow-lg flex flex-col min-h-[420px] relative mt-4 md:mt-0">
+        <div class="absolute -top-4 left-6 bg-slate-100 text-slate-500 border border-slate-200 text-xs font-bold px-3 py-1.5 rounded-lg">
+          Essential for everyone
         </div>
-        <h3 class="text-xl font-bold text-slate-900 mb-3">Digital Nomad Visa</h3>
-        <p class="text-slate-600">Full end-to-end handling of your visa application for Non-EU citizens.</p>
+        <div class="h-14 w-14 bg-slate-50 text-slate-600 rounded-2xl flex items-center justify-center mb-8 border border-slate-100">
+          <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V8a2 2 0 00-2-2h-5m-4 0V5a2 2 0 114 0v1m-4 0a2 2 0 104 0m-5 8a2 2 0 100-4 2 2 0 000 4zm0 0c1.306 0 2.417.835 2.83 2M9 14a3.001 3.001 0 00-2.83 2M15 11h3m-3 4h2"></path></svg>
+        </div>
+        <h3 class="text-2xl font-bold text-slate-900 mb-4">Tax Number (AFM)</h3>
+        <p class="text-slate-600 flex-grow">We secure your local tax number remotely. It is the absolute foundation for renting an apartment, working, and opening a bank account.</p>
+        <button class="mt-8 w-full py-3 border-2 border-slate-200 text-slate-700 font-medium rounded-lg hover:border-slate-300 hover:bg-slate-50 transition-colors">Learn more</button>
       </div>
 
       <!-- 5C -->
-      <div class="bg-slate-50 p-8 rounded-3xl border border-slate-100 hover:border-slate-200 transition-colors">
-        <div class="h-12 w-12 bg-white text-slate-900 rounded-2xl flex items-center justify-center mb-6 shadow-sm border border-slate-100">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path></svg>
+      <div id="card-5c" class="bg-white p-8 rounded-3xl border border-slate-200 hover:border-slate-300 transition-all duration-500 hover:shadow-lg flex flex-col min-h-[420px] relative mt-4 md:mt-0">
+        <div class="absolute -top-4 left-6 bg-slate-100 text-slate-500 border border-slate-200 text-xs font-bold px-3 py-1.5 rounded-lg">
+          For long-term stays
         </div>
-        <h3 class="text-xl font-bold text-slate-900 mb-3">50% Tax Break</h3>
-        <p class="text-slate-600">We file the complex Article 5C application so you pay half the income tax for 7 years.</p>
+        <div class="h-14 w-14 bg-slate-50 text-slate-600 rounded-2xl flex items-center justify-center mb-8 border border-slate-100">
+          <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path></svg>
+        </div>
+        <h3 class="text-2xl font-bold text-slate-900 mb-4">50% Tax Break (5C)</h3>
+        <p class="text-slate-600 flex-grow">We file the complex Article 5C application so you legally pay half the income tax for up to 7 years in your new country.</p>
+        <button class="mt-8 w-full py-3 border-2 border-slate-200 text-slate-700 font-medium rounded-lg hover:border-slate-300 hover:bg-slate-50 transition-colors">Learn more</button>
       </div>
 
       <!-- Bookkeeping -->
-      <div class="bg-slate-900 p-8 rounded-3xl shadow-xl transform md:-translate-y-2 relative border border-slate-800">
-        <div class="absolute -top-3 right-6 bg-accent-400 text-slate-900 text-xs font-bold px-3 py-1 rounded-full">
-          Core Focus
+      <div id="card-bookkeeping" class="bg-slate-900 p-8 rounded-3xl border border-slate-800 hover:border-slate-700 transition-all duration-500 shadow-xl flex flex-col min-h-[420px] relative mt-4 md:mt-0">
+        <div class="absolute -top-4 left-6 bg-blue-800 text-white border border-blue-700 text-xs font-bold px-3 py-1.5 rounded-lg shadow-sm">
+          Core service
         </div>
-        <div class="h-12 w-12 bg-slate-800 text-accent-400 rounded-2xl flex items-center justify-center mb-6 border border-slate-700">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
+        <div class="h-14 w-14 bg-slate-800 text-blue-400 rounded-2xl flex items-center justify-center mb-8 border border-slate-700">
+          <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Ongoing Bookkeeping</h3>
-        <p class="text-slate-400">Monthly accounting, electronic invoicing (mandatory 2026), VAT, and yearly tax returns fully managed.</p>
+        <h3 class="text-2xl font-bold text-white mb-4">Ongoing Bookkeeping</h3>
+        <p class="text-slate-400 flex-grow">Monthly accounting, electronic invoicing, VAT, and yearly tax returns fully managed by local certified accountants.</p>
+        <button class="mt-8 w-full py-3 border-2 border-slate-700 text-white font-medium rounded-lg hover:bg-slate-800 transition-colors">Learn more</button>
       </div>
 
     </div>
   </div>
 </section>
+
+<script>
+  window.addEventListener('taxomade:configurator-complete', ((e: CustomEvent) => {
+    const answers = e.detail;
+    
+    const cardVisa = document.getElementById('card-visa');
+    const cardAfm = document.getElementById('card-afm');
+    const card5c = document.getElementById('card-5c');
+    const cardBookkeeping = document.getElementById('card-bookkeeping');
+    
+    const subtitle = document.getElementById('services-subtitle');
+    const grid = document.getElementById('services-grid');
+
+    if (!cardVisa || !cardAfm || !card5c || !cardBookkeeping || !grid || !subtitle) return;
+
+    // Logic Matrix
+    const showVisa = answers.origin === 'noneu';
+    const showAfm = true;
+    const show5c = answers.duration === 'long';
+    const showBookkeeping = answers.duration === 'long' && answers.employment === 'freelance';
+
+    // Apply visibility
+    cardVisa.style.display = showVisa ? 'flex' : 'none';
+    cardAfm.style.display = showAfm ? 'flex' : 'none';
+    card5c.style.display = show5c ? 'flex' : 'none';
+    cardBookkeeping.style.display = showBookkeeping ? 'flex' : 'none';
+
+    // Count how many are visible to adjust grid
+    const visibleCount = [showVisa, showAfm, show5c, showBookkeeping].filter(Boolean).length;
+    
+    // Update grid columns based on visible count so they center/stretch nicely
+    grid.className = 'grid gap-6 mt-12';
+    if (visibleCount === 1) grid.classList.add('grid-cols-1', 'max-w-md', 'mx-auto');
+    else if (visibleCount === 2) grid.classList.add('grid-cols-1', 'md:grid-cols-2', 'max-w-4xl', 'mx-auto');
+    else if (visibleCount === 3) grid.classList.add('grid-cols-1', 'md:grid-cols-3', 'max-w-6xl', 'mx-auto');
+    else grid.classList.add('grid-cols-1', 'md:grid-cols-2', 'lg:grid-cols-4');
+
+    // Update title
+    subtitle.innerHTML = `<span class="text-blue-800 font-semibold">Personalized for you.</span> Here are the exact services you need based on your profile.`;
+    
+    // Smooth scroll to services
+    document.getElementById('services')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+  }) as EventListener);
+</script>

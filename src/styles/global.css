@@ -2,19 +2,6 @@
 
 @theme {
   --font-sans: 'Outfit', system-ui, sans-serif;
-
-  /* Trustworthy Fintech Blue */
-  --color-brand-50: #f0fdfa;
-  --color-brand-100: #ccfbf1;
-  --color-brand-500: #14b8a6;
-  --color-brand-600: #0d9488;
-  --color-brand-700: #0f766e;
-  --color-brand-900: #134e4a;
-  --color-brand-950: #042f2e;
-
-  /* Fresh Accent (Lime/Yellow like Lemonade) */
-  --color-accent-400: #bef264;
-  --color-accent-500: #a3e635;
 }
 
 @layer base {

@@ -8,88 +8,112 @@
         <button id="conf-back" class="text-slate-400 hover:text-white transition-colors invisible">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
         </button>
-        <span id="conf-progress" class="text-slate-300 font-medium text-sm">Step 1 of 4</span>
+        <span id="conf-progress" class="text-slate-300 font-medium text-sm">Step 1 of 5</span>
         <div class="w-6"></div> <!-- Spacer for flex balance -->
       </div>
       
       <!-- Content Area -->
       <div class="p-8 md:p-12 min-h-[400px] flex flex-col justify-center relative" id="conf-content">
         
-        <!-- Step 1: Origin -->
+        <!-- Step 1: Destination -->
         <div class="conf-step active" id="step-1">
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">Where are you moving to?</h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="1" data-val="greece">
+              <span class="block text-xl mb-1">🇬🇷</span>
+              <span class="block font-semibold">Greece</span>
+            </button>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2 opacity-70" data-step="1" data-val="other">
+              <span class="block text-xl mb-1">🇪🇸 🇮🇹 🇧🇬</span>
+              <span class="block font-semibold">Spain, Italy, Bulgaria</span>
+              <span class="block text-xs text-blue-800 font-medium mt-1 uppercase tracking-wider">Coming soon</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Early Exit (Other Countries) -->
+        <div class="conf-step hidden" id="step-early-exit">
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-4 text-center">We're launching here soon!</h3>
+          <p class="text-center text-slate-600 mb-8">We are currently focused on Greece, but we are launching our services in Spain, Italy, and Bulgaria very soon. Leave your details and we'll reach out when we're ready.</p>
+          <div class="text-center">
+            <a href="#contact" class="inline-flex w-full sm:w-auto items-center justify-center px-8 py-3.5 text-base font-medium rounded-lg text-white bg-blue-800 hover:bg-blue-900 shadow-md transition-all duration-200">
+              Get notified
+            </a>
+          </div>
+        </div>
+
+        <!-- Step 2: Origin -->
+        <div class="conf-step hidden" id="step-2">
           <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">Where are you from?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="1" data-val="eu">
-              <span class="block text-xl mb-1">🇪🇺</span>
-              <span class="block font-semibold">EU Citizen</span>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="2" data-val="noneu">
+              <span class="block font-semibold">I'm from outside the EU</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="1" data-val="noneu">
-              <span class="block text-xl mb-1">🌍</span>
-              <span class="block font-semibold">Non-EU Citizen</span>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="2" data-val="eu">
+              <span class="block font-semibold">I'm from the EU</span>
             </button>
           </div>
         </div>
 
-        <!-- Step 2: Duration -->
-        <div class="conf-step hidden" id="step-2">
-          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">How long do you plan to stay?</h3>
-          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="2" data-val="short">
-              <span class="block font-semibold">Under 6 months</span>
-              <span class="block text-sm text-slate-500 mt-1">Temporary stay</span>
-            </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="2" data-val="long">
-              <span class="block font-semibold">6+ months</span>
-              <span class="block text-sm text-slate-500 mt-1">Becoming a tax resident</span>
-            </button>
-          </div>
-        </div>
-
-        <!-- Step 3: Employment -->
+        <!-- Step 3: Duration -->
         <div class="conf-step hidden" id="step-3">
-          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">What is your working setup?</h3>
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">How long do you plan to stay in Greece?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="3" data-val="freelance">
-              <span class="block font-semibold">Freelancer / Self-employed</span>
-              <span class="block text-sm text-slate-500 mt-1">B2B invoicing</span>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="3" data-val="short">
+              <span class="block font-semibold">Less than 6 months</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="3" data-val="employed">
-              <span class="block font-semibold">Employed Remotely</span>
-              <span class="block text-sm text-slate-500 mt-1">Working for an employer</span>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="3" data-val="long">
+              <span class="block font-semibold">6 months or more</span>
             </button>
           </div>
         </div>
 
-        <!-- Step 4: Income -->
+        <!-- Step 4: Employment -->
         <div class="conf-step hidden" id="step-4">
-          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">Roughly what is your annual income?</h3>
-          <p class="text-center text-slate-500 mb-6 -mt-4">This helps us check if the 50% tax break is worth the setup costs.</p>
-          <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="4" data-val="low">
-              <span class="block font-semibold">Under €30k</span>
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">How will you be working?</h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="4" data-val="freelance">
+              <span class="block font-semibold">As a freelancer / self-employed</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="4" data-val="mid">
-              <span class="block font-semibold">€30k - €60k</span>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="4" data-val="employed">
+              <span class="block font-semibold">Employed remotely for a company abroad</span>
             </button>
-            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="4" data-val="high">
-              <span class="block font-semibold">Over €60k</span>
+          </div>
+        </div>
+
+        <!-- Step 5: Income -->
+        <div class="conf-step hidden" id="step-5">
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">Roughly what's your annual income?</h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="5" data-val="low">
+              <span class="block font-semibold">Under €25,000</span>
+            </button>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="5" data-val="mid">
+              <span class="block font-semibold">€25,000–40,000</span>
+            </button>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="5" data-val="high">
+              <span class="block font-semibold">€40,000–70,000</span>
+            </button>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-blue-800 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-blue-800 focus:ring-offset-2" data-step="5" data-val="highest">
+              <span class="block font-semibold">Over €70,000</span>
             </button>
           </div>
         </div>
 
         <!-- Result Step -->
         <div class="conf-step hidden" id="step-result">
-          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-2 text-center">Your personalized setup</h3>
-          <p class="text-center text-slate-600 mb-8">Based on your answers, here is exactly what you need in Greece:</p>
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-2 text-center" id="result-title">Here's what you need for your move to Greece.</h3>
+          <p class="text-center text-slate-600 mb-8" id="result-subtitle">Based on your answers, here is exactly what applies to you:</p>
           
           <div id="result-list" class="space-y-4 mb-8">
             <!-- Populated by JS -->
           </div>
 
-          <div class="text-center">
-            <a href="#contact" class="inline-flex items-center justify-center px-8 py-3.5 text-base font-medium rounded-full text-slate-900 bg-accent-400 hover:bg-accent-500 shadow-md transition-all duration-200">
-              Request a free quote
+          <div class="text-center space-y-4">
+            <a href="#contact" class="inline-flex w-full sm:w-auto items-center justify-center px-8 py-3.5 text-base font-medium rounded-lg text-white bg-blue-800 hover:bg-blue-900 shadow-md transition-all duration-200">
+              Request your quote
             </a>
+            <p class="text-sm text-slate-500" id="result-hint">Scroll down to see more details about these services.</p>
           </div>
         </div>
 
@@ -98,11 +122,11 @@
   </div>
 </section>
 
-
 <script>
-  let currentStep = 1;
-  const totalSteps = 4;
+  let historyStack: number[] = [1];
+  const totalSteps = 5;
   let answers = {
+    destination: '',
     origin: '',
     duration: '',
     employment: '',
@@ -119,98 +143,152 @@
       const val = el.getAttribute('data-val') || '';
 
       if (step === 1) {
+        answers.destination = val;
+        if (val === 'other') {
+          showEarlyExit();
+          return;
+        }
+        nextStep(2);
+      } else if (step === 2) {
         answers.origin = val;
         // Dispatch event for Timeline
         window.dispatchEvent(new CustomEvent('taxomade:origin-change', { detail: val }));
-      } else if (step === 2) {
-        answers.duration = val;
+        nextStep(3);
       } else if (step === 3) {
-        answers.employment = val;
+        answers.duration = val;
+        if (val === 'short') {
+          // Skip 4 and 5
+          showResults();
+        } else {
+          nextStep(4);
+        }
       } else if (step === 4) {
+        answers.employment = val;
+        nextStep(5);
+      } else if (step === 5) {
         answers.income = val;
+        showResults();
       }
-
-      nextStep(step + 1);
     });
   });
 
   backBtn?.addEventListener('click', () => {
-    if (currentStep > 1) {
-      nextStep(currentStep - 1);
+    if (historyStack.length > 1) {
+      historyStack.pop(); // Remove current
+      const prevStep = historyStack[historyStack.length - 1];
+      showStep(prevStep);
     }
   });
 
   function nextStep(step: number) {
-    // Hide current
+    historyStack.push(step);
+    showStep(step);
+  }
+
+  function showStep(step: number) {
     document.querySelectorAll('.conf-step').forEach(el => el.classList.add('hidden'));
     
-    currentStep = step;
-
-    if (step <= totalSteps) {
-      document.getElementById(`step-${step}`)?.classList.remove('hidden');
-      if (progressText) progressText.innerText = `Step ${step} of ${totalSteps}`;
-      if (backBtn) backBtn.classList.remove('invisible');
-      if (step === 1 && backBtn) backBtn.classList.add('invisible');
-    } else {
-      showResults();
+    document.getElementById(`step-${step}`)?.classList.remove('hidden');
+    if (progressText) progressText.innerText = `Step ${step} of ${totalSteps}`;
+    
+    if (backBtn) {
+      if (historyStack.length > 1) {
+        backBtn.classList.remove('invisible');
+      } else {
+        backBtn.classList.add('invisible');
+      }
     }
   }
 
+  function showEarlyExit() {
+    document.querySelectorAll('.conf-step').forEach(el => el.classList.add('hidden'));
+    document.getElementById('step-early-exit')?.classList.remove('hidden');
+    if (progressText) progressText.innerText = 'Coming Soon';
+    if (backBtn) backBtn.classList.remove('invisible');
+    historyStack.push(99); // dummy step id for early exit
+  }
+
   function showResults() {
+    document.querySelectorAll('.conf-step').forEach(el => el.classList.add('hidden'));
+    document.getElementById('step-result')?.classList.remove('hidden');
     if (progressText) progressText.innerText = 'Recommendation';
     if (backBtn) backBtn.classList.remove('invisible');
-    document.getElementById('step-result')?.classList.remove('hidden');
+    historyStack.push(100); // dummy for result
 
     const resultList = document.getElementById('result-list');
-    if (!resultList) return;
+    const resultSubtitle = document.getElementById('result-subtitle');
+    const resultHint = document.getElementById('result-hint');
+    if (!resultList || !resultSubtitle) return;
     
     let html = '';
-
-    // Visa
-    if (answers.origin === 'noneu') {
-      html += createResultItem('Digital Nomad Visa', 'Mandatory for Non-EU citizens to live and work legally.');
+    
+    if (answers.duration === 'short') {
+      resultSubtitle.innerText = "Based on your answers, you'll need very little — here's what applies:";
+      if (resultHint) resultHint.classList.add('hidden');
+    } else {
+      resultSubtitle.innerText = "Based on your answers, here is exactly what applies to you:";
+      if (resultHint) resultHint.classList.remove('hidden');
     }
 
-    // AFM
-    html += createResultItem('Tax Number (AFM)', 'Required for all official registrations.');
+    // 1. Visa
+    if (answers.origin === 'noneu') {
+      if (answers.duration === 'long') {
+        html += createResultItem('Digital Nomad Visa', "You'll need a Digital Nomad Visa — apply 1–2 months before you move. We handle the full application.");
+      } else {
+        html += createResultItem('Visa requirements', "If you stay under 90 days you likely don't need a visa; between 90 days and 6 months you may need a short-stay visa — talk to us.");
+      }
+      // Insurance upsell
+      html += createResultItem('Health Insurance', 'A private health insurance is required for your visa — we can sort that too.', false, true);
+    }
 
-    // 5C & Bookkeeping (Duration > 6m)
+    // 2. AFM & Registration
     if (answers.duration === 'long') {
-      // Bookkeeping
-      if (answers.employment === 'freelance') {
-        html += createResultItem('Full Bookkeeping', 'Monthly accounting, invoicing setup, and VAT returns for freelancers.');
-      } else {
-        html += createResultItem('Annual Tax Return', 'Once-a-year filing since your employer handles monthly payroll.');
-      }
-
-      // 5C
-      if (answers.income === 'high' || answers.income === 'mid') {
-        html += createResultItem('50% Tax Break (5C)', 'Highly recommended based on your income. Halves your income tax for 7 years.', true);
-      } else {
-        html += createResultItem('50% Tax Break (5C)', 'Optional. At your income level, we will calculate if the setup fees outweigh the tax savings.');
-      }
+      html += createResultItem('Tax Number & Registration', "You'll need a Greek tax number (AFM) and to register your activity — we set this up for you.");
     } else {
-      html += createResultItem('No Tax Residency needed', 'For stays under 6 months, you usually remain a tax resident in your home country.');
+      html += createResultItem('No Registration needed', "You likely won't need to register or pay Greek tax — you stay below the tax-residency threshold.");
+    }
+
+    // 3. 5C
+    if (answers.duration === 'long') {
+      if (answers.income === 'high' || answers.income === 'highest') {
+        html += createResultItem('50% Tax Break (5C)', 'Strongly recommended — the 5C regime exempts 50% of your Greek income from tax for 7 years. At your income this saves you several thousand euros per year. Apply by July 31.', true);
+      } else if (answers.income === 'mid') {
+        html += createResultItem('50% Tax Break (5C)', "Worth considering — 5C still gives meaningful savings. We'll calculate if it's worth it for you.", true);
+      } else {
+        html += createResultItem('50% Tax Break (5C)', 'Optional — savings are smaller at your income level, but still available.', false, true);
+      }
+    }
+
+    // 4. Bookkeeping
+    if (answers.duration === 'long') {
+      if (answers.employment === 'freelance') {
+        html += createResultItem('Full Bookkeeping', 'Recommended — monthly bookkeeping & tax compliance (myDATA, EFKA, VAT, year-end, and the mandatory e-invoicing from Oct 2026). We handle it all in English.', true);
+      } else {
+        html += createResultItem('Annual Tax Return', "You'll need an annual Greek tax return — we handle that for you.");
+      }
     }
 
     resultList.innerHTML = html;
     
-    // Auto-fill hidden fields in contact form if it exists
     const inputConfig = document.getElementById('contact-config-data') as HTMLInputElement;
     if (inputConfig) {
       inputConfig.value = JSON.stringify(answers);
     }
+
+    window.dispatchEvent(new CustomEvent('taxomade:configurator-complete', { detail: answers }));
   }
 
-  function createResultItem(title: string, desc: string, highlight = false) {
-    const bgClass = highlight ? 'bg-brand-50 border-brand-200' : 'bg-slate-50 border-slate-100';
-    const iconColor = highlight ? 'text-brand-600' : 'text-slate-400';
+  function createResultItem(title: string, desc: string, highlight = false, optional = false) {
+    const bgClass = highlight ? 'bg-slate-100 border-slate-300' : 'bg-slate-50 border-slate-100';
+    const iconColor = highlight ? 'text-blue-800' : 'text-slate-500';
+    const tag = highlight ? '<span class="ml-2 text-xs font-bold text-blue-800 uppercase tracking-wider bg-white px-2 py-0.5 rounded border border-blue-200">Recommended</span>' : (optional ? '<span class="ml-2 text-xs font-medium text-slate-500 uppercase tracking-wider bg-white px-2 py-0.5 rounded border border-slate-200">Optional</span>' : '');
+    
     return `
       <div class="p-4 rounded-xl border ${bgClass} flex items-start">
         <svg class="w-6 h-6 ${iconColor} flex-shrink-0 mt-0.5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
         <div>
-          <h4 class="font-bold text-slate-900">${title}</h4>
-          <p class="text-sm text-slate-600 mt-1">${desc}</p>
+          <h4 class="font-bold text-slate-900 flex items-center flex-wrap gap-y-1">${title}${tag}</h4>
+          <p class="text-sm text-slate-600 mt-1 leading-relaxed">${desc}</p>
         </div>
       </div>
     `;
