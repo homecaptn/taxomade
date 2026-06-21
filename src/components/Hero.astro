@@ -35,16 +35,6 @@
         </div>
       </div>
 
-      <!-- Right: Airplane -->
-      <div class="relative w-full h-[300px] md:h-[400px] lg:h-[600px] pointer-events-none z-10 flex items-center justify-center overflow-visible lg:absolute lg:right-0 lg:top-1/2 lg:-translate-y-1/2 lg:w-1/2">
-        <img 
-          src="/images/airplane.png" 
-          alt="taxomade&trade; relocation airplane" 
-          id="hero-airplane"
-          class="w-[120%] max-w-[600px] h-auto object-contain drop-shadow-2xl mix-blend-multiply transition-transform duration-75 ease-out will-change-transform translate-x-12 translate-y-12" 
-        />
-      </div>
-
     </div>
   </div>
 </section>
@@ -78,18 +68,3 @@
   }
 </style>
 
-<script>
-  // Simple scroll listener to move the airplane diagonally
-  window.addEventListener('scroll', () => {
-    const scrollY = window.scrollY;
-    const airplane = document.getElementById('hero-airplane');
-    if (airplane) {
-      // Moves left (-X) and up (-Y) as you scroll down
-      // Base offset: translate-x-12 translate-y-12 = 3rem (48px)
-      // I'll calculate total via string template
-      const moveX = 48 - (scrollY * 0.5);
-      const moveY = 48 - (scrollY * 0.3);
-      airplane.style.transform = `translate3d(${moveX}px, ${moveY}px, 0)`;
-    }
-  }, { passive: true });
-</script>
