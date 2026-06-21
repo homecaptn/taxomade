@@ -1,4 +1,6 @@
----
+const fs = require('fs');
+
+const heroHtml = `---
 ---
 <section class="relative pt-32 pb-20 md:pt-40 md:pb-32 px-4 sm:px-6 lg:px-8 overflow-hidden border-b border-slate-100">
   <div class="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:32px_32px] pointer-events-none -z-10"></div>
@@ -89,7 +91,10 @@
       // I'll calculate total via string template
       const moveX = 48 - (scrollY * 0.5);
       const moveY = 48 - (scrollY * 0.3);
-      airplane.style.transform = `translate3d(${moveX}px, ${moveY}px, 0)`;
+      airplane.style.transform = \`translate3d(\${moveX}px, \${moveY}px, 0)\`;
     }
   }, { passive: true });
 </script>
+`;
+
+fs.writeFileSync('src/components/Hero.astro', heroHtml);
