@@ -1,0 +1,59 @@
+---
+---
+<section id="contact" class="py-24 bg-white">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-12">
+      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Let's get started</h2>
+      <p class="text-lg text-slate-600">Fill out the form below or book a free consultation call.</p>
+    </div>
+
+    <div class="bg-slate-50 p-8 md:p-10 rounded-3xl border border-slate-100 shadow-sm">
+      <form class="space-y-6" onsubmit="event.preventDefault(); alert('Thanks for your request! We will get back to you shortly.');">
+        <!-- Hidden input to capture configurator data -->
+        <input type="hidden" id="contact-config-data" name="configurator_data" value="" />
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div>
+            <label for="name" class="block text-sm font-medium text-slate-700 mb-1">Full Name</label>
+            <input type="text" id="name" name="name" required class="w-full px-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-colors" placeholder="Jane Doe" />
+          </div>
+          <div>
+            <label for="email" class="block text-sm font-medium text-slate-700 mb-1">Email Address</label>
+            <input type="email" id="email" name="email" required class="w-full px-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-colors" placeholder="jane@example.com" />
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div>
+            <label for="origin" class="block text-sm font-medium text-slate-700 mb-1">Current Country</label>
+            <input type="text" id="origin" name="origin" class="w-full px-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-colors" placeholder="e.g. USA, Germany" />
+          </div>
+          <div>
+            <label for="destination" class="block text-sm font-medium text-slate-700 mb-1">Destination</label>
+            <select id="destination" name="destination" class="w-full px-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-colors bg-white">
+              <option value="greece">Greece</option>
+              <option value="spain">Spain (Waitlist)</option>
+              <option value="italy">Italy (Waitlist)</option>
+              <option value="bulgaria">Bulgaria (Waitlist)</option>
+            </select>
+          </div>
+        </div>
+
+        <div>
+          <label for="message" class="block text-sm font-medium text-slate-700 mb-1">How can we help?</label>
+          <textarea id="message" name="message" rows="4" class="w-full px-4 py-3 rounded-xl border border-slate-200 focus:ring-2 focus:ring-brand-500 focus:border-brand-500 transition-colors" placeholder="Tell us a bit about your situation..."></textarea>
+        </div>
+
+        <div class="flex flex-col sm:flex-row gap-4 pt-4">
+          <button type="submit" class="flex-1 bg-brand-600 hover:bg-brand-700 text-white font-medium py-3.5 px-8 rounded-full shadow-md transition-colors text-center">
+            Send Request
+          </button>
+          <a href="#" class="flex-1 bg-white hover:bg-slate-50 text-slate-900 border border-slate-200 font-medium py-3.5 px-8 rounded-full shadow-sm transition-colors text-center flex items-center justify-center">
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+            Book a Call
+          </a>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>

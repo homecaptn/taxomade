@@ -1,0 +1,218 @@
+---
+---
+<section id="configurator" class="py-20 bg-slate-50">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="bg-white rounded-3xl shadow-lg border border-slate-100 overflow-hidden">
+      <!-- Header -->
+      <div class="bg-slate-900 px-6 py-4 flex items-center justify-between">
+        <button id="conf-back" class="text-slate-400 hover:text-white transition-colors invisible">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+        </button>
+        <span id="conf-progress" class="text-slate-300 font-medium text-sm">Step 1 of 4</span>
+        <div class="w-6"></div> <!-- Spacer for flex balance -->
+      </div>
+      
+      <!-- Content Area -->
+      <div class="p-8 md:p-12 min-h-[400px] flex flex-col justify-center relative" id="conf-content">
+        
+        <!-- Step 1: Origin -->
+        <div class="conf-step active" id="step-1">
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">Where are you from?</h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="1" data-val="eu">
+              <span class="block text-xl mb-1">🇪🇺</span>
+              <span class="block font-semibold">EU Citizen</span>
+            </button>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="1" data-val="noneu">
+              <span class="block text-xl mb-1">🌍</span>
+              <span class="block font-semibold">Non-EU Citizen</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Step 2: Duration -->
+        <div class="conf-step hidden" id="step-2">
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">How long do you plan to stay?</h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="2" data-val="short">
+              <span class="block font-semibold">Under 6 months</span>
+              <span class="block text-sm text-slate-500 mt-1">Temporary stay</span>
+            </button>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="2" data-val="long">
+              <span class="block font-semibold">6+ months</span>
+              <span class="block text-sm text-slate-500 mt-1">Becoming a tax resident</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Step 3: Employment -->
+        <div class="conf-step hidden" id="step-3">
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">What is your working setup?</h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="3" data-val="freelance">
+              <span class="block font-semibold">Freelancer / Self-employed</span>
+              <span class="block text-sm text-slate-500 mt-1">B2B invoicing</span>
+            </button>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="3" data-val="employed">
+              <span class="block font-semibold">Employed Remotely</span>
+              <span class="block text-sm text-slate-500 mt-1">Working for an employer</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Step 4: Income -->
+        <div class="conf-step hidden" id="step-4">
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-8 text-center">Roughly what is your annual income?</h3>
+          <p class="text-center text-slate-500 mb-6 -mt-4">This helps us check if the 50% tax break is worth the setup costs.</p>
+          <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="4" data-val="low">
+              <span class="block font-semibold">Under €30k</span>
+            </button>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="4" data-val="mid">
+              <span class="block font-semibold">€30k - €60k</span>
+            </button>
+            <button class="conf-btn p-6 border-2 border-slate-100 rounded-xl bg-white text-left transition-all duration-200 hover:border-brand-500 hover:shadow-md hover:bg-slate-50 w-full focus:outline-none focus:ring-2 focus:ring-brand-500 focus:ring-offset-2" data-step="4" data-val="high">
+              <span class="block font-semibold">Over €60k</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Result Step -->
+        <div class="conf-step hidden" id="step-result">
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-2 text-center">Your personalized setup</h3>
+          <p class="text-center text-slate-600 mb-8">Based on your answers, here is exactly what you need in Greece:</p>
+          
+          <div id="result-list" class="space-y-4 mb-8">
+            <!-- Populated by JS -->
+          </div>
+
+          <div class="text-center">
+            <a href="#contact" class="inline-flex items-center justify-center px-8 py-3.5 text-base font-medium rounded-full text-slate-900 bg-accent-400 hover:bg-accent-500 shadow-md transition-all duration-200">
+              Request a free quote
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<script>
+  let currentStep = 1;
+  const totalSteps = 4;
+  let answers = {
+    origin: '',
+    duration: '',
+    employment: '',
+    income: ''
+  };
+
+  const backBtn = document.getElementById('conf-back');
+  const progressText = document.getElementById('conf-progress');
+
+  document.querySelectorAll('.conf-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      const el = e.currentTarget as HTMLButtonElement;
+      const step = parseInt(el.getAttribute('data-step') || '1');
+      const val = el.getAttribute('data-val') || '';
+
+      if (step === 1) {
+        answers.origin = val;
+        // Dispatch event for Timeline
+        window.dispatchEvent(new CustomEvent('taxomade:origin-change', { detail: val }));
+      } else if (step === 2) {
+        answers.duration = val;
+      } else if (step === 3) {
+        answers.employment = val;
+      } else if (step === 4) {
+        answers.income = val;
+      }
+
+      nextStep(step + 1);
+    });
+  });
+
+  backBtn?.addEventListener('click', () => {
+    if (currentStep > 1) {
+      nextStep(currentStep - 1);
+    }
+  });
+
+  function nextStep(step: number) {
+    // Hide current
+    document.querySelectorAll('.conf-step').forEach(el => el.classList.add('hidden'));
+    
+    currentStep = step;
+
+    if (step <= totalSteps) {
+      document.getElementById(`step-${step}`)?.classList.remove('hidden');
+      if (progressText) progressText.innerText = `Step ${step} of ${totalSteps}`;
+      if (backBtn) backBtn.classList.remove('invisible');
+      if (step === 1 && backBtn) backBtn.classList.add('invisible');
+    } else {
+      showResults();
+    }
+  }
+
+  function showResults() {
+    if (progressText) progressText.innerText = 'Recommendation';
+    if (backBtn) backBtn.classList.remove('invisible');
+    document.getElementById('step-result')?.classList.remove('hidden');
+
+    const resultList = document.getElementById('result-list');
+    if (!resultList) return;
+    
+    let html = '';
+
+    // Visa
+    if (answers.origin === 'noneu') {
+      html += createResultItem('Digital Nomad Visa', 'Mandatory for Non-EU citizens to live and work legally.');
+    }
+
+    // AFM
+    html += createResultItem('Tax Number (AFM)', 'Required for all official registrations.');
+
+    // 5C & Bookkeeping (Duration > 6m)
+    if (answers.duration === 'long') {
+      // Bookkeeping
+      if (answers.employment === 'freelance') {
+        html += createResultItem('Full Bookkeeping', 'Monthly accounting, invoicing setup, and VAT returns for freelancers.');
+      } else {
+        html += createResultItem('Annual Tax Return', 'Once-a-year filing since your employer handles monthly payroll.');
+      }
+
+      // 5C
+      if (answers.income === 'high' || answers.income === 'mid') {
+        html += createResultItem('50% Tax Break (5C)', 'Highly recommended based on your income. Halves your income tax for 7 years.', true);
+      } else {
+        html += createResultItem('50% Tax Break (5C)', 'Optional. At your income level, we will calculate if the setup fees outweigh the tax savings.');
+      }
+    } else {
+      html += createResultItem('No Tax Residency needed', 'For stays under 6 months, you usually remain a tax resident in your home country.');
+    }
+
+    resultList.innerHTML = html;
+    
+    // Auto-fill hidden fields in contact form if it exists
+    const inputConfig = document.getElementById('contact-config-data') as HTMLInputElement;
+    if (inputConfig) {
+      inputConfig.value = JSON.stringify(answers);
+    }
+  }
+
+  function createResultItem(title: string, desc: string, highlight = false) {
+    const bgClass = highlight ? 'bg-brand-50 border-brand-200' : 'bg-slate-50 border-slate-100';
+    const iconColor = highlight ? 'text-brand-600' : 'text-slate-400';
+    return `
+      <div class="p-4 rounded-xl border ${bgClass} flex items-start">
+        <svg class="w-6 h-6 ${iconColor} flex-shrink-0 mt-0.5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+        <div>
+          <h4 class="font-bold text-slate-900">${title}</h4>
+          <p class="text-sm text-slate-600 mt-1">${desc}</p>
+        </div>
+      </div>
+    `;
+  }
+</script>
