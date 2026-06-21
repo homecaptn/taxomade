@@ -1,4 +1,38 @@
----
+const fs = require('fs');
+
+// 1. Update Header Button Hover
+let header = fs.readFileSync('src/components/Header.astro', 'utf-8');
+header = header.replace(
+  'text-white bg-blue-800 hover:bg-blue-900 shadow-sm hover:shadow-md transition-all duration-200 group',
+  'text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200 group'
+);
+fs.writeFileSync('src/components/Header.astro', header);
+
+// 2. Update Hero Button Hovers & word spinner width
+let hero = fs.readFileSync('src/components/Hero.astro', 'utf-8');
+// Fix word spinner width
+hero = hero.replace('w-[5.5em] md:w-[6.5em]', 'w-[7em] md:w-[8em]');
+
+// Fix primary CTA
+hero = hero.replace(
+  'text-white bg-blue-800 hover:bg-blue-900 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-0.5',
+  'text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200'
+);
+
+// Fix secondary CTA
+hero = hero.replace(
+  'text-blue-800 bg-white border-2 border-blue-800 hover:bg-blue-50 shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-0.5',
+  'text-slate-900 bg-white border-2 border-slate-900 hover:bg-slate-900 hover:text-white transition-colors duration-200'
+);
+
+// To fix the grid being split 50/50 and squishing the left content when we removed the airplane,
+// let's just make the left side full width but constrained.
+hero = hero.replace('<div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-8 items-center relative">', '<div class="flex flex-col items-start relative">');
+hero = hero.replace('<div class="text-left relative z-20">', '<div class="text-left relative z-20 w-full">');
+fs.writeFileSync('src/components/Hero.astro', hero);
+
+// 3. Update Prices.astro
+const pricesHtml = `---
 ---
 <section id="prices" class="py-24 bg-slate-50 border-t border-slate-100">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -133,3 +167,6 @@
     </div>
   </div>
 </section>
+`;
+
+fs.writeFileSync('src/components/Prices.astro', pricesHtml);
