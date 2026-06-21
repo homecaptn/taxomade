@@ -1,4 +1,6 @@
----
+const fs = require('fs');
+
+const timelineHtml = `---
 ---
 <section id="how-it-works" class="py-20 bg-white overflow-hidden border-b border-slate-100">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -122,3 +124,6 @@
     }
   });
 </script>
+`;
+
+fs.writeFileSync('src/components/Timeline.astro', timelineHtml);

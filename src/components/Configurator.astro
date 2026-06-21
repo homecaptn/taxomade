@@ -2,6 +2,11 @@
 ---
 <section id="configurator" class="py-20 bg-slate-50">
   <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-16">
+      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Discover your path to Greece</h2>
+      <p class="text-lg text-slate-600 max-w-2xl mx-auto">Answer five quick questions to find out exactly which steps and services apply to your personal situation.</p>
+    </div>
+    
     <div class="bg-white rounded-2xl shadow-xl border border-slate-200 p-8 md:p-12 min-h-[500px] relative flex flex-col" id="conf-content">
       
       <!-- Header / Progress Area -->
@@ -13,6 +18,7 @@
         <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden mb-6">
           <div id="conf-progress-bar" class="bg-blue-600 h-full rounded-full transition-all duration-500" style="width: 0%"></div>
         </div>
+                <div id="conf-chips" class="flex flex-wrap gap-2 mb-6 empty:hidden"></div>
         <button id="conf-back" class="text-slate-500 hover:text-slate-800 transition-colors hidden font-medium flex items-center w-fit">
           <svg class="w-5 h-5 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
           Back
@@ -137,6 +143,39 @@
     income: ''
   };
 
+  
+  const labelMap: Record<string, string> = {
+    greece: 'Greece',
+    noneu: 'Non-EU',
+    eu: 'EU',
+    short: '< 6 Months',
+    long: '6+ Months',
+    freelance: 'Freelance',
+    employed: 'Employed',
+    low: '< €25k',
+    mid: '€25k-40k',
+    high: '€40k-70k',
+    highest: '> €70k'
+  };
+
+  function renderChips() {
+    const container = document.getElementById('conf-chips');
+    if (!container) return;
+    container.innerHTML = '';
+    
+    const orderedKeys = ['destination', 'origin', 'duration', 'employment', 'income'] as const;
+    
+    orderedKeys.forEach(key => {
+      const val = answers[key];
+      if (val && labelMap[val]) {
+        const chip = document.createElement('div');
+        chip.className = 'inline-flex items-center px-3 py-1.5 rounded-lg text-sm font-medium bg-slate-100 text-slate-700 border border-slate-200';
+        chip.innerHTML = `<svg class="w-4 h-4 text-blue-600 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>${labelMap[val]}`;
+        container.appendChild(chip);
+      }
+    });
+  }
+
   const backBtn = document.getElementById('conf-back');
   const progressText = document.getElementById('conf-progress');
 
@@ -149,37 +188,46 @@
       if (step === 1) {
         answers.destination = val;
         if (val === 'other') {
-          showEarlyExit();
+          showEarlyExit(); renderChips();
           return;
         }
-        nextStep(2);
+        nextStep(2); renderChips();
       } else if (step === 2) {
         answers.origin = val;
         // Dispatch event for Timeline
         window.dispatchEvent(new CustomEvent('taxomade:origin-change', { detail: val }));
-        nextStep(3);
+        nextStep(3); renderChips();
       } else if (step === 3) {
         answers.duration = val;
         if (val === 'short') {
           // Skip 4 and 5
-          showResults();
+          showResults(); renderChips();
         } else {
-          nextStep(4);
+          nextStep(4); renderChips();
         }
       } else if (step === 4) {
         answers.employment = val;
-        nextStep(5);
+        nextStep(5); renderChips();
       } else if (step === 5) {
         answers.income = val;
-        showResults();
+        showResults(); renderChips();
       }
     });
   });
 
-  backBtn?.addEventListener('click', () => {
+    backBtn?.addEventListener('click', () => {
     if (historyStack.length > 1) {
       historyStack.pop(); // Remove current
       const prevStep = historyStack[historyStack.length - 1];
+      
+      // Clear future answers when going back
+      if (prevStep <= 4) answers.income = '';
+      if (prevStep <= 3) answers.employment = '';
+      if (prevStep <= 2) answers.duration = '';
+      if (prevStep <= 1) answers.origin = '';
+      if (prevStep === 1) answers.destination = '';
+      
+      renderChips();
       showStep(prevStep);
     }
   });
