@@ -1,4 +1,6 @@
----
+const fs = require('fs');
+
+const headerHtml = `---
 ---
 <header id="site-header" data-scrolled="false" class="fixed w-full top-0 z-50 transition-all duration-300 bg-transparent border-b border-transparent">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -121,3 +123,83 @@
     }
   });
 </script>
+`;
+
+const heroHtml = `---
+---
+<section class="relative pt-32 pb-20 md:pt-40 md:pb-32 px-4 sm:px-6 lg:px-8 overflow-hidden bg-slate-900">
+  
+  <!-- Background Image with Acropolis (No darken overlay, just a top shadow for the header) -->
+  <div class="absolute inset-0 z-0 overflow-hidden">
+    <div class="absolute inset-0 bg-[url('/images/acropolis-day.jpg')] bg-cover bg-center scale-105"></div>
+  </div>
+
+  <!-- Subtle dark gradient at the very top so the transparent white header is readable -->
+  <div class="absolute top-0 inset-x-0 h-40 bg-gradient-to-b from-slate-900/60 to-transparent pointer-events-none z-0"></div>
+
+  <div class="max-w-7xl mx-auto relative z-10 mt-8">
+    <div class="flex flex-col items-start relative">
+      
+      <!-- Left: Text content -->
+      <div class="text-left relative z-20 w-full drop-shadow-lg">
+        <h1 class="text-[2.75rem] sm:text-5xl md:text-6xl lg:text-[4.5rem] font-black tracking-tight text-white mb-8 leading-[1.1]">
+          <div class="whitespace-nowrap drop-shadow-2xl">Relocate to Greece.</div>
+          <div class="whitespace-nowrap flex items-baseline drop-shadow-2xl">
+            <span class="text-white mr-3">We handle</span>
+            <span class="word-spinner text-blue-400 text-left w-[7em] md:w-[8em] inline-block drop-shadow-2xl">
+              <span>taxes.</span>
+              <span>visas.</span>
+              <span>bookkeeping.</span>
+              <span>tax numbers.</span>
+            </span>
+          </div>
+        </h1>
+        <p class="text-xl md:text-2xl text-white mb-10 max-w-2xl font-bold drop-shadow-lg">
+          The simplest way for freelancers, remote workers, and expats to get set up in Greece, Spain, Portugal, or Bulgaria while staying fully tax-compliant.
+        </p>
+        <div class="flex flex-col sm:flex-row items-center justify-start gap-4">
+          <a href="#configurator" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg text-slate-900 bg-white hover:bg-slate-200 transition-colors duration-200 w-full sm:w-auto shadow-xl">
+            Start to relocate
+          </a>
+          <a href="#contact" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg text-white bg-transparent border-2 border-white hover:bg-white hover:text-slate-900 transition-colors duration-200 w-full sm:w-auto shadow-xl backdrop-blur-sm">
+            Book a free call
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<style>
+  .word-spinner {
+    display: inline-grid;
+    overflow: hidden;
+    height: 1.1em;
+    vertical-align: bottom;
+    padding-bottom: 0.1em;
+  }
+  .word-spinner span {
+    grid-column: 1;
+    grid-row: 1;
+    animation: spin 10s cubic-bezier(0.2, 0.6, 0.2, 1) infinite;
+    opacity: 0;
+    transform: translateY(100%);
+  }
+  .word-spinner span:nth-child(1) { animation-delay: 0s; }
+  .word-spinner span:nth-child(2) { animation-delay: 2.5s; }
+  .word-spinner span:nth-child(3) { animation-delay: 5.0s; }
+  .word-spinner span:nth-child(4) { animation-delay: 7.5s; }
+  
+  @keyframes spin {
+    0% { transform: translateY(100%); opacity: 0; }
+    5% { transform: translateY(0); opacity: 1; }
+    20% { transform: translateY(0); opacity: 1; }
+    25% { transform: translateY(-100%); opacity: 0; }
+    100% { transform: translateY(-100%); opacity: 0; }
+  }
+</style>
+`;
+
+fs.writeFileSync('src/components/Header.astro', headerHtml);
+fs.writeFileSync('src/components/Hero.astro', heroHtml);
