@@ -25,18 +25,13 @@
           <div class="whitespace-nowrap">Relocate to Greece.</div>
           <div class="whitespace-nowrap flex items-center mt-2">
             <span class="text-white mr-4">We handle</span>
-            <span class="inline-flex items-center justify-center bg-white rounded-full px-5 py-1 md:py-2 shadow-xl align-middle translate-y-[-0.05em]">
-              <span class="word-spinner text-slate-900 font-black text-left w-[5.5em] md:w-[6.5em]">
-                <span>taxes.</span>
-                <span>visas.</span>
-                <span>bookkeeping.</span>
-                <span>tax numbers.</span>
-              </span>
+            <span id="word-rotator-pill" class="inline-flex items-center justify-center bg-white rounded-full px-5 py-1 md:py-2 shadow-xl align-middle translate-y-[-0.05em] transition-all duration-500 overflow-hidden" style="min-width: 4em;">
+              <span id="word-rotator-text" class="text-slate-900 font-black text-center inline-block transition-all duration-500 transform translate-y-0 opacity-100">taxes.</span>
             </span>
           </div>
         </h1>
         <p class="text-xl md:text-2xl text-white mb-10 max-w-2xl drop-shadow-sm font-medium">
-          The simplest way for freelancers, remote workers, and expats to get set up in Greece, Spain, Portugal, or Bulgaria while staying fully tax-compliant.
+          The simplest way for freelancers, remote workers, and expats to get set up in Greece while staying fully tax-compliant.
         </p>
         <div class="flex flex-col sm:flex-row items-center justify-start gap-4">
           <a href="#configurator" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg text-slate-900 bg-white hover:bg-slate-100 transition-colors duration-200 w-full sm:w-auto shadow-lg">
@@ -52,31 +47,35 @@
   </div>
 </section>
 
-<style>
-  .word-spinner {
-    display: inline-grid;
-    overflow: hidden;
-    height: 1.1em;
-    vertical-align: bottom;
-    padding-bottom: 0.1em;
-  }
-  .word-spinner span {
-    grid-column: 1;
-    grid-row: 1;
-    animation: spin 10s cubic-bezier(0.2, 0.6, 0.2, 1) infinite;
-    opacity: 0;
-    transform: translateY(100%);
-  }
-  .word-spinner span:nth-child(1) { animation-delay: 0s; }
-  .word-spinner span:nth-child(2) { animation-delay: 2.5s; }
-  .word-spinner span:nth-child(3) { animation-delay: 5.0s; }
-  .word-spinner span:nth-child(4) { animation-delay: 7.5s; }
-  
-  @keyframes spin {
-    0% { transform: translateY(100%); opacity: 0; }
-    5% { transform: translateY(0); opacity: 1; }
-    20% { transform: translateY(0); opacity: 1; }
-    25% { transform: translateY(-100%); opacity: 0; }
-    100% { transform: translateY(-100%); opacity: 0; }
-  }
-</style>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const words = ['taxes.', 'visas.', 'bookkeeping.', 'tax numbers.'];
+    let index = 0;
+    const textEl = document.getElementById('word-rotator-text');
+
+    if (textEl) {
+      setInterval(() => {
+        // 1. Slide up and fade out
+        textEl.style.transform = 'translateY(-150%)';
+        textEl.style.opacity = '0';
+        
+        setTimeout(() => {
+          // 2. Change text and move to bottom instantly
+          index = (index + 1) % words.length;
+          textEl.style.transition = 'none'; 
+          textEl.style.transform = 'translateY(150%)';
+          textEl.innerText = words[index];
+          
+          // Force reflow
+          void textEl.offsetWidth;
+          
+          // 3. Slide in and fade in
+          textEl.style.transition = 'all 0.5s cubic-bezier(0.2, 0.6, 0.2, 1)';
+          textEl.style.transform = 'translateY(0)';
+          textEl.style.opacity = '1';
+        }, 500); 
+        
+      }, 3000);
+    }
+  });
+</script>
