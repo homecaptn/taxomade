@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import Footer from '../../components/Footer.astro';
+import ServiceContactForm from '../../components/ServiceContactForm.astro';
 ---
 
 <Layout title="50% Tax Break (Article 5C) Greece | Taxomade">
@@ -45,7 +46,7 @@ import Footer from '../../components/Footer.astro';
             <a href="/#configurator" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200 shadow-md">
               Check eligibility
             </a>
-            <a href="/#contact" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-slate-700 bg-white border-2 border-slate-200 hover:border-slate-300 hover:bg-slate-50 transition-colors duration-200">
+            <a href="#contact-form" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-slate-700 bg-white border-2 border-slate-200 hover:border-slate-300 hover:bg-slate-50 transition-colors duration-200">
               Talk to us
             </a>
           </div>
@@ -55,22 +56,22 @@ import Footer from '../../components/Footer.astro';
           </p>
         </div>
         
-        <!-- Right: Visual Mockup (Placeholder for now) -->
+        <!-- Right: Visual Mockup -->
         <div class="hidden lg:flex justify-end relative">
-          <div class="relative w-full max-w-sm">
+          <div class="relative w-full max-w-md">
             <div class="absolute inset-0 bg-gradient-to-tr from-blue-100 to-emerald-50 rounded-3xl transform rotate-3 scale-105 opacity-50"></div>
-            <div class="bg-white rounded-3xl shadow-xl border border-slate-100 p-8 relative overflow-hidden flex flex-col justify-center items-center text-center">
-              <div class="w-16 h-16 bg-blue-50 rounded-2xl flex items-center justify-center mb-6">
-                <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <div class="bg-white rounded-3xl shadow-xl border border-slate-100 p-10 relative overflow-hidden flex flex-col justify-center items-center text-center">
+              <div class="w-20 h-20 bg-blue-50 rounded-2xl flex items-center justify-center mb-6">
+                <svg class="w-10 h-10 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
               </div>
-              <h3 class="text-xl font-bold text-slate-900 mb-2">50% Exemption</h3>
-              <p class="text-sm text-slate-500">Lower your effective tax rate in Greece.</p>
-              <div class="mt-6 w-full">
-                <div class="flex justify-between text-xs mb-1"><span class="text-slate-500">Standard</span><span class="text-slate-900 font-bold">100%</span></div>
-                <div class="h-3 bg-slate-200 rounded-full w-full mb-3"></div>
+              <h3 class="text-2xl font-bold text-slate-900 mb-2">50% Exemption</h3>
+              <p class="text-slate-500">Lower your effective tax rate in Greece.</p>
+              <div class="mt-8 w-full">
+                <div class="flex justify-between text-sm mb-1"><span class="text-slate-500">Standard</span><span class="text-slate-900 font-bold">100%</span></div>
+                <div class="h-4 bg-slate-200 rounded-full w-full mb-4"></div>
                 
-                <div class="flex justify-between text-xs mb-1"><span class="text-emerald-600 font-bold">With 5C</span><span class="text-emerald-600 font-bold">50%</span></div>
-                <div class="h-3 bg-slate-200 rounded-full w-full overflow-hidden">
+                <div class="flex justify-between text-sm mb-1"><span class="text-emerald-600 font-bold">With 5C</span><span class="text-emerald-600 font-bold">50%</span></div>
+                <div class="h-4 bg-slate-200 rounded-full w-full overflow-hidden">
                   <div class="h-full bg-emerald-500 w-1/2"></div>
                 </div>
               </div>
@@ -82,28 +83,31 @@ import Footer from '../../components/Footer.astro';
   </div>
 
   <main class="py-20 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
-    <!-- Section 2: What it is & Requirements -->
+    <!-- Section 2: Service Overview & Requirements -->
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-20">
       <!-- What it is Card -->
-      <section class="bg-white p-8 md:p-10 rounded-3xl border border-slate-200 shadow-sm relative overflow-hidden">
+      <section class="bg-white p-8 md:p-10 rounded-3xl border border-slate-200 shadow-sm relative overflow-hidden flex flex-col justify-center">
         <div class="absolute top-0 right-0 w-32 h-32 bg-blue-50 rounded-bl-full -z-0"></div>
         <div class="relative z-10">
-          <span class="inline-block px-3 py-1 mb-6 text-xs font-bold uppercase tracking-wider text-blue-800 bg-blue-100 rounded-full">For Whom</span>
-          <h2 class="text-3xl font-bold text-slate-900 mb-4">What it is & why you need it</h2>
-          <p class="text-lg text-slate-700 leading-relaxed">
+          <div class="flex flex-wrap gap-2 mb-6">
+            <span class="px-3 py-1 text-xs font-bold uppercase tracking-wider text-blue-800 bg-blue-100 rounded-full">EU & Non-EU</span>
+            <span class="px-3 py-1 text-xs font-bold uppercase tracking-wider text-blue-800 bg-blue-100 rounded-full">Expats</span>
+          </div>
+          <h2 class="text-3xl font-bold text-slate-900 mb-4">Service Overview</h2>
+          <p class="text-lg text-slate-700 leading-relaxed mb-6">
             Under Greece's inbound-worker regime (Article 5C), people who move their tax residency to Greece can have <strong class="text-slate-900">50% of their Greek income exempted from income tax</strong> for up to 7 years.
           </p>
-          <ul class="mt-6 space-y-3">
+          <ul class="space-y-3">
             <li class="flex items-start text-slate-700">
-              <svg class="w-5 h-5 text-blue-600 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+              <svg class="w-5 h-5 text-blue-600 mr-3 mt-0.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
               <strong>Massive Savings:</strong> Halve your taxable base and save thousands.
             </li>
             <li class="flex items-start text-slate-700">
-              <svg class="w-5 h-5 text-blue-600 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+              <svg class="w-5 h-5 text-blue-600 mr-3 mt-0.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
               <strong>Employees & Freelancers:</strong> Works for both employment and self-employed income.
             </li>
             <li class="flex items-start text-slate-700">
-              <svg class="w-5 h-5 text-blue-600 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+              <svg class="w-5 h-5 text-blue-600 mr-3 mt-0.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
               <strong>7 Years Duration:</strong> A long-term benefit for relocating.
             </li>
           </ul>
@@ -111,11 +115,11 @@ import Footer from '../../components/Footer.astro';
       </section>
 
       <!-- Requirements Card -->
-      <section class="bg-slate-900 p-8 md:p-10 rounded-3xl shadow-sm text-white relative overflow-hidden">
+      <section class="bg-slate-900 p-8 md:p-10 rounded-3xl shadow-sm text-white relative overflow-hidden flex flex-col justify-center">
         <div class="absolute top-0 right-0 w-32 h-32 bg-slate-800 rounded-bl-full -z-0"></div>
         <div class="relative z-10">
           <span class="inline-block px-3 py-1 mb-6 text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-400/10 rounded-full">Checklist</span>
-          <h2 class="text-3xl font-bold mb-4">Requirements</h2>
+          <h2 class="text-3xl font-bold mb-4">Eligibility & Prerequisites</h2>
           <p class="text-slate-300 mb-6">Who qualifies for the Article 5C tax break?</p>
           <ul class="space-y-4 text-lg text-slate-200">
             <li class="flex items-start">
@@ -139,39 +143,57 @@ import Footer from '../../components/Footer.astro';
       </section>
     </div>
 
-    <!-- How it works -->
-    <section class="max-w-4xl mx-auto mb-20 bg-slate-50 p-8 md:p-12 rounded-3xl border border-slate-100">
-      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-center">How it works</h2>
+    <!-- Section 3: Your easy steps -->
+    <section class="max-w-4xl mx-auto mb-24 bg-white p-8 md:p-12 rounded-3xl border border-slate-200 shadow-sm relative">
+      <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-blue-600 to-emerald-400"></div>
+      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-center">Your easy steps</h2>
+      <p class="text-center text-slate-600 text-lg mb-12 max-w-2xl mx-auto">We designed our process to be fast and quick. You send us your details, and we do the heavy lifting.</p>
       
       <div class="mb-10 bg-blue-50 border-l-4 border-blue-800 p-5 rounded-r-lg">
         <p class="text-blue-900 font-medium"><em>Timing matters:</em> The application must be filed by <strong class="text-blue-900">31 July</strong> of the relevant year. It's a one-time application that then applies for 7 years.</p>
       </div>
 
-      <div class="space-y-10">
-        <div class="flex">
-          <div class="flex-shrink-0 mr-6">
-            <span class="w-12 h-12 rounded-full bg-slate-900 text-white flex items-center justify-center text-xl font-bold shadow-md">1</span>
+      <div class="space-y-12">
+        <div class="flex flex-col md:flex-row gap-6">
+          <div class="flex-shrink-0">
+            <div class="w-16 h-16 rounded-2xl bg-blue-50 text-blue-800 flex items-center justify-center text-2xl font-black border border-blue-100">1</div>
           </div>
           <div>
-            <h3 class="text-2xl font-bold text-slate-900 mb-3">What you do</h3>
-            <p class="text-lg text-slate-700">Confirm your situation with us and provide the needed details; we tell you if and when it's worth applying.</p>
+            <h3 class="text-2xl font-bold text-slate-900 mb-2">Check & Confirm</h3>
+            <p class="text-lg text-slate-600">Provide us with your income details and residency history. We tell you if and when it's worth applying.</p>
           </div>
         </div>
-        <div class="flex">
-          <div class="flex-shrink-0 mr-6">
-            <span class="w-12 h-12 rounded-full bg-blue-800 text-white flex items-center justify-center text-xl font-bold shadow-md">2</span>
+        <div class="flex flex-col md:flex-row gap-6">
+          <div class="flex-shrink-0">
+            <div class="w-16 h-16 rounded-2xl bg-emerald-50 text-emerald-600 flex items-center justify-center text-2xl font-black border border-emerald-100">2</div>
           </div>
           <div>
-            <h3 class="text-2xl font-bold text-slate-900 mb-3">What Taxomade does</h3>
-            <p class="text-lg text-slate-700">We assess your eligibility, calculate your expected savings, prepare and file the application with the Greek tax authority (AADE), and make sure it's done within the deadline.</p>
+            <h3 class="text-2xl font-bold text-slate-900 mb-2">We Prepare</h3>
+            <p class="text-lg text-slate-600">We assess your eligibility in detail, calculate your expected savings, and prepare all necessary application files.</p>
           </div>
         </div>
+        <div class="flex flex-col md:flex-row gap-6">
+          <div class="flex-shrink-0">
+            <div class="w-16 h-16 rounded-2xl bg-blue-50 text-blue-800 flex items-center justify-center text-2xl font-black border border-blue-100">3</div>
+          </div>
+          <div>
+            <h3 class="text-2xl font-bold text-slate-900 mb-2">Filing & Approval</h3>
+            <p class="text-lg text-slate-600">We submit everything to the Greek tax authority (AADE) well before the deadline, securing your 50% exemption.</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="mt-12 text-center">
+        <a href="#contact-form" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200">
+          Check your eligibility
+        </a>
       </div>
     </section>
 
     <!-- Pricing Package -->
-    <section class="max-w-md mx-auto mb-20">
-      <div class="bg-white rounded-2xl shadow-xl border border-slate-200 overflow-hidden relative">
+    <section class="max-w-md mx-auto mb-24">
+      <div class="bg-white rounded-3xl shadow-xl border border-slate-200 overflow-hidden relative transform transition duration-300 hover:-translate-y-1 hover:shadow-2xl">
+        <div class="absolute top-0 left-0 w-full h-1 bg-blue-800"></div>
         <div class="p-8">
           <h3 class="text-2xl font-bold text-slate-900 mb-2">50% Tax Break (5C)</h3>
           <p class="text-slate-500 mb-6">Expert assessment and filing of your tax incentive.</p>
@@ -180,41 +202,43 @@ import Footer from '../../components/Footer.astro';
             <span class="text-slate-500 ml-2">/ one-off</span>
           </div>
           <ul class="space-y-4 mb-8">
-            <li class="flex items-start text-slate-700"><svg class="w-5 h-5 text-blue-800 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Eligibility assessment & savings calculation</li>
-            <li class="flex items-start text-slate-700"><svg class="w-5 h-5 text-blue-800 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Preparation of application files</li>
-            <li class="flex items-start text-slate-700"><svg class="w-5 h-5 text-blue-800 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Submission to Greek tax authorities (AADE)</li>
+            <li class="flex items-start text-slate-700"><svg class="w-5 h-5 text-emerald-500 mr-3 mt-0.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Eligibility assessment & savings calculation</li>
+            <li class="flex items-start text-slate-700"><svg class="w-5 h-5 text-emerald-500 mr-3 mt-0.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Preparation of application files</li>
+            <li class="flex items-start text-slate-700"><svg class="w-5 h-5 text-emerald-500 mr-3 mt-0.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Submission to Greek tax authorities (AADE)</li>
           </ul>
-          <a href="/#contact" class="block w-full py-4 px-6 bg-slate-900 hover:bg-blue-800 text-white font-bold rounded-xl transition-colors duration-200 text-center">Start application</a>
+          <a href="/#configurator" class="block w-full py-4 px-6 bg-slate-900 hover:bg-blue-800 text-white font-bold rounded-xl transition-colors duration-200 text-center">Start application</a>
         </div>
       </div>
     </section>
 
     <!-- FAQ -->
-    <section class="max-w-3xl mx-auto mb-20">
+    <section class="max-w-3xl mx-auto mb-24">
       <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-10 text-center">FAQ</h2>
       <div class="space-y-6">
-        <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
+        <div class="bg-white p-6 rounded-2xl border border-slate-100 shadow-sm">
           <h4 class="text-xl font-bold text-slate-900 mb-2">Does it work for freelancers?</h4>
           <p class="text-lg text-slate-700">Yes — employees and self-employed both qualify.</p>
         </div>
-        <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
+        <div class="bg-white p-6 rounded-2xl border border-slate-100 shadow-sm">
           <h4 class="text-xl font-bold text-slate-900 mb-2">How much can I save?</h4>
           <p class="text-lg text-slate-700">It depends on income. At €40,000 income, roughly €5,000/year; the saving grows with income.</p>
         </div>
-        <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
+        <div class="bg-white p-6 rounded-2xl border border-slate-100 shadow-sm">
           <h4 class="text-xl font-bold text-slate-900 mb-2">How long does it last?</h4>
           <p class="text-lg text-slate-700">Up to 7 years.</p>
         </div>
-        <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
+        <div class="bg-white p-6 rounded-2xl border border-slate-100 shadow-sm">
           <h4 class="text-xl font-bold text-slate-900 mb-2">What's the catch?</h4>
           <p class="text-lg text-slate-700">You must genuinely move your tax residency to Greece and not have been a recent Greek tax resident. We check this before applying.</p>
         </div>
-        <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
+        <div class="bg-white p-6 rounded-2xl border border-slate-100 shadow-sm">
           <h4 class="text-xl font-bold text-slate-900 mb-2">Does it affect my home-country taxes?</h4>
           <p class="text-lg text-slate-700">Cross-border tax can be complex — we'll flag where you should coordinate with a home-country advisor.</p>
         </div>
       </div>
     </section>
+
+    <ServiceContactForm />
 
   </main>
   
