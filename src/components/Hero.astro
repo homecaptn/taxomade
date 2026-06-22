@@ -2,7 +2,8 @@
 ---
 <section class="relative pt-32 pb-20 md:pt-40 md:pb-32 px-4 sm:px-6 lg:px-8 overflow-hidden border-b border-slate-100 bg-cover bg-center" style="background-image: url('/Greece_View.png');">
   <!-- Dark overlay to ensure white text is perfectly readable -->
-  <div class="absolute inset-0 bg-slate-900/80 pointer-events-none -z-10"></div>
+  <div class="absolute inset-0 bg-slate-900/85 pointer-events-none -z-10"></div>
+  <div class="absolute inset-0 bg-gradient-to-r from-slate-900/90 via-slate-900/40 to-transparent pointer-events-none -z-10"></div>
   <div class="absolute inset-0 bg-[linear-gradient(to_right,#ffffff12_1px,transparent_1px),linear-gradient(to_bottom,#ffffff12_1px,transparent_1px)] bg-[size:32px_32px] pointer-events-none -z-10"></div>
   <!-- Bottom fade to white since the next section is white -->
   <div class="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-white to-transparent pointer-events-none -z-10"></div>
@@ -22,13 +23,15 @@
         <!-- Using whitespace-nowrap and flexible text sizing to guarantee single lines -->
         <h1 class="text-[2.75rem] sm:text-5xl md:text-6xl lg:text-[4.5rem] font-black tracking-tight text-white mb-8 leading-[1.1] drop-shadow-sm">
           <div class="whitespace-nowrap">Relocate to Greece.</div>
-          <div class="whitespace-nowrap flex items-baseline">
-            <span class="text-white mr-3">We handle</span>
-            <span class="word-spinner text-blue-300 text-left w-[7em] md:w-[8em] inline-block">
-              <span>taxes.</span>
-              <span>visas.</span>
-              <span>bookkeeping.</span>
-              <span>tax numbers.</span>
+          <div class="whitespace-nowrap flex items-center mt-2">
+            <span class="text-white mr-4">We handle</span>
+            <span class="inline-flex items-center justify-center bg-white rounded-full px-5 py-1 md:py-2 shadow-xl align-middle translate-y-[-0.05em]">
+              <span class="word-spinner text-slate-900 font-black text-left w-[5.5em] md:w-[6.5em]">
+                <span>taxes.</span>
+                <span>visas.</span>
+                <span>bookkeeping.</span>
+                <span>tax numbers.</span>
+              </span>
             </span>
           </div>
         </h1>
