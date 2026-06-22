@@ -1,4 +1,7 @@
----
+const fs = require('fs');
+const file = 'src/components/Timeline.astro';
+
+const content = `---
 ---
 <section id="how-it-works" class="py-20 bg-white overflow-hidden border-b border-slate-100">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -30,7 +33,7 @@
         
         <!-- Step 1: Visa (Colorful / Distinct) -->
         <div class="flex flex-col h-full">
-          <div id="timeline-step-visa" class="bg-indigo-50 p-5 lg:p-6 rounded-2xl border-2 border-indigo-200 shadow-sm transition-all duration-300 relative text-left flex flex-col items-start w-full flex-1 min-h-[320px] overflow-hidden pt-8">
+          <div id="timeline-step-visa" class="bg-indigo-50 p-5 lg:p-6 rounded-2xl border-2 border-indigo-200 shadow-sm transition-all duration-300 relative text-left flex flex-col items-start w-full flex-1 min-h-[320px] overflow-hidden pt-14">
             
             <!-- Time Badge -->
             <div class="absolute top-4 right-4 bg-indigo-100 text-indigo-700 text-[10px] font-bold uppercase tracking-wider px-2 py-1 rounded-md">Pre-arrival</div>
@@ -51,7 +54,7 @@
 
         <!-- Step 2: AFM -->
         <div class="flex flex-col h-full">
-          <div class="bg-white p-5 lg:p-6 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full flex-1 transition-transform hover:-translate-y-1 min-h-[320px] overflow-hidden pt-8">
+          <div class="bg-white p-5 lg:p-6 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full flex-1 transition-transform hover:-translate-y-1 min-h-[320px] overflow-hidden pt-14">
             
             <h3 class="text-xl md:text-2xl font-black text-slate-900 mb-4 leading-tight">Tax Number (AFM)</h3>
             <ul class="text-sm text-slate-600 text-left space-y-2 mb-4 list-disc pl-4 flex-grow">
@@ -64,7 +67,7 @@
 
         <!-- Step 3: 5C Tax Break -->
         <div class="flex flex-col h-full">
-          <div id="timeline-step-5c" class="bg-white p-5 lg:p-6 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full flex-1 transition-all duration-300 min-h-[320px] overflow-hidden pt-8">
+          <div id="timeline-step-5c" class="bg-white p-5 lg:p-6 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full flex-1 transition-all duration-300 min-h-[320px] overflow-hidden pt-14">
             
             <h3 class="text-xl md:text-2xl font-black text-slate-900 mb-4 leading-tight">50% Tax Reduction</h3>
             <ul class="text-sm text-slate-600 text-left space-y-2 mb-4 list-disc pl-4 flex-grow">
@@ -81,7 +84,7 @@
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-6 flex-1">
             
             <!-- Step 4: Bookkeeping -->
-            <div id="timeline-step-bookkeeping" class="bg-white p-5 lg:p-6 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full transition-all duration-300 min-h-[320px] overflow-hidden pt-8">
+            <div id="timeline-step-bookkeeping" class="bg-white p-5 lg:p-6 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full transition-all duration-300 min-h-[320px] overflow-hidden pt-14">
               
               <!-- Time Badge -->
               <div class="absolute top-4 right-4 bg-slate-100 text-slate-600 text-[10px] font-bold uppercase tracking-wider px-2 py-1 rounded-md">Ongoing</div>
@@ -100,7 +103,7 @@
             </div>
 
             <!-- Step 5: Annual Tax Return -->
-            <div id="timeline-step-taxreturn" class="bg-white p-5 lg:p-6 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full transition-all duration-300 min-h-[320px] overflow-hidden pt-8">
+            <div id="timeline-step-taxreturn" class="bg-white p-5 lg:p-6 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full transition-all duration-300 min-h-[320px] overflow-hidden pt-14">
               
               <!-- Time Badge -->
               <div class="absolute top-4 right-4 bg-slate-100 text-slate-600 text-[10px] font-bold uppercase tracking-wider px-2 py-1 rounded-md">Ongoing</div>
@@ -161,3 +164,6 @@
     }
   });
 </script>
+`
+
+fs.writeFileSync(file, content);
