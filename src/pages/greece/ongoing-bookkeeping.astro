@@ -1,91 +1,132 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import Footer from '../../components/Footer.astro';
 ---
 
 <Layout title="Ongoing Bookkeeping Greece | Taxomade">
-  <main class="pt-32 pb-24 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto bg-white">
-    <!-- Hero -->
-    <div class="mb-16 border-b border-slate-100 pb-12">
-      <h1 class="text-4xl md:text-6xl font-black text-slate-900 mb-6 tracking-tight">Your Greek bookkeeping and tax <span class="text-blue-800">—</span> fully handled, in English.</h1>
-      <p class="text-xl md:text-2xl text-slate-600 mb-8 max-w-3xl">Stay compliant every month without touching Greek bureaucracy. We take care of it all.</p>
+  <!-- Hero Section with Grid Background -->
+  <div class="relative pt-40 pb-32 overflow-hidden bg-slate-50">
+    <div class="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]"></div>
+    <div class="absolute inset-0 bg-gradient-to-b from-white/50 via-white/80 to-slate-50"></div>
+    <div class="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <h1 class="text-5xl md:text-7xl font-black text-slate-900 mb-8 tracking-tight">Your Greek bookkeeping and tax <br/><span class="text-blue-800">—</span> fully handled, in English.</h1>
+      <p class="text-xl md:text-2xl text-slate-600 mb-10 max-w-3xl mx-auto">Stay compliant every month without touching Greek bureaucracy. We take care of it all.</p>
       <a href="/#configurator" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200 shadow-sm">
         Start your bookkeeping
       </a>
     </div>
+  </div>
 
-    <!-- What it is -->
-    <section class="mb-16">
-      <h2 class="text-3xl font-bold text-slate-900 mb-6">What it is</h2>
-      <p class="text-lg text-slate-700 leading-relaxed mb-6">
-        Once you register as a freelancer/self-employed in Greece and become a tax resident, you have ongoing obligations: monthly <strong class="text-slate-900">myDATA</strong> reporting, <strong class="text-slate-900">EFKA</strong> social-security contributions, <strong class="text-slate-900">VAT</strong> returns, your annual tax return, and — <strong class="text-slate-900">mandatory from October 2026</strong> — structured <strong class="text-slate-900">e-invoicing</strong>. We handle all of it through our licensed local accountant, in plain English, so you stay compliant without the stress.
-      </p>
-      <div class="bg-slate-50 border border-slate-100 p-6 rounded-xl">
-        <h3 class="font-bold text-slate-900 mb-2">This page covers two cases:</h3>
-        <ul class="space-y-2 text-slate-700 list-disc list-inside">
-          <li><strong>Freelancers / self-employed:</strong> full <strong>monthly</strong> bookkeeping & compliance (the ongoing service).</li>
-          <li><strong>Remote employees</strong> (employed by a company abroad): typically only an <strong>annual Greek tax return</strong>, not full monthly bookkeeping.</li>
+  <main class="py-20 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+    <!-- Two-column: What it is & Requirements -->
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-20">
+      <!-- What it is Card -->
+      <section class="bg-white p-8 md:p-10 rounded-2xl border border-slate-100 shadow-sm flex flex-col justify-center">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6 flex items-center">
+          <svg class="w-8 h-8 text-blue-800 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+          What it is
+        </h2>
+        <p class="text-lg text-slate-700 leading-relaxed mb-6">
+          Once you register as a freelancer/self-employed in Greece and become a tax resident, you have ongoing obligations: monthly <strong class="text-slate-900">myDATA</strong> reporting, <strong class="text-slate-900">EFKA</strong> social-security contributions, <strong class="text-slate-900">VAT</strong> returns, your annual tax return, and — <strong class="text-slate-900">mandatory from October 2026</strong> — structured <strong class="text-slate-900">e-invoicing</strong>. We handle all of it through our licensed local accountant, in plain English.
+        </p>
+        <div class="bg-slate-50 border border-slate-100 p-6 rounded-xl mt-auto">
+          <h3 class="font-bold text-slate-900 mb-2 text-base">This page covers two cases:</h3>
+          <ul class="space-y-2 text-slate-700 text-sm list-disc list-inside">
+            <li><strong>Freelancers:</strong> full <strong>monthly</strong> bookkeeping & compliance.</li>
+            <li><strong>Remote employees:</strong> typically only an <strong>annual return</strong>.</li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- Requirements Card -->
+      <section class="bg-white p-8 md:p-10 rounded-2xl border border-slate-100 shadow-sm flex flex-col justify-center">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6 flex items-center">
+          <svg class="w-8 h-8 text-blue-800 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+          Requirements
+        </h2>
+        <ul class="space-y-4 text-lg text-slate-700 list-disc list-inside">
+          <li>For monthly bookkeeping: you're registered as a freelancer/self-employed in Greece (we handle that registration too).</li>
+          <li>An AFM (we set this up first if you don't have one).</li>
+          <li>For remote employees: tax residency in Greece (183+ days) triggering an annual return.</li>
         </ul>
-      </div>
-    </section>
-
-    <!-- Requirements -->
-    <section class="mb-16">
-      <h2 class="text-3xl font-bold text-slate-900 mb-6">Requirements</h2>
-      <ul class="space-y-4 text-lg text-slate-700 list-disc list-inside">
-        <li>For monthly bookkeeping: you're registered as a freelancer/self-employed in Greece (we handle that registration too).</li>
-        <li>An AFM (we set this up first if you don't have one).</li>
-        <li>For remote employees: tax residency in Greece (183+ days) triggering an annual return.</li>
-      </ul>
-    </section>
+      </section>
+    </div>
 
     <!-- How it works -->
-    <section class="mb-16 bg-slate-50 p-8 md:p-10 rounded-2xl border border-slate-100">
-      <h2 class="text-3xl font-bold text-slate-900 mb-8">How it works</h2>
+    <section class="max-w-4xl mx-auto mb-20 bg-slate-50 p-8 md:p-12 rounded-3xl border border-slate-100">
+      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-center">How it works</h2>
 
-      <div class="space-y-8">
-        <div>
-          <h3 class="text-xl font-bold text-slate-900 mb-3 flex items-center"><span class="w-8 h-8 rounded-full bg-slate-900 text-white flex items-center justify-center mr-3 text-sm">1</span> What you do</h3>
-          <p class="text-lg text-slate-700 ml-11">Send us your invoices/income info (simple monthly upload); we do the rest.</p>
+      <div class="space-y-10">
+        <div class="flex">
+          <div class="flex-shrink-0 mr-6">
+            <span class="w-12 h-12 rounded-full bg-slate-900 text-white flex items-center justify-center text-xl font-bold shadow-md">1</span>
+          </div>
+          <div>
+            <h3 class="text-2xl font-bold text-slate-900 mb-3">What you do</h3>
+            <p class="text-lg text-slate-700">Send us your invoices/income info (simple monthly upload); we do the rest.</p>
+          </div>
         </div>
-        <div>
-          <h3 class="text-xl font-bold text-slate-900 mb-3 flex items-center"><span class="w-8 h-8 rounded-full bg-blue-800 text-white flex items-center justify-center mr-3 text-sm">2</span> What Taxomade does</h3>
-          <p class="text-lg text-slate-700 ml-11">Our licensed Greek accountant handles your freelancer registration, monthly myDATA submissions, EFKA, VAT returns, year-end accounts, the annual tax return, and sets up compliant e-invoicing (mandatory from Oct 2026). You get plain-English summaries and a single point of contact.</p>
+        <div class="flex">
+          <div class="flex-shrink-0 mr-6">
+            <span class="w-12 h-12 rounded-full bg-blue-800 text-white flex items-center justify-center text-xl font-bold shadow-md">2</span>
+          </div>
+          <div>
+            <h3 class="text-2xl font-bold text-slate-900 mb-3">What Taxomade does</h3>
+            <p class="text-lg text-slate-700">Our licensed Greek accountant handles your freelancer registration, monthly myDATA submissions, EFKA, VAT returns, year-end accounts, the annual tax return, and sets up compliant e-invoicing (mandatory from Oct 2026). You get plain-English summaries and a single point of contact.</p>
+          </div>
         </div>
       </div>
-      
-      <p class="text-slate-500 mt-8 text-sm italic">Billed as a simple <strong>monthly subscription</strong>.</p>
+    </section>
+
+    <!-- Pricing Package -->
+    <section class="max-w-md mx-auto mb-20">
+      <div class="bg-white rounded-2xl shadow-xl border border-slate-200 overflow-hidden relative">
+        <div class="p-8">
+          <h3 class="text-2xl font-bold text-slate-900 mb-2">Freelancer Accounting</h3>
+          <p class="text-slate-500 mb-6">Complete monthly bookkeeping, tax, and social security compliance.</p>
+          <div class="flex items-baseline mb-8">
+            <span class="text-5xl font-black text-slate-900">€149</span>
+            <span class="text-slate-500 ml-2">/ month</span>
+          </div>
+          <ul class="space-y-4 mb-8">
+            <li class="flex items-start text-slate-700"><svg class="w-5 h-5 text-blue-800 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Monthly myDATA reporting & VAT returns</li>
+            <li class="flex items-start text-slate-700"><svg class="w-5 h-5 text-blue-800 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> EFKA (social security) management</li>
+            <li class="flex items-start text-slate-700"><svg class="w-5 h-5 text-blue-800 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Annual Greek tax return included</li>
+            <li class="flex items-start text-slate-700"><svg class="w-5 h-5 text-blue-800 mr-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> E-invoicing setup & support</li>
+          </ul>
+          <a href="/#contact" class="block w-full py-4 px-6 bg-slate-900 hover:bg-blue-800 text-white font-bold rounded-xl transition-colors duration-200 text-center">Start your bookkeeping</a>
+        </div>
+      </div>
     </section>
 
     <!-- FAQ -->
-    <section class="mb-16">
-      <h2 class="text-3xl font-bold text-slate-900 mb-8">FAQ</h2>
+    <section class="max-w-3xl mx-auto mb-20">
+      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-10 text-center">FAQ</h2>
       <div class="space-y-6">
-        <div class="border-b border-slate-200 pb-6">
+        <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
           <h4 class="text-xl font-bold text-slate-900 mb-2">Do I really need an accountant in Greece?</h4>
           <p class="text-lg text-slate-700">For freelancers, ongoing reporting (myDATA, EFKA, VAT) is effectively mandatory and in Greek — almost everyone uses an accountant.</p>
         </div>
-        <div class="border-b border-slate-200 pb-6">
+        <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
           <h4 class="text-xl font-bold text-slate-900 mb-2">What about the new e-invoicing in 2026?</h4>
           <p class="text-lg text-slate-700">From October 2026, structured B2B e-invoicing via myDATA becomes mandatory. We set it up and manage it for you.</p>
         </div>
-        <div class="border-b border-slate-200 pb-6">
+        <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
           <h4 class="text-xl font-bold text-slate-900 mb-2">I'm a remote employee, not a freelancer — what do I need?</h4>
           <p class="text-lg text-slate-700">Usually just an annual Greek tax return, which we handle — not the full monthly service.</p>
         </div>
-        <div class="border-b border-slate-200 pb-6">
+        <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
           <h4 class="text-xl font-bold text-slate-900 mb-2">How much does it cost?</h4>
           <p class="text-lg text-slate-700">A simple monthly subscription; the exact price depends on your situation — request a quote.</p>
         </div>
-        <div>
+        <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
           <h4 class="text-xl font-bold text-slate-900 mb-2">Can you also handle my 5C tax break?</h4>
           <p class="text-lg text-slate-700">Yes — we combine it with your bookkeeping so everything's in one place.</p>
         </div>
       </div>
     </section>
 
-    <!-- Footer Disclaimer -->
-    <div class="mt-20 pt-8 border-t border-slate-200 text-sm text-slate-500">
-      <p>Taxomade is not a government body. We coordinate licensed local accountants and lawyers. Information is general and not individual legal or tax advice.</p>
-    </div>
   </main>
+  
+  <Footer />
 </Layout>
