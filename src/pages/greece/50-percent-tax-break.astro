@@ -56,21 +56,23 @@ import Footer from '../../components/Footer.astro';
         </div>
         
         <!-- Right: Visual Mockup (Placeholder for now) -->
-        <div class="hidden lg:block relative">
-          <div class="absolute inset-0 bg-gradient-to-tr from-blue-100 to-emerald-50 rounded-3xl transform rotate-3 scale-105 opacity-50"></div>
-          <div class="bg-white rounded-3xl shadow-xl border border-slate-100 p-8 relative overflow-hidden aspect-square flex flex-col justify-center items-center text-center">
-            <div class="w-20 h-20 bg-blue-50 rounded-2xl flex items-center justify-center mb-6">
-              <svg class="w-10 h-10 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            </div>
-            <h3 class="text-2xl font-bold text-slate-900 mb-2">50% Exemption</h3>
-            <p class="text-slate-500">Significantly lower your effective tax rate in Greece.</p>
-            <div class="mt-8 w-full">
-              <div class="flex justify-between text-sm mb-1"><span class="text-slate-500">Standard Tax</span><span class="text-slate-900 font-bold">100%</span></div>
-              <div class="h-4 bg-slate-200 rounded-full w-full mb-4"></div>
-              
-              <div class="flex justify-between text-sm mb-1"><span class="text-emerald-600 font-bold">With Article 5C</span><span class="text-emerald-600 font-bold">50%</span></div>
-              <div class="h-4 bg-slate-200 rounded-full w-full overflow-hidden">
-                <div class="h-full bg-emerald-500 w-1/2"></div>
+        <div class="hidden lg:flex justify-end relative">
+          <div class="relative w-full max-w-sm">
+            <div class="absolute inset-0 bg-gradient-to-tr from-blue-100 to-emerald-50 rounded-3xl transform rotate-3 scale-105 opacity-50"></div>
+            <div class="bg-white rounded-3xl shadow-xl border border-slate-100 p-8 relative overflow-hidden flex flex-col justify-center items-center text-center">
+              <div class="w-16 h-16 bg-blue-50 rounded-2xl flex items-center justify-center mb-6">
+                <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              </div>
+              <h3 class="text-xl font-bold text-slate-900 mb-2">50% Exemption</h3>
+              <p class="text-sm text-slate-500">Lower your effective tax rate in Greece.</p>
+              <div class="mt-6 w-full">
+                <div class="flex justify-between text-xs mb-1"><span class="text-slate-500">Standard</span><span class="text-slate-900 font-bold">100%</span></div>
+                <div class="h-3 bg-slate-200 rounded-full w-full mb-3"></div>
+                
+                <div class="flex justify-between text-xs mb-1"><span class="text-emerald-600 font-bold">With 5C</span><span class="text-emerald-600 font-bold">50%</span></div>
+                <div class="h-3 bg-slate-200 rounded-full w-full overflow-hidden">
+                  <div class="h-full bg-emerald-500 w-1/2"></div>
+                </div>
               </div>
             </div>
           </div>
