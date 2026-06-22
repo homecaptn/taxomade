@@ -1,4 +1,7 @@
----
+const fs = require('fs');
+const file = 'src/components/Timeline.astro';
+
+const content = `---
 ---
 <section id="how-it-works" class="py-20 bg-slate-50 overflow-hidden border-b border-slate-100">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -150,10 +153,10 @@
     const euBadge = document.getElementById('timeline-eu-badge');
     if (visaStep && euBadge) {
       if (answers.origin === 'eu') {
-        visaStep.classList.add('opacity-70', '');
+        visaStep.classList.add('opacity-70', 'grayscale');
         euBadge.classList.remove('hidden');
       } else {
-        visaStep.classList.remove('opacity-70', '');
+        visaStep.classList.remove('opacity-70', 'grayscale');
         euBadge.classList.add('hidden');
       }
     }
@@ -163,10 +166,10 @@
     const badgeShort = document.getElementById('timeline-badge-short');
     if (step5c && badgeShort) {
       if (answers.duration === 'short') {
-        step5c.classList.add('opacity-70', '');
+        step5c.classList.add('opacity-70', 'grayscale');
         badgeShort.classList.remove('hidden');
       } else {
-        step5c.classList.remove('opacity-70', '');
+        step5c.classList.remove('opacity-70', 'grayscale');
         badgeShort.classList.add('hidden');
       }
     }
@@ -175,14 +178,14 @@
     const stepBookkeeping = document.getElementById('timeline-step-bookkeeping');
     if (stepBookkeeping) {
       if (answers.employment === 'employed') {
-        stepBookkeeping.classList.add('opacity-70', '');
+        stepBookkeeping.classList.add('opacity-70', 'grayscale');
         stepBookkeeping.classList.remove('border-blue-800');
         stepBookkeeping.classList.add('border-slate-200');
         
         const coreBadge = stepBookkeeping.querySelector('.bg-blue-800.text-white');
         if(coreBadge) coreBadge.classList.add('hidden');
       } else {
-        stepBookkeeping.classList.remove('opacity-70', '');
+        stepBookkeeping.classList.remove('opacity-70', 'grayscale');
         stepBookkeeping.classList.remove('border-slate-200');
         stepBookkeeping.classList.add('border-blue-800');
         
@@ -192,3 +195,6 @@
     }
   });
 </script>
+`
+
+fs.writeFileSync(file, content);
