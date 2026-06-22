@@ -1,4 +1,7 @@
----
+const fs = require('fs');
+const file = 'src/components/Hero.astro';
+
+const content = `---
 ---
 <section class="relative pt-32 pb-32 md:pt-40 md:pb-40 px-4 sm:px-6 lg:px-8 overflow-hidden border-b border-slate-100 bg-cover bg-center" style="background-image: url('/Greece_View.png');">
   <!-- Dark overlay to ensure white text is perfectly readable -->
@@ -102,3 +105,6 @@
     }
   });
 </script>
+`
+
+fs.writeFileSync(file, content);
