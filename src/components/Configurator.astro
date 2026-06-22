@@ -36,6 +36,10 @@
               <span class="block font-semibold">I'm from the EU</span>
             </button>
           </div>
+          <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
+            <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <p><span class="font-bold text-slate-700">Why we ask this:</span> This determines if you need a visa to enter and live in Greece.</p>
+          </div>
         </div>
 
         <!-- Step 2: Duration -->
@@ -49,6 +53,10 @@
               <span class="block font-semibold">6 months or more</span>
             </button>
           </div>
+          <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
+            <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <p><span class="font-bold text-slate-700">Why we ask this:</span> This determines your tax residency status and if you need to register locally for taxes.</p>
+          </div>
         </div>
 
         <!-- Step 3: Employment -->
@@ -61,6 +69,10 @@
             <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="3" data-val="employed">
               <span class="block font-semibold">Employed remotely for a company abroad</span>
             </button>
+          </div>
+          <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
+            <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <p><span class="font-bold text-slate-700">Why we ask this:</span> Freelancers have different ongoing reporting and bookkeeping obligations in Greece compared to remote employees.</p>
           </div>
         </div>
 
@@ -81,6 +93,10 @@
               <span class="block font-semibold">Over €70,000</span>
             </button>
           </div>
+          <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
+            <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <p id="income-why-text"><span class="font-bold text-slate-700">Why we ask this:</span> This determines your eligibility for the 50% Tax Break (Article 5C) and whether you meet the financial threshold for the Digital Nomad Visa.</p>
+          </div>
         </div>
 
         <!-- Result Step -->
@@ -93,9 +109,9 @@
           </div>
 
           <div class="text-center space-y-4">
-            <a href="#contact" class="inline-flex w-full sm:w-auto items-center justify-center px-8 py-3.5 text-base font-medium rounded-lg text-white bg-blue-800 hover:bg-blue-900 shadow-md transition-all duration-200">
+            <button type="button" onclick="document.getElementById('contact')?.scrollIntoView({behavior: 'smooth'})" class="inline-flex w-full sm:w-auto items-center justify-center px-8 py-3.5 text-base font-medium rounded-lg text-white bg-blue-800 hover:bg-blue-900 shadow-md transition-all duration-200 cursor-pointer">
               Request your quote
-            </a>
+            </button>
             <p class="text-sm text-slate-500" id="result-hint">Scroll down to see more details about these services.</p>
           </div>
         </div>
@@ -214,6 +230,17 @@
     if (progressPct) progressPct.innerText = `${pct}%`;
     if (progressBar) progressBar.style.width = `${pct}%`;
     
+    if (step === 4) {
+      const whyText = document.getElementById('income-why-text');
+      if (whyText) {
+        if (answers.origin === 'noneu') {
+          whyText.innerHTML = '<span class="font-bold text-slate-700">Why we ask this:</span> This determines if you meet the financial threshold for the Digital Nomad Visa, and your eligibility for the 50% Tax Break (Article 5C).';
+        } else {
+          whyText.innerHTML = '<span class="font-bold text-slate-700">Why we ask this:</span> This determines your eligibility for the 50% Tax Break (Article 5C).';
+        }
+      }
+    }
+
     const backBtn = document.getElementById('conf-back');
     if (backBtn) {
       if (historyStack.length > 1) {
