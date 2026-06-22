@@ -1,4 +1,7 @@
----
+const fs = require('fs');
+const file = 'src/components/Timeline.astro';
+
+const content = `---
 ---
 <section id="how-it-works" class="py-20 bg-white overflow-hidden border-b border-slate-100">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -165,9 +168,9 @@
     const visaStep = document.getElementById('timeline-step-visa');
     if (visaStep) {
       if (answers.origin === 'eu') {
-        visaStep.classList.add('opacity-70');
+        visaStep.classList.add('opacity-40');
       } else {
-        visaStep.classList.remove('opacity-70');
+        visaStep.classList.remove('opacity-40');
       }
     }
     
@@ -175,9 +178,9 @@
     const step5c = document.getElementById('timeline-step-5c');
     if (step5c) {
       if (answers.duration === 'short') {
-        step5c.classList.add('opacity-70');
+        step5c.classList.add('opacity-40');
       } else {
-        step5c.classList.remove('opacity-70');
+        step5c.classList.remove('opacity-40');
       }
     }
     
@@ -185,10 +188,13 @@
     const stepBookkeeping = document.getElementById('timeline-step-bookkeeping');
     if (stepBookkeeping) {
       if (answers.employment === 'employed') {
-        stepBookkeeping.classList.add('opacity-70');
+        stepBookkeeping.classList.add('opacity-40');
       } else {
-        stepBookkeeping.classList.remove('opacity-70');
+        stepBookkeeping.classList.remove('opacity-40');
       }
     }
   });
 </script>
+`
+
+fs.writeFileSync(file, content);
