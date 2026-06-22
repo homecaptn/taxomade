@@ -66,16 +66,16 @@
 
         <!-- Step 4: Income -->
         <div class="conf-step hidden" id="step-4">
-          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">Roughly what's your annual income?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">Roughly what's your net annual income?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="low">
               <span class="block font-semibold">Under €25,000</span>
             </button>
             <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="mid">
-              <span class="block font-semibold">€25,000–40,000</span>
+              <span class="block font-semibold">€25,000–42,000</span>
             </button>
             <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="high">
-              <span class="block font-semibold">€40,000–70,000</span>
+              <span class="block font-semibold">€42,000–70,000</span>
             </button>
             <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="highest">
               <span class="block font-semibold">Over €70,000</span>
@@ -123,8 +123,8 @@
     freelance: 'Freelance',
     employed: 'Employed',
     low: '< €25k',
-    mid: '€25k-40k',
-    high: '€40k-70k',
+    mid: '€25k-42k',
+    high: '€42k-70k',
     highest: '> €70k'
   };
 
@@ -251,12 +251,16 @@
     // 1. Visa
     if (answers.origin === 'noneu') {
       if (answers.duration === 'long') {
-        html += createResultItem('Digital Nomad Visa', "You'll need a Digital Nomad Visa — apply 1–2 months before you move. We handle the full application.");
+        if (answers.income === 'low' || answers.income === 'mid') {
+          html += createResultItem('Visa Requirements Not Met', "Unfortunately, you don't fulfill the financial requirements for the Digital Nomad Visa. You need at least €42,000 net annual income (€3,500/month) to qualify.", false, false, true);
+        } else {
+          html += createResultItem('Digital Nomad Visa', "You qualify for a Digital Nomad Visa — apply 1–2 months before you move. We handle the full application.", true);
+        }
       } else {
         html += createResultItem('Visa requirements', "If you stay under 90 days you likely don't need a visa; between 90 days and 6 months you may need a short-stay visa — talk to us.");
       }
-      // Insurance upsell
-      html += createResultItem('Health Insurance', 'A private health insurance is required for your visa — we can sort that too.', false, true);
+      // Insurance is strictly required for visas
+      html += createResultItem('Health Insurance', 'Private health insurance is required for your visa. We can sort that out for you.');
     }
 
     // 2. AFM & Registration
@@ -296,14 +300,22 @@
     window.dispatchEvent(new CustomEvent('taxomade:configurator-complete', { detail: answers }));
   }
 
-  function createResultItem(title: string, desc: string, highlight = false, optional = false) {
-    const bgClass = highlight ? 'bg-slate-100 border-slate-300' : 'bg-slate-50 border-slate-100';
-    const iconColor = highlight ? 'text-blue-800' : 'text-slate-500';
-    const tag = highlight ? '<span class="ml-2 text-xs font-bold text-blue-800 uppercase tracking-wider bg-white px-2 py-0.5 rounded border border-blue-200">Recommended</span>' : (optional ? '<span class="ml-2 text-xs font-medium text-slate-500 uppercase tracking-wider bg-white px-2 py-0.5 rounded border border-slate-200">Optional</span>' : '');
+  function createResultItem(title: string, desc: string, highlight = false, optional = false, warning = false) {
+    const bgClass = warning ? 'bg-red-50 border-red-200' : (highlight ? 'bg-slate-100 border-slate-300' : 'bg-slate-50 border-slate-100');
+    const iconColor = warning ? 'text-red-500' : (highlight ? 'text-blue-800' : 'text-slate-500');
     
+    let tag = '';
+    if (warning) tag = '<span class="ml-2 text-xs font-bold text-red-600 uppercase tracking-wider bg-white px-2 py-0.5 rounded border border-red-200">Not Eligible</span>';
+    else if (highlight) tag = '<span class="ml-2 text-xs font-bold text-blue-800 uppercase tracking-wider bg-white px-2 py-0.5 rounded border border-blue-200">Recommended</span>';
+    else if (optional) tag = '<span class="ml-2 text-xs font-medium text-slate-500 uppercase tracking-wider bg-white px-2 py-0.5 rounded border border-slate-200">Optional</span>';
+    
+    const iconPath = warning 
+      ? 'M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z'
+      : 'M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z';
+
     return `
       <div class="p-4 rounded-xl border ${bgClass} flex items-start">
-        <svg class="w-6 h-6 ${iconColor} flex-shrink-0 mt-0.5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+        <svg class="w-6 h-6 ${iconColor} flex-shrink-0 mt-0.5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="${iconPath}"></path></svg>
         <div>
           <h4 class="font-bold text-slate-900 flex items-center flex-wrap gap-y-1">${title}${tag}</h4>
           <p class="text-sm text-slate-600 mt-1 leading-relaxed">${desc}</p>
