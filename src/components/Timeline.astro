@@ -94,8 +94,21 @@
         </div>
 
         <!-- Step 4 & 5 Container: Ongoing -->
-        <div class="md:col-span-2 flex flex-col h-full relative">
+        <div class="md:col-span-2 flex flex-col h-full relative mt-4 md:mt-0">
           
+          <!-- Shared Background Panel -->
+          <div class="absolute -inset-4 lg:-inset-6 bg-slate-50 border border-slate-200 rounded-[2.5rem] -z-10 hidden md:block"></div>
+          
+          <!-- Ongoing Phase Label -->
+          <div class="absolute -top-7 lg:-top-9 left-1/2 -translate-x-1/2 bg-white px-4 py-1 rounded-full text-[10px] md:text-xs font-bold text-slate-500 border border-slate-200 shadow-sm hidden md:block whitespace-nowrap z-20">
+            ONGOING PHASE
+          </div>
+
+          <!-- OR Indicator -->
+          <div class="hidden md:flex absolute left-1/2 top-[45%] -translate-x-1/2 -translate-y-1/2 w-8 h-8 rounded-full bg-white text-slate-400 font-black text-[10px] items-center justify-center z-20 border border-slate-200 shadow-sm">
+            OR
+          </div>
+
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-8 flex-1">
             
             <!-- Step 4: Bookkeeping -->
@@ -133,7 +146,7 @@
               <div class="w-full mt-auto flex flex-col justify-end">
                 <div class="w-full border-t border-slate-100 pt-4 mb-4 min-h-[50px] flex items-center">
                   <span class="inline-flex items-center px-2 py-1.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700">
-                    For all tax residents
+                    For remote employees
                   </span>
                 </div>
                 <a href="/greece/ongoing-bookkeeping" class="block w-full py-3 text-center border-2 border-slate-200 text-slate-700 font-bold rounded-lg hover:border-slate-900 hover:text-slate-900 hover:bg-slate-50 transition-colors">Learn more</a>
