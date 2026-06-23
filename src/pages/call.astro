@@ -1,0 +1,108 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Book a Free Call - taxomade" description="Book a free consultation with taxomade to discuss your relocation and tax setup in Southern Europe.">
+  <main class="pt-32 pb-24 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <!-- Hero Section -->
+      <div class="text-center max-w-3xl mx-auto mb-16">
+        <span class="inline-block py-1 px-3 rounded-full bg-blue-100 text-blue-800 text-sm font-bold uppercase tracking-wider mb-4">
+          Free Consultation
+        </span>
+        <h1 class="text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight">
+          Let's talk about your setup.
+        </h1>
+        <p class="text-lg text-slate-600 leading-relaxed">
+          Just pick a time that suits you. In our call, we'll take the time to understand your situation and goals, then map out a tailored solution and the right local network for you.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+        
+        <!-- Left/Main Column: Calendly Embed -->
+        <div class="lg:col-span-2">
+          <div class="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden" style="min-height: 700px;">
+            <!-- Calendly inline widget begin -->
+            <div class="calendly-inline-widget" data-url="https://calendly.com/taxomade/intro-call?hide_gdpr_banner=1&background_color=ffffff&text_color=0f172a&primary_color=1e3a8a" style="min-width:320px;height:700px;"></div>
+            <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+            <!-- Calendly inline widget end -->
+          </div>
+          <p class="text-xs text-center text-slate-400 mt-4">
+            By booking an appointment, you agree to our <a href="/privacy" class="underline hover:text-slate-600">Privacy Policy</a>. We use Calendly to schedule calls.
+          </p>
+        </div>
+
+        <!-- Right Column: Sidebar -->
+        <div class="lg:col-span-1 flex flex-col gap-8">
+          
+          <!-- Contact Box -->
+          <div class="bg-slate-50 rounded-2xl p-6 border border-slate-100 shadow-sm text-center">
+            <img src="/images/founders.png" alt="Leonard and Manoli" class="w-32 h-32 rounded-full mx-auto mb-4 object-cover object-top border-4 border-white shadow-sm" />
+            <h3 class="text-lg font-bold text-slate-900 mb-1">Direct contact</h3>
+            <p class="text-sm text-slate-500 mb-6">Talk directly to the founders</p>
+            
+            <div class="space-y-3">
+              <a href="mailto:info@taxomade.com" class="flex items-center justify-center w-full py-3 px-4 bg-white border border-slate-200 rounded-xl text-slate-700 font-medium hover:bg-slate-50 hover:border-slate-300 transition-colors">
+                <span class="mr-2">✉️</span> info@taxomade.com
+              </a>
+              <a href="https://wa.me/35799123456" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center w-full py-3 px-4 bg-[#25D366]/10 border border-[#25D366]/20 rounded-xl text-[#1DA851] font-bold hover:bg-[#25D366]/20 transition-colors">
+                <span class="mr-2">💬</span> WhatsApp us
+              </a>
+            </div>
+          </div>
+
+          <!-- What to expect -->
+          <div>
+            <h3 class="text-xl font-bold text-slate-900 mb-6">What to expect</h3>
+            <div class="space-y-6">
+              <div class="flex">
+                <div class="shrink-0 w-8 h-8 rounded-full bg-blue-100 text-blue-800 flex items-center justify-center font-bold mr-4">1</div>
+                <div>
+                  <h4 class="font-bold text-slate-900 mb-1">Personal introduction</h4>
+                  <p class="text-sm text-slate-600 leading-relaxed">A relaxed one-on-one conversation. We listen closely and talk with you directly, founder to founder.</p>
+                </div>
+              </div>
+              <div class="flex">
+                <div class="shrink-0 w-8 h-8 rounded-full bg-blue-100 text-blue-800 flex items-center justify-center font-bold mr-4">2</div>
+                <div>
+                  <h4 class="font-bold text-slate-900 mb-1">Clarity & strategy</h4>
+                  <p class="text-sm text-slate-600 leading-relaxed">We check whether your plan is legally and tax-wise feasible in your target country.</p>
+                </div>
+              </div>
+              <div class="flex">
+                <div class="shrink-0 w-8 h-8 rounded-full bg-blue-100 text-blue-800 flex items-center justify-center font-bold mr-4">3</div>
+                <div>
+                  <h4 class="font-bold text-slate-900 mb-1">Your roadmap</h4>
+                  <p class="text-sm text-slate-600 leading-relaxed">After the call, you'll know exactly how the bureaucratic process will look.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Mini FAQ -->
+          <div class="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
+            <h3 class="text-xl font-bold text-slate-900 mb-6">FAQ</h3>
+            <div class="space-y-4">
+              <div>
+                <h4 class="font-bold text-slate-900 text-sm mb-1">Is the consultation free?</h4>
+                <p class="text-sm text-slate-600">Yes, completely free and non-binding.</p>
+              </div>
+              <div>
+                <h4 class="font-bold text-slate-900 text-sm mb-1">Do I need documents ready?</h4>
+                <p class="text-sm text-slate-600">No, we look at your plan strategically first.</p>
+              </div>
+              <div>
+                <h4 class="font-bold text-slate-900 text-sm mb-1">Am I committed after the call?</h4>
+                <p class="text-sm text-slate-600">No. You decide afterwards, at your own pace, whether you'd like us to help.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      
+    </div>
+  </main>
+</Layout>
