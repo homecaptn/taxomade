@@ -1,4 +1,12 @@
 ---
+const currentPath = Astro.url.pathname;
+
+const navLinks = [
+  { path: '/greece/digital-nomad-visa', label: 'Digital Nomad Visa' },
+  { path: '/greece/tax-number-afm', label: 'Tax Number (AFM)' },
+  { path: '/greece/50-percent-tax-break', label: '50% Tax Break' },
+  { path: '/greece/ongoing-bookkeeping', label: 'Bookkeeping' },
+];
 ---
 <header class="fixed top-4 left-4 right-4 md:left-1/2 md:-translate-x-1/2 md:w-full md:max-w-[calc(100%-2rem)] lg:max-w-7xl z-50 bg-white/50 backdrop-blur-2xl border border-slate-200/50 rounded-2xl shadow-sm">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -14,13 +22,18 @@
       
       <!-- Right aligned section: Nav + CTA -->
       <div class="hidden md:flex items-center space-x-8 ml-auto">
-        <nav class="flex items-center space-x-8">
-
-          <a href="/greece/digital-nomad-visa" class="text-slate-600 hover:text-slate-900 font-medium transition-colors">Digital Nomad Visa</a>
-          <a href="/greece/tax-number-afm" class="text-slate-600 hover:text-slate-900 font-medium transition-colors">Tax Number (AFM)</a>
-          <a href="/greece/50-percent-tax-break" class="text-slate-600 hover:text-slate-900 font-medium transition-colors">50% Tax Break</a>
-          <a href="/greece/ongoing-bookkeeping" class="text-slate-600 hover:text-slate-900 font-medium transition-colors">Bookkeeping</a>
-
+        <nav class="flex items-center space-x-4 lg:space-x-8">
+          {navLinks.map((link) => {
+            const isActive = currentPath === link.path || currentPath === link.path + '/';
+            return (
+              <a 
+                href={link.path} 
+                class={`font-medium transition-all duration-200 ${isActive ? 'text-blue-800 bg-blue-50 px-3 py-1.5 rounded-lg shadow-sm border border-blue-100' : 'text-slate-600 hover:text-slate-900 px-3 py-1.5'}`}
+              >
+                {link.label}
+              </a>
+            );
+          })}
         </nav>
         
         <a href="#configurator" class="inline-flex items-center justify-center pl-5 pr-3 py-2 text-sm font-bold rounded-lg text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200 group">
