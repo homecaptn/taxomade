@@ -1,4 +1,7 @@
----
+const fs = require('fs');
+const file = 'src/components/Footer.astro';
+
+const content = `---
 ---
 <footer class="bg-white border-t border-slate-100 pt-16 pb-8">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -67,3 +70,6 @@
     </div>
   </div>
 </footer>
+`
+
+fs.writeFileSync(file, content);
