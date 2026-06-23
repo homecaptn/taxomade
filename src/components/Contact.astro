@@ -8,9 +8,11 @@
     </div>
 
     <div class="bg-slate-50 p-8 md:p-10 rounded-3xl border border-slate-100 shadow-sm">
-      <form class="space-y-6" onsubmit="event.preventDefault(); alert('Thanks for your request! We will get back to you shortly.');">
+      <form action="https://formsubmit.co/info@taxomade.com" method="POST" class="space-y-6">
         <!-- Hidden input to capture configurator data -->
         <input type="hidden" id="contact-config-data" name="configurator_data" value="" />
+        <input type="hidden" name="_next" value="https://taxomade.com">
+        <input type="hidden" name="_subject" value="New Contact Request - taxomade.com">
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
