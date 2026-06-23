@@ -131,86 +131,86 @@ import ServiceContactForm from '../../components/ServiceContactForm.astro';
       </section>
     </div>
 
-        <!-- Section 3: Split Timeline -->
-    <section class="max-w-5xl mx-auto mb-24 px-4 sm:px-0">
-      <h2 class="text-3xl md:text-5xl font-black text-slate-900 mb-16 text-center tracking-tight">How it works — you send your numbers, we do the rest</h2>
+            <!-- Section 3: Split Timeline -->
+    <section class="max-w-4xl mx-auto mb-24 px-4 sm:px-6 lg:px-8 relative z-10">
+      <div class="text-center mb-16">
+        <h2 class="text-3xl md:text-5xl font-black text-slate-900 mb-4 tracking-tight">How it works, <span class="text-slate-400">how little you do.</span></h2>
+        <p class="text-lg text-slate-600">You send your numbers, we do the rest.</p>
+      </div>
       
-      <div class="relative w-full">
-        <!-- Headers (Desktop only) -->
-        <div class="hidden md:flex mb-6 relative z-10">
-          <div class="w-1/2 flex justify-end pr-12">
-            <h3 class="text-sm font-black text-slate-400 uppercase tracking-widest bg-slate-50 px-4 py-1 rounded-full border border-slate-200">You</h3>
-          </div>
-          <div class="w-1/2 pl-12">
-            <h3 class="text-sm font-black text-blue-800 uppercase tracking-widest bg-blue-50 px-4 py-1 rounded-full border border-blue-200 inline-block">Taxomade handles</h3>
-          </div>
-        </div>
-
-        <!-- Vertical Line -->
-        <div class="absolute left-6 md:left-1/2 top-16 bottom-4 w-1 bg-gradient-to-b from-blue-100 via-emerald-200 to-blue-100 rounded-full md:transform md:-translate-x-1/2 opacity-60"></div>
+      <div class="relative">
+        <!-- Central Line -->
+        <div class="hidden md:block absolute left-1/2 top-4 bottom-4 w-px bg-slate-200 -translate-x-1/2"></div>
         
-        <div class="space-y-12 md:space-y-16">
-          <!-- Step 1 -->
-          <div class="relative flex flex-col md:flex-row items-start md:items-center">
-            <div class="md:w-1/2 flex justify-start md:justify-end pl-16 md:pl-0 md:pr-12 w-full mb-4 md:mb-0">
-               <div class="bg-white border border-slate-100 rounded-xl p-5 shadow-sm w-full md:max-w-[280px] relative z-10">
-                  <div class="flex justify-between items-center mb-2">
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-400">You</span>
-                  </div>
-                  <p class="text-sm text-slate-600">Say yes and sign the authorization.</p>
-               </div>
+        <!-- Step 1 -->
+        <div class="relative flex flex-col md:flex-row items-center justify-between mb-16">
+          <div class="md:w-[45%] mb-6 md:mb-0 md:text-right opacity-60">
+            <div class="inline-flex items-center px-3 py-1 rounded-full bg-slate-100 text-slate-600 text-xs font-bold uppercase tracking-wider mb-3">
+              Your part
             </div>
-            <div class="absolute left-6 md:left-1/2 top-8 md:top-1/2 w-10 h-10 rounded-full bg-white border-4 border-blue-600 text-blue-600 font-black flex items-center justify-center transform -translate-x-1/2 md:-translate-y-1/2 z-20 shadow-md text-lg">1</div>
-            <div class="md:w-1/2 pl-16 md:pl-12 w-full">
-               <div class="bg-blue-50 border border-blue-100 rounded-2xl p-6 shadow-md w-full md:max-w-[400px] relative z-10 border-l-4 border-l-blue-600">
-                  <div class="text-xs font-black uppercase tracking-wider text-blue-800 mb-2">Taxomade handles</div>
-                  <h4 class="text-sm font-bold text-slate-900 mb-1">One-time setup</h4>
-                  <p class="text-lg font-bold text-slate-900 leading-snug">We register your freelancer status, EFKA, VAT and e-invoicing.</p>
-               </div>
-            </div>
+            <h3 class="text-xl font-bold text-slate-900 mb-2">Sign Authorization</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">Say yes and sign the authorization.</p>
           </div>
-
-          <!-- Step 2 -->
-          <div class="relative flex flex-col md:flex-row items-start md:items-center">
-            <div class="md:w-1/2 flex justify-start md:justify-end pl-16 md:pl-0 md:pr-12 w-full mb-4 md:mb-0">
-               <div class="bg-white border border-slate-100 rounded-xl p-5 shadow-sm w-full md:max-w-[280px] relative z-10">
-                  <div class="flex justify-between items-center mb-2">
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-400">You</span>
-                    <span class="text-xs font-mono font-medium text-slate-400 bg-slate-50 px-2 py-0.5 rounded-md">~5 min</span>
-                  </div>
-                  <p class="text-sm text-slate-600">Send us your invoices and income.</p>
-               </div>
-            </div>
-            <div class="absolute left-6 md:left-1/2 top-8 md:top-1/2 w-10 h-10 rounded-full bg-white border-4 border-emerald-500 text-emerald-600 font-black flex items-center justify-center transform -translate-x-1/2 md:-translate-y-1/2 z-20 shadow-md text-lg">2</div>
-            <div class="md:w-1/2 pl-16 md:pl-12 w-full">
-               <div class="bg-emerald-50 border border-emerald-100 rounded-2xl p-6 shadow-md w-full md:max-w-[400px] relative z-10 border-l-4 border-l-emerald-500">
-                  <div class="text-xs font-black uppercase tracking-wider text-emerald-700 mb-2">Taxomade handles</div>
-                  <h4 class="text-sm font-bold text-slate-900 mb-1">Each month</h4>
-                  <p class="text-lg font-bold text-slate-900 leading-snug">We file your myDATA, EFKA, VAT and issue compliant e-invoices.</p>
-               </div>
-            </div>
+          
+          <div class="absolute left-1/2 -translate-x-1/2 flex items-center justify-center w-8 h-8 rounded-full bg-white border-2 border-slate-300 text-slate-400 font-bold z-10 hidden md:flex">
+            1
           </div>
-
-          <!-- Step 3 -->
-          <div class="relative flex flex-col md:flex-row items-start md:items-center">
-            <div class="md:w-1/2 flex justify-start md:justify-end pl-16 md:pl-0 md:pr-12 w-full mb-4 md:mb-0">
-               <div class="bg-white border border-slate-100 rounded-xl p-5 shadow-sm w-full md:max-w-[280px] relative z-10">
-                  <div class="flex justify-between items-center mb-2">
-                    <span class="text-xs font-bold uppercase tracking-wider text-slate-400">You</span>
-                  </div>
-                  <p class="text-sm text-slate-600">Nothing — we already have it.</p>
-               </div>
+          
+          <div class="md:w-[45%] text-center md:text-left">
+            <div class="inline-flex items-center px-3 py-1 rounded-full bg-blue-100 text-blue-800 text-xs font-bold uppercase tracking-wider mb-3">
+              taxomade™
             </div>
-            <div class="absolute left-6 md:left-1/2 top-8 md:top-1/2 w-10 h-10 rounded-full bg-white border-4 border-blue-600 text-blue-600 font-black flex items-center justify-center transform -translate-x-1/2 md:-translate-y-1/2 z-20 shadow-md text-lg">3</div>
-            <div class="md:w-1/2 pl-16 md:pl-12 w-full">
-               <div class="bg-blue-50 border border-blue-100 rounded-2xl p-6 shadow-md w-full md:max-w-[400px] relative z-10 border-l-4 border-l-blue-600">
-                  <div class="text-xs font-black uppercase tracking-wider text-blue-800 mb-2">Taxomade handles</div>
-                  <h4 class="text-sm font-bold text-slate-900 mb-1">Year-end</h4>
-                  <p class="text-lg font-bold text-slate-900 leading-snug">We file your annual accounts and tax return, with a plain-English summary.</p>
-               </div>
-            </div>
+            <h3 class="text-xl font-bold text-slate-900 mb-2">One-time setup</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">We register your freelancer status, EFKA, VAT and e-invoicing.</p>
           </div>
         </div>
+
+        <!-- Step 2 -->
+        <div class="relative flex flex-col md:flex-row items-center justify-between mb-16">
+          <div class="md:w-[45%] mb-6 md:mb-0 md:text-right opacity-60">
+            <div class="inline-flex items-center px-3 py-1 rounded-full bg-slate-100 text-slate-600 text-xs font-bold uppercase tracking-wider mb-3">
+              <span class="mr-2 opacity-50">~5 min</span> Your part
+            </div>
+            <h3 class="text-xl font-bold text-slate-900 mb-2">Send invoices</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">Send us your invoices and income.</p>
+          </div>
+          
+          <div class="absolute left-1/2 -translate-x-1/2 flex items-center justify-center w-8 h-8 rounded-full bg-white border-2 border-slate-300 text-slate-400 font-bold z-10 hidden md:flex">
+            2
+          </div>
+          
+          <div class="md:w-[45%] text-center md:text-left">
+            <div class="inline-flex items-center px-3 py-1 rounded-full bg-blue-100 text-blue-800 text-xs font-bold uppercase tracking-wider mb-3">
+              taxomade™
+            </div>
+            <h3 class="text-xl font-bold text-slate-900 mb-2">Each month</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">We file your myDATA, EFKA, VAT and issue compliant e-invoices.</p>
+          </div>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="relative flex flex-col md:flex-row items-center justify-between">
+          <div class="md:w-[45%] mb-6 md:mb-0 md:text-right opacity-60">
+            <div class="inline-flex items-center px-3 py-1 rounded-full bg-slate-100 text-slate-600 text-xs font-bold uppercase tracking-wider mb-3">
+              Your part
+            </div>
+            <h3 class="text-xl font-bold text-slate-900 mb-2">Nothing</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">Nothing — we already have it.</p>
+          </div>
+          
+          <div class="absolute left-1/2 -translate-x-1/2 flex items-center justify-center w-8 h-8 rounded-full bg-emerald-600 text-white font-bold border-2 border-emerald-600 z-10 hidden md:flex shadow-sm">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+          </div>
+          
+          <div class="md:w-[45%] text-center md:text-left">
+            <div class="inline-flex items-center px-3 py-1 rounded-full bg-emerald-100 text-emerald-800 text-xs font-bold uppercase tracking-wider mb-3">
+              taxomade™
+            </div>
+            <h3 class="text-xl font-bold text-slate-900 mb-2">Year-end</h3>
+            <p class="text-slate-600 text-sm leading-relaxed">We file your annual accounts and tax return, with a plain-English summary.</p>
+          </div>
+        </div>
+
       </div>
       
       <div class="mt-16 text-center">
