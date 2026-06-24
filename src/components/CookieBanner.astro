@@ -1,0 +1,92 @@
+---
+---
+<div id="cookie-banner" class="fixed bottom-0 left-0 right-0 bg-white border-t border-slate-200 shadow-2xl z-50 transform translate-y-full transition-transform duration-500 hidden">
+  <div class="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+    <div class="text-sm text-slate-600">
+      <p class="font-bold text-slate-900 mb-1">We value your privacy</p>
+      We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies. Read our <a href="/privacy" class="text-blue-800 hover:underline font-medium">Privacy Policy</a>.
+    </div>
+    <div class="flex flex-col sm:flex-row items-center gap-3 shrink-0 w-full sm:w-auto">
+      <button id="cookie-reject" class="w-full sm:w-auto px-5 py-2.5 text-sm font-bold rounded-lg text-slate-700 bg-slate-100 hover:bg-slate-200 transition-colors border border-slate-200">
+        Essential Only
+      </button>
+      <button id="cookie-accept" class="w-full sm:w-auto px-5 py-2.5 text-sm font-bold rounded-lg text-white bg-slate-900 hover:bg-blue-800 transition-colors">
+        Accept All
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Placeholders for actual IDs. Replace these when accounts are ready.
+  const GA_MEASUREMENT_ID = 'G-XXXXXXXXXX'; 
+  const GOOGLE_ADS_ID = 'AW-XXXXXXXXXX'; 
+  const CLARITY_PROJECT_ID = 'xxxxxxxxxx'; 
+
+  function loadAnalytics() {
+    // Prevent loading multiple times
+    if (window.analyticsLoaded) return;
+    window.analyticsLoaded = true;
+
+    // 1. Load Google Analytics / Google Ads
+    const gaScript = document.createElement('script');
+    gaScript.src = `https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`;
+    gaScript.async = true;
+    document.head.appendChild(gaScript);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', GA_MEASUREMENT_ID);
+    gtag('config', GOOGLE_ADS_ID);
+
+    // 2. Load Microsoft Clarity
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", CLARITY_PROJECT_ID);
+  }
+
+  function initCookieBanner() {
+    const banner = document.getElementById('cookie-banner');
+    const acceptBtn = document.getElementById('cookie-accept');
+    const rejectBtn = document.getElementById('cookie-reject');
+
+    if (!banner || !acceptBtn || !rejectBtn) return;
+
+    const consent = localStorage.getItem('taxomade_cookie_consent');
+
+    if (consent === 'accepted') {
+      loadAnalytics();
+    } else if (!consent) {
+      // Show banner
+      banner.classList.remove('hidden');
+      // small delay to allow display:block to apply before animating
+      setTimeout(() => {
+        banner.classList.remove('translate-y-full');
+      }, 50);
+    }
+
+    function hideBanner() {
+      banner.classList.add('translate-y-full');
+      setTimeout(() => {
+        banner.classList.add('hidden');
+      }, 500);
+    }
+
+    acceptBtn.addEventListener('click', () => {
+      localStorage.setItem('taxomade_cookie_consent', 'accepted');
+      hideBanner();
+      loadAnalytics();
+    });
+
+    rejectBtn.addEventListener('click', () => {
+      localStorage.setItem('taxomade_cookie_consent', 'rejected');
+      hideBanner();
+    });
+  }
+
+  // Initialize on load
+  initCookieBanner();
+</script>
