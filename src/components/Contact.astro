@@ -9,10 +9,19 @@
 
     <div class="bg-slate-50 p-8 md:p-10 rounded-3xl border border-slate-100 shadow-sm">
       <form action="https://formsubmit.co/info@taxomade.com" method="POST" class="space-y-6" onsubmit="window.dataLayer = window.dataLayer || []; window.dataLayer.push({'event': 'form_submit_success'});">
-        <!-- Hidden input to capture configurator data -->
         <input type="hidden" id="contact-config-data" name="configurator_data" value="" />
         <input type="hidden" name="_next" value="https://taxomade.com">
         <input type="hidden" name="_subject" value="New Contact Request - taxomade.com">
+        <input type="hidden" name="_autoresponse" value="Hi there,
+
+Thank you for reaching out to Taxomade! We've received your request and one of us will personally get back to you very shortly.
+
+In the meantime, sit back and relax — handling the paperwork is our job. We're looking forward to helping you make your move to Greece simple and stress-free.
+
+Talk soon,
+Leonard & Manoli
+Taxomade™ — The Tax Nomad Setup
+info@taxomade.com">
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
