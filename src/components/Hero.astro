@@ -1,11 +1,8 @@
 ---
 ---
-<section class="relative pt-20 pb-12 md:pt-28 md:pb-16 px-4 sm:px-6 lg:px-8 overflow-hidden border-b border-slate-100 bg-cover bg-center" style="background-image: url('/Greece_View.png');">
+<section class="relative pt-24 pb-12 md:pt-32 md:pb-16 px-4 sm:px-6 lg:px-8 overflow-hidden border-b border-slate-100 bg-cover bg-center" style="background-image: url('/Greece_View.png');">
   <!-- Dark overlay to ensure white text is perfectly readable -->
-  <div class="absolute inset-0 bg-slate-950/95 pointer-events-none -z-10"></div>
-  <div class="absolute inset-0 bg-[linear-gradient(to_right,#ffffff12_1px,transparent_1px),linear-gradient(to_bottom,#ffffff12_1px,transparent_1px)] bg-[size:32px_32px] pointer-events-none -z-10"></div>
-  <!-- Bottom fade to white since the next section is white -->
-  <div class="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-white to-transparent pointer-events-none -z-10"></div>
+  <div class="absolute inset-0 bg-slate-900/60 pointer-events-none z-0"></div>
 
   <div class="max-w-7xl mx-auto relative z-10 flex flex-col justify-between h-full min-h-[calc(100vh-80px)]">
     <div class="flex flex-col md:flex-row justify-between items-start relative mt-4 md:mt-8 mb-8 w-full">
@@ -13,30 +10,29 @@
       <!-- Left: Text content -->
       <div class="text-left relative z-20 w-full max-w-4xl">
         <!-- Target Audience Badge -->
-        <div class="mb-6 relative inline-block">
-          <span class="relative inline-flex items-center px-5 py-2.5 rounded-full bg-slate-900/80 backdrop-blur-md text-white text-sm sm:text-base font-black uppercase tracking-wider border border-white/20 shadow-sm">
+        <div class="mb-6 relative inline-block max-w-full">
+          <span class="relative inline-flex items-center px-3 py-1.5 sm:px-5 sm:py-2.5 rounded-full bg-slate-900/80 backdrop-blur-md text-white text-[9px] sm:text-xs md:text-base font-black uppercase tracking-wider border border-white/20 shadow-sm leading-tight whitespace-nowrap">
             For freelancers, remote workers and founders
             
             <!-- Tiny Greek Flag on Pole -->
-            <div class="absolute -top-7 -right-2 transform rotate-12 z-10 drop-shadow flex items-end">
-              <div class="w-[2px] h-8 bg-slate-200 rounded-t-sm"></div>
-              <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" class="w-6 h-auto -ml-[1px] mb-2 border border-white/20 rounded-[1px] shadow-sm" />
+            <div class="absolute -top-6 sm:-top-7 -right-2 transform rotate-12 z-10 drop-shadow flex items-end">
+              <div class="w-[2px] h-6 sm:h-8 bg-slate-200 rounded-t-sm"></div>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" class="w-5 sm:w-6 h-auto -ml-[1px] mb-1 sm:mb-2 border border-white/20 rounded-[1px] shadow-sm" />
             </div>
           </span>
         </div>
         
-        <!-- Using whitespace-nowrap and flexible text sizing to guarantee single lines -->
-        <h1 class="text-[2.75rem] sm:text-5xl md:text-6xl lg:text-[4.5rem] font-black tracking-tight text-white mb-6 leading-[1.1]">
-          <div class="whitespace-nowrap">Relocate to Greece.</div>
-          <div class="whitespace-nowrap flex items-baseline mt-2">
-            <span class="text-white mr-3">We handle</span>
-            <span class="inline-flex items-center align-baseline overflow-hidden" style="min-width: 4em;">
-              <span id="word-rotator-text" class="text-[#0D5EAF] font-black text-left inline-block transition-all duration-500 transform translate-y-0 opacity-100 drop-shadow-none">taxes.</span>
+        <h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-[4.5rem] font-black tracking-tight text-white mb-6 leading-[1.1]">
+          <div class="whitespace-normal sm:whitespace-nowrap">Relocate to Greece.</div>
+          <div class="flex flex-col sm:flex-row sm:items-baseline mt-2">
+            <span class="text-white sm:mr-3">We handle</span>
+            <span class="inline-flex items-center align-baseline overflow-hidden mt-1 sm:mt-0" style="min-width: 4em;">
+              <span id="word-rotator-text" class="text-blue-400 font-black text-left inline-block transition-all duration-500 transform translate-y-0 opacity-100 drop-shadow-none">taxes.</span>
             </span>
           </div>
         </h1>
         
-        <p class="text-xl md:text-2xl text-white mb-8 max-w-2xl font-medium drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)]">
+        <p class="text-lg sm:text-xl md:text-2xl text-white/95 mb-8 max-w-2xl font-medium drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">
           The simplest way for freelancers, remote workers, and expats to get set up in Greece while staying fully tax-compliant.
         </p>
 
@@ -48,25 +44,26 @@
             Book a free call
           </a>
         </div>
+        <p class="text-white/80 text-sm mt-4 font-medium drop-shadow-md">We reply within hours, 7 days a week.</p>
       </div>
     </div>
 
     <!-- Bottom Checkpoints Row -->
-    <div class="w-full mt-auto mb-4 md:mb-8 pt-4 relative z-20">
-      <div class="flex flex-col md:flex-row justify-between items-center gap-6 md:gap-4 py-6">
+    <div class="w-full mt-8 md:mt-auto mb-4 md:mb-8 pt-2 sm:pt-4 relative z-20">
+      <div class="flex flex-col md:flex-row justify-between items-start sm:items-center gap-3 sm:gap-6 md:gap-4 py-2 sm:py-6">
         
-        <div class="flex items-center text-white font-bold text-base md:text-lg">
-          <svg class="w-6 h-6 mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+        <div class="flex items-center text-white font-bold text-sm sm:text-base md:text-lg">
+          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2 sm:mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
           Fast, reliable & completely remote
         </div>
         
-        <div class="flex items-center text-white font-bold text-base md:text-lg">
-          <svg class="w-6 h-6 mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+        <div class="flex items-center text-white font-bold text-sm sm:text-base md:text-lg">
+          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2 sm:mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
           100% Tax & Legal Compliance
         </div>
         
-        <div class="flex items-center text-white font-bold text-base md:text-lg">
-          <svg class="w-6 h-6 mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+        <div class="flex items-center text-white font-bold text-sm sm:text-base md:text-lg">
+          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2 sm:mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
           For EU & Non-EU citizens
         </div>
         

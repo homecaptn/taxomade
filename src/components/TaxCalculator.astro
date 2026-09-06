@@ -1,0 +1,171 @@
+---
+---
+<section id="tax-calculator" class="py-12 bg-white rounded-2xl shadow-xl border border-slate-200 overflow-hidden relative">
+  <!-- Decoration -->
+  <div class="absolute top-0 right-0 -mt-16 -mr-16 w-64 h-64 bg-blue-50 rounded-full blur-3xl opacity-50 pointer-events-none"></div>
+  
+  <div class="p-6 md:p-10 relative z-10">
+    <div class="text-center mb-8">
+      <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-3">Calculate Your 5C Tax Savings</h3>
+      <p class="text-slate-600">See exactly how much you can save per year by moving your tax residency to Greece under Article 5C.</p>
+    </div>
+
+    <div class="max-w-xl mx-auto">
+      <div class="mb-8">
+        <label for="income-input" class="block text-sm font-bold text-slate-700 mb-2 uppercase tracking-wide">Gross Annual Income (€)</label>
+        <div class="relative">
+          <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+            <span class="text-slate-400 font-bold text-lg">€</span>
+          </div>
+          <input type="number" id="income-input" class="block w-full pl-10 pr-4 py-4 text-xl font-bold text-slate-900 border-2 border-slate-200 rounded-xl focus:ring-0 focus:border-blue-600 transition-colors" value="60000" min="0" step="1000">
+        </div>
+        <p class="text-xs text-slate-400 mt-2">Enter your gross annual income in euros (before taxes).</p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+        <!-- Standard Tax Card -->
+        <div class="bg-slate-50 border border-slate-200 rounded-xl p-5">
+          <h4 class="text-sm font-bold text-slate-500 uppercase tracking-wide mb-1">Standard Tax</h4>
+          <p class="text-xs text-slate-400 mb-4">Without Article 5C</p>
+          <div class="mb-2">
+            <span class="text-sm text-slate-500">Income Tax:</span>
+            <span class="float-right font-bold text-slate-700" id="standard-tax">€16,700</span>
+          </div>
+          <div class="mb-4">
+            <span class="text-sm text-slate-500">Effective Rate:</span>
+            <span class="float-right font-bold text-slate-700" id="standard-rate">27.8%</span>
+          </div>
+          <div class="pt-4 border-t border-slate-200">
+            <span class="text-sm font-bold text-slate-700">Net Income:</span>
+            <span class="float-right text-xl font-black text-slate-900" id="standard-net">€43,300</span>
+          </div>
+        </div>
+
+        <!-- 5C Tax Card -->
+        <div class="bg-blue-600 rounded-xl p-5 text-white shadow-lg transform md:-translate-y-2 border border-blue-500 relative overflow-hidden">
+          <div class="absolute top-0 right-0 w-32 h-32 bg-white opacity-5 rounded-full blur-2xl -mr-10 -mt-10"></div>
+          
+          <div class="absolute top-0 right-0 mt-3 mr-3">
+            <span class="bg-blue-500 text-white text-[10px] font-bold px-2 py-1 rounded uppercase tracking-wider">50% Exempt</span>
+          </div>
+
+          <h4 class="text-sm font-bold text-blue-100 uppercase tracking-wide mb-1">Article 5C Tax</h4>
+          <p class="text-xs text-blue-200 mb-4">With Tax Break</p>
+          <div class="mb-2">
+            <span class="text-sm text-blue-200">Income Tax:</span>
+            <span class="float-right font-bold text-white" id="5c-tax">€5,500</span>
+          </div>
+          <div class="mb-4">
+            <span class="text-sm text-blue-200">Effective Rate:</span>
+            <span class="float-right font-bold text-white" id="5c-rate">9.2%</span>
+          </div>
+          <div class="pt-4 border-t border-blue-500/50">
+            <span class="text-sm font-bold text-blue-100">Net Income:</span>
+            <span class="float-right text-xl font-black text-white" id="5c-net">€54,500</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Savings Result -->
+      <div class="bg-emerald-50 border border-emerald-100 rounded-xl p-6 text-center mb-8">
+        <p class="text-sm font-bold text-emerald-800 uppercase tracking-wider mb-2">Your Annual Savings</p>
+        <div class="text-4xl font-black text-emerald-600 mb-2" id="savings-amount">+€11,200</div>
+        <p class="text-emerald-700 text-sm">That's <span id="savings-7years" class="font-bold">€78,400</span> over the full 7-year period of the scheme!</p>
+      </div>
+
+      <div class="text-center">
+        <a href="/call" class="inline-flex items-center justify-center px-8 py-4 text-base font-bold rounded-lg text-white bg-slate-900 hover:bg-blue-600 shadow-xl hover:shadow-blue-500/20 transition-all duration-300 w-full sm:w-auto">
+          Book a Call to Claim Your Tax Break
+          <svg class="ml-2 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+        </a>
+        <p class="text-xs text-slate-400 mt-4 px-4">
+          *Disclaimer: This calculator provides an estimate based on the standard Greek progressive income tax brackets (2026). It does not include social security (EFKA) contributions or business expenses, which vary by individual setup.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  function calculateTax(taxableIncome: number): number {
+    let tax = 0;
+
+    // 2026 brackets (Law 5246/2025)
+    // Bracket 1: 0 - 10,000 (9%)
+    if (taxableIncome > 0) {
+      tax += Math.min(taxableIncome, 10000) * 0.09;
+    }
+    // Bracket 2: 10,001 - 20,000 (20%)
+    if (taxableIncome > 10000) {
+      tax += Math.min(taxableIncome - 10000, 10000) * 0.20;
+    }
+    // Bracket 3: 20,001 - 30,000 (26%)
+    if (taxableIncome > 20000) {
+      tax += Math.min(taxableIncome - 20000, 10000) * 0.26;
+    }
+    // Bracket 4: 30,001 - 40,000 (34%)
+    if (taxableIncome > 30000) {
+      tax += Math.min(taxableIncome - 30000, 10000) * 0.34;
+    }
+    // Bracket 5: 40,001 - 60,000 (39%)
+    if (taxableIncome > 40000) {
+      tax += Math.min(taxableIncome - 40000, 20000) * 0.39;
+    }
+    // Bracket 6: 60,001+ (44%)
+    if (taxableIncome > 60000) {
+      tax += (taxableIncome - 60000) * 0.44;
+    }
+
+    return tax;
+  }
+
+  function formatCurrency(value: number): string {
+    return new Intl.NumberFormat('en-IE', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 }).format(value);
+  }
+
+  function formatPercent(value: number): string {
+    return (value * 100).toFixed(1) + '%';
+  }
+
+  function updateCalculator() {
+    const input = document.getElementById('income-input') as HTMLInputElement;
+    if (!input) return;
+    
+    let grossIncome = parseFloat(input.value) || 0;
+    
+    // Standard Tax (Full Income)
+    const standardTaxAmount = calculateTax(grossIncome);
+    const standardNetAmount = grossIncome - standardTaxAmount;
+    const standardEffectiveRate = grossIncome > 0 ? standardTaxAmount / grossIncome : 0;
+    
+    // 5C Tax (50% Exempt)
+    const taxableIncome5C = grossIncome / 2;
+    const taxAmount5C = calculateTax(taxableIncome5C);
+    const netAmount5C = grossIncome - taxAmount5C;
+    const effectiveRate5C = grossIncome > 0 ? taxAmount5C / grossIncome : 0;
+    
+    // Savings
+    const annualSavings = standardTaxAmount - taxAmount5C;
+    const sevenYearSavings = annualSavings * 7;
+    
+    // Update DOM
+    document.getElementById('standard-tax')!.innerText = formatCurrency(standardTaxAmount);
+    document.getElementById('standard-rate')!.innerText = formatPercent(standardEffectiveRate);
+    document.getElementById('standard-net')!.innerText = formatCurrency(standardNetAmount);
+    
+    document.getElementById('5c-tax')!.innerText = formatCurrency(taxAmount5C);
+    document.getElementById('5c-rate')!.innerText = formatPercent(effectiveRate5C);
+    document.getElementById('5c-net')!.innerText = formatCurrency(netAmount5C);
+    
+    document.getElementById('savings-amount')!.innerText = '+' + formatCurrency(annualSavings);
+    document.getElementById('savings-7years')!.innerText = formatCurrency(sevenYearSavings);
+  }
+
+  // Init
+  const incomeInput = document.getElementById('income-input');
+  if (incomeInput) {
+    incomeInput.addEventListener('input', updateCalculator);
+    // Initial run
+    updateCalculator();
+  }
+</script>

@@ -1,0 +1,52 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const allGuides = await getCollection('guides');
+const sortedGuides = allGuides.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<Layout title="Knowledge Hub | Taxomade" description="Everything you need to know about relocating, living, and working in Southern Europe. Expert guides on the Digital Nomad Visa, 5C Tax Break, and AFM." image="/images/dnv_guide_hero_1782580745879.png">
+  <div class="pt-32 pb-24 min-h-screen bg-slate-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <!-- Header -->
+      <div class="text-center max-w-3xl mx-auto mb-16">
+        <h1 class="text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight leading-tight">
+          Taxomade Knowledge Hub
+        </h1>
+        <p class="text-xl text-slate-600">
+          Everything you need to know about relocating, living, and working in Southern Europe.
+        </p>
+      </div>
+
+      <!-- Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        {sortedGuides.map(guide => (
+          <a href={`/guides/${guide.id}`} class="group flex flex-col bg-white rounded-2xl p-8 border border-slate-200 hover:border-blue-200 hover:shadow-lg transition-all duration-300">
+            <div class="flex items-center text-xs font-bold text-slate-500 mb-4 uppercase tracking-wider">
+              <span class="text-blue-800 bg-blue-50 px-2 py-1 rounded">{guide.data.category}</span>
+              <span class="mx-2">•</span>
+              <time datetime={guide.data.pubDate.toISOString()}>
+                {guide.data.pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+              </time>
+            </div>
+            <h2 class="text-2xl font-bold text-slate-900 mb-4 group-hover:text-blue-800 transition-colors">
+              {guide.data.title}
+            </h2>
+            <p class="text-slate-600 flex-grow">
+              {guide.data.description}
+            </p>
+            <div class="mt-8 flex items-center text-sm font-bold text-blue-800">
+              Read Guide
+              <svg class="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+            </div>
+          </a>
+        ))}
+      </div>
+      
+    </div>
+  </div>
+  <Footer />
+</Layout>

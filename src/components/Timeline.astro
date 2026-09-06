@@ -1,14 +1,14 @@
 ---
 ---
-<section id="how-it-works" class="py-20 bg-white overflow-hidden border-b border-slate-100">
+<section id="how-it-works" class="py-12 md:py-20 bg-white overflow-hidden border-b border-slate-100">
   <div class="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="text-center mb-28">
+    <div class="text-center mb-12 md:mb-28">
       <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4 uppercase tracking-tight">Our Services</h2>
-      <p class="text-lg text-slate-600 max-w-2xl mx-auto">Book exactly what you need. Choose individual services like just the Tax Number or Visa, or let us handle your entire relocation from A to Z.</p>
+      <p class="text-base md:text-lg text-slate-600 max-w-2xl mx-auto">Book exactly what you need. Choose individual services like just the Tax Number or Visa, or let us handle your entire relocation from A to Z.</p>
     </div>
 
     <!-- Timeline Container -->
-    <div class="relative max-w-[1400px] mx-auto mt-24">
+    <div class="relative max-w-6xl mx-auto mt-12 md:mt-16">
       
       <!-- Wavy Dashed SVG Line (Hidden on mobile) -->
       <div class="hidden md:block absolute top-[80px] left-0 w-full h-[200px] z-0 opacity-20 pointer-events-none">
@@ -17,143 +17,115 @@
         </svg>
       </div>
 
-      <!-- Visual Bracket for Non-EU -->
-      <div class="hidden lg:block absolute top-[-60px] left-[1%] w-[18%] h-[20px] border-t-[3px] border-l-[3px] border-r-[3px] border-dashed border-blue-300 rounded-t-xl z-0">
-        <div class="absolute -top-6 left-1/2 -translate-x-1/2 bg-blue-600 px-6 py-2 text-sm md:text-base font-black text-white tracking-widest whitespace-nowrap shadow-md rounded-full">NON-EU</div>
-      </div>
-      <!-- Standard Path Label -->
-      <div class="hidden lg:block absolute top-[-60px] left-[21%] right-[1%] h-[20px] border-t-[3px] border-l-[3px] border-r-[3px] border-solid border-slate-800 rounded-t-xl z-0">
-        <div class="absolute -top-6 left-1/2 -translate-x-1/2 bg-slate-800 px-6 py-2 text-sm md:text-base font-black text-white tracking-widest whitespace-nowrap shadow-md rounded-full">EU / NON-EU</div>
-      </div>
-
-      <div class="grid grid-cols-1 md:grid-cols-5 gap-4 lg:gap-8 relative z-10 pt-8">
+      <div class="flex flex-wrap justify-center gap-4 md:gap-6 relative z-10 pt-4">
         
         <!-- Step 1: Visa -->
-        <div class="flex flex-col h-full">
-          <div id="timeline-step-visa" class="bg-blue-50 p-6 lg:p-8 pt-16 rounded-2xl border-2 border-blue-200 shadow-sm relative text-left flex flex-col items-start w-full flex-1 min-h-[480px] hover:-translate-y-2 hover:shadow-xl transition-all duration-300">
-            
-            <div class="absolute top-5 right-5 bg-blue-100 text-blue-700 text-[10px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-md">Pre-arrival</div>
-
-            <h3 class="text-xl md:text-2xl font-black text-slate-900 mb-4 mt-4 pr-20 leading-tight">Digital Nomad Visa</h3>
-            
-            <p class="text-sm text-slate-700 flex-grow leading-relaxed mb-8">
-              Full end-to-end handling of your Digital Nomad Visa application. We collect the documents, submit the file to the Greek consulate, and track the progress until you receive your visa.
-            </p>
-
-            <div class="w-full mt-auto flex flex-col justify-end">
-              <div class="w-full border-t border-blue-200 pt-4 mb-4 min-h-[50px] flex items-center">
-                <span class="inline-flex items-center px-2 py-1.5 rounded-md text-[11px] font-bold bg-blue-100 text-blue-700">
-                  Skipped for EU citizens
-                </span>
-              </div>
-              <a href="/greece/digital-nomad-visa" class="block w-full py-3 text-center border-2 border-blue-200 text-blue-800 font-bold rounded-lg hover:border-blue-800 hover:bg-blue-100 transition-colors">Learn more</a>
+        <div id="timeline-step-visa" class="w-full sm:w-[calc(50%-8px)] lg:w-[calc(33.333%-16px)] bg-blue-50/80 p-5 md:p-6 rounded-3xl border border-blue-100 hover:shadow-xl transition-all duration-300 flex flex-col relative group">
+          <div class="flex justify-between items-start mb-4">
+            <div class="w-10 h-10 bg-blue-600 text-white rounded-xl flex items-center justify-center shadow-sm">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
             </div>
+            <div class="flex flex-col items-end gap-1.5">
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-blue-100 text-blue-700">Pre-arrival</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-blue-100 shadow-sm">Skip for EU Citizens</span>
+            </div>
+          </div>
+          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">Digital Nomad Visa</h3>
+          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">
+            End-to-end handling of your visa application. We collect documents, submit the file to the consulate, and track progress until you receive it.
+          </p>
+          <div class="w-full mt-auto flex justify-end">
+            <a href="/greece/digital-nomad-visa" class="inline-flex items-center text-sm font-bold text-blue-700 hover:text-blue-900 transition-colors group-hover:underline">
+              Learn more <svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            </a>
           </div>
         </div>
 
         <!-- Step 2: AFM -->
-        <div class="flex flex-col h-full">
-          <div class="bg-white p-6 lg:p-8 pt-16 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full flex-1 min-h-[480px] mt-4 md:mt-0 hover:-translate-y-2 hover:shadow-xl transition-all duration-300">
-            
-            <h3 class="text-xl md:text-2xl font-black text-slate-900 mb-4 mt-4 pr-20 leading-tight">Tax Number (AFM)</h3>
-            
-            <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-8">
-              We secure your local tax number (AFM) remotely. It is the absolute foundation for renting an apartment, working, and opening a bank account in Greece.
-            </p>
-
-            <div class="w-full mt-auto flex flex-col justify-end">
-              <div class="w-full border-t border-slate-100 pt-4 mb-4 min-h-[50px] flex items-center">
-                <span class="inline-flex items-center px-2 py-1.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700">
-                  Essential for everyone
-                </span>
-              </div>
-              <a href="/greece/tax-number-afm" class="block w-full py-3 text-center border-2 border-slate-200 text-slate-700 font-bold rounded-lg hover:border-slate-900 hover:text-slate-900 hover:bg-slate-50 transition-colors">Learn more</a>
+        <div class="w-full sm:w-[calc(50%-8px)] lg:w-[calc(33.333%-16px)] bg-emerald-50/80 p-5 md:p-6 rounded-3xl border border-emerald-100 hover:shadow-xl transition-all duration-300 flex flex-col relative group">
+          <div class="flex justify-between items-start mb-4">
+            <div class="w-10 h-10 bg-emerald-500 text-white rounded-xl flex items-center justify-center shadow-sm">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V8a2 2 0 00-2-2h-5m-4 0V5a2 2 0 114 0v1m-4 0a2 2 0 104 0m-5 8a2 2 0 100-4 2 2 0 000 4zm0 0c1.306 0 2.417.835 2.83 2M9 14a3.001 3.001 0 00-2.83 2M15 11h3m-3 4h2"></path></svg>
             </div>
+            <div class="flex flex-col items-end gap-1.5">
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-emerald-100 text-emerald-800">Arrival</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-emerald-100 shadow-sm">Essential for everyone</span>
+            </div>
+          </div>
+          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">Tax Number (AFM)</h3>
+          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">
+            We secure your local tax number remotely. It is the absolute foundation for renting an apartment, working, and opening a bank account in Greece.
+          </p>
+          <div class="w-full mt-auto flex justify-end">
+            <a href="/greece/tax-number-afm" class="inline-flex items-center text-sm font-bold text-emerald-700 hover:text-emerald-900 transition-colors group-hover:underline">
+              Learn more <svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            </a>
           </div>
         </div>
 
         <!-- Step 3: 5C Tax Break -->
-        <div class="flex flex-col h-full">
-          <div id="timeline-step-5c" class="bg-white p-6 lg:p-8 pt-16 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full flex-1 min-h-[480px] mt-4 md:mt-0 hover:-translate-y-2 hover:shadow-xl transition-all duration-300">
-            
-            <h3 class="text-xl md:text-2xl font-black text-slate-900 mb-4 mt-4 pr-20 leading-tight">50% Tax Reduction (5C)</h3>
-            
-            <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-8">
-              We file the complex Article 5C application on your behalf so you legally pay half the income tax for up to 7 years. This is the most prominent tax incentive for digital nomads relocating to Greece.
-            </p>
-
-            <div class="w-full mt-auto flex flex-col justify-end">
-              <div class="w-full border-t border-slate-100 pt-4 mb-4 min-h-[50px] flex items-center">
-                <span class="inline-flex items-center px-2 py-1.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700">
-                  For long-term stays
-                </span>
-              </div>
-              <a href="/greece/50-percent-tax-break" class="block w-full py-3 text-center border-2 border-slate-200 text-slate-700 font-bold rounded-lg hover:border-slate-900 hover:text-slate-900 hover:bg-slate-50 transition-colors">Learn more</a>
+        <div id="timeline-step-5c" class="w-full sm:w-[calc(50%-8px)] lg:w-[calc(33.333%-16px)] bg-orange-50/80 p-5 md:p-6 rounded-3xl border border-orange-100 hover:shadow-xl transition-all duration-300 flex flex-col relative group">
+          <div class="flex justify-between items-start mb-4">
+            <div class="w-10 h-10 bg-orange-500 text-white rounded-xl flex items-center justify-center shadow-sm">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
             </div>
+            <div class="flex flex-col items-end gap-1.5">
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-orange-100 text-orange-800">Tax Setup</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-orange-100 shadow-sm">For long-term stays</span>
+            </div>
+          </div>
+          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">50% Tax Reduction</h3>
+          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">
+            We file the complex Article 5C application so you legally pay half the income tax for up to 7 years. The best incentive for remote workers.
+          </p>
+          <div class="w-full mt-auto flex justify-end">
+            <a href="/greece/50-percent-tax-break" class="inline-flex items-center text-sm font-bold text-orange-700 hover:text-orange-900 transition-colors group-hover:underline">
+              Learn more <svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            </a>
           </div>
         </div>
 
-        <!-- Step 4 & 5 Container: Ongoing -->
-        <div class="md:col-span-2 flex flex-col h-full relative mt-12 md:mt-0">
-          
-          <!-- Shared Background Panel -->
-          <div class="absolute -top-4 -bottom-4 -right-4 -left-2 lg:-top-6 lg:-bottom-6 lg:-right-6 lg:-left-4 bg-slate-100 border border-slate-300 rounded-[2.5rem] -z-10 block"></div>
-          
-          <!-- Ongoing Phase Label -->
-          <div class="absolute -top-7 lg:-top-9 left-1/2 -translate-x-1/2 bg-slate-100 px-6 py-1.5 rounded-full text-xs md:text-sm font-black text-slate-700 border border-slate-300 shadow-sm block whitespace-nowrap z-20">
-            ONGOING PHASE
-          </div>
-
-          <!-- OR Indicator -->
-          <div class="flex absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-8 h-8 md:w-10 md:h-10 rounded-full bg-white text-slate-500 font-black text-[10px] md:text-xs items-center justify-center z-20 border-2 border-slate-200 shadow-sm">
-            OR
-          </div>
-
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-8 flex-1">
-            
-            <!-- Step 4: Bookkeeping -->
-            <div id="timeline-step-bookkeeping" class="bg-white p-6 lg:p-8 pt-16 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full flex-1 min-h-[480px] hover:-translate-y-2 hover:shadow-xl transition-all duration-300">
-              
-              <div class="absolute top-5 right-5 bg-blue-100 text-blue-700 text-[10px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-md">Ongoing</div>
-
-              <h3 class="text-xl md:text-2xl font-black text-slate-900 mb-4 mt-4 pr-20 leading-tight">Registration & Bookkeeping</h3>
-              
-              <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-8">
-                Monthly accounting, electronic invoicing (myDATA), EFKA contributions, and VAT fully managed by local certified accountants in English.<br><br>
-                <strong>Looking to start a company?</strong> We also handle the full setup of your Greek Private Company (I.K.E.).
-              </p>
-
-              <div class="w-full mt-auto flex flex-col justify-end">
-                <div class="w-full border-t border-slate-100 pt-4 mb-4 min-h-[50px] flex items-center">
-                  <span class="inline-flex items-center px-2 py-1.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700">
-                    For freelancers & founders
-                  </span>
-                </div>
-                <a href="/greece/ongoing-bookkeeping" class="block w-full py-3 text-center border-2 border-slate-200 text-slate-700 font-bold rounded-lg hover:border-slate-900 hover:text-slate-900 hover:bg-slate-50 transition-colors">Learn more</a>
-              </div>
+        <!-- Step 4: Bookkeeping -->
+        <div id="timeline-step-bookkeeping" class="w-full sm:w-[calc(50%-8px)] lg:w-[calc(33.333%-16px)] bg-purple-50/80 p-5 md:p-6 rounded-3xl border border-purple-100 hover:shadow-xl transition-all duration-300 flex flex-col relative group">
+          <div class="flex justify-between items-start mb-4">
+            <div class="w-10 h-10 bg-purple-600 text-white rounded-xl flex items-center justify-center shadow-sm">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
             </div>
-
-            <!-- Step 5: Annual Tax Return -->
-            <div id="timeline-step-taxreturn" class="bg-white p-6 lg:p-8 pt-16 rounded-2xl border border-slate-200 shadow-sm relative text-left flex flex-col items-start w-full flex-1 min-h-[480px] hover:-translate-y-2 hover:shadow-xl transition-all duration-300">
-              
-              <div class="absolute top-5 right-5 bg-blue-100 text-blue-700 text-[10px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-md">Ongoing</div>
-
-              <h3 class="text-xl md:text-2xl font-black text-slate-900 mb-4 mt-4 pr-20 leading-tight">Annual Tax Return</h3>
-              
-              <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-8">
-                Yearly filing of your income tax return in Greece, ongoing income optimization, and tax clearance certificates. Fully compliant and stress-free.
-              </p>
-
-              <div class="w-full mt-auto flex flex-col justify-end">
-                <div class="w-full border-t border-slate-100 pt-4 mb-4 min-h-[50px] flex items-center">
-                  <span class="inline-flex items-center px-2 py-1.5 rounded-md text-[11px] font-bold bg-slate-100 text-slate-700">
-                    For remote employees
-                  </span>
-                </div>
-                <a href="/greece/ongoing-bookkeeping" class="block w-full py-3 text-center border-2 border-slate-200 text-slate-700 font-bold rounded-lg hover:border-slate-900 hover:text-slate-900 hover:bg-slate-50 transition-colors">Learn more</a>
-              </div>
+            <div class="flex flex-col items-end gap-1.5">
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-purple-100 text-purple-800">Ongoing</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-purple-100 shadow-sm">Freelancers & founders</span>
             </div>
+          </div>
+          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">Monthly Bookkeeping</h3>
+          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">
+            Accounting, e-invoicing (myDATA), EFKA, and VAT securely handled by our local team in English. We also handle Private Company (IKE) setups.
+          </p>
+          <div class="w-full mt-auto flex justify-end">
+            <a href="/greece/ongoing-bookkeeping" class="inline-flex items-center text-sm font-bold text-purple-700 hover:text-purple-900 transition-colors group-hover:underline">
+              Learn more <svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            </a>
+          </div>
+        </div>
 
+        <!-- Step 5: Annual Tax Return -->
+        <div id="timeline-step-taxreturn" class="w-full sm:w-[calc(50%-8px)] lg:w-[calc(33.333%-16px)] bg-sky-50/80 p-5 md:p-6 rounded-3xl border border-sky-100 hover:shadow-xl transition-all duration-300 flex flex-col relative group">
+          <div class="flex justify-between items-start mb-4">
+            <div class="w-10 h-10 bg-sky-500 text-white rounded-xl flex items-center justify-center shadow-sm">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            </div>
+            <div class="flex flex-col items-end gap-1.5">
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-sky-100 text-sky-800">Ongoing</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-sky-100 shadow-sm">For remote employees</span>
+            </div>
+          </div>
+          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">Annual Tax Return</h3>
+          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">
+            Yearly filing of your income tax return in Greece, ongoing income optimization, and tax clearance certificates. Fully compliant and stress-free.
+          </p>
+          <div class="w-full mt-auto flex justify-end">
+            <a href="/greece/ongoing-bookkeeping" class="inline-flex items-center text-sm font-bold text-sky-700 hover:text-sky-900 transition-colors group-hover:underline">
+              Learn more <svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            </a>
           </div>
         </div>
 

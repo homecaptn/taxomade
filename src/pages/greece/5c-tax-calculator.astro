@@ -1,0 +1,64 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import TaxCalculator from '../../components/TaxCalculator.astro';
+import CallToAction from '../../components/Contact.astro'; // Assuming there is a CTA or Contact component. We'll check later.
+---
+
+<Layout 
+  title="Greece 50% Tax Break Calculator (Article 5C) | Taxomade"
+  description="Calculate your exact tax savings with the Greek Article 5C tax incentive. Find out how much you can save on your income tax by moving to Greece."
+  image="/images/guides/tax_break_hero.png"
+>
+  <main class="pt-24 pb-16 bg-slate-50">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <!-- Hero Section -->
+      <div class="text-center mb-12">
+        <div class="inline-flex items-center px-3 py-1 rounded-full bg-blue-100 text-blue-800 text-sm font-bold tracking-wide uppercase mb-4">
+          Article 5C Calculator
+        </div>
+        <h1 class="text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight">Calculate Your <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">50% Tax Break</span></h1>
+        <p class="text-lg md:text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">
+          Greece offers one of the most generous tax incentives in Europe. Enter your gross annual income below to see exactly how much you can save under the Article 5C regime.
+        </p>
+      </div>
+
+      <!-- The Calculator -->
+      <TaxCalculator />
+      
+      <!-- Educational Content -->
+      <div class="mt-16 prose prose-slate max-w-none prose-headings:font-bold prose-a:text-blue-600">
+        <h2>How the 50% Tax Exemption Works</h2>
+        <p>
+          The Greek government introduced Article 5C of the Income Tax Code to attract foreign talent, remote workers, and digital nomads (with specific visas). Under this regime, <strong>50% of your Greek-sourced employment or freelance income is completely exempt from income tax</strong> and the special solidarity contribution for up to seven consecutive years.
+        </p>
+        
+        <h3>Who is eligible?</h3>
+        <ul>
+          <li>You must not have been a Greek tax resident for 5 of the past 6 years.</li>
+          <li>You must transfer your tax residency from an EU/EEA state or a country with a tax cooperation agreement with Greece.</li>
+          <li>You must start new employment in Greece or set up a new sole proprietorship (freelance business) in Greece.</li>
+          <li>You must declare your intent to stay in Greece for at least two years.</li>
+        </ul>
+        
+        <div class="bg-blue-50 border-l-4 border-blue-600 p-4 my-6 rounded-r-lg">
+          <p class="text-sm text-blue-800 m-0 font-medium">
+            <strong>Important Note on Digital Nomad Visas:</strong> If you are a Non-EU citizen planning to use the Digital Nomad Visa (DNV), you are generally <em>not eligible</em> for this tax break, as the DNV prohibits you from entering the Greek labor market or setting up a local freelance business. EU citizens can apply easily.
+          </p>
+        </div>
+
+        <h3>How the math works</h3>
+        <p>
+          The standard Greek income tax is progressive, scaling from 9% up to 44%. If you earn €60,000, you are normally taxed on the full €60,000, pushing a large chunk of your income into the 44% bracket. 
+        </p>
+        <p>
+          Under Article 5C, you are only taxed on €30,000. This not only halves your taxable base but also keeps your income entirely out of the highest tax brackets, resulting in a dramatically lower effective tax rate.
+        </p>
+        
+        <p class="mt-8">
+          <a href="/guides/50-percent-tax-break-article-5c">Read the full guide on Article 5C here &rarr;</a>
+        </p>
+      </div>
+    </div>
+  </main>
+</Layout>

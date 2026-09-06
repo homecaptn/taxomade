@@ -1,0 +1,71 @@
+---
+import { getCollection } from 'astro:content';
+
+export interface Props {
+  category?: 'dnv' | 'afm' | 'tax' | 'bookkeeping';
+  title?: string;
+  subtitle?: string;
+  /** Slugs that are always shown first, regardless of how new other guides are. */
+  pinned?: string[];
+}
+
+const { category, title = "Still researching?", subtitle = "Read our latest guides and resources on this topic.", pinned = [] } = Astro.props;
+
+// Fetch guides and filter by category
+const allGuides = await getCollection('guides');
+
+// Pinned guides keep their given order and never drop out of the list
+const pinnedGuides = pinned
+  .map(slug => allGuides.find(guide => guide.id === slug))
+  .filter(guide => guide !== undefined);
+
+// Fill the remaining slots with the latest guides of this category
+const latestGuides = allGuides
+  .filter(guide => category ? guide.data.category === category : true)
+  .filter(guide => !pinned.includes(guide.id))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const categoryGuides = [...pinnedGuides, ...latestGuides].slice(0, 3);
+
+// If no guides exist for this category, don't render anything
+if (categoryGuides.length === 0) {
+  return null;
+}
+---
+
+<div class="py-16 md:py-24 bg-white border-t border-slate-100">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="mb-12 text-center">
+      <h2 class="text-2xl md:text-3xl font-black text-slate-900 mb-4">{title}</h2>
+      <p class="text-slate-600">{subtitle}</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {categoryGuides.map(guide => (
+        <a href={`/guides/${guide.id}`} class="group block bg-slate-50 rounded-2xl p-6 border border-slate-100 hover:border-blue-200 hover:bg-blue-50/50 transition-all duration-200">
+          <div class="flex items-center text-xs font-bold text-slate-500 mb-4 uppercase tracking-wider">
+            <span class="text-blue-800 bg-blue-100 px-2 py-1 rounded">{guide.data.category}</span>
+            <span class="mx-2">•</span>
+            <time datetime={guide.data.pubDate.toISOString()}>
+              {guide.data.pubDate.toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric'
+              })}
+            </time>
+          </div>
+          <h3 class="text-xl font-bold text-slate-900 mb-3 group-hover:text-blue-800 transition-colors">
+            {guide.data.title}
+          </h3>
+          <p class="text-slate-600 text-sm line-clamp-3">
+            {guide.data.description}
+          </p>
+          <div class="mt-6 flex items-center text-sm font-bold text-blue-800">
+            Read Guide
+            <svg class="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</div>

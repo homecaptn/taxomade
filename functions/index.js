@@ -36,7 +36,7 @@ exports.submitContactForm = onRequest({ cors: true, maxInstances: 10 }, async (r
 
       // 1. Send the lead notification to info@taxomade.com
       const leadMailOptions = {
-        from: '"Taxomade Website" <info@taxomade.com>',
+        from: '"taxomade® Website" <info@taxomade.com>',
         to: "info@taxomade.com",
         subject: "New Contact Request - taxomade.com",
         text: `
@@ -61,10 +61,10 @@ ${configurator_data || 'None'}
       // 2. Send the auto-response to the customer
       if (_autoresponse) {
         const customerMailOptions = {
-          from: '"Taxomade" <info@taxomade.com>',
+          from: '"taxomade®" <info@taxomade.com>',
           to: email,
           replyTo: "info@taxomade.com",
-          subject: "We received your request - Taxomade",
+          subject: "We received your request - taxomade®",
           text: _autoresponse,
         };
 

@@ -22,13 +22,13 @@
         <input type="hidden" id="contact-config-data" name="configurator_data" value="" />
         <input type="hidden" name="_autoresponse" value="Hi there,
 
-Thank you for reaching out to Taxomade! We've received your request and one of us will personally get back to you very shortly.
+Thank you for reaching out to taxomade! We've received your request and one of us will personally get back to you very shortly.
 
 In the meantime, sit back and relax — handling the paperwork is our job. We're looking forward to helping you make your move to Greece simple and stress-free.
 
 Talk soon,
 Leonard & Manoli
-Taxomade™ — The Tax Nomad Setup
+taxomade® — The Tax Nomad Setup
 info@taxomade.com">
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -72,6 +72,7 @@ info@taxomade.com">
             Book a free call
           </a>
         </div>
+        <p class="text-center text-xs text-slate-500 mt-2">We reply within hours, 7 days a week.</p>
       </form>
     </div>
   </div>
@@ -89,7 +90,7 @@ info@taxomade.com">
         
         // Push GTM event as requested
         window.dataLayer = window.dataLayer || [];
-        window.dataLayer.push({'event': 'form_submit_success'});
+        window.dataLayer.push({'event': 'generate_lead'});
 
         const originalBtnText = submitBtn.innerText;
         submitBtn.innerText = 'Sending...';

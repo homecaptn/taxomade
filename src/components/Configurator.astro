@@ -110,7 +110,7 @@
 
           <div class="text-center space-y-4">
             <button type="button" onclick="document.getElementById('contact')?.scrollIntoView({behavior: 'smooth'})" class="inline-flex w-full sm:w-auto items-center justify-center px-8 py-3.5 text-base font-medium rounded-lg text-white bg-blue-800 hover:bg-blue-900 shadow-md transition-all duration-200 cursor-pointer">
-              Request your quote
+              Discuss this setup
             </button>
             <p class="text-sm text-slate-500" id="result-hint">Scroll down to see more details about these services.</p>
           </div>
@@ -298,7 +298,7 @@
     }
 
     // 3. 5C
-    if (answers.duration === 'long') {
+    if (answers.duration === 'long' && answers.origin !== 'noneu') {
       if (answers.income === 'high' || answers.income === 'highest') {
         html += createResultItem('50% Tax Break (5C)', 'Strongly recommended — the 5C regime exempts 50% of your Greek income from tax for 7 years. At your income this saves you several thousand euros per year. Apply by July 31.', true);
       } else if (answers.income === 'mid') {
@@ -310,7 +310,7 @@
 
     // 4. Bookkeeping
     if (answers.duration === 'long') {
-      if (answers.employment === 'freelance') {
+      if (answers.employment === 'freelance' && answers.origin !== 'noneu') {
         html += createResultItem('Full Bookkeeping', 'Recommended — monthly bookkeeping & tax compliance (myDATA, EFKA, VAT, year-end, and the mandatory e-invoicing from Oct 2026). We handle it all in English.', true);
       } else {
         html += createResultItem('Annual Tax Return', "You'll need an annual Greek tax return — we handle that for you.");
