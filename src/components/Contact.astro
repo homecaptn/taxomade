@@ -112,6 +112,12 @@ info@taxomade.com">
             form.style.display = 'none';
             successMsg.classList.remove('hidden');
             successMsg.classList.add('flex');
+
+            // Meta Pixel Lead conversion on the thank-you state.
+            // Queues if marketing consent is still pending; dropped entirely if refused.
+            if (typeof window.fbq === 'function') {
+              window.fbq('track', 'Lead');
+            }
           } else {
             alert('Something went wrong. Please try again.');
             submitBtn.innerText = originalBtnText;

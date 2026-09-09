@@ -21,6 +21,8 @@
   function grantConsent() {
     window.dataLayer = window.dataLayer || [];
     window.dataLayer.push({ 'event': 'cookie_consent_granted' });
+    // Lets the Meta Pixel load fbevents.js and flush its queued events.
+    window.dispatchEvent(new Event('taxomade:marketing-consent'));
   }
 
   function initCookieBanner() {
