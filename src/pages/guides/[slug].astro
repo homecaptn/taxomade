@@ -1,7 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
-import Footer from '../../components/Footer.astro';
 
 export async function getStaticPaths() {
   const guideEntries = await getCollection('guides');
@@ -110,5 +109,4 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
     </div>
   </div>
 
-  <Footer />
 </Layout>
