@@ -80,10 +80,6 @@ info@taxomade.com" />
       form.addEventListener('submit', async (e) => {
         e.preventDefault();
         
-        // Push GTM event as requested
-        window.dataLayer = window.dataLayer || [];
-        window.dataLayer.push({'event': 'generate_lead'});
-
         const originalBtnText = submitBtn.innerText;
         submitBtn.innerText = 'Sending...';
         submitBtn.disabled = true;
@@ -104,6 +100,11 @@ info@taxomade.com" />
             form.style.display = 'none';
             successMsg.classList.remove('hidden');
             successMsg.classList.add('flex');
+
+            // Conversion events fire here, on the success state, so that failed
+            // or abandoned submissions are not counted as leads.
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({'event': 'generate_lead'});
 
             // Meta Pixel Lead conversion on the thank-you state.
             // Queues if marketing consent is still pending; dropped entirely if refused.
