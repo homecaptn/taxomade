@@ -92,7 +92,7 @@ The rollout is phased: large businesses came first in early 2026, and all other 
 
 ## What we charge at taxomade
 
-Ongoing bookkeeping for freelancers is **€119 per month**, and cross-border invoicing is exactly what it's built for: myDATA transmission, VAT returns (monthly or quarterly), VIES registration and recapitulative statements, and your annual income tax declaration — all included, in English.
+Ongoing bookkeeping for freelancers is **from €89 per month** (all-in, depending on volume), and cross-border invoicing is exactly what it's built for: myDATA transmission, VAT returns (monthly or quarterly), VIES registration and recapitulative statements, and your annual income tax declaration — all included, in English.
 
 If you're setting up now, or your current accountant hasn't mentioned half the obligations on this page, see what's included in our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) or [book a free call](/call).
 

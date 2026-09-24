@@ -51,7 +51,7 @@ Each employee adds roughly €10–€25 per month.
 
 ## What we charge at taxomade
 
-Full transparency, since that's the point of this article: our [ongoing bookkeeping for freelancers](/greece/ongoing-bookkeeping) is **€119 per month** — all core filings included: myDATA handling, VAT declarations, your annual tax return, and communication in English, German, Spanish or Greek, with fast response times as standard. No per-declaration surprises. Company bookkeeping is quoted individually based on volume.
+Full transparency, since that's the point of this article: our [ongoing bookkeeping for freelancers](/greece/ongoing-bookkeeping) is **from €89 per month** (all-in, depending on volume) — all core filings included: myDATA handling, VAT declarations, your annual tax return, and communication in English, German, Spanish or Greek, with fast response times as standard. No per-declaration surprises. Company bookkeeping is quoted individually based on volume.
 
 ## Frequently asked questions
 
