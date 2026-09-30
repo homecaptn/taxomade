@@ -88,7 +88,7 @@ If you're registering as a freelancer now, plan for monthly VAT returns from day
 
 Greece is rolling out mandatory e-invoicing on top of myDATA — and the two are not the same thing. myDATA is the reporting layer (your invoice data reaches AADE); the e-invoicing mandate is about **how the invoice is issued**: through a certified e-invoicing provider or AADE's free tools (timologio or myDATAapp).
 
-The rollout is phased: large businesses came first in early 2026, and all other businesses — freelancers included — must comply from **October 1, 2026**, with a transition period to the end of 2026. Under the current framework, the mandate covers domestic B2B invoices and invoices to non-EU businesses; for invoices to EU-based businesses, e-invoicing remains optional. If you're setting up now, choose a compliant invoicing channel from the start — one migration you can simply skip.
+The rollout is phased: large businesses came first in early 2026, and all other businesses — freelancers included — must comply from **October 1, 2026**, with a transition period to the end of 2026. Under the current framework, the mandate covers domestic B2B invoices and invoices to non-EU businesses; for invoices to EU-based businesses, e-invoicing remains optional. If you're setting up now, choose a compliant invoicing channel from the start — one migration you can simply skip. For a plain-English explanation, see our guide on [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
 
 ## What we charge at taxomade
 
