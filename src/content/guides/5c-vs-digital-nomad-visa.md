@@ -59,8 +59,3 @@ While the Greek Golden Visa gives you residency, it generally **does not** give 
 Don't be fooled by agencies selling a "DNV + 50% Tax Break" package to non-EU citizens. If you are on a DNV, you will pay standard progressive Greek income taxes on your global income once you become a tax resident. 
 
 If you want to see exactly how much you would save if you *did* qualify for 5C (or if you are an EU citizen), try our [Article 5C Tax Calculator](/greece/5c-tax-calculator).
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

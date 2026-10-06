@@ -57,8 +57,3 @@ You have massive *passive foreign income* (dividends, capital gains). If you ear
 Greece caters to both the working digital nomad and the retiring billionaire. 
 
 If you are a remote worker or freelancer pulling in a high active income, **Article 5C** is almost certainly the better, more accessible choice. If your wealth is vast, passive, and generated outside of Greece, the **Non-Dom regime** offers an unparalleled tax shield.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

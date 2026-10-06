@@ -56,8 +56,3 @@ The hard deadline to apply is **July 31st** of the year in which you assume your
 ## Summary
 
 The Article 5C tax break is one of the most generous incentives in Europe, effectively halving the progressive income tax burden for high earners. However, it requires careful legal and accounting structuring to ensure your foreign income is correctly channeled through Greek entities to qualify.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

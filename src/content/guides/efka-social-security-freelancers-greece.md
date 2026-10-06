@@ -52,6 +52,3 @@ Coupled with the 50% income tax break, a freelancer earning €80,000 a year in 
 
 > [!TIP]
 > Navigating the EFKA registration and paying your monthly stubs on time is handled by your local accountant. Ensure you have a reliable bookkeeping partner to keep your social security active and avoid late fees.
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only. EFKA rates are adjusted annually by the Greek state. Please consult a qualified accountant before making financial decisions.

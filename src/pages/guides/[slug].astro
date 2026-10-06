@@ -20,6 +20,9 @@ const serviceUrls = {
   bookkeeping: '/greece/ongoing-bookkeeping',
 };
 const backUrl = serviceUrls[entry.data.category] || '/';
+const asOfDate = entry.data.updatedDate || entry.data.pubDate;
+const asOf = asOfDate.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+const checkUrl = `https://wa.me/491743426818?text=${encodeURIComponent(`Hi taxomade, I read your guide "${entry.data.title}" and would like a free check of my situation.`)}`;
 const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -57,7 +60,7 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
 } : null;
 ---
 
-<Layout title={`${entry.data.title} | Taxomade Knowledge Hub`} description={entry.data.description} image={entry.data.image || '/images/logo.svg'}>
+<Layout title={`${entry.data.title} | taxomade Knowledge Hub`} description={entry.data.description} image={entry.data.image || '/images/logo.svg'}>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)}></script>
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)}></script>}
   <div class="pt-32 pb-16 bg-white min-h-screen">
@@ -81,7 +84,7 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
           {entry.data.description}
         </p>
         <div class="text-sm font-medium text-slate-500">
-          Published on <time datetime={entry.data.pubDate.toISOString()}>
+          By the taxomade team · Published on <time datetime={entry.data.pubDate.toISOString()}>
             {entry.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
           </time>
           {entry.data.updatedDate && (
@@ -104,13 +107,23 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
         <Content />
       </article>
 
-      <!-- Bottom CTA -->
-      <div class="mt-16 bg-slate-50 p-8 rounded-2xl border border-slate-100 text-center">
-        <h3 class="text-2xl font-bold text-slate-900 mb-3">Ready to take the next step?</h3>
-        <p class="text-slate-600 mb-6">Let us handle the bureaucracy so you can focus on what matters.</p>
-        <a href={backUrl} class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200 shadow-md">
-          View our Service
-        </a>
+      <!-- Closing line + CTA -->
+      <p class="mt-12 text-slate-600 italic">
+        Rules as of {asOf}. Every situation is different — <a href={checkUrl} target="_blank" rel="noopener noreferrer" class="text-blue-800 font-semibold not-italic hover:text-blue-900">we check yours for free</a>.
+        <span class="block mt-2 text-sm not-italic text-slate-500">How we research and update our guides: <a href="/editorial-standards" class="underline hover:text-slate-700">editorial standards</a>.</span>
+      </p>
+
+      <div class="mt-10 bg-slate-50 p-8 rounded-2xl border border-slate-100 text-center">
+        <h3 class="text-2xl font-bold text-slate-900 mb-3">Want us to check your situation?</h3>
+        <p class="text-slate-600 mb-6">Send us a short message — we reply the same day, in English, German, Spanish or Greek.</p>
+        <div class="flex flex-col sm:flex-row gap-3 justify-center">
+          <a href={checkUrl} target="_blank" rel="noopener noreferrer" data-cta="guide-free-check" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200 shadow-md">
+            Free check via WhatsApp
+          </a>
+          <a href={backUrl} class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-slate-900 bg-white border border-slate-200 hover:border-slate-400 transition-colors duration-200">
+            View our service
+          </a>
+        </div>
       </div>
     </div>
   </div>

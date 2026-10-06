@@ -51,8 +51,3 @@ By registering a local freelance business and utilizing the DNV framework, you c
 If your goal is a short 2-month summer working holiday, a tourist visa (if your passport allows it) might be the practical reality for many, despite the technical grey area of remote work. 
 
 However, if you want to truly relocate, rent a long-term apartment, integrate into the community, and potentially slash your income tax bill, the **Digital Nomad Visa** is the only legal, sustainable route.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

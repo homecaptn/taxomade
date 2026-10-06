@@ -57,8 +57,3 @@ The savings are immense. Because Greek income tax is progressive (scaling up to 
 For example, on a €70,000 income, the standard tax is over €21,000. Under Article 5C, the tax is roughly €7,200. 
 
 Want to see exactly how much you would save? Try our [Article 5C Tax Calculator](/greece/5c-tax-calculator) to run your own numbers.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

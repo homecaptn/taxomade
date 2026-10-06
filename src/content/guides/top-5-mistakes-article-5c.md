@@ -53,8 +53,3 @@ However, attempting to navigate the Greek commercial registry (GEMI), the social
 The Article 5C tax break is incredibly lucrative, but the bureaucracy is a minefield. Start planning your move months in advance, gather your apostilled documents early, and ensure your visa status actually allows you to claim the break.
 
 Want to know exactly what's at stake? Use our [50% Tax Break Calculator](/greece/5c-tax-calculator) to see your potential annual savings.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

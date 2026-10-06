@@ -52,8 +52,3 @@ You do not need to be in Greece to get your AFM. You can authorize a local lawye
 When you are issued an AFM, you should also receive a username and a "Kleidarithmos" (key number) to activate your **TAXISnet** account. 
 
 TAXISnet is the central digital portal for the Greek government. Through it, you will file tax returns, accept rental contracts, and access digital services (like the Gov.gr app). Guard your TAXISnet credentials closely; they are your digital identity in Greece.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

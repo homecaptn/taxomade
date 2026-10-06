@@ -54,8 +54,3 @@ Instead of ignoring it, proactive applicants use this rule to their advantage. B
 ## Summary
 
 The Greek DNV process is manageable, but it demands attention to detail. By securing the correct health insurance, proving your net income accurately, applying from your home country, getting your apostilles in order, and planning your tax strategy, you can ensure a smooth transition to your new life in the Mediterranean.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

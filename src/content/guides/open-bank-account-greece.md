@@ -60,8 +60,3 @@ Unlike many modern fintechs, traditional Greek banks still rely heavily on fees.
 ## Summary
 
 For a smooth relocation, secure your AFM first, get a Greek SIM card (like Cosmote or Vodafone), and prioritize Piraeus or Eurobank if you need to set up your financial life via a representative before you arrive.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

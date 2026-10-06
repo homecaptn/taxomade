@@ -145,7 +145,3 @@ timologio is free. If you issue all your in-scope invoices exclusively through t
 ### What are the penalties for not issuing an e-invoice in Greece?
 
 A missing e-invoice is treated as a missing invoice. For invoices with VAT, the penalty is 50% of the VAT, with a minimum of €250 (single-entry books) or €500 (double-entry books). Without VAT, fixed fines of €500 or €1,000 apply. Repeat violations are penalized more heavily.
-
----
-
-*Rules and dates reflect Greek legislation and AADE announcements as of October 6, 2026. The start date has already been postponed once and may change again. This guide is general information, not tax advice. Individual situations vary; talk to an accountant about your specific setup.*

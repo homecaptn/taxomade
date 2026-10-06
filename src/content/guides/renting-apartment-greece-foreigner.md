@@ -69,8 +69,3 @@ The market moves quickly enough that scams find willing victims every season. Wa
 ## Summary
 
 Secure your AFM first, budget two to three months' rent for move-in, read the contract for *koinochrista* and heating before you read it for the rent, and treat the AADE lease registration as non-negotiable. If you are still deciding where to base yourself, our comparison of [Athens, Thessaloniki and the islands](/guides/athens-vs-thessaloniki-digital-nomads) is the place to start.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

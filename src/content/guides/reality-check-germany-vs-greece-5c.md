@@ -18,7 +18,7 @@ But what if you could keep your German clients and income, move to the Mediterra
 
 Welcome to our first **Reality Check**. In this series, we skip the tax theory and look at realistic scenarios instead. Today: a German freelance developer staying in Berlin versus relocating to Greece under the **Article 5C** tax regime.
 
-One thing before we start: we deliberately use **rounded, conservative figures**. Every situation is different, and we would rather you be positively surprised by your individual calculation than disappointed. If you want your exact numbers, that's what our [free call](/call) is for.
+One thing before we start: we deliberately use **rounded, conservative figures**. Every situation is different, and we would rather you be positively surprised by your individual calculation than disappointed. If you want your exact numbers, [send us a message](https://wa.me/491743426818) — the first check is free.
 
 ## The Scenario: Meet Jonas
 
@@ -67,11 +67,11 @@ This is not a loophole. Article 5C is an official Greek government incentive des
 5. **The German exit matters as much as the Greek entry.** Tax deregistration, the question of remaining ties (Wohnsitz), and the Germany–Greece double taxation treaty need to be handled properly, or Germany may still consider you taxable.
 6. **The paperwork must be right.** You need a Greek tax number (AFM), the correct registrations, and a flawless 5C application submitted to the Greek tax authority (AADE).
 
-*All figures on this page are simplified, rounded illustrations based on the tax rules as of 2026. They are not tax advice, and your individual result will differ. That's the honest version — and it's exactly what we calculate precisely for you before you commit to anything.*
+*All figures on this page are simplified, rounded illustrations based on the tax rules as of 2026. Your individual result will differ. That's the honest version — and it's exactly what we calculate precisely for you before you commit to anything.*
 
 ## How taxomade Can Help
 
 You don't need to fly to Greece to start, and you don't need to fight Greek bureaucracy alone. taxomade handles the entire transition — from securing your tax number remotely, to filing your Article 5C application, to ongoing monthly bookkeeping in English or German. Every filing is handled by our licensed Greek accountants and lawyers.
 
 **Want to know your exact numbers under Article 5C?**
-[Talk to us today](/call) — the first consultation is free.
+[Send us a message](https://wa.me/491743426818) — your first check is free.

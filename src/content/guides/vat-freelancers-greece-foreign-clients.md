@@ -94,7 +94,7 @@ The rollout is phased: large businesses came first in early 2026, and all other 
 
 Ongoing bookkeeping for freelancers is **from €89 per month** (all-in, depending on volume), and cross-border invoicing is exactly what it's built for: myDATA transmission, VAT returns (monthly or quarterly), VIES registration and recapitulative statements, and your annual income tax declaration — all included, in English.
 
-If you're setting up now, or your current accountant hasn't mentioned half the obligations on this page, see what's included in our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) or [book a free call](/call).
+If you're setting up now, or your current accountant hasn't mentioned half the obligations on this page, see what's included in our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) or [send us a message](https://wa.me/491743426818) for a free check.
 
 For context on pricing, see our guide on [accountant prices in Greece](/guides/accountant-cost-greece), and if you're comparing providers, [what to look for in an English-speaking accountant](/guides/english-speaking-accountant-greece).
 
@@ -123,8 +123,3 @@ Businesses that started activity from April 2025 file monthly for roughly their 
 ### Does the €10,000 threshold apply to all services to EU consumers?
 
 No. It applies to TBE services — telecommunications, broadcasting and electronically supplied services — plus intra-EU distance sales of goods. Ordinary live services to EU consumers carry Greek VAT regardless of volume.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** Rules reflect Greek and EU VAT legislation as of September 2026. This guide covers the general rules for ordinary freelance services — several categories follow special place-of-supply rules not detailed here. General information, not tax advice; talk to an accountant before relying on any single rule for your situation.

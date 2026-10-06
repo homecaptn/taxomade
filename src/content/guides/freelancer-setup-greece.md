@@ -59,8 +59,3 @@ However, an IKE carries much higher setup, accounting, and compliance costs. Gen
 ## Summary
 
 Setting up as a freelancer in Greece requires navigating TAXISnet, EFKA, and myDATA. While the bureaucracy can be dense, the monthly costs are predictable, and the tax incentives for foreign workers make it an incredibly attractive jurisdiction for digital nomads.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

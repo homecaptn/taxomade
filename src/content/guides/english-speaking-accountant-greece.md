@@ -58,4 +58,4 @@ If the answers are specific, you've probably found the right partner. If they're
 **Looking for an accountant who ticks every box above?**
 Our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) covers myDATA, VAT declarations and your annual tax return at one fixed monthly rate — with written confirmations and fast response times as standard.
 
-*taxomade works with internationals across Greece — bookkeeping, filings and tax advice in English, German, Spanish and Greek, handled by our state-certified Greek accountant. The first call is free.*
+*taxomade works with internationals across Greece — bookkeeping, filings and tax advice in English, German, Spanish and Greek, handled by our state-certified Greek accountant. Your first check is free.*

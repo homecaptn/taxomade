@@ -49,8 +49,3 @@ If your dream of Greece involves the sea, the islands are calling. Crete and Rho
 - Choose **Athens** if you want maximum convenience, the best internet, and the biggest network of fellow nomads.
 - Choose **Thessaloniki** if you want a walkable, foodie-centric city that is slightly cheaper, provided you don't mind a real winter.
 - Choose **the Islands** (Crete/Rhodes) if lifestyle and nature are your top priorities, and you are prepared for the quiet reality of island winters.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only. Local conditions, coworking prices, and internet infrastructure change frequently. Please verify specific details before relocating.

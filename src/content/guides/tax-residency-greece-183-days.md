@@ -49,8 +49,3 @@ For high-earning digital nomads, structuring your life to *become* a Greek tax r
 ## Summary
 
 Do not let the fear of taxation prevent you from enjoying Greece. Track your days, understand that an AFM is just an ID number, and remember that with proper planning, Greek tax residency can actually be a financial blessing rather than a burden.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.

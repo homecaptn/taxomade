@@ -69,9 +69,4 @@ Many digital nomads move to Greece drawn by rumors of a massive 50% income tax b
 
 To qualify for the 50% tax exemption, you must transition your tax residency to Greece and either be employed by a Greek legal entity or establish yourself as a registered freelancer with a Greek business entity. 
 
-Because the Digital Nomad Visa strictly prohibits you from entering the Greek labor market or setting up a local business, you cannot legally meet the requirements for Article 5C while on a DNV. Simply working remotely on a DNV for your foreign employer does not trigger the tax break. 
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual legal or tax advice. Immigration laws and tax regulations are subject to change. Please consult a qualified professional before making relocation decisions.
+Because the Digital Nomad Visa strictly prohibits you from entering the Greek labor market or setting up a local business, you cannot legally meet the requirements for Article 5C while on a DNV. Simply working remotely on a DNV for your foreign employer does not trigger the tax break.

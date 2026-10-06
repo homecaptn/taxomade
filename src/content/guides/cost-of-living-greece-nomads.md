@@ -55,8 +55,3 @@ When budgeting for Greece, you must factor in the seasons:
 ## Summary
 
 Greece offers immense value for money, incredible food, and a top-tier lifestyle. By budgeting around €1,500 a month, you can enjoy the best of the country without financial stress, leaving plenty of room for weekend trips to the islands.
-
-***
-
-> [!NOTE]
-> **Disclaimer:** This article is for informational purposes only and does not constitute individual financial or tax advice. Prices are estimates based on market conditions and are subject to inflation and seasonal changes.
