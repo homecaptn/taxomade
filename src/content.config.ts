@@ -7,6 +7,7 @@ const guidesCollection = defineCollection({
     title: z.string(),
     description: z.string(),
     pubDate: z.date(),
+    updatedDate: z.date().optional(),
     category: z.enum(['dnv', 'afm', 'tax', 'bookkeeping', 'lifestyle']),
     image: z.string().optional(),
     faq: z.array(z.object({
