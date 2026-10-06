@@ -33,7 +33,7 @@ Greece has fully digitized its invoicing and tax reporting system, known as **my
 
 Every invoice you issue must be transmitted electronically to the myDATA portal in real-time. You cannot simply create a Word document and email it to a client. 
 
-- **E-Invoicing Mandate:** By October 2026, all e-invoicing must conform to the strict European EN16931 format.
+- **E-Invoicing Mandate:** From November 2, 2026, invoices to Greek businesses and to businesses outside the EU must be issued through an AADE-approved e-invoicing provider or AADE's free timologio or myDATAapp. A transition period runs until January 31, 2027. For details, see [our guide on e-invoicing in Greece](/guides/e-invoicing-greece-explained).
 - **Timologio:** The government provides a free online tool called *Timologio* for issuing invoices that automatically sync with myDATA. However, many freelancers prefer commercial accounting software for better usability and English interfaces.
 
 ## 4. Taxes: VAT and Income Tax
