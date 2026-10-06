@@ -20,3 +20,21 @@ jobs:
           channelId: live
           projectId: homecaptn
           target: taxomade
+      - name: Notify Bing & co. via IndexNow
+        continue-on-error: true
+        run: |
+          python3 - <<'EOF'
+          import json, re, urllib.request
+          xml = open('dist/sitemap-0.xml', encoding='utf-8').read()
+          urls = re.findall(r'<loc>(.*?)</loc>', xml)
+          body = json.dumps({
+              "host": "taxomade.com",
+              "key": "1936f6223e3149faab8f9e52f41355b0",
+              "keyLocation": "https://taxomade.com/1936f6223e3149faab8f9e52f41355b0.txt",
+              "urlList": urls,
+          }).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
+                                       headers={"Content-Type": "application/json; charset=utf-8"})
+          with urllib.request.urlopen(req, timeout=30) as r:
+              print("IndexNow:", r.status, "-", len(urls), "URLs submitted")
+          EOF
