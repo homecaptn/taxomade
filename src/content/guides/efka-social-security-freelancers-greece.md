@@ -1,7 +1,8 @@
 ---
 title: "Greek Social Security (EFKA) for Freelancers: Why You Only Pay €150/Month"
-description: "Discover one of the biggest hidden financial benefits of moving to Greece as a freelancer: The EFKA 'starter rate' that caps your social security contributions at just €150–€180 per month."
+description: "Discover one of the biggest hidden financial benefits of moving to Greece as a freelancer: The EFKA 'starter rate' that keeps your social security contributions at about €160 per month in 2026."
 pubDate: 2026-07-14
+updatedDate: 2026-10-08
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 ---
@@ -10,7 +11,7 @@ When digital nomads and remote workers look at relocating to Greece, they are us
 
 If you are a freelancer coming from countries like Germany, France, or Spain, social security contributions can be crippling. In Germany, a successful freelancer can easily pay €800 to €1,000+ per month just for public health insurance and pension. 
 
-In Greece, a newly registered freelancer pays approximately **€150 to €180 per month** for full public healthcare and pension coverage. Here is how the system works.
+In Greece, a newly registered freelancer can pay about **€160 per month** (2026: €150.46 plus a €10 unemployment contribution for most freelancers) for full public healthcare and pension coverage. Here is how the system works.
 
 ## How EFKA Works for Freelancers
 
@@ -19,7 +20,7 @@ EFKA (ΕΦΚΑ) is the unified social security fund in Greece. If you set up a S
 Unlike in many other European countries, your EFKA contributions in Greece **are not a percentage of your income.** Instead, Greece uses a tiered category system. You get to *choose* which category you want to belong to.
 
 ### The Standard Categories
-Every year, you select an insurance category. The lowest standard category costs roughly €240 to €250 per month, while the highest category costs over €600 per month (higher categories result in a higher state pension upon retirement). Regardless of whether you earn €20,000 or €200,000 a year, your social security cost is fixed based on the category you chose.
+Every year, you select an insurance category. The lowest standard category costs €250.77 per month in 2026, while the highest category costs over €600 per month (higher categories result in a higher state pension upon retirement). Regardless of whether you earn €20,000 or €200,000 a year, your social security cost is fixed based on the category you chose.
 
 ## The "Starter Rate" for New Freelancers
 
@@ -27,7 +28,7 @@ Here is where the massive benefit comes in for expats moving to Greece: **The Sp
 
 To encourage entrepreneurship, the Greek government offers a heavily discounted EFKA rate for new businesses. For the **first 5 years** after registering your Sole Proprietorship, you are eligible for the "Starter Category" (Ειδική Κατηγορία).
 
-As of recent rates, this category costs **approximately €150 to €180 per month** (rates adjust slightly each year for inflation, typically around +6%). 
+In 2026, this category costs **€150.46 per month**, plus a €10 unemployment contribution for most freelancers ([EFKA circular 6/2026](https://www.forin.gr/articles/article/88941/efka-egk-6-2026)). The amounts are adjusted every year. You have to apply for this category, and you can use it only once.
 
 This single, low monthly payment covers:
 - **Public Healthcare coverage** (access to state hospitals and subsidized medications).

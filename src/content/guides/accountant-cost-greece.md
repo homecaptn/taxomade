@@ -14,7 +14,7 @@ faq:
     answer: "Yes — accounting costs are a business expense and reduce your taxable income."
 ---
 
-If you're a freelancer, remote worker or small business owner in Greece, an accountant isn't really optional — between myDATA e-invoicing, quarterly VAT declarations and annual returns, the Greek system is built around professional filing. The good news: accounting in Greece costs far less than most internationals expect. Here's what you'll actually pay in 2026 — and more importantly, what you get for it.
+If you're a freelancer, remote worker or small business owner in Greece, an accountant isn't really optional — between myDATA e-invoicing, VAT declarations and annual returns, the Greek system is built around professional filing. The good news: accounting in Greece costs far less than most internationals expect. Here's what you'll actually pay in 2026 — and more importantly, what you get for it.
 
 ## The short answer
 

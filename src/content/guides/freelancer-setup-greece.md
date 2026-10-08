@@ -2,6 +2,7 @@
 title: "Setting up as a Freelancer in Greece: The Complete Guide"
 description: "How to register as a sole proprietor (ατομική επιχείρηση) in Greece, navigate EFKA, and issue invoices via myDATA."
 pubDate: 2026-05-14
+updatedDate: 2026-10-08
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 ---
@@ -22,8 +23,8 @@ The essential steps are:
 
 Unlike some countries where social security scales aggressively with your income, Greece offers a structured tier system for freelancers.
 
-- **EFKA Contributions:** For most freelancers, the mandatory social security and health insurance contributions amount to roughly **€220 per month** (based on the lowest standard tier). 
-- **New Business Discount:** For the first five years of your business, you may be eligible for a reduced EFKA rate of around **€130 per month**.
+- **EFKA Contributions:** In 2026, the lowest regular class is **€250.77 per month**, plus a €10 unemployment contribution for most freelancers.
+- **New Business Discount:** For the first five years of your business, you can apply for a special reduced class of **€150.46 per month** (2026).
 
 Paying your EFKA on time is critical. Payments require a Greek IBAN and must be processed monthly.
 
@@ -39,15 +40,18 @@ Every invoice you issue must be transmitted electronically to the myDATA portal 
 ## 4. Taxes: VAT and Income Tax
 
 **VAT (Value Added Tax):**
-The standard VAT rate in Greece is **24%**. If you are billing clients outside of the EU, or B2B clients within the EU (via the reverse charge mechanism), you often do not need to charge VAT. However, you must still file quarterly VAT returns declaring those zero-rated invoices.
+The standard VAT rate in Greece is **24%**. If you are billing clients outside of the EU, or B2B clients within the EU (via the reverse charge mechanism), you often do not need to charge VAT. However, you must still file VAT returns declaring those invoices: monthly if you started on or after 1 January 2024 (you can switch to quarterly after 24 months), otherwise quarterly.
 
 **Income Tax:**
-Greek income tax for sole proprietors is progressive, ranging from **9% to 44%**. 
+Greek income tax for sole proprietors is progressive, ranging from **9% to 44%**. For income from 2026:
 - 9% up to €10,000
-- 22% from €10,001 to €20,000
-- 28% from €20,001 to €30,000
-- 36% from €30,001 to €40,000
-- 44% for income above €40,000
+- 20% from €10,001 to €20,000
+- 26% from €20,001 to €30,000
+- 34% from €30,001 to €40,000
+- 39% from €40,001 to €60,000
+- 44% for income above €60,000
+
+Lower rates apply to under-30s and parents. Details in [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026).
 
 *Note:* If you qualify for the Article 5C scheme, 50% of your income is entirely exempt from these tax bands.
 

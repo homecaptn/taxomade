@@ -2,6 +2,7 @@
 title: "The True Cost of Living in Greece for Remote Workers"
 description: "An honest, realistic breakdown of monthly expenses for digital nomads living in Greece, from rent and food to taxes."
 pubDate: 2026-06-05
+updatedDate: 2026-10-08
 category: "lifestyle"
 image: "/images/guides/cost_of_living_hero.png"
 ---
@@ -41,8 +42,8 @@ If you prefer an office environment, a hot desk at a local coworking space gener
 ### 6. Health Insurance (Visa Requirement): €30 – €60
 To hold a Digital Nomad Visa, you must carry private health insurance authorized in Greece. Basic policies covering hospitalization and emergencies typically cost between €30 and €60 per month depending on your age.
 
-### 7. Social Security (EFKA) for Freelancers: €220
-If you are registered as a local freelancer (sole proprietor) to take advantage of the Article 5C tax break, you must pay mandatory social security (EFKA). The baseline tier is roughly **€220 per month** (discounted to ~€130 for the first five years of a new business).
+### 7. Social Security (EFKA) for Freelancers: from €160
+If you are registered as a local freelancer (sole proprietor) to take advantage of the Article 5C tax break, you must pay mandatory social security (EFKA). In 2026, the lowest regular class is **€250.77 per month**. New freelancers can apply for a special class of **€150.46 per month** for their first five years. Most freelancers pay a €10 unemployment contribution on top.
 
 ## The Reality of Seasons
 

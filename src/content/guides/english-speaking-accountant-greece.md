@@ -9,7 +9,7 @@ Thousands of internationals live and work in Greece — but most Greek accountan
 
 ## Why "speaks some English" isn't enough
 
-Greek tax life happens in deadlines: myDATA invoice transmission, quarterly VAT, monthly social security, the annual return. When something goes wrong, it goes wrong in writing — a notice from AADE (the Greek tax authority), a mismatch flag, an automatic fine. You need an accountant who can *explain* these things to you, not just translate them. The difference between "we speak English" and "we work in your language" is whether your questions get answered before the deadline or after it.
+Greek tax life happens in deadlines: myDATA invoice transmission, monthly or quarterly VAT, monthly social security, the annual return. When something goes wrong, it goes wrong in writing — a notice from AADE (the Greek tax authority), a mismatch flag, an automatic fine. You need an accountant who can *explain* these things to you, not just translate them. The difference between "we speak English" and "we work in your language" is whether your questions get answered before the deadline or after it.
 
 And English is only part of the story: many internationals in Greece are German, Spanish-speaking or Greek diaspora returnees. An accountant who works in **English, German, Spanish and Greek** covers the conversation with you, your clients and the Greek authorities — without anything getting lost in between.
 

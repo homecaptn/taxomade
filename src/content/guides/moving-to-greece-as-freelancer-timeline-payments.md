@@ -2,6 +2,7 @@
 title: "Moving to Greece as a Freelancer: Timeline & Tax Deadlines"
 description: "Understand the annual timeline for Greek freelancers, including monthly VAT, myDATA reporting, EFKA contributions, and annual tax returns."
 pubDate: 2026-08-03
+updatedDate: 2026-10-08
 category: "bookkeeping"
 ---
 
@@ -27,7 +28,7 @@ EFKA is the national social security fund in Greece. As a freelancer, you must p
 
 ### VAT Returns (FPA)
 If your business is subject to VAT (Value Added Tax), you must submit VAT returns and pay any VAT owed.
-- **Frequency:** Freelancers using single-entry bookkeeping (the vast majority) submit VAT returns **quarterly**.
+- **Frequency:** Freelancers using single-entry bookkeeping who started on or after 1 January 2024 submit VAT returns **monthly** (they can switch to quarterly after 24 months). Those who started earlier file **quarterly**.
 - **Deadlines:** VAT returns are due by the **last working day of the month following the quarter**.
   - Q1 (Jan-Mar): Due April 30
   - Q2 (Apr-Jun): Due July 31
@@ -46,13 +47,13 @@ Your annual income tax return (E1 and E3 forms) summarizes your total income, de
 ### 2. The "Advance Tax" (Prokatavoli)
 When you pay your annual income tax, Greece also requires an **advance tax payment** toward the *next* year's taxes.
 - For freelancers, this is typically 55% of your assessed tax for the current year.
-- While this is heavily reduced (by 50%) for the first three years of a new business, it is a critical cash-flow consideration that catches many expats by surprise.
+- It is halved in the year you first earn business income. It is a critical cash-flow consideration that catches many expats by surprise.
 
 ## Summary: A Typical Year
 
 To summarize, a standard year for a Greek freelancer looks like this:
 - **Every Month:** Issue e-invoices, send expenses to your accountant, pay EFKA.
-- **January, April, July, October:** Pay quarterly VAT (if applicable).
+- **Monthly, or January, April, July, October:** File VAT returns (if applicable).
 - **Spring/Summer:** File your annual tax return and pay your income tax (plus advance tax for next year).
 
 Working with a reliable, English-speaking accountant is not just a luxury in Greece—it is a necessity. They will ensure your myDATA records are perfectly synced, handle the complex E3 forms, and remind you of every deadline before it becomes an issue.
