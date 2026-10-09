@@ -1,14 +1,15 @@
 ---
 title: "What is an AFM Number in Greece and Why Do You Need It?"
-description: "Everything you need to know about the Greek Tax Registration Number (AFM) and how to get one remotely."
+description: "What the Greek tax number (AFM) is, when you need it, and how foreigners apply online through myAADE, with or without a representative."
 pubDate: 2026-03-20
+updatedDate: 2026-10-09
 category: "afm"
 image: "/images/guides/afm_hero.png"
 ---
 
 If you are planning to spend any significant amount of time in Greece, you will quickly encounter three letters that dictate almost every administrative process in the country: **AFM** (pronounced *Ah-Fee-Mee*). 
 
-Here is what it is, why you need it, and how to get it without stepping foot in a Greek tax office.
+Here is what it is, why you need it, and how to apply without setting foot in a Greek tax office.
 
 ## 1. What is an AFM?
 
@@ -24,31 +25,36 @@ You cannot function in Greek society long-term without an AFM. You will be asked
 
 - **Renting an Apartment:** To sign a legal, long-term lease, the contract must be registered on the government portal (TAXISnet). You need an AFM to accept this contract.
 - **Opening a Bank Account:** Greek banks will not open an account for you without one.
-- **Setting up Utilities:** Buying a SIM card (sometimes), setting up home internet, or transferring electricity bills to your name requires an AFM.
+- **Setting up Utilities:** Contracts for home internet or electricity in your name usually ask for an AFM.
 - **Buying Property or Cars:** Any significant asset purchase requires tax registration.
-- **Taxes and Visas:** Applying for residence permits and filing taxes both require this number.
+- **Taxes:** Filing a Greek tax return or registering a business requires this number.
 
 ## 3. Does Getting an AFM Make You a Tax Resident?
 
 **No.** This is a widespread myth. 
 
-Getting an AFM does not automatically make you a Greek tax resident, nor does it immediately subject your global income to Greek taxation. Tourists, foreign investors buying summer homes, and students all hold AFMs without being tax residents. Tax residency is determined by how many days you spend in the country (the 183-day rule) and where your primary economic interests lie.
+Getting an AFM does not automatically make you a Greek tax resident, nor does it immediately subject your global income to Greek taxation. Tourists, foreign investors buying summer homes, and students all hold AFMs without being tax residents. You become tax resident if Greece is your permanent or main home, your habitual abode or the centre of your vital interests (personal and economic ties), or if you spend more than 183 days in Greece within any 12-month period. More in our guide on [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days).
 
 ## 4. How to Get an AFM
 
-Historically, obtaining an AFM required waiting in line for hours at a local tax office (DOY) with a translator. Today, the process is much simpler.
+Historically, obtaining an AFM meant queuing at a local tax office (DOY) with a translator. Since December 2023, applications are made **online only**, through the ["TIN & Authentication Key" application in myAADE](https://aade.gr/en/greeks-abroad-non-residents/registration-tax-register/issuance-tax-identification-number-and-authentication-key-and-appointment). Applying with AADE is free.
 
-### The Remote Route (Power of Attorney)
-You do not need to be in Greece to get your AFM. You can authorize a local lawyer or tax representative via a Power of Attorney (PoA) to apply on your behalf. 
+### Applying yourself
+1. You fill in the online application and upload your passport (EU citizens can use a national ID card).
+2. You confirm your identity by video call with AADE (myAADElive) or at a tax office of your choice. The video call works from abroad.
+3. Once your identity is verified, you receive your AFM certificate and access codes by email. AADE doesn't promise a fixed processing time.
 
-1. You sign a PoA (often digitally or via a local consulate).
-2. The representative submits your passport and details to the tax authority.
-3. Your AFM is issued within a few days.
+### Applying through a representative
+You can also authorize a lawyer or accountant to apply for you. The authorization needs a certified signature; documents signed abroad usually need an apostille and a Greek translation.
 
-*Note for Non-EU Citizens:* If you are a non-EU citizen, the tax office will often require details of your valid visa or residence permit before issuing the AFM. If you are applying for the Digital Nomad Visa, coordinating the timing of your AFM and visa applications with your advisor is crucial.
+### What non-EU citizens need
+- **Living abroad:** a valid passport is enough.
+- **Living in Greece:** a passport plus proof of legal stay, such as a residence permit.
+
+Non-residents **may** appoint a tax representative in Greece, but it is optional under [AADE decision A.1069/2024](https://www.aade.gr/sites/default/files/2024-05/a1069_2024.pdf), as long as AADE can reach you at your declared contact details.
 
 ## 5. TAXISnet: Your Digital Key
 
-When you are issued an AFM, you should also receive a username and a "Kleidarithmos" (key number) to activate your **TAXISnet** account. 
+When you apply through the myAADE application, you request your AFM and your **Kleidarithmos** (authentication key) together. After your identity has been verified, you receive the key by email and use it to activate your **TAXISnet** account. If you already have an AFM but no access, you request the key separately.
 
 TAXISnet is the central digital portal for the Greek government. Through it, you will file tax returns, accept rental contracts, and access digital services (like the Gov.gr app). Guard your TAXISnet credentials closely; they are your digital identity in Greece.
