@@ -1,87 +1,73 @@
 ---
 import { getCollection, render } from 'astro:content';
-import Layout from '../../layouts/Layout.astro';
+import Layout from '../../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
-  const guideEntries = await getCollection('guides');
-  return guideEntries.map(entry => ({
+  const entries = await getCollection('guides-de');
+  return entries.map(entry => ({
     params: { slug: entry.id }, props: { entry },
   }));
 }
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const alternates = entry.data.translationOf
-  ? [{ lang: 'en', href: `/guides/${entry.id}` }, { lang: 'de', href: `/de/ratgeber/${entry.data.translationOf}` }]
-  : [];
 
-// Map category to a specific service URL for the back button / CTA
 const serviceUrls = {
   dnv: '/greece/digital-nomad-visa',
   afm: '/greece/tax-number-afm',
   tax: '/greece/50-percent-tax-break',
   bookkeeping: '/greece/ongoing-bookkeeping',
 };
+const categoryLabels = { dnv: 'Visum', afm: 'Steuernummer', tax: 'Steuern', bookkeeping: 'Buchhaltung', lifestyle: 'Leben in Griechenland' };
 const backUrl = serviceUrls[entry.data.category] || '/';
 const asOfDate = entry.data.updatedDate || entry.data.pubDate;
-const asOf = asOfDate.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
-const checkUrl = `https://wa.me/491743426818?text=${encodeURIComponent(`Hi taxomade, I read your guide "${entry.data.title}" and would like a free check of my situation.`)}`;
+const asOf = asOfDate.toLocaleDateString('de-DE', { month: 'long', year: 'numeric' });
+const checkUrl = `https://wa.me/491743426818?text=${encodeURIComponent(`Hallo taxomade, ich habe Ihren Ratgeber "${entry.data.title}" gelesen und hätte gern einen kostenlosen Check meiner Situation.`)}`;
+const alternates = entry.data.translationOf
+  ? [{ lang: 'en', href: `/guides/${entry.data.translationOf}` }, { lang: 'de', href: `/de/ratgeber/${entry.id}` }]
+  : [];
+
 const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": entry.data.title,
   "description": entry.data.description,
+  "inLanguage": "de",
   "image": entry.data.image ? `https://taxomade.com${entry.data.image}` : "https://taxomade.com/images/logo.svg",
-  "author": {
-    "@type": "Organization",
-    "name": "taxomade"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "taxomade",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://taxomade.com/images/logo.svg"
-    }
-  },
+  "author": { "@type": "Organization", "name": "taxomade" },
+  "publisher": { "@type": "Organization", "name": "taxomade", "logo": { "@type": "ImageObject", "url": "https://taxomade.com/images/logo.svg" } },
   "datePublished": entry.data.pubDate.toISOString(),
   ...(entry.data.updatedDate && { "dateModified": entry.data.updatedDate.toISOString() })
 };
-
-// Optional FAQPage schema, built from the `faq` frontmatter of a guide
 const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
   "@context": "https://schema.org",
   "@type": "FAQPage",
+  "inLanguage": "de",
   "mainEntity": entry.data.faq.map(item => ({
     "@type": "Question",
     "name": item.question,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": item.answer
-    }
+    "acceptedAnswer": { "@type": "Answer", "text": item.answer }
   }))
 } : null;
 ---
 
-<Layout title={`${entry.data.title} | taxomade Knowledge Hub`} description={entry.data.description} image={entry.data.image || '/images/logo.svg'} alternates={alternates}>
+<Layout title={`${entry.data.title} | taxomade Ratgeber`} description={entry.data.description} image={entry.data.image || '/images/logo.svg'} lang="de" alternates={alternates}>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)}></script>
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)}></script>}
   <div class="pt-32 pb-16 bg-white min-h-screen">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-      
-      <!-- Back Link -->
+
       <a href={backUrl} class="inline-flex items-center text-sm font-bold text-blue-800 hover:text-blue-900 mb-8 transition-colors">
         <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
-        Back to Service
+        Zur Leistung
       </a>
       {entry.data.translationOf && (
-        <a href={`/de/ratgeber/${entry.data.translationOf}`} class="float-right text-sm font-bold text-slate-500 hover:text-blue-800 mb-8" lang="de">Auf Deutsch lesen →</a>
+        <a href={`/guides/${entry.data.translationOf}`} class="float-right text-sm font-bold text-slate-500 hover:text-blue-800 mb-8" lang="en">Read in English →</a>
       )}
 
-      <!-- Header -->
       <div class="text-center max-w-3xl mx-auto mb-10">
         <div class="inline-flex items-center text-sm font-bold text-blue-800 bg-blue-50 px-3 py-1 rounded-full mb-6 uppercase tracking-wider">
-          {entry.data.category}
+          {categoryLabels[entry.data.category] || entry.data.category}
         </div>
         <h1 class="text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight leading-tight">
           {entry.data.title}
@@ -90,48 +76,44 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
           {entry.data.description}
         </p>
         <div class="text-sm font-medium text-slate-500">
-          By the taxomade team · Published on <time datetime={entry.data.pubDate.toISOString()}>
-            {entry.data.pubDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+          Vom taxomade-Team · Veröffentlicht am <time datetime={entry.data.pubDate.toISOString()}>
+            {entry.data.pubDate.toLocaleDateString('de-DE', { day: 'numeric', month: 'long', year: 'numeric' })}
           </time>
           {entry.data.updatedDate && (
-            <> · Updated <time datetime={entry.data.updatedDate.toISOString()}>
-              {entry.data.updatedDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+            <> · Aktualisiert am <time datetime={entry.data.updatedDate.toISOString()}>
+              {entry.data.updatedDate.toLocaleDateString('de-DE', { day: 'numeric', month: 'short', year: 'numeric' })}
             </time></>
           )}
         </div>
       </div>
 
-      <!-- Hero Image -->
       {entry.data.image && (
         <div class="max-w-4xl mx-auto mb-16 rounded-2xl overflow-hidden shadow-xl border border-slate-200">
           <img src={entry.data.image} alt={entry.data.title} class="w-full h-auto object-cover aspect-[16/9]" />
         </div>
       )}
 
-      <!-- Article Content (Prose) -->
       <article class="prose prose-slate prose-lg max-w-none prose-headings:font-bold prose-a:text-blue-800 hover:prose-a:text-blue-900 prose-img:rounded-xl">
         <Content />
       </article>
 
-      <!-- Closing line + CTA -->
       <p class="mt-12 text-slate-600 italic">
-        Rules as of {asOf}. Every situation is different — <a href={checkUrl} target="_blank" rel="noopener noreferrer" class="text-blue-800 font-semibold not-italic hover:text-blue-900">we check yours for free</a>.
-        <span class="block mt-2 text-sm not-italic text-slate-500">How we research and update our guides: <a href="/editorial-standards" class="underline hover:text-slate-700">editorial standards</a>.</span>
+        Stand: {asOf}. Jede Situation ist anders — <a href={checkUrl} target="_blank" rel="noopener noreferrer" class="text-blue-800 font-semibold not-italic hover:text-blue-900">wir prüfen Ihre kostenlos</a>.
+        <span class="block mt-2 text-sm not-italic text-slate-500">Wie wir recherchieren und aktualisieren: <a href="/editorial-standards" class="underline hover:text-slate-700">Redaktionelle Standards</a> (Englisch).</span>
       </p>
 
       <div class="mt-10 bg-slate-50 p-8 rounded-2xl border border-slate-100 text-center">
-        <h3 class="text-2xl font-bold text-slate-900 mb-3">Want us to check your situation?</h3>
-        <p class="text-slate-600 mb-6">Send us a short message — we reply the same day, in English, German, Spanish or Greek.</p>
+        <h3 class="text-2xl font-bold text-slate-900 mb-3">Sollen wir Ihre Situation prüfen?</h3>
+        <p class="text-slate-600 mb-6">Schreiben Sie uns kurz — wir antworten am selben Tag, auf Deutsch, Englisch, Spanisch oder Griechisch.</p>
         <div class="flex flex-col sm:flex-row gap-3 justify-center">
           <a href={checkUrl} target="_blank" rel="noopener noreferrer" data-cta="guide-free-check" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200 shadow-md">
-            Free check via WhatsApp
+            Kostenloser Check per WhatsApp
           </a>
           <a href={backUrl} class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-slate-900 bg-white border border-slate-200 hover:border-slate-400 transition-colors duration-200">
-            View our service
+            Zur Leistung (Englisch)
           </a>
         </div>
       </div>
     </div>
   </div>
-
 </Layout>

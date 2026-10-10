@@ -13,6 +13,13 @@
         "source": "/api/submitContactForm",
         "function": "submitContactForm"
       }
+    ],
+    "redirects": [
+      {
+        "source": "/guides/reality-check-germany-vs-greece-5c",
+        "destination": "/guides/moving-to-greece-from-germany-tax-guide",
+        "type": 301
+      }
     ]
   },
   "functions": [
