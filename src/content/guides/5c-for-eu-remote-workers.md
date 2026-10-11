@@ -1,62 +1,123 @@
 ---
-title: "How EU Remote Workers Can Claim the 50% Tax Break in Greece"
-description: "A step-by-step guide for EU citizens on how to move to Greece, set up a freelance business, and legally claim the Article 5C 50% income tax exemption."
+title: "Article 5C for Employees and Remote Workers in Greece (2026 Guide)"
+description: "How Greece's 50% income tax exemption (Article 5C) works if you take a job in Greece or work remotely from here: who qualifies, payroll withholding, deadlines, public sector, and what happens if you change jobs or leave."
 pubDate: 2026-07-02
-updatedDate: 2026-10-09
+updatedDate: 2026-10-11
 category: "tax"
 image: "/images/guides/freelancer_setup_hero.png"
+faq:
+  - question: "Can I use Article 5C if I work remotely for a foreign employer from Greece?"
+    answer: "Not under the employment route. Article 5C requires an employment relationship with a Greek legal entity or the Greek permanent establishment of a foreign company. A purely foreign employer with no Greek entity does not meet that wording. The usual alternative is to register as self-employed in Greece and invoice your clients from here, which falls under the business route."
+  - question: "Does my job have to be a newly created position?"
+    answer: "No longer. The 'new job position' requirement was repealed with effect from 28 July 2025 (Law 5222/2025), including for applications that were pending on that date. Any employment with a Greek entity or Greek branch can qualify."
+  - question: "How does the 50% exemption show up in my payslip?"
+    answer: "Once the tax office has issued the approval decision, your employer withholds income tax on 50% of your salary only. Until then, normal withholding applies and the exemption is applied when your annual return is assessed."
+  - question: "Can public-sector employees use Article 5C?"
+    answer: "Yes, since May 2026. A joint ministerial and AADE decision removed the earlier exclusion of employees paid under public-sector pay legislation. It applies to applications filed from 28 July 2025 onward, including pending ones."
+  - question: "What is the deadline to apply for Article 5C?"
+    answer: "If you start your job or business on or before 2 July, apply by 31 December of that year and the regime applies from that year; you may also file in the following year, but then the regime only starts in that year and your start-year salary is taxed in full. If you start after 2 July, apply by 31 December of the following year and the regime starts in that following year."
+  - question: "What happens if I change jobs or leave Greece before seven years are up?"
+    answer: "A change of employer is notified to AADE and the regime continues for the remaining years. If you lose your job, you keep the status if you sign a new contract within 12 months. If you stop meeting the conditions, the regime ends from that tax year onward; the law provides for this prospective cessation and does not mention a retroactive recovery of earlier years."
 ---
 
-If you hold a passport from an EU/EEA member state and work remotely, Greece is arguably the most financially attractive destination in Europe. Thanks to freedom of movement, you do not have to worry about complex visas (unlike non-EU digital nomads). And thanks to **Article 5C**, you can legally exempt 50% of your income from Greek tax.
+If you move to Greece and take a job here, Article 5C exempts half your salary from Greek income tax for up to seven years. Since 2025 the rules have become simpler for employees, and since May 2026 they also cover the public sector. This guide covers the employee side: who qualifies, how payroll works, deadlines, and what happens when your situation changes. For the overview of the regime itself, see [how the 50% tax break works](/guides/50-percent-tax-break-article-5c).
 
-Here is the exact blueprint on how EU remote workers can move to Greece and claim the 50% tax break.
+## The short answer
 
-## Why EU Citizens Have the Advantage
+- 50% of your Greek employment income is exempt from income tax for seven tax years. The other half is taxed on the normal scale.
+- You qualify if you were not a Greek tax resident in 5 of the previous 6 years, you move from an EU/EEA country (or one with a tax cooperation agreement with Greece), you take a job with a Greek entity or the Greek branch of a foreign company, and you declare you will stay at least two years.
+- Remote employees of a foreign company with no Greek entity do not fit the employment route. The common workaround is the self-employed route.
+- Deadline: start on or before 2 July, apply by 31 December of that year to cover that year. Start later, apply by 31 December of the following year.
 
-As discussed in our [DNV vs 5C Guide](/guides/5c-vs-digital-nomad-visa), Non-EU citizens on a Digital Nomad Visa can't use the 50% tax break, because their visa doesn't allow work for Greek employers or Greek business activity.
+## Who qualifies as an employee
 
-As an EU citizen, you have the right to move to Greece and establish a business. Article 5C has two routes: a job with a Greek company (or the Greek branch of a foreign company), or **your own business activity in Greece**. For remote workers, the second route is usually the realistic one.
+[Article 5C of the Income Tax Code](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ) sets four cumulative conditions:
 
-The other conditions: you were not Greek tax resident in 5 of the 6 years before the move, you move from an EU/EEA country (or a country with a tax cooperation agreement with Greece), and you declare that you'll stay at least two years. The benefit lasts up to seven tax years.
+1. You were **not a Greek tax resident in at least 5 of the 6 years** before the move.
+2. You move from an **EU/EEA member state**, or from a country with an administrative cooperation agreement in tax matters with Greece.
+3. You provide services in Greece under an **employment relationship with a Greek legal entity**, or with a **permanent establishment of a foreign company in Greece**.
+4. You declare that you will **stay in Greece for at least two years**.
 
-## The "B2B Freelancer" Setup
+Nationality is irrelevant. A Greek citizen returning after ten years abroad qualifies the same way a Dutch or German employee does.
 
-If you are currently employed remotely by a company in Germany, the UK, or the US, you cannot simply move to Greece, keep your foreign employment contract, and ask the Greek tax office for a 50% discount. 
+"Employment relationship" is read broadly. According to [AADE circular E.2224/2021](https://www.taxheaven.gr/circulars/38210/e-2224-2021), it also covers directors and board members, and fees paid to managing partners of an IKE, EPE, OE or EE for services tied to that role.
 
-To get the tax break, your income must run through a Greek job or a Greek business. The most common route is the **B2B Freelancer Setup**:
+### The "new job position" test is gone
 
-1. You resign from your standard employment contract (or negotiate a transition).
-2. You set up a Greek Sole Proprietorship (ατομική επιχείρηση).
-3. You sign a B2B (Business-to-Business) service agreement with your former employer (who is now your client).
-4. You invoice them monthly from your Greek entity.
+Until mid-2025, the job had to be a newly created position: the employer's headcount had to go up and stay up. That paragraph was repealed by [Law 5222/2025, art. 206](https://kpmg.com/gr/en/insights/2025/08/tax-updates-06082025.html) with effect from 28 July 2025, and the repeal also applies to applications that were still pending on that date. Any Greek employer can now hire you into an existing role. Employment data is checked automatically against the ERGANI system, so your employer's filings need to be in order.
 
-Because you have started a business activity in Greece, you meet the business route of Article 5C. Be aware of the risk: if your former employer is your only client under the same working conditions, the arrangement can be challenged as disguised employment, in Greece or in your client's country. More clients and real independence reduce that risk.
+## Remote workers: the employer question
 
-## Step-by-Step Guide to the Tax Break
+This is where most people get it wrong.
 
-### Step 1: Prove Your Past Non-Residency
-Before you pack your bags, ensure you qualify. You must prove that you were **not a Greek tax resident for at least 5 of the 6 years** prior to your move. If Greek tax records don't already show this, you may need proof of your foreign tax residency, such as a tax residency certificate from your previous country. Your accountant will tell you whether certification or translation is needed.
+**Your employer has a Greek entity or branch.** You can be hired or transferred there and apply under the employment route. The Greek entity becomes the employer that withholds tax.
 
-### Step 2: Relocate and Get Your AFM
-You can get your **AFM (Greek tax number)** online, even before you move. See [what the AFM is and how to get it](/guides/what-is-greek-afm-number). Once you live in Greece, you register your long-term stay and move your tax residency to your Greek address.
+**Your employer is purely foreign, no Greek entity.** By the wording of the law, you are not in an employment relationship with a Greek entity or a Greek permanent establishment, so the employment route does not apply. There is no AADE guidance that opens this door for remote work, and no official statement on Employer-of-Record setups either. Do not assume an EOR solves it.
 
-### Step 3: Register Your Sole Proprietorship
-Work with a local accountant to open your freelance business. You register your business activity with the tax authority and the social security fund (EFKA). Commercial activities are also registered with the commercial registry (GEMI); most freelance professions are not. You must select the appropriate "KAD" codes that describe your remote services (e.g., IT consulting, marketing, design).
+**Digital Nomad Visa holders** are outside 5C altogether: the visa forbids work for Greek employers and Greek business activity, which is exactly what 5C requires (see [5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa)).
 
-### Step 4: Apply for Article 5C
-Once your business is active, your accountant will submit your application for the Article 5C regime to the relevant tax authority. The application is filed online in myAADE. If the system can't verify everything automatically, you upload documents and the tax office decides. The deadline ([AADE](https://www.aade.gr/psifiakes-ypiresies/eisodima/ypoboli-aitisis-ypagogis-se-eidiko-tropo-forologisis-arthro-5g-toy-kfe)): if your business starts on or before 2 July, apply by 31 December of the same year; if it starts after 2 July, apply by 31 December of the following year. 
+**The realistic alternative: the self-employed route.** Paragraph 7 of Article 5C extends the regime to people who move to Greece to run an individual business here. You register as a sole proprietor, invoice your former employer (and ideally other clients) from Greece, and 50% of your business profit is exempt. We cover that setup in [how to register as a freelancer in Greece](/guides/freelancer-setup-greece) and the taxes in [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026).
 
-*Note:* Since July 2025, the law no longer requires a "newly created job position". This mainly mattered for employees.
+Two cautions on the self-employed route:
 
-### Step 5: Issue Invoices and Pay Taxes
-You will use the Greek e-invoicing system (myDATA) to issue invoices to your foreign client. For a business client in another EU country, you invoice without Greek VAT under the reverse charge. For a client outside the EU (for example in the UK or US), the service is outside the scope of Greek VAT. Details in [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
+- If your former employer is your only client, on the same terms as before, the arrangement can be challenged as disguised employment, in Greece or in the client's country. A broader client base and genuinely changed terms reduce that risk.
+- Where 20% withholding applies to your fees, it is calculated on the full fee, not on half. The exemption is applied when your annual return is assessed ([E.2224/2021](https://www.taxheaven.gr/circulars/38210/e-2224-2021), para. 18–20).
 
-When it is time to file your annual Greek tax return, 50% of your net business profit will be entirely exempt from income tax.
+## Public-sector employees: included since May 2026
 
-## The Financial Impact
+The statute does not name the public sector; the exclusion was written into the implementing decision (A.1087/2021), on the reading that "Greek legal entity" meant a private-law entity. A joint decision of the Deputy Finance Minister and the AADE Governor of 29 April 2026 ([A.1138/2026, FEK B' 2500/4.5.2026](https://www.aade.gr/sites/default/files/2026-05/a1138_2026fek.pdf), later renumbered A.1096/2026) deleted that exclusion. Employees paid under public-sector pay legislation can now apply, and the change covers applications filed from 28 July 2025 as well as those pending on that date. Whether every public-law body (municipalities, universities, hospitals) is covered is not spelled out in the decision; the press release speaks of "the Greek State".
 
-The savings are immense. Because Greek income tax is progressive (scaling up to 44%), halving your taxable income drops you into much lower brackets.
+## How the exemption works on payroll
 
-For example, on €70,000 of taxable profit in 2026, the standard income tax is about €21,100. Under Article 5C, it is about €7,200 (no children, over 30). EFKA contributions are not reduced by 5C. 
+Once the tax office has issued your approval decision, your employer **withholds income tax on 50% of your salary only** and no tax on the other half ([E.2224/2021](https://www.taxheaven.gr/circulars/38210/e-2224-2021), para. 11). Only the employer named in the decision applies the reduced withholding.
 
-Want to see exactly how much you would save? Try our [Article 5C Tax Calculator](/greece/5c-tax-calculator) to run your own numbers.
+Until the decision is issued, normal withholding runs; the circulars do not spell out a separate refund step for employees, so in practice the exemption is applied when your annual return is assessed.
+
+Two things do not change:
+
+- **Social security.** EFKA contributions are calculated on your full gross salary. The employee share in the private sector is around 13.4%, the employer's around 21.8% (rates as reported for 2025–2026; the 2026 insurable-earnings cap is €7,761.94 per month under [e-EFKA circular 5/2026](https://www.forin.gr/articles/article/88924/efka-egk-5-2026)).
+- **The electronic-payment requirement.** The 30% e-payment threshold is calculated on your total income, including the exempt half.
+
+What does change beyond income tax: under [Article 33 of the Income Tax Code](https://www.taxheaven.gr/law/4172/2013/arthro/33), 5C beneficiaries are exempt from the deemed living expenses for their residence and cars, regardless of the number of vehicles ([E.2029/2022](https://www.taxheaven.gr/circulars/39144/e-2029-2022)).
+
+## A worked example
+
+Employee in Athens, gross salary €40,000 in 2026, no children, over 30. Employee EFKA of roughly 13.4% leaves about €34,650 of taxable salary.
+
+The 2026 scale ([Law 5246/2025](https://www.taxheaven.gr/law/5246/2025/arthro/3)) is 9% to €10,000, 20% to €20,000, 26% to €30,000, 34% to €40,000, 39% to €60,000 and 44% above.
+
+- **Without 5C:** tax on €34,650 is about €7,080 before the employee tax credit; roughly **€6,750** after it.
+- **With 5C:** only €17,325 is taxable. Tax about €2,365 before the credit; roughly **€1,700** after it.
+
+Around €5,000 saved in one year, around €35,000 over seven years at the same salary. The example applies the employee tax credit of [Article 16](https://www.taxheaven.gr/law/4172/2013/arthro/16) to the taxable half; the guidance does not spell out the credit's phase-out base for 5C cases, so treat the post-credit figures as approximate. EFKA is identical in both cases.
+
+## Deadlines and the application
+
+The application is filed online in myAADE (Applications → Tax services → Income → "Application for the special tax regime, Article 5C"), by you or by an accountant with their own credentials. The timing rule in [Article 5C, par. 3](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ):
+
+- **Start on or before 2 July:** apply by 31 December of the same year and the regime applies from that year. You may also file in the following year, but then the regime only starts in that following year and your start-year salary is taxed in full.
+- **Start after 2 July:** apply by 31 December of the following year. The regime starts in that following year.
+
+The tax office decides within 60 days. If AADE's records cannot confirm your prior non-residence, you upload proof, typically a tax residency certificate from your previous country. If an application is rejected for missing documents, it is re-examined if you file them by 31 March of the following year. Your foreign tax ID and your last foreign address are mandatory fields.
+
+Separate decisions are issued per income category and per employer. If you later add a second job or switch from employment to self-employment, you file a new request and the new decision covers the remaining years.
+
+## Changing jobs, losing a job, leaving
+
+The seven years run from the year of your application and cannot be extended. Within that window ([A.1138/2025](https://www.aade.gr/sites/default/files/2025-10/a1138fek.pdf) and the [AADE FAQ](https://aade.gr/sites/default/files/2025-10/FAQS_5G_KFE.pdf)):
+
+- **Change of employer:** you notify AADE through the digital application; the regime continues for the remaining years. In a 2025 appeals case, AADE approved continuation for an employee who had switched employer in year two, and the appeals directorate ordered the assessment corrected accordingly.
+- **Job ends:** you keep the status if you sign a new employment contract, or start a sole proprietorship, within 12 months.
+- **Conditions no longer met** (no Greek employment, or you leave before two years): the regime ends from that tax year onward and your Greek employment income is taxed normally; an amended return may be required for the year it ends. The law provides for this prospective cessation; it does not mention a retroactive recovery of the exemption for earlier years.
+- **Re-applying:** possible within the seven-year window. If you stayed Greek tax resident in between, the prior-residence conditions are not re-examined.
+
+Under the older guidance ([E.2029/2022](https://www.taxheaven.gr/circulars/39144/e-2029-2022)), contract renewals with the same employer were not treated as a change of position; nothing suggests a renewal triggers a notification today.
+
+## Common mistakes
+
+- **Assuming remote employment qualifies.** It does not, unless your employer has a Greek entity or branch. Sort this out before you move, not at your first tax return.
+- **Missing the 2 July logic.** Someone who starts on 1 August and applies the following January is on time. Someone who starts on 1 June and applies the following January is still accepted, but the regime only starts in year two and the first year's salary is taxed in full.
+- **Treating 5C as a total tax cut.** It halves income tax. EFKA, the e-payment requirement and VAT (if self-employed) stay exactly where they are.
+- **Relying on an old "new position" explanation.** Advice written before July 2025 may still tell you the employer must create a new role. That requirement no longer exists.
+
+If you are moving to Greece with a job offer, or working remotely from here and unsure which route fits, taxomade reviews your situation and prepares and files the application alongside your setup. Message us on WhatsApp for a free check.
