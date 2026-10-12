@@ -2,6 +2,7 @@
 title: "English-Speaking Accountant in Greece: What to Look For (and the Red Flags)"
 description: "How to choose an accountant in Greece as an international: the criteria that actually matter, the red flags to walk away from, and the five questions to ask in your first call."
 pubDate: 2026-08-30
+updatedDate: 2026-10-12
 category: "bookkeeping"
 ---
 
@@ -9,7 +10,7 @@ Thousands of internationals live and work in Greece — but most Greek accountan
 
 ## Why "speaks some English" isn't enough
 
-Greek tax life happens in deadlines: myDATA invoice transmission, monthly or quarterly VAT, monthly social security, the annual return. When something goes wrong, it goes wrong in writing — a notice from AADE (the Greek tax authority), a mismatch flag, an automatic fine. You need an accountant who can *explain* these things to you, not just translate them. The difference between "we speak English" and "we work in your language" is whether your questions get answered before the deadline or after it.
+Greek tax life happens in deadlines: myDATA transmission of every invoice, VAT returns (quarterly for most established freelancers, [monthly if you started in 2024 or later](https://aade.gr/sites/default/files/2025-07/dt_03.07.2025.pdf)), monthly [EFKA contributions](/guides/efka-social-security-freelancers-greece) (from [€250.77 plus €10 unemployment levy in 2026](https://www.forin.gr/articles/article/88941/efka-egk-6-2026), or €150.46 plus €10 on the reduced class for new freelancers in their first five years), and the annual return in July. When something goes wrong, it goes wrong in writing — a notice from AADE (the Greek tax authority), a mismatch flag, a fixed fine ([€250 or €500 per late return](https://www.taxheaven.gr/news/71451/prostima-diadikastikwn-parabasewn-kfd-dieykriniseis-kai-paradeigmata), depending on your bookkeeping category). You need an accountant who can *explain* these things to you, not just translate them. The difference between "we speak English" and "we work in your language" is whether your questions get answered before the deadline or after it.
 
 And English is only part of the story: many internationals in Greece are German, Spanish-speaking or Greek diaspora returnees. An accountant who works in **English, German, Spanish and Greek** covers the conversation with you, your clients and the Greek authorities — without anything getting lost in between.
 
@@ -17,7 +18,7 @@ And English is only part of the story: many internationals in Greece are German,
 
 ### 1. A licensed professional, not just an office
 
-In Greece, accountants are licensed by the Economic Chamber of Greece (ΟΕΕ). Ask for the license class and number. A legitimate firm will tell you immediately.
+In Greece, accountants are licensed by the Economic Chamber of Greece (ΟΕΕ), which issues the professional identity of "accountant – tax consultant" in [Class A or Class B](https://www.taxheaven.gr/law/2515/1997/arthro/1) (Law 2515/1997; the old Classes C and D were abolished in 2013). Ask for the license class and number. A legitimate firm will tell you immediately.
 
 ### 2. Written, digital communication
 
@@ -39,9 +40,9 @@ Foreign clients, foreign platforms (Upwork, Stripe, PayPal), double taxation tre
 
 - **"Don't worry" as an answer to specific questions.** Greek bureaucracy punishes vagueness. You want details, deadlines and document lists.
 - **Cash only, no engagement letter, no invoices for their own fees.** An accountant who doesn't invoice properly will not defend your books convincingly either.
-- **No mention of myDATA.** Since e-invoicing became mandatory, myDATA is the center of Greek bookkeeping. If it doesn't come up in your first conversation, run.
+- **No mention of myDATA.** Every business has had to [transmit its invoices to myDATA since 2021](https://www.mondaq.com/accounting-standards/1099108/mydata-implementation-timeline-for-mandatory-data-transmission-revised), and [mandatory B2B e-invoicing](/guides/e-invoicing-greece-explained) reaches freelancers and small businesses on November 2, 2026. myDATA is the center of Greek bookkeeping. If it doesn't come up in your first conversation, run.
 - **Prices far below market without a scope list.** €30/month sounds great until every declaration costs extra — see our [price guide](/guides/accountant-cost-greece) for what things really cost in 2026.
-- **They're unreachable in the months that matter.** July (tax return deadline) and January (year-opening) are exactly when you'll need them most.
+- **They're unreachable in the months that matter.** July (the annual tax-return deadline — [24 July in 2026](https://www.aade.gr/sites/default/files/2026-07/dt_10.07.2026.pdf) after the usual extension) and January (year-opening) are exactly when you'll need them most.
 
 ## Questions to ask in the first call
 
@@ -51,7 +52,7 @@ Foreign clients, foreign platforms (Upwork, Stripe, PayPal), double taxation tre
 4. What's your typical response time — including in summer?
 5. Have you worked with clients who invoice foreign companies?
 
-If the answers are specific, you've probably found the right partner. If they're vague, keep looking — in Greece, your accountant isn't a once-a-year service. They're the person standing between you and the fine.
+If the answers are specific, you've probably found the right partner. If they're vague, keep looking — in Greece, your accountant isn't a once-a-year service. They're the person standing between you and the fine. And if you already have one who fails this test, [switching takes about a week](/guides/switching-accountants-greece).
 
 ## How taxomade can help
 
