@@ -26,7 +26,6 @@ To successfully apply for the 50% tax break, you must meet *all* of the followin
 3. **Active Employment/Freelancing:** You must be taking up new employment in Greece (with a Greek legal entity or a Greek branch of a foreign company) OR starting a freelance/sole proprietorship business in Greece. 
 4. **Intent to Stay:** You must declare your intention to remain in Greece for at least two years.
 
-> [!TIP]
 > **No Minimum Income Requirement:** Article 5C has no minimum income threshold. Whether you earn €30,000 or €300,000, you can qualify—and the higher your income, the more you save.
 
 ### The 2025 "New Job" Abolition
@@ -36,7 +35,6 @@ Law 5222/2025 removed the condition that a job had to be a "newly created positi
 
 If you are a remote worker employed by a foreign company (e.g., in the US or UK), simply moving to Greece and working from your laptop does **not** automatically grant you the 5C tax break.
 
-> [!WARNING]
 > **Digital Nomad Visa Incompatibility:** If you are a Non-EU citizen entering Greece on the Digital Nomad Visa (DNV), you are **not eligible** for the 5C tax break. The DNV does not allow work for Greek employers or Greek business activity, so DNV holders cannot meet the employment or business condition of 5C. See [5C vs Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa).
 
 To qualify, you must integrate into the Greek tax system. For EU citizens (or Non-EU citizens on specific business/work visas), the best route is:

@@ -1,58 +1,99 @@
 ---
-title: "How to Invoice Clients as a Greek Freelancer (Free AADE Timologio Guide)"
-description: "Everything you need to know about e-invoicing in Greece. Learn how to use the free state-provided AADE Timologio app to invoice your foreign clients without paying for expensive software."
+title: "How to Invoice Clients as a Greek Freelancer (Free AADE timologio Guide)"
+description: "How to invoice clients as a freelancer in Greece with AADE's free timologio app: myDATA, MARK and QR codes, VAT codes for foreign clients, and the November 2026 e-invoicing mandate."
 pubDate: 2026-07-07
+updatedDate: 2026-10-13
 category: "bookkeeping"
-image: "/bookkeeping_hero_ipad.png"
+image: "/images/guides/timologio_hero.png"
+faq:
+  - question: "Is the AADE timologio app free?"
+    answer: "Yes. timologio is a free web application from the Greek tax authority (AADE) for issuing invoices. There are no subscription or setup fees. The mobile version is called myDATAapp. You log in with your TAXISnet credentials."
+  - question: "Do I need invoicing software as a freelancer in Greece?"
+    answer: "Not necessarily. Every invoice must be transmitted to myDATA, but timologio does this for free and is an approved channel under the e-invoicing mandate that applies to freelancers from 2 November 2026. Paid software or an approved provider makes sense for high volume, integrations or automated reminders."
+  - question: "Can I issue invoices in English with timologio?"
+    answer: "Yes. The interface is in Greek, but since the April 2026 update the invoice itself can be issued in English, with your client's details, VAT numbers and the correct exemption wording for foreign clients."
+  - question: "What is a MARK number on a Greek invoice?"
+    answer: "MARK (Μοναδικός Αριθμός Καταχώρησης) is the unique registration number myDATA assigns to every transmitted invoice, printed with a QR code. It proves the invoice is registered with the Greek tax authority."
 ---
 
-When moving your freelance business to a new country, one of the biggest headaches is figuring out the local invoicing requirements. Do you need expensive accounting software? Do your invoices need specific tax codes? How does VAT work across borders?
+When you move your freelance business to a new country, one of the first practical questions is invoicing. Do you need accounting software? Do invoices need specific tax codes? How does VAT work across borders?
 
-In Greece, the system has undergone a massive digital transformation over the last few years with the introduction of **myDATA** (the electronic bookkeeping system). While it sounds intimidating, it actually comes with a huge perk for freelancers: **The Greek state provides a completely free invoicing application.**
+In Greece, the system has gone fully digital with **myDATA**, the electronic bookkeeping platform of the tax authority. It sounds intimidating, but it comes with a real advantage for freelancers: **the Greek state provides a free invoicing application**, and from November 2026 it is also one of the approved channels for mandatory e-invoicing.
 
-Here is everything you need to know about invoicing your clients from Greece using the AADE Timologio app.
+## The short answer
 
-## The myDATA Era
+- **Every invoice** you issue in Greece must be transmitted to myDATA and carries a MARK number and QR code.
+- **timologio** is AADE's free web app that does this for you. No software subscription needed.
+- **From 2 November 2026** it is also an approved e-invoicing channel for invoices to Greek and non-EU business clients.
+- **It only issues invoices.** VAT returns, bookkeeping and the annual return are still your accountant's job.
+- **Remote employees** on a foreign payroll do not invoice at all.
 
-Greece has cracked down on tax evasion by mandating that all business transactions be reported electronically in real-time. This system is called **myDATA** (My Digital Accounting and Tax Application), run by the Independent Authority for Public Revenue (AADE).
+## The myDATA era
 
-As a freelancer in Greece, every invoice you issue must be transmitted to myDATA. This generates a unique MARK number and a QR code on your invoice, proving it is legally registered with the state. 
+Greece requires every business transaction to be reported electronically to **myDATA** (My Digital Accounting and Tax Application), run by the Independent Authority for Public Revenue (AADE).
 
-In many European countries, complying with state e-invoicing mandates forces you to pay €20 to €50 a month for certified software like Lexware, SevDesk, or QuickBooks. Not in Greece.
+As a freelancer in Greece, every invoice you issue must be transmitted to myDATA. This generates a MARK number (the unique myDATA registration number) and a QR code on your invoice, proving it is registered with the state. Transmission is immediate when you issue through timologio or certified software.
 
-## Enter "timologio" (The Free State App)
+In many European countries, meeting the e-invoicing rules means paying €10 to €30 a month for invoicing software such as Xero, QuickBooks or sevDesk. In Greece, you can do it for free.
 
-To ensure that small businesses and freelancers aren't burdened with software costs, the Greek government launched **timologio** (which literally translates to "invoice").
+## Enter timologio (the free state app)
 
-Timologio is a free, web-based application provided directly by AADE. It is specifically designed for freelancers and small businesses that issue a manageable number of invoices per month. 
+So that small businesses and freelancers are not burdened with software costs, AADE launched **timologio** (literally "invoice").
 
-### Why Timologio is perfect for B2B remote workers:
-1. **It's 100% Free:** Zero subscription fees, zero setup costs.
-2. **Direct myDATA Integration:** The moment you click "Issue," the invoice is instantly transmitted to the tax authorities. It automatically generates the required MARK number and QR code on the PDF.
-3. **English Interface Available:** While it is a Greek government tool, the interface can be navigated quite easily, and the final PDF invoices can be issued in English for your foreign clients.
-4. **Handles Cross-Border VAT:** You can easily select the "0% VAT - Article 14 (Reverse Charge)" exemption when invoicing your clients in Germany, the UK, or the US.
+timologio is a free, web-based application provided directly by AADE, designed for freelancers and small businesses that issue a manageable number of invoices per month. The mobile version is called **myDATAapp**.
 
-### What Timologio is NOT:
-It is important to understand that Timologio is *only* an invoicing tool. It is not full accounting software. It does not calculate your annual depreciation, it doesn't file your VAT returns, and it doesn't give you profit/loss analytics. It simply issues compliant invoices and sends them to the state. 
+### Why timologio works for B2B remote workers
 
-Your accountant still needs to retrieve this data and perform your actual bookkeeping.
+1. **It is free.** No subscription fees, no setup costs.
+2. **Direct myDATA integration.** The moment you click "Issue", the invoice is transmitted to the tax authority and the MARK number and QR code are added to the PDF.
+3. **Greek interface, English invoices.** The app itself is in Greek, but once your templates are set up the workflow is a few clicks, and since the [April 2026 update](https://www.forin.gr/articles/article/90059/aade-diathesimh-nea-anabathmismenh-ekdosh-ths-efarmoghs-timologio-apo-22-4) the invoice document itself can be issued in English for foreign clients.
+4. **Handles cross-border VAT.** For business clients abroad you select the "no VAT, Article 14 VAT Code" exemption (place of supply outside Greece). For EU clients, this is the reverse-charge case: you need a VIES registration, the client's valid VAT ID on the invoice and a monthly recapitulative statement. For US or UK clients the service is outside Greek VAT scope: same code, no reverse-charge wording. Details in our [VAT guide for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
 
-## How to Set It Up
+### What timologio is not
 
-To use the Timologio app, you need your Greek TAXISnet credentials (the login details for the tax portal, which you receive when you get your AFM number).
+timologio is *only* an invoicing tool, not accounting software. It does not calculate depreciation, it does not file your VAT returns, and it gives no profit-and-loss analytics. It issues compliant invoices and sends them to the state. Your accountant still retrieves this data and does the actual bookkeeping.
 
-1. **Log in:** Access the timologio portal via the official AADE website.
-2. **Configure your profile:** You will need to upload your logo, set your business details, and define your standard services. Your accountant should help you set up the correct VAT exemption codes for your specific client base.
-3. **Add clients:** Input the VAT numbers and addresses of your foreign clients.
-4. **Issue:** Create a new invoice, select the client, enter the amount, and hit issue. The PDF is generated, registered with the state, and ready to email to your client.
+## November 2026: timologio becomes your compliance channel
 
-## What about Remote Employees?
+From **2 November 2026**, invoices to Greek businesses, the public sector and businesses outside the EU (US, UK, Switzerland) have to be issued through an approved e-invoicing channel: a licensed provider, or AADE's free apps. Invoices to EU businesses and to private individuals are not covered yet, but still go to myDATA as before. A transition period runs until 31 January 2027.
 
-If you live in Greece but are employed as a standard remote employee by a foreign company (or via an Employer of Record), you do not need to worry about any of this. You receive a standard payslip, you do not run a Greek business entity, and you do not need to issue invoices. 
+If you issue all in-scope invoices through timologio or myDATAapp, you do not need to file a declaration about your setup. Full details, deadlines and penalties are in our [e-invoicing guide](/guides/e-invoicing-greece-explained).
 
-If you are setting up as a B2B freelancer to claim the 50% tax break, however, the free Timologio app will be your best friend.
+## How to set it up
 
-***
+To use timologio, you need your Greek TAXISnet credentials, the login details for the tax portal that you receive with your [AFM number](/guides/what-is-greek-afm-number).
 
-> [!TIP]
-> **Don't fly blind.** While Timologio is free, setting up the correct tax categories (KAD codes) and VAT exemption reasons requires professional knowledge. Always have your Greek accountant walk you through your first invoice to ensure you don't make a costly mistake.
+1. **Log in** to the timologio portal via the official AADE website.
+2. **Configure your profile.** Upload your logo, set your business details and define your standard services. Your accountant should help you set up the correct VAT exemption codes for your client base.
+3. **Add clients.** Enter the VAT numbers and addresses of your foreign clients.
+4. **Issue.** Create a new invoice, select the client, enter the amount and hit issue. The PDF is generated, registered with the state and ready to email.
+
+## What about remote employees?
+
+If you live in Greece but are employed by a foreign company (or via an Employer of Record), none of this applies to you. You receive a payslip, you do not run a Greek business and you do not issue invoices.
+
+If you are [setting up as a freelancer](/guides/freelancer-setup-greece) to claim the [50% tax break](/guides/50-percent-tax-break-article-5c) (if you were not a Greek tax resident in 5 of the last 6 years), timologio is the tool you will use most.
+
+## Frequently asked questions
+
+### Is the AADE timologio app free?
+
+Yes. No subscription or setup fees. The mobile version is myDATAapp. You log in with your TAXISnet credentials.
+
+### Do I need invoicing software as a freelancer in Greece?
+
+Not necessarily. timologio transmits to myDATA for free and is an approved channel under the e-invoicing mandate from 2 November 2026. Paid software or a provider makes sense for high volume or integrations.
+
+### Can I issue invoices in English with timologio?
+
+Yes. The interface is in Greek, but since April 2026 the invoice document can be issued in English.
+
+### What is a MARK number on a Greek invoice?
+
+The unique registration number myDATA assigns to every transmitted invoice, printed with a QR code. It proves the invoice is registered with the tax authority.
+
+## How taxomade can help
+
+timologio is free, but the first invoice is where the mistakes happen: wrong activity code (KAD), wrong VAT exemption reason, missing VIES check. In our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, we set up your timologio profile and exemption codes with you and handle the myDATA and VAT side from there.
+
+*Information reflects AADE rules as of October 2026. This is general information, not tax advice; individual situations vary.*

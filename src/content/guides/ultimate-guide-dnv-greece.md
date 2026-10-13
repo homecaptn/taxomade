@@ -32,7 +32,6 @@ If you wish to bring your family, the minimum net income requirement increases:
 
 ## 3. The 2026 Rule Change (Law 5275/2026)
 
-> [!WARNING]
 > **Critical Update:** Law 5275/2026 (Government Gazette A' 17, 6 February 2026) changed the application process for the Digital Nomad Visa significantly.
 
 Previously, remote workers could enter Greece on a standard 90-day Schengen stay and apply for the digital nomad residence permit from within the country. **This in-country route is closed under the new law.** Confirm the current procedure with your consulate before you travel.

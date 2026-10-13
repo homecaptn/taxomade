@@ -25,7 +25,6 @@ For employees, the law explicitly requires **€3,500 net after tax**. If your g
 
 ## 3. Attempting to Apply Locally on a Tourist Visa
 
-> [!WARNING]
 > This route is closed since February 2026.
 
 Before 2026, it was a common strategy to fly to Athens on a 90-day Schengen stay and apply for the digital nomad residence permit from within the country, to avoid dealing with the consulate back home.

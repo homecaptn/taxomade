@@ -20,7 +20,6 @@ However, there are strict limitations:
 - **Time Limits:** The 180-day window is rolling. Once you have used 90 days, you cannot re-enter until enough earlier days have dropped out of the window — in the simplest case, 90 days outside Schengen after a full 90-day stay. Overstaying triggers a fine on departure under [article 20 of the Migration Code](https://www.taxheaven.gr/law/5038/2023/arthro/20) and jeopardises future visa applications.
 
 ### The End of In-Country Conversions
-> [!WARNING]
 > In the past, many nomads entered Greece as tourists and applied for the Digital Nomad residence permit while already inside the country. **As of February 2026, this is no longer possible.** Under [Law 5275/2026](https://www.zeya.com/newsletters/new-immigration-law-52752026-key-provisions-and-practical-implications) (Government Gazette A' 17, 6 February 2026), a national type-D visa from a Greek consulate is a mandatory first step — you apply from your country of residence, before you arrive. Overstaying your tourist stay in the hope of applying locally will result in fines and no permit.
 
 ## 2. The Greece Digital Nomad Visa (DNV)
