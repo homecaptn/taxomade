@@ -1,59 +1,102 @@
 ---
 title: "Moving to Greece as a Freelancer: Timeline & Tax Deadlines"
-description: "Understand the annual timeline for Greek freelancers, including monthly VAT, myDATA reporting, EFKA contributions, and annual tax returns."
+description: "Greek freelancer tax calendar: myDATA, monthly EFKA, VAT returns, recapitulative statements, the annual return (E1/E3) and the 55% advance tax. What is due when in 2026."
 pubDate: 2026-08-03
-updatedDate: 2026-10-08
+updatedDate: 2026-10-14
 category: "bookkeeping"
+image: "/images/guides/freelancer_setup_hero.png"
+faq:
+  - question: "When is EFKA due for freelancers in Greece?"
+    answer: "By the last working day of the month following the contribution month. January's contribution is due by the end of February. You pay by bank transfer using the RF payment code on your EFKA notice. Late payments accrue interest automatically."
+  - question: "How often do freelancers file VAT returns in Greece?"
+    answer: "Businesses that started on or after 1 January 2024 file monthly and can switch to quarterly after 24 months. Established freelancers with single-entry books file quarterly. Either way, the return is due by the last working day of the month after the period ends."
+  - question: "When is the annual income tax return due in Greece?"
+    answer: "The filing window for the E1 and E3 forms runs from 15 March to 15 July. Tax is paid in full by the end of July, with a 2 to 4 percent discount for early filing, or in eight monthly instalments from July to February of the following year."
+  - question: "What is the advance tax on a Greek freelancer's tax return?"
+    answer: "An advance of 55% of your income tax on business income, paid with your annual return towards next year's tax. It is halved in the year you first earn business income and credited against the following year's bill."
 ---
 
-When moving to Greece as a freelancer, navigating the bureaucratic landscape can seem daunting. One of the biggest challenges for expats is understanding the local tax timeline and ongoing reporting obligations.
+A Greek freelancer's year runs on three clocks: monthly (myDATA, EFKA), monthly or quarterly (VAT), and annual (the income tax return and the advance tax). Missing a deadline triggers penalties automatically, without a warning letter first, so you need a clear picture of what is due when. This guide lays out the calendar for a [sole proprietorship](/guides/freelancer-setup-greece) (ατομική επιχείρηση) in Greece.
 
-In Greece, staying compliant means keeping track of monthly, quarterly, and annual deadlines. Missing these deadlines can lead to severe fines, making it essential to have a clear roadmap of what is due and when. This guide breaks down the timeline for freelancers operating a sole proprietorship (ατομική επιχείρηση) in Greece.
+## The short answer
 
-## Monthly Obligations
+- **Every invoice:** transmitted to myDATA when issued; e-invoicing through an approved channel mandatory for invoices to Greek and non-EU businesses from 2 November 2026.
+- **EFKA:** due by the last working day of the following month.
+- **VAT:** monthly for businesses started from 2024 (quarterly after 24 months), quarterly for older ones; due by the last working day of the month after the period.
+- **Recapitulative statements:** by the 26th of the following month if you invoice EU business clients.
+- **Annual return (E1/E3):** 15 March to 15 July; pay in full by end of July or in eight instalments to February.
+- **Advance tax:** 55% of your income tax, paid with the return towards next year.
 
-As a freelancer, your most frequent interactions will be with your accountant and two main systems: **myDATA** and **EFKA**.
+## Monthly obligations
 
-### 1. Invoicing & myDATA (Real-time / Monthly)
-Greece has moved to a highly digitized tax system called **myDATA** (My Digital Accounting and Tax Application).
-- **Issuing Invoices:** Every invoice you issue to clients must be transmitted to myDATA. This is usually done in real-time or within a few days via certified invoicing software (like AADE Timologio or third-party tools).
-- **Submitting Expenses:** Your business expenses must also be categorized and uploaded to myDATA. Your accountant typically handles this by the 20th of the following month.
+### 1. Invoicing and myDATA
 
-### 2. Social Security Contributions (EFKA)
-EFKA is the national social security fund in Greece. As a freelancer, you must pay fixed monthly contributions for your pension and healthcare.
-- **Deadline:** EFKA payments are due by the **last working day of the following month**. (For example, January's EFKA contribution is due by the end of February).
-- **Payment Method:** You pay this directly via bank transfer using a unique payment code (RF number).
+Greece runs a digital bookkeeping system called **myDATA** (My Digital Accounting and Tax Application).
 
-## Quarterly Obligations
+- **Issuing invoices:** every invoice you issue is transmitted to myDATA, in real time through invoicing software such as the free [AADE timologio](/guides/free-invoicing-greece-aade-timologio), or by the next day at the latest. From 2 November 2026 (transition period to 31 January 2027), invoices to Greek businesses, businesses outside the EU and public bodies must be issued through an approved e-invoicing channel: timologio, myDATAapp or a certified provider. See [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
+- **Expenses:** your business expenses are classified in myDATA as well. Your accountant does this before the VAT return for the period is filed.
 
-### VAT Returns (FPA)
-If your business is subject to VAT (Value Added Tax), you must submit VAT returns and pay any VAT owed.
-- **Frequency:** Freelancers using single-entry bookkeeping who started on or after 1 January 2024 submit VAT returns **monthly** (they can switch to quarterly after 24 months). Those who started earlier file **quarterly**.
-- **Deadlines:** VAT returns are due by the **last working day of the month following the quarter**.
-  - Q1 (Jan-Mar): Due April 30
-  - Q2 (Apr-Jun): Due July 31
-  - Q3 (Jul-Sep): Due October 31
-  - Q4 (Oct-Dec): Due January 31
+### 2. Social security contributions (EFKA)
 
-## Annual Obligations
+EFKA is the national social security fund. As a freelancer you pay a fixed monthly contribution for pension and healthcare: in 2026, €250.77 for class 1, or €150.46 in the special category for new freelancers (first five years), plus €10 unemployment contribution. The class is chosen each January; details in our [EFKA guide](/guides/efka-social-security-freelancers-greece).
 
-The end of the tax year triggers the most significant filings and payments.
+- **Deadline:** the **last working day of the following month**. January's contribution is due by the end of February.
+- **Payment:** bank transfer using the RF payment code printed on your EFKA notice. Late payments accrue interest automatically.
 
-### 1. Annual Tax Return
-Your annual income tax return (E1 and E3 forms) summarizes your total income, deductible expenses, and calculates your final income tax.
-- **Filing Window:** The Greek tax filing season usually opens in spring (April/May) and traditionally closes in late June or July. However, the government frequently extends this deadline.
-- **Payment:** Once the return is filed, the tax owed is assessed. You can usually pay the total amount in a lump sum (often with a small discount) or in monthly installments through the end of the year.
+### 3. Recapitulative statements (only with EU business clients)
 
-### 2. The "Advance Tax" (Prokatavoli)
-When you pay your annual income tax, Greece also requires an **advance tax payment** toward the *next* year's taxes.
-- For freelancers, this is typically 55% of your assessed tax for the current year.
-- It is halved in the year you first earn business income. It is a critical cash-flow consideration that catches many expats by surprise.
+If you invoice VAT-registered businesses in other EU countries, you file a monthly recapitulative statement listing them, by the **26th of the following month**, separately from the VAT return and even in months when no VAT return is due. A missed statement is penalised automatically. More in our [VAT guide for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
 
-## Summary: A Typical Year
+## VAT returns (monthly or quarterly)
 
-To summarize, a standard year for a Greek freelancer looks like this:
-- **Every Month:** Issue e-invoices, send expenses to your accountant, pay EFKA.
-- **Monthly, or January, April, July, October:** File VAT returns (if applicable).
-- **Spring/Summer:** File your annual tax return and pay your income tax (plus advance tax for next year).
+If your business is subject to VAT (FPA), you file VAT returns and pay any VAT owed.
 
-Working with a reliable, English-speaking accountant is not just a luxury in Greece—it is a necessity. They will ensure your myDATA records are perfectly synced, handle the complex E3 forms, and remind you of every deadline before it becomes an issue.
+- **Frequency:** businesses that started on or after 1 January 2024 file **monthly** and can switch to quarterly after 24 months. Established freelancers with single-entry books file **quarterly**.
+- **Deadline:** the last working day of the month following the period. For quarterly filers:
+  - Q1 (January to March): 30 April
+  - Q2 (April to June): 31 July
+  - Q3 (July to September): 31 October
+  - Q4 (October to December): 31 January
+
+## Annual obligations
+
+### 1. Annual tax return
+
+Your annual income tax return (E1 is the personal return, E3 the business income schedule) summarises your income, deductible expenses and final income tax.
+
+- **Filing window:** 15 March to 15 July, fixed by law since 2025. Extensions happen in some years, but do not plan around them.
+- **Payment:** in full by the end of July, with a discount of 4% if you filed by 30 April, 3% by 15 June and 2% by 15 July, or in **eight monthly instalments** from the end of July to the end of February of the following year.
+
+### 2. The advance tax (prokatavoli)
+
+With your annual income tax, Greece collects an **advance on next year's tax**: 55% of the income tax on your business income, halved to 27.5% in the year you first earn business income. It is credited against the following year's bill, but it has to be paid with this year's. The full mechanics are in [the hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax), a worked example in the [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
+
+## Summary: a typical year
+
+- **Every month:** issue invoices through myDATA, send expenses to your accountant, pay EFKA; recapitulative statement by the 26th if you have EU business clients.
+- **Monthly, or by 30 April, 31 July, 31 October and 31 January:** VAT returns (if applicable).
+- **15 March to 15 July:** file the annual return; pay income tax plus the advance by the end of July or in eight instalments.
+
+## Frequently asked questions
+
+### When is EFKA due for freelancers in Greece?
+
+By the last working day of the month following the contribution month. You pay by bank transfer using the RF code on your notice. Late payments accrue interest automatically.
+
+### How often do freelancers file VAT returns in Greece?
+
+Monthly if your business started on or after 1 January 2024 (quarterly on request after 24 months); quarterly for established freelancers with single-entry books. Due by the last working day of the month after the period.
+
+### When is the annual income tax return due in Greece?
+
+The E1 and E3 forms are filed between 15 March and 15 July. Payment is due in full by the end of July, with a 2 to 4 percent discount for early filing, or in eight monthly instalments to February.
+
+### What is the advance tax on a Greek freelancer's tax return?
+
+An advance of 55% of your income tax on business income, paid with the annual return towards next year. Halved in the year you first earn business income, credited against the following year's bill.
+
+## How taxomade can help
+
+Every deadline above is part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month: myDATA transmission, EFKA notices, VAT returns, recapitulative statements and the annual E1/E3 return, in English, German, Spanish or Greek. Send us a message for a free check of your setup.
+
+*Deadlines reflect Greek rules as of October 2026 and are extended in some years. This is general information, not tax advice; individual situations vary.*

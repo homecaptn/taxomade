@@ -2,7 +2,7 @@
 title: "E-Invoicing in Greece for Freelancers: What Changes From November 2026"
 description: "E-invoicing in Greece for freelancers: mandatory from November 2, 2026. Which invoices are covered, timologio, declarations, deadlines and penalties."
 pubDate: 2026-09-30
-updatedDate: 2026-10-06
+updatedDate: 2026-10-14
 category: "bookkeeping"
 faq:
   - question: "Do freelancers in Greece need e-invoicing?"
@@ -72,7 +72,7 @@ For the VAT side of invoicing foreign clients (reverse charge, VIES, monthly fil
 
 **2. An AADE-approved e-invoicing provider.** Private companies certified by AADE. Your existing accounting software can often be connected to one, so you keep your software while the provider handles the compliant issuance. Accounting software on its own is not an approved channel.
 
-According to AADE, around 655,000 businesses, roughly 70% of those affected, are already using a compliant system.
+According to AADE, the large majority of affected businesses were already using a compliant system when the November date was set.
 
 ## Do you need to file a declaration?
 
