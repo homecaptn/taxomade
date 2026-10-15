@@ -1,8 +1,10 @@
 ---
 title: "Already Living in Greece Without a Tax Setup? A 2026 Fix-It Checklist"
-description: "Moved to Greece but never sorted out your taxes? How to check if you're tax resident, what you need to register, how late filing works, and what it costs to fix it now."
+description: "Moved to Greece but never sorted out your taxes? Check tax residency, register your work, file late returns and see what the 2026 fines really are."
 pubDate: 2026-10-07
+updatedDate: 2026-10-15
 category: "tax"
+image: "/images/guides/tax_residency_hero.png"
 faq:
   - question: "Do I have to pay taxes in Greece if I work remotely for a foreign company?"
     answer: "If you are a Greek tax resident, yes. Greek tax residents are taxed on their worldwide income, including salary or fees paid from abroad. You generally become tax resident if you spend more than 183 days in Greece within any 12-month period, or if your permanent home or centre of vital interests is in Greece."
@@ -35,7 +37,7 @@ As a Greek tax resident, you are taxed on your income from Greece **and from abr
 
 Nothing works without an AFM: no tax return, no registration, no bank account. If you don't have one yet, start here: [what the Greek AFM is and how it works](/guides/what-is-greek-afm-number). With your AFM you also get access to TAXISnet and myAADE, the tax authority's online portal.
 
-If you already have an AFM from an earlier stay, for example as a non-resident to rent an apartment, your tax residency usually needs to be updated. AADE handles this through the "My Requests" application in myAADE (registry changes).
+If you already have an AFM from an earlier stay, for example as a non-resident to rent an apartment, your tax residency usually needs to be updated. This is usually done through a registry-change request in the "My Requests" application in myAADE.
 
 ## Step 3: Sort out your work situation
 
@@ -43,11 +45,11 @@ What you need depends on how you earn your money:
 
 | Your situation | What you need in Greece |
 |---|---|
-| **Freelancer / self-employed** | Register your business activity, register with EFKA (social security), issue invoices through myDATA, file VAT returns in most cases |
-| **Employed by a foreign company, working remotely** | Annual Greek tax return as a resident; check with your employer how your social security is handled (e.g. an A1 certificate within the EU) |
+| **Freelancer / self-employed** | Register your business activity, register with EFKA (social security), issue invoices through myDATA (AADE's e-invoicing platform), file VAT returns in most cases |
+| **Employed by a foreign company, working remotely** | Annual Greek tax return as a resident; check with your employer how your social security is handled (e.g. an A1 certificate, the EU form confirming which country's social security applies) |
 | **Employed by a Greek company** | Your employer handles payroll; you still file an annual tax return |
 
-For freelancers, this step matters most. Under Greek VAT law, the activity has to be registered **before your first transaction**. Working without registration is a violation in itself: in a 2018 case published by [taxheaven](https://www.taxheaven.gr/news/42145/ded-prostimo-mh-dhlwshs-enarxhs-ergasiwn-kai-mh-thrhshs-logistikwn-arxeiwn), the missing registration cost €100, and the missing bookkeeping that came with it €2,500. Freelancers with a small turnover can be exempt from charging VAT, which is why VAT returns apply "in most cases", not always.
+For freelancers, this step matters most. Under Greek VAT law, the activity has to be registered **before your first transaction**. Working without registration is a violation in itself: in a 2018 case published by [taxheaven](https://www.taxheaven.gr/news/42145/ded-prostimo-mh-dhlwshs-enarxhs-ergasiwn-kai-mh-thrhshs-logistikwn-arxeiwn), the missing registration cost €100, and the missing bookkeeping that came with it €2,500 (under the previous procedure code; the same amounts still apply under Article 54 of Law 4987/2022). Freelancers with a small turnover can be exempt from charging VAT, which is why VAT returns apply "in most cases", not always.
 
 Our guide on [setting up as a freelancer in Greece](/guides/freelancer-setup-greece) walks through the registration, and [EFKA for freelancers](/guides/efka-social-security-freelancers-greece) explains social security.
 
@@ -63,27 +65,23 @@ You can file missed tax returns late. Fines for late returns are now calculated 
 | Late return with tax to pay: double-entry bookkeeping | €500 |
 | Late initial income tax return showing €100 tax or less | No fine |
 
-Late-payment interest of 0.73% per month on the unpaid tax comes on top, and the fine applies per late return, so it adds up with every missed month or quarter. Still, if you file voluntarily, these are fixed amounts. For most people, catching up costs far less than they fear, and far less than it would after a tax audit.
+Late-payment interest of 0.73% per month on the unpaid tax comes on top, and the fine applies per late return, so it adds up with every missed month or quarter. If you were only employed, or had no business activity, catching up is usually limited to these fixed fines plus interest, far less than after a tax audit. If you worked as a freelancer without registering, fines for the missing registration, invoices and books can come on top, so get the full picture before you file. If you also owe tax, budget for the [advance tax and other hidden costs](/guides/hidden-costs-moving-to-greece-advance-tax) that come with a Greek setup.
 
 ## Step 5: Check the 5C regime before it's too late
 
 If you moved to Greece recently, you may qualify for the **5C regime**, which makes 50% of your Greek employment or business income tax-free for seven years. One condition is that you were **not Greek tax resident in five of the last six years**. For employees, the job has to be with a Greek company or a Greek branch of a foreign company, so remote employees of a foreign employer usually don't qualify; self-employed income can. Holders of the Digital Nomad Visa are not eligible.
 
-The application has deadlines, and applying late can cost you a year of the benefit. If you've been in Greece for a while without a setup, check your eligibility first. Our guide on the [50% tax break under Article 5C](/guides/50-percent-tax-break-article-5c) explains who qualifies.
+The application has deadlines, and applying late can cost you a year of the benefit. If you've been in Greece for a while without a setup, check your eligibility first. Our guide on the [50% tax break under Article 5C](/guides/50-percent-tax-break-article-5c) explains who qualifies, and the [5C calculator](/greece/5c-tax-calculator) shows what it would save you.
 
 ## Step 6: Close things down in your home country
 
 Moving your tax residency to Greece usually means telling your home country too. That can involve deregistering your address, informing your home tax office and checking the double tax treaty between your home country and Greece, so that the same income isn't taxed twice. The rules differ from country to country, so check with your home tax authority.
 
-## What it costs to fix
-
-Usually less than people expect, as long as you act before the tax office does. A typical catch-up includes your AFM and online access, registering your activity if you're self-employed, filing missed returns with their fixed fines and interest, and ongoing bookkeeping from then on.
-
 ## What we charge
 
-At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT returns and your annual tax return included, in English, German, Spanish or Greek. If you've been living in Greece without a setup, we look at your situation, tell you what's missing and prepare and file everything needed. [See what's included](/greece/ongoing-bookkeeping), or send us a message for a free check.
+A typical catch-up includes your AFM and online access, registering your activity if you're self-employed, filing missed returns with their fines and interest, and ongoing bookkeeping from then on. At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT returns and your annual tax return included, in English, German, Spanish or Greek. If you've been living in Greece without a setup, we look at your situation, tell you what's missing and prepare and file everything needed. [See what's included](/greece/ongoing-bookkeeping), or send us a message for a free check.
 
-## FAQ
+## Frequently asked questions
 
 ### Do I have to pay taxes in Greece if I work remotely for a foreign company?
 
@@ -104,3 +102,5 @@ Yes. If you are tax resident in Greece and work as a freelancer, you must regist
 ### Can I still apply for the 5C tax regime if I moved last year?
 
 Possibly, but the application has deadlines and conditions, including that you were not Greek tax resident in five of the last six years. Employees only qualify with a Greek employer or a Greek branch of a foreign company. Applying late can cost you a year of the benefit, so check your eligibility as soon as possible.
+
+*Fines and rules reflect Greek tax law as of October 2026. This is general information, not tax advice; individual situations vary.*
