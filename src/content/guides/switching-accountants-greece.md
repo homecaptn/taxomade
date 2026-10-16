@@ -1,7 +1,8 @@
 ---
 title: "Switching Accountants in Greece: A Step-by-Step Guide (2026)"
-description: "How to change your accountant in Greece without gaps: when to switch, how authorizations in myAADE work, what your old accountant has to hand over, and how long it takes."
+description: "How to switch accountants in Greece without gaps: myAADE authorizations, what your old accountant must hand over, best timing and how long it takes."
 pubDate: 2026-10-07
+updatedDate: 2026-10-16
 category: "bookkeeping"
 faq:
   - question: "Can I change my accountant in Greece in the middle of the year?"
@@ -32,7 +33,7 @@ Here's how to do it without leaving a gap in your filings.
 
 Most people switch for the same reasons:
 
-- **Late filings or fines** you only find out about afterwards
+- **Late filings or fines** you only find out about afterwards (Greek penalties are issued automatically, without a warning letter)
 - **No answers**, or answers that take days or weeks
 - **Language:** everything comes in Greek, nothing is explained
 - **Surprise extra fees** on top of the monthly price
@@ -57,14 +58,14 @@ Look beyond the monthly price. Ask what is actually included: VAT returns, myDAT
 
 In Greece, your accountant works on your behalf through the tax authority's online system. The authorization comes from you:
 
-1. Log in to [myAADE](https://www.aade.gr/myaade) with your TAXISnet credentials.
+1. Log in to [myAADE](https://www.aade.gr/myaade) with your TAXISnet credentials (your Greek tax portal login).
 2. Go to **Registry & Communication → Authorizations** (Μητρώο & Επικοινωνία → Εξουσιοδοτήσεις).
 3. Enter your new accountant's tax number (AFM) and select which services they may handle. You can authorize specific services only and change this later.
 4. Your new accountant logs in to their own myAADE account and accepts the authorization. Until then it shows as pending.
 
-You never need to share your password. In the same menu you can revoke your old accountant's authorization; the revocation takes effect immediately. It's good practice to also tell them in writing.
+You never need to share your password. In the same menu you can revoke your old accountant's authorization. It's good practice to also tell them in writing.
 
-Your new accountant will also check access to the other systems your business uses, for example myDATA, e-EFKA, ERGANI if you have employees, and your invoicing or e-invoicing provider.
+Your new accountant will also check access to the other systems your business uses, for example myDATA, e-EFKA (the social security portal), ERGANI (the Labour Ministry's employee register) if you have employees, and your invoicing or e-invoicing provider.
 
 ## Step 4: Get your records handed over
 
@@ -75,10 +76,10 @@ Ask your old accountant, in writing, to hand over:
 | Filed tax and VAT returns with proof of submission | Shows what has been declared and when |
 | Books and ledgers | Your new accountant continues from here |
 | Open obligations and upcoming deadlines | Nothing gets missed during the switch |
-| Payroll and employee records (if any) | Needed for social security and ERGANI |
+| Payroll and employee records (if any) | Needed for social security and ERGANI; see [hiring your first employee](/guides/hiring-first-employee-greece) |
 | Access details for invoicing software or e-invoicing provider | Your invoicing keeps running without interruption |
 
-Under the accountants' code of conduct, your old accountant is expected to hand over your documents to your new accountant with a written handover record. Settle any fees you still owe for work already done first, because unpaid fees can hold up the handover.
+Under the professional rules for Greek accountants, once you instruct them in writing, your old accountant is expected to hand over your documents to your new accountant with a written handover record. Settle any fees you still owe for work already done first, because unpaid fees can hold up the handover.
 
 ## Step 5: Pick the right moment
 
@@ -98,7 +99,7 @@ At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT r
 
 If you have clients abroad, our guides on [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients) and [e-invoicing in Greece](/guides/e-invoicing-greece-explained) are worth a look before you switch.
 
-## FAQ
+## Frequently asked questions
 
 ### Can I change my accountant in Greece in the middle of the year?
 
@@ -119,3 +120,5 @@ Copies of all filed tax and VAT returns with proof of submission, your books and
 ### How long does switching accountants take in Greece?
 
 In our experience, a clean handover usually takes about a week once your records are available. It can take longer if your old accountant is slow to send documents or if past filings need correcting.
+
+*Based on myAADE and Greek practice as of October 2026. Menu names in myAADE can change. This is general information, not tax or legal advice; individual situations vary.*
