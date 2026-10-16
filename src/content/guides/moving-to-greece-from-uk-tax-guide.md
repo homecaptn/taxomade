@@ -2,6 +2,7 @@
 title: "Moving to Greece from the UK: Tax, Residency and Setup Guide (2026)"
 description: "Moving from the UK to Greece: UK tax exit, the 1953 treaty, pensions, ISAs, National Insurance, visas and the Greek setup for freelancers and retirees."
 pubDate: 2026-10-14
+updatedDate: 2026-10-16
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -70,7 +71,7 @@ You become Greek tax resident with your main home or centre of life here, or onc
 
 **Article 5C, the 50% break.** For seven years, half your Greek employment or business income is exempt from income tax, if you were not Greek tax resident in 5 of the last 6 years, take a job with a Greek entity or register a business here, and move from an EU/EEA state or a state with an administrative cooperation agreement with Greece. **The UK meets that condition**: it is party to the OECD Convention on Mutual Administrative Assistance (in force for the UK since 2008, for Greece since 2013), and Article XV of the 1953 treaty provides for exchange of information. Deadlines and the employee side are in [5C for employees and remote workers](/guides/5c-for-eu-remote-workers), the basics in [how the 50% tax break works](/guides/50-percent-tax-break-article-5c), the numbers in the [5C calculator](/greece/5c-tax-calculator).
 
-**Article 5B, the 7% retiree rate.** Foreign-source income taxed at a flat 7% for 15 years, for pensioners who were non-resident in 5 of the last 6 years and move from a cooperation state. The old 31 March application deadline was scrapped by Law 5313/2026 and payment moved to December; apply early in the year and confirm the current AADE deadline. Greek-source income is taxed normally.
+**Article 5B, the 7% retiree rate.** Foreign-source income taxed at a flat 7% for 15 years, for pensioners who were non-resident in 5 of the last 6 years and move from a cooperation state. Since Law 5313/2026 and AADE decision A.1192/2026, you apply by 31 October of the year you want the regime for and pay the 7% once a year by the end of December; details in [retiring to Greece: the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax). Greek-source income is taxed normally.
 
 **Article 5A** (€100,000 lump sum on all foreign income, with a €500,000 investment) only matters for high-net-worth movers; see [5C vs the non-dom regime](/guides/article-5c-vs-non-dom-regime).
 
