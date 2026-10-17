@@ -2,7 +2,7 @@
 title: "Article 5C vs. The Non-Dom Regime: Which Greek Tax Break is Right for You?"
 description: "Greece's 50% income tax break (Article 5C) and the €100,000 flat-tax non-dom regime (Article 5A) cover different income. Conditions, 2026 deadlines, the break-even and who should pick which."
 pubDate: 2026-07-18
-updatedDate: 2026-10-12
+updatedDate: 2026-10-17
 category: "tax"
 image: "/images/guides/cost_of_living_hero.png"
 faq:
@@ -109,7 +109,7 @@ Article 5C needs no break-even. It only ever reduces tax on income you would oth
 
 **Run the numbers on Article 5A if** you have large foreign-source income that Greece would tax on the full scale, or very large capital gains, and you can commit €500,000 to Greek investments. Model it with your actual income mix and foreign withholding before deciding; the answer is often "not worth it" below a few hundred thousand euros of foreign income.
 
-**Look at Article 5B instead if** you are retired and your income is a foreign pension: 7% flat on all foreign income for 15 years, with no investment requirement.
+**Look at Article 5B instead if** you are retired and your income is a foreign pension: 7% flat on all foreign income for 15 years, with no investment requirement. See [retiring to Greece and the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax).
 
 Whichever regime fits, the move itself has to be done properly: Greek [tax residency](/guides/tax-residency-greece-183-days), an AFM, and for 5C a registered job or business before the deadline. At taxomade we advise on Article 5C and prepare and file the application together with the freelancer registration, so the start date, the regime year and the first [tax return](/guides/freelancer-taxes-greece-2026) line up.
 

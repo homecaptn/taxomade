@@ -2,6 +2,7 @@
 title: "Setting Up an IKE in Greece: Process and Annual Costs (2026 Guide)"
 description: "How to form a Greek private company (IKE) in 2026, what it costs to set up and run every year, how it is taxed, and when it makes more sense than a sole proprietorship."
 pubDate: 2026-10-09
+updatedDate: 2026-10-17
 category: "tax"
 faq:
   - question: "How much does it cost to open an IKE in Greece?"
@@ -63,7 +64,8 @@ Three points matter here:
 
 - **Trade fee:** sole proprietors, including freelancers, no longer pay it since tax year 2024. Companies still do, from their first year, under [Article 31 of Law 3986/2011](https://www.taxheaven.gr/news/44962/telos-epithdeymatos-egxeiridio-erwtapanthsewn-apo-thn-aade). Some very small villages and islands are exempt. In September 2026 the government [announced a phased abolition](https://taxrevenue.gr/telos-epitideymatos-epixeiriseis-katargisi/) for companies: from 2027 outside Attica, and in Attica a 50% cut in 2028 and full abolition in 2029. As of October 2026 it hasn't been passed into law.
 - **EFKA:** the administrator, and the sole partner of a single-member IKE, are insured as self-employed (ministry circular [Δ.15/Δ'/619/2018](https://www.taxheaven.gr/circulars/28504)). Ordinary partners are not insured just for holding shares. The amounts are the same classes as for freelancers. Whether an administrator can use the reduced class for new insured persons (€150.46) depends on the individual case. See [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
-- **Accounting:** an IKE keeps double-entry books and files VAT returns monthly. In our experience, ongoing accounting for an IKE costs roughly two to three times as much as for a sole proprietorship.
+- **Accounting:** an IKE keeps double-entry books and files VAT returns monthly. In our experience, ongoing accounting for an IKE costs roughly twice as much as for a sole proprietorship.
+- **Staff:** once the company hires, payroll and employer social security (21.79% on top of gross pay) come on top. See [hiring your first employee in Greece](/guides/hiring-first-employee-greece).
 
 ## How an IKE is taxed
 

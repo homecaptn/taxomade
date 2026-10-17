@@ -2,6 +2,7 @@
 title: "Moving to Greece from Germany: Tax and Setup Guide (2026)"
 description: "What changes on the German side when you move to Greece: deregistration, the year of departure, the double tax treaty, social security, pensions, health insurance and exit tax for GmbH owners, plus the Greek setup for freelancers, employees and retirees."
 pubDate: 2026-10-10
+updatedDate: 2026-10-17
 category: "tax"
 translationOf: "umzug-griechenland-aus-deutschland-steuern"
 faq:
@@ -97,7 +98,7 @@ For a new company in Greece, see [setting up an IKE in Greece](/guides/ike-greec
 - **Your pension follows you.** The Deutsche Rentenversicherung pays to a Greek account; [once a year you confirm you are alive](https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260602-rente-im-ausland) (Lebensnachweis).
 - **Tax:** statutory and private pensions are taxed in Greece only; German civil service pensions stay in Germany. The [Finanzamt Neubrandenburg](https://www.vlh.de/krankheit-vorsorge/altersbezuege/diese-steuerregeln-gelten-auch-fuer-rentner-im-ausland.html) is responsible for pensioners abroad and may still request a return.
 - **Health insurance:** if you receive only a German pension and were compulsorily insured in Germany, you stay in the German pensioners' scheme after an EU move ([EU rules](https://europa.eu/youreurope/citizens/health/when-living-abroad/health-insurance-cover/faq/index_en.htm)). Ask your Krankenkasse for the **S1 form**; it registers you with the Greek system (EOPYY), while Germany bears the cost.
-- **Greek side:** you file an annual Greek tax return. Greece also offers a flat-tax regime for foreign pensioners who move their residency here (Article 5B); whether it beats normal taxation depends on your income.
+- **Greek side:** you file an annual Greek tax return. Greece also offers a flat-tax regime for foreign pensioners who move their residency here (Article 5B, 7% on foreign income, application by 31 October); whether it beats normal taxation depends on your income. Details in [retiring to Greece and the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax).
 
 ## 8. Health insurance for working-age movers
 
