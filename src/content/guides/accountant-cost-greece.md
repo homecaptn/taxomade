@@ -1,8 +1,8 @@
 ---
 title: "How Much Does an Accountant Cost in Greece? (2026 Prices)"
-description: "What accountants really cost in Greece in 2026 — from €30/month local rates to full-service digital bookkeeping. What drives the price, and what is actually included in it."
+description: "What accountants cost in Greece in 2026: €30–60/month local rates vs full-service bookkeeping, what drives the price and what is actually included."
 pubDate: 2026-09-06
-updatedDate: 2026-10-12
+updatedDate: 2026-10-17
 category: "bookkeeping"
 faq:
   - question: "Do I really need an accountant as a freelancer in Greece?"
@@ -58,7 +58,7 @@ Full transparency, since that's the point of this article: our [ongoing bookkeep
 
 ### Do I really need an accountant as a freelancer in Greece?
 
-Legally you can file yourself — practically, almost nobody does. The myDATA system, Greek-only government portals and fixed fines for late filings — [€250 per late return on simplified books, €500 on double-entry books](https://www.taxheaven.gr/news/71451/prostima-diadikastikwn-parabasewn-kfd-dieykriniseis-kai-paradeigmata) under Article 53 of the Tax Procedure Code — make professional handling the norm, even among Greeks. See our [freelancer tax guide](/guides/freelancer-taxes-greece-2026) for what's involved.
+Legally you can file yourself — practically, almost nobody does. The myDATA system, Greek-only government portals and fixed fines for late filings — [€250 per late return on simplified books, €500 on double-entry books](https://www.taxheaven.gr/news/71451/prostima-diadikastikwn-parabasewn-kfd-dieykriniseis-kai-paradeigmata) under Article 54 of the Tax Procedure Code — make professional handling the norm, even among Greeks. See our [freelancer tax guide](/guides/freelancer-taxes-greece-2026) for what's involved.
 
 ### Why do internationals pay more than the €30–€60 local rate?
 
@@ -72,9 +72,9 @@ Yes, anytime. The new accountant takes over your records and access codes; a pro
 
 For freelancers and companies, yes — accounting fees are a business expense under [Article 22 of the Greek Income Tax Code](https://www.taxheaven.gr/law/4172/2013/arthro/22) (Law 4172/2013) and reduce your taxable income, as long as they're invoiced and recorded in your books. The fee for a private individual's annual return is not deductible.
 
-## How taxomade can help
+## How we can help
 
 **Want a fixed monthly price with everything included?**
 Take a look at our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) — one rate, all core filings, handled by our state-certified Greek accountant in your language.
 
-*Prices reflect the Greek market as of 2026 and are indicative ranges, not quotes. Send us a short message and we'll give you an exact number in writing.*
+*Prices reflect the Greek market as of 2026 and are indicative ranges, not quotes. Send us a short message and we'll give you an exact number in writing. This is general information, not tax advice; individual situations vary.*
