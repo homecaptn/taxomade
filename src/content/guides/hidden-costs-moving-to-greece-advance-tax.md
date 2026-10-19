@@ -85,4 +85,4 @@ From the fourth year of activity you are taxed on at least the annual minimum wa
 
 Budgeting the advance tax, checking the 5C paperwork before you order translations, and keeping EFKA and VAT on schedule are part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, with myDATA, VAT returns and the annual tax return included. Send us a message for a free check of your setup.
 
-*Amounts reflect the Greek market and tax law as of October 2026. Apostille and translation fees vary by country and provider. This is general information, not tax advice; individual situations vary.*
+*Amounts reflect the Greek market and tax law as of October 2026. Apostille and translation fees vary by country and provider.*

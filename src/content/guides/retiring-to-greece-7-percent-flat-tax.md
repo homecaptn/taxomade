@@ -129,4 +129,4 @@ Once a year, in one payment, by the last working day of December. No instalments
 
 We check whether the 7% regime pays off in your case, prepare and file the Article 5B application and your annual Greek tax return, and handle the Greek side of the treaty paperwork, such as having your DT-Individual form certified by the Greek tax office. If you also earn income in Greece, see our [ongoing bookkeeping](/greece/ongoing-bookkeeping). Send us a message with your pension details for a free check.
 
-*Rules reflect Greek law and AADE decision A.1192/2026 as of October 2026. Treaty outcomes depend on the type of pension and your nationality. This is general information, not tax advice; individual situations vary.*
+*Rules reflect Greek law and AADE decision A.1192/2026 as of October 2026. Treaty outcomes depend on the type of pension and your nationality.*

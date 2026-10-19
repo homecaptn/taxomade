@@ -125,4 +125,4 @@ It was announced in September 2026 for 2027 but has not been legislated. EU/EEA 
 
 taxomade prepares and files the annual obligations for non-resident owners: the E9 declaration, the ENFIA review, the income tax return where there is rental income, and, under a power of attorney, the AFM application and tax representative appointment. The service is quoted individually, based on the number of properties and whether they are let. Message us on WhatsApp with the property details for a quote, or use the contact form. If you also work from Greece, see [our monthly bookkeeping](/greece/ongoing-bookkeeping).
 
-*Rules reflect Greek law and AADE guidance as of October 2026. The 15% transfer tax for non-EU buyers is an announced measure, not legislation. This is general information, not tax advice; individual situations vary.*
+*Rules reflect Greek law and AADE guidance as of October 2026. The 15% transfer tax for non-EU buyers is an announced measure, not legislation.*

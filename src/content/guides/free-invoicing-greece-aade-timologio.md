@@ -96,4 +96,4 @@ The unique registration number myDATA assigns to every transmitted invoice, prin
 
 timologio is free, but the first invoice is where the mistakes happen: wrong activity code (KAD), wrong VAT exemption reason, missing VIES check. In our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, we set up your timologio profile and exemption codes with you and handle the myDATA and VAT side from there.
 
-*Information reflects AADE rules as of October 2026. This is general information, not tax advice; individual situations vary.*
+*Information reflects AADE rules as of October 2026.*

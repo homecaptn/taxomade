@@ -149,4 +149,4 @@ It stays open, you cannot pay in, and Greece taxes the income and gains inside i
 
 Class 2 abroad is closed to new applicants since April 2026. Class 3 is possible with ten years of UK residence or contributions; existing Class 3 payers continue, existing Class 2 payers can switch until April 2027.
 
-*Rules reflect UK and Greek law as of October 2026. The 15% transfer tax for non-EU buyers is an announced measure, not legislation. This is general information, not tax advice; individual situations vary.*
+*Rules reflect UK and Greek law as of October 2026. The 15% transfer tax for non-EU buyers is an announced measure, not legislation.*

@@ -103,4 +103,4 @@ Yes. If you are tax resident in Greece and work as a freelancer, you must regist
 
 Possibly, but the application has deadlines and conditions, including that you were not Greek tax resident in five of the last six years. Employees only qualify with a Greek employer or a Greek branch of a foreign company. Applying late can cost you a year of the benefit, so check your eligibility as soon as possible.
 
-*Fines and rules reflect Greek tax law as of October 2026. This is general information, not tax advice; individual situations vary.*
+*Fines and rules reflect Greek tax law as of October 2026.*

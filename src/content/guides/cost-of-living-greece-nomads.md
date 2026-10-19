@@ -109,4 +109,4 @@ Only if you register as a freelancer in Greece: about €160 per month in the fi
 
 Greece offers good value, especially outside the tourist islands. Budget around €1,500 a month in Athens or Thessaloniki and you live well, with room for weekend trips. If you are registering a business here, our [ongoing bookkeeping](/greece/ongoing-bookkeeping) starts at €89 per month with myDATA, VAT returns and the annual tax return included, so the tax side of your budget is a fixed number too.
 
-*Figures reflect the Greek market as of October 2026 and are indicative ranges, not quotes. This is general information, not tax advice; individual situations vary.*
+*Figures reflect the Greek market as of October 2026 and are indicative ranges, not quotes.*

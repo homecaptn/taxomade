@@ -95,4 +95,4 @@ For most freelancers, a sole proprietorship. An IKE pays 22% corporate tax plus 
 
 The [timeline for moving to Greece as a freelancer](/guides/moving-to-greece-as-freelancer-timeline-payments) shows what is due when. At taxomade, we prepare and file your business start, VAT returns and annual tax return as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, with myDATA included. Send us a message for a free check of your setup.
 
-*Amounts reflect Greek tax and social security rules as of October 2026. This is general information, not tax advice; individual situations vary.*
+*Amounts reflect Greek tax and social security rules as of October 2026.*

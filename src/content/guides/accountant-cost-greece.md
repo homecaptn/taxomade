@@ -77,4 +77,4 @@ For freelancers and companies, yes — accounting fees are a business expense un
 **Want a fixed monthly price with everything included?**
 Take a look at our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) — one rate, all core filings, handled by our state-certified Greek accountant in your language.
 
-*Prices reflect the Greek market as of 2026 and are indicative ranges, not quotes. Send us a short message and we'll give you an exact number in writing. This is general information, not tax advice; individual situations vary.*
+*Prices reflect the Greek market as of 2026 and are indicative ranges, not quotes. Send us a short message and we'll give you an exact number in writing.*

@@ -103,4 +103,4 @@ Apply to transfer your tax residency abroad by the first ten days of March of th
 
 Once you are resident, Greece expects a return on your worldwide income every year, and self-employed residents file VAT and myDATA on top. We prepare and file these as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping); send us a message for a free check of your situation.
 
-*Rules as of October 2026. Treaty outcomes depend on your home country and income type. This is general information, not tax advice; individual situations vary.*
+*Rules as of October 2026. Treaty outcomes depend on your home country and income type.*

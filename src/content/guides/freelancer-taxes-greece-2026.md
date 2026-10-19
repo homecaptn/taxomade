@@ -138,4 +138,4 @@ Freelancers with simple bookkeeping who started on or after 1 January 2024 file 
 
 When you file your tax return, you also pay an advance on next year's tax: 55% of this year's income tax on business income, minus tax already withheld. It is halved in the year you first earn business income. The advance is credited against next year's tax bill.
 
-*Rates and amounts reflect Greek tax law as of October 2026. This is general information, not tax advice; individual situations vary.*
+*Rates and amounts reflect Greek tax law as of October 2026.*

@@ -109,4 +109,4 @@ Only once it is registered with AADE. The registered declaration, not the paper 
 
 Renting is usually the first step; tax registration, rent refunds and, if you work for yourself, monthly filings follow. If you want that handled in English, see our [ongoing bookkeeping](/greece/ongoing-bookkeeping) and send us a message for a free check.
 
-*Rules and market figures as of October 2026. This is general information, not legal or tax advice; individual situations vary.*
+*Rules and market figures as of October 2026.*
