@@ -105,4 +105,4 @@ Taxes yes, from any SEPA account. EFKA, direct debits and IRIS work most reliabl
 
 Secure your AFM first, then choose your route: Alpha's remote onboarding or Eurobank's international unit if you need an account before you arrive, a branch visit otherwise. Once your Greek IBAN is open and you start working, taxomade handles the rest of your setup with [ongoing bookkeeping](/greece/ongoing-bookkeeping) from €89/month, including myDATA, VAT returns and your annual tax return. Send us a message for a free check.
 
-*Bank fees, programmes and neobank status reflect the Greek market as of October 2026 and change often; check with the bank before applying. This is general information, not financial or tax advice; individual situations vary.*
+*Bank fees, programmes and neobank status reflect the Greek market as of October 2026 and change often; check with the bank before applying.*
