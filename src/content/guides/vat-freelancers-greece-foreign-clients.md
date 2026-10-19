@@ -2,7 +2,7 @@
 title: "VAT for Freelancers in Greece With Foreign Clients (2026 Guide)"
 description: "Reverse charge, VIES registration, recapitulative statements and the €10,000 OSS threshold — how Greek VAT actually works when your clients are abroad."
 pubDate: 2026-09-20
-updatedDate: 2026-10-08
+updatedDate: 2026-10-19
 category: "bookkeeping"
 faq:
   - question: "Do I charge VAT to clients outside Greece?"
@@ -14,7 +14,7 @@ faq:
   - question: "What is a recapitulative statement (Φ4)?"
     answer: "A monthly report listing your EU business clients, their VAT numbers, and invoice amounts — due by the 26th of the following month, separate from your VAT return. Missing it triggers automatic penalties."
   - question: "How often do freelancers in Greece file VAT returns?"
-    answer: "Businesses that started activity on or after 1 January 2024 file monthly; after 24 months they can switch to quarterly on request. Established freelancers with single-entry books file quarterly, by the last working day of the month after the quarter ends."
+    answer: "Single-entry businesses that started activity on or after 1 January 2024 file monthly; after 24 months they can switch to quarterly on request. Double-entry businesses always file monthly. Established freelancers with single-entry books file quarterly, by the last working day of the month after the quarter ends."
   - question: "Does the €10,000 threshold apply to all services to EU consumers?"
     answer: "No. It applies to TBE services — telecommunications, broadcasting and electronically supplied services — plus intra-EU distance sales of goods. Ordinary live services to EU consumers carry Greek VAT regardless of volume."
 ---
@@ -56,7 +56,7 @@ This is a separate step from getting your [AFM](/guides/what-is-greek-afm-number
 
 Once you invoice EU businesses, you have a second reporting obligation: the **recapitulative statement** (Φ4 form, sometimes called an EC Sales List). It lists every EU business client you invoiced that month, with VAT numbers and amounts.
 
-It's filed monthly, by the **26th of the following month** — even in months where no regular VAT return is due. Miss it, and penalties are issued automatically, without a warning letter first. This is one of the most common gaps we see in the books of freelancers who set things up on their own, or with an accountant who rarely handles international clients.
+It's filed monthly, by the **26th of the following month** — even in months where no regular VAT return is due. Miss it, and a penalty (€100 per late statement) is issued automatically, without a warning letter first. This is one of the most common gaps we see in the books of freelancers who set things up on their own, or with an accountant who rarely handles international clients.
 
 ## Non-EU clients: US, UK, and everywhere else
 
@@ -80,10 +80,14 @@ The dividing line is **automation, not the internet**. A live Zoom session is an
 
 Greece changed its filing rules in 2025, and it matters most for exactly the people reading this:
 
-- **Businesses that started activity on or after 1 January 2024** file VAT returns **monthly**, regardless of bookkeeping type (those that started between January 2024 and March 2025 since July 2025). After 24 months from commencement, they can switch to quarterly on request.
+- **Single-entry businesses that started activity on or after 1 January 2024** file VAT returns **monthly** ([AADE decision A.1049/2025](https://aade.gr/sites/default/files/2025-07/dt_03.07.2025.pdf); those that started between January 2024 and March 2025 since the July 2025 period). After 24 months from commencement, they can switch to quarterly on request. Double-entry businesses file monthly anyway.
 - **Established freelancers with single-entry books** file **quarterly**, due the last working day of the month following the quarter.
 
 If you're registering as a freelancer now, plan for monthly VAT returns from day one — plus monthly recapitulative statements if you have EU business clients. That's a heavier cadence than most people expect, and the main reason DIY bookkeeping breaks down within months.
+
+### What about the small business VAT exemption?
+
+Freelancers whose turnover in the previous year stayed under **€10,000** can opt into the [small business scheme of Article 39](https://www.aade.gr/menoy/hristikoi-odigoi/enarxi-epiheirimatikis-drastiriotitas/eidika-kathestota-fpa) of the VAT Code: no Greek VAT on invoices and no periodic VAT returns, but also no deduction of VAT on your own costs. You leave the scheme with the transaction that takes you over the limit. Whether it pays off depends on your client mix and costs, so check it before you register.
 
 ## E-invoicing: what changes in November 2026
 
@@ -119,8 +123,10 @@ A monthly report listing your EU business clients, their VAT numbers, and invoic
 
 ### How often do freelancers in Greece file VAT returns?
 
-Businesses that started activity on or after 1 January 2024 file monthly; after 24 months they can switch to quarterly on request. Established freelancers with single-entry books file quarterly, by the last working day of the month after the quarter ends.
+Single-entry businesses that started activity on or after 1 January 2024 file monthly; after 24 months they can switch to quarterly on request. Double-entry businesses always file monthly. Established freelancers with single-entry books file quarterly, by the last working day of the month after the quarter ends.
 
 ### Does the €10,000 threshold apply to all services to EU consumers?
 
 No. It applies to TBE services — telecommunications, broadcasting and electronically supplied services — plus intra-EU distance sales of goods. Ordinary live services to EU consumers carry Greek VAT regardless of volume.
+
+*Rules as of October 2026. VAT treatment depends on the service and the client's status, so check your setup before you invoice.*
