@@ -1,13 +1,13 @@
 ---
 title: "Article 5C vs. The Non-Dom Regime: Which Greek Tax Break is Right for You?"
-description: "Greece's 50% income tax break (Article 5C) and the €100,000 flat-tax non-dom regime (Article 5A) cover different income. Conditions, 2026 deadlines, the break-even and who should pick which."
+description: "Article 5C (50% exemption) vs Article 5A (€100,000 non-dom flat tax): what each covers, 2026 deadlines, break-even, and who should pick which."
 pubDate: 2026-07-18
-updatedDate: 2026-10-17
+updatedDate: 2026-10-20
 category: "tax"
 image: "/images/guides/cost_of_living_hero.png"
 faq:
   - question: "Can I combine Article 5C and the non-dom regime in Greece?"
-    answer: "They cover different income. Article 5C halves the tax on employment or business income earned in Greece. Article 5A replaces the tax on foreign-source income with a flat €100,000 a year, while Greek-source income stays taxed under the normal rules. Whether both can be held at once is not something we would plan around; in practice people fall clearly into one profile or the other."
+    answer: "Yes. AADE confirms that a person can hold Article 5C and Article 5A (or 5B) at the same time, if the conditions of each are met. 5C then halves the tax on Greek employment or business income, while the €100,000 lump sum covers foreign-source income. 5A and 5B cannot be combined with each other."
   - question: "How much is the Greek non-dom tax?"
     answer: "A flat €100,000 per tax year on all foreign-source income, regardless of the amount, plus €20,000 per family member you add. Since 2026 it is paid in one instalment by the last working day of December. Tax paid abroad on that income is not credited against it."
   - question: "What is the investment requirement for the Greek non-dom regime?"
@@ -20,9 +20,9 @@ faq:
     answer: "No. The Digital Nomad Visa does not allow work for a Greek employer or business activity in Greece, which is exactly what Article 5C requires. DNV holders are taxed under the normal rules once they become Greek tax residents."
 ---
 
-Greece has three special regimes for people who move their tax residency here. Two of them get compared constantly: **[Article 5C](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ)**, the 50% income tax exemption for people who come to work, and **[Article 5A](https://www.taxheaven.gr/laws/view/index/law/4172/year/2013/article/5α)**, the €100,000 flat tax usually called the non-dom regime. (The third, [Article 5B](https://www.taxheaven.gr/law/5313/2026/arthro/94), taxes foreign pensioners at a flat 7%.)
+Greece has three special regimes for people who move their tax residency here. Two of them get compared constantly: **[Article 5C](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ)**, the 50% income tax exemption for people who come to work, and **[Article 5A](https://www.taxheaven.gr/laws/view/index/law/4172/year/2013/article/5α)**, the €100,000 flat tax usually called the non-dom regime. (The third, [Article 5B](https://www.taxheaven.gr/law/4172/2013/arthro/5Β), taxes foreign pensioners at a flat 7%; applications are due by 31 October.)
 
-The comparison is less of a contest than it looks, because the two regimes tax different income. Here is what each one does, what it costs, and where the break-even lies.
+The comparison is less of a contest than it looks, because the two regimes tax different income, and [AADE](https://aade.gr/sites/default/files/2025-11/forologika_kinitra.pdf) even allows holding 5C together with 5A or 5B. Here is what each one does, what it costs, and where the break-even lies.
 
 ## The short answer
 
@@ -47,7 +47,7 @@ Article 5C is for professionals, executives and freelancers who come to Greece t
 **Who it's for:**
 - Remote workers who set up as freelancers in Greece and invoice foreign clients, including a former employer (EU citizens do this without a visa; see [5C for EU remote workers](/guides/5c-for-eu-remote-workers)).
 - Employees transferring to a Greek company or a Greek branch of a multinational.
-- Founders whose income comes from working, not from a portfolio.
+- Founders whose income comes from working, as salaried director of a Greek company or sole proprietor (IKE profits themselves are not covered), not from a portfolio.
 
 **Who it's not for:** [Digital Nomad Visa holders](/guides/5c-vs-digital-nomad-visa). The visa forbids work for Greek employers and Greek business activity, so the core condition of 5C cannot be met.
 
@@ -95,7 +95,7 @@ Three things the headline leaves out:
 This is where most online comparisons go wrong. The non-dom regime is not "10% on a million". It is €100,000 instead of whatever Greece would normally charge on your foreign income, and that depends on the type of income ([rates](https://taxsummaries.pwc.com/greece/individual/income-determination)):
 
 - **Foreign salary, business profits, pensions:** taxed on the progressive scale. €100,000 of tax corresponds to roughly **€250,000** of income. Above that, the flat tax is cheaper.
-- **Capital gains on securities:** 15%. Break-even at about **€670,000** of gains per year.
+- **Capital gains on securities:** 15%. Break-even at about **€670,000** of gains per year. Note that gains on listed shares where you hold less than 0.5% are often tax-exempt in Greece anyway, so for many portfolio investors 5A does not pay off on gains at all.
 - **Dividends:** 5%. Break-even at about **€2 million** of dividends per year. On €1,000,000 of foreign dividends, the normal Greek tax would be €50,000 (with foreign withholding credited up to that amount); the non-dom regime charges €100,000 and credits nothing.
 - **Interest:** 15%, same bar as capital gains.
 
@@ -111,13 +111,13 @@ Article 5C needs no break-even. It only ever reduces tax on income you would oth
 
 **Look at Article 5B instead if** you are retired and your income is a foreign pension: 7% flat on all foreign income for 15 years, with no investment requirement. See [retiring to Greece and the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax).
 
-Whichever regime fits, the move itself has to be done properly: Greek [tax residency](/guides/tax-residency-greece-183-days), an AFM, and for 5C a registered job or business before the deadline. At taxomade we advise on Article 5C and prepare and file the application together with the freelancer registration, so the start date, the regime year and the first [tax return](/guides/freelancer-taxes-greece-2026) line up.
+Whichever regime fits, the move itself has to be done properly: Greek [tax residency](/guides/tax-residency-greece-183-days), an AFM, and for 5C a registered job or business before the deadline. At taxomade we advise on Article 5C and prepare and file the application together with the freelancer registration and [ongoing bookkeeping](/greece/ongoing-bookkeeping), so the start date, the regime year and the first [tax return](/guides/freelancer-taxes-greece-2026) line up.
 
-## FAQ
+## Frequently asked questions
 
 ### Can I combine Article 5C and the non-dom regime in Greece?
 
-They cover different income. Article 5C halves the tax on employment or business income earned in Greece. Article 5A replaces the tax on foreign-source income with a flat €100,000 a year, while Greek-source income stays taxed under the normal rules. Whether both can be held at once is not something we would plan around; in practice people fall clearly into one profile or the other.
+Yes. AADE confirms that a person can hold Article 5C and Article 5A (or 5B) at the same time, if the conditions of each are met. 5C then halves the tax on Greek employment or business income, while the €100,000 lump sum covers foreign-source income. 5A and 5B cannot be combined with each other.
 
 ### How much is the Greek non-dom tax?
 
@@ -138,3 +138,5 @@ No. Article 5C has no minimum income and no fee. You need a job with a Greek emp
 ### Are Digital Nomad Visa holders eligible for Article 5C?
 
 No. The Digital Nomad Visa does not allow work for a Greek employer or business activity in Greece, which is exactly what Article 5C requires. DNV holders are taxed under the normal rules once they become Greek tax residents.
+
+*Rules as of October 2026 (A.1147/2026 for 5A, A.1087/2021 as amended for 5C).*

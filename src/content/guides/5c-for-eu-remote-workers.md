@@ -1,8 +1,8 @@
 ---
 title: "Article 5C for Employees and Remote Workers in Greece (2026 Guide)"
-description: "How Greece's 50% income tax exemption (Article 5C) works if you take a job in Greece or work remotely from here: who qualifies, payroll withholding, deadlines, public sector, and what happens if you change jobs or leave."
+description: "Article 5C for employees in Greece: who qualifies, Greek vs foreign employers, payroll withholding, deadlines and what happens if you change jobs."
 pubDate: 2026-07-02
-updatedDate: 2026-10-11
+updatedDate: 2026-10-20
 category: "tax"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -52,11 +52,11 @@ This is where most people get it wrong.
 
 **Your employer has a Greek entity or branch.** You can be hired or transferred there and apply under the employment route. The Greek entity becomes the employer that withholds tax.
 
-**Your employer is purely foreign, no Greek entity.** By the wording of the law, you are not in an employment relationship with a Greek entity or a Greek permanent establishment, so the employment route does not apply. There is no AADE guidance that opens this door for remote work, and no official statement on Employer-of-Record setups either. Do not assume an EOR solves it.
+**Your employer is purely foreign, no Greek entity.** By the wording of the law, you are not in an employment relationship with a Greek entity or a Greek permanent establishment, so the employment route does not apply. There is no AADE guidance that opens this door for remote work. An Employer of Record that is itself a Greek company and employs you under a Greek contract may meet the wording, but AADE has not published guidance on EoR setups, so check before relying on it. Note also that under EU rules ([Regulation 883/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0883)) someone who lives and works in Greece is normally insured in Greece, so a foreign employer may have to register with EFKA unless an A1 certificate applies.
 
 **Digital Nomad Visa holders** are outside 5C altogether: the visa forbids work for Greek employers and Greek business activity, which is exactly what 5C requires (see [5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa)).
 
-**The realistic alternative: the self-employed route.** Paragraph 7 of Article 5C extends the regime to people who move to Greece to run an individual business here. You register as a sole proprietor, invoice your former employer (and ideally other clients) from Greece, and 50% of your business profit is exempt. We cover that setup in [how to register as a freelancer in Greece](/guides/freelancer-setup-greece) and the taxes in [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026).
+**The realistic alternative: the self-employed route.** Article 5C also extends the regime to people who move to Greece to run an individual business here. You register as a sole proprietor, invoice your former employer (and ideally other clients) from Greece, and 50% of your business profit is exempt. We cover that setup in [how to register as a freelancer in Greece](/guides/freelancer-setup-greece) and the taxes in [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026).
 
 Two cautions on the self-employed route:
 
@@ -65,7 +65,7 @@ Two cautions on the self-employed route:
 
 ## Public-sector employees: included since May 2026
 
-The statute does not name the public sector; the exclusion was written into the implementing decision (A.1087/2021), on the reading that "Greek legal entity" meant a private-law entity. A joint decision of the Deputy Finance Minister and the AADE Governor of 29 April 2026 ([A.1138/2026, FEK B' 2500/4.5.2026](https://www.aade.gr/sites/default/files/2026-05/a1138_2026fek.pdf), later renumbered A.1096/2026) deleted that exclusion. Employees paid under public-sector pay legislation can now apply, and the change covers applications filed from 28 July 2025 as well as those pending on that date. Whether every public-law body (municipalities, universities, hospitals) is covered is not spelled out in the decision; the press release speaks of "the Greek State".
+The statute does not name the public sector; the exclusion was written into the implementing decision (A.1087/2021), on the reading that "Greek legal entity" meant a private-law entity. A joint decision of the Deputy Finance Minister and the AADE Governor of 29 April 2026 ([A.1096/2026](https://www.taxheaven.gr/circulars/52732/a-1096-2026), FEK B' 2500/4.5.2026, number corrected in FEK B' 2672/13.5.2026) deleted that exclusion. Employees paid under public-sector pay legislation can now apply, and the change covers applications filed from 28 July 2025 as well as those pending on that date. Whether every public-law body (municipalities, universities, hospitals) is covered is not spelled out in the decision; the press release speaks of "the Greek State".
 
 ## How the exemption works on payroll
 
@@ -104,9 +104,9 @@ Separate decisions are issued per income category and per employer. If you later
 
 ## Changing jobs, losing a job, leaving
 
-The seven years run from the year of your application and cannot be extended. Within that window ([A.1138/2025](https://www.aade.gr/sites/default/files/2025-10/a1138fek.pdf) and the [AADE FAQ](https://aade.gr/sites/default/files/2025-10/FAQS_5G_KFE.pdf)):
+The seven years run from your first year in the regime (which can be the year after you apply) and cannot be extended. Within that window ([A.1138/2025](https://www.aade.gr/sites/default/files/2025-10/a1138fek.pdf) and the [AADE FAQ](https://aade.gr/sites/default/files/2025-10/FAQS_5G_KFE.pdf)):
 
-- **Change of employer:** you notify AADE through the digital application; the regime continues for the remaining years. In a 2025 appeals case, AADE approved continuation for an employee who had switched employer in year two, and the appeals directorate ordered the assessment corrected accordingly.
+- **Change of employer:** you notify AADE through the digital application; the regime continues for the remaining years.
 - **Job ends:** you keep the status if you sign a new employment contract, or start a sole proprietorship, within 12 months.
 - **Conditions no longer met** (no Greek employment, or you leave before two years): the regime ends from that tax year onward and your Greek employment income is taxed normally; an amended return may be required for the year it ends. The law provides for this prospective cessation; it does not mention a retroactive recovery of the exemption for earlier years.
 - **Re-applying:** possible within the seven-year window. If you stayed Greek tax resident in between, the prior-residence conditions are not re-examined.
@@ -120,4 +120,34 @@ Under the older guidance ([E.2029/2022](https://www.taxheaven.gr/circulars/39144
 - **Treating 5C as a total tax cut.** It halves income tax. EFKA, the e-payment requirement and VAT (if self-employed) stay exactly where they are.
 - **Relying on an old "new position" explanation.** Advice written before July 2025 may still tell you the employer must create a new role. That requirement no longer exists.
 
-If you are moving to Greece with a job offer, or working remotely from here and unsure which route fits, taxomade reviews your situation and prepares and files the application alongside your setup. Message us on WhatsApp for a free check.
+## Frequently asked questions
+
+### Can I use Article 5C if I work remotely for a foreign employer from Greece?
+
+Not under the employment route. Article 5C requires an employment relationship with a Greek legal entity or the Greek permanent establishment of a foreign company. A purely foreign employer with no Greek entity does not meet that wording. The usual alternative is to register as self-employed in Greece and invoice your clients from here, which falls under the business route.
+
+### Does my job have to be a newly created position?
+
+No longer. The 'new job position' requirement was repealed with effect from 28 July 2025 (Law 5222/2025), including for applications that were pending on that date. Any employment with a Greek entity or Greek branch can qualify.
+
+### How does the 50% exemption show up in my payslip?
+
+Once the tax office has issued the approval decision, your employer withholds income tax on 50% of your salary only. Until then, normal withholding applies and the exemption is applied when your annual return is assessed.
+
+### Can public-sector employees use Article 5C?
+
+Yes, since May 2026. A joint ministerial and AADE decision removed the earlier exclusion of employees paid under public-sector pay legislation. It applies to applications filed from 28 July 2025 onward, including pending ones.
+
+### What is the deadline to apply for Article 5C?
+
+If you start your job or business on or before 2 July, apply by 31 December of that year and the regime applies from that year; you may also file in the following year, but then the regime only starts in that year and your start-year salary is taxed in full. If you start after 2 July, apply by 31 December of the following year and the regime starts in that following year.
+
+### What happens if I change jobs or leave Greece before seven years are up?
+
+A change of employer is notified to AADE and the regime continues for the remaining years. If you lose your job, you keep the status if you sign a new contract within 12 months. If you stop meeting the conditions, the regime ends from that tax year onward; the law provides for this prospective cessation and does not mention a retroactive recovery of earlier years.
+
+## Getting the application right
+
+If you are moving to Greece with a job offer, or working remotely from here and unsure which route fits, taxomade reviews your situation and prepares and files the application alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping). Message us on WhatsApp for a free check.
+
+*Rules as of October 2026 (A.1087/2021 as amended by A.1138/2025 and A.1096/2026).*

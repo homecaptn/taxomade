@@ -1,62 +1,87 @@
 ---
-title: "Why the Digital Nomad Visa Disqualifies You from the 50% Tax Break"
-description: "Discover the hidden clash between Greece's Digital Nomad Visa and the Article 5C 50% tax break. Learn why DNV holders can't claim the massive tax incentive and what the alternatives are."
+title: "Why the Digital Nomad Visa Rules Out the 50% Tax Break (Article 5C)"
+description: "Why Digital Nomad Visa holders cannot use Greece's 50% Article 5C tax break, how DNV income is taxed, and the routes that do qualify."
 pubDate: 2026-06-25
-updatedDate: 2026-10-10
+updatedDate: 2026-10-20
 category: "tax"
 image: "/images/guides/dnv_mistakes_hero.png"
+faq:
+  - question: "Can Digital Nomad Visa holders get the 50% tax break in Greece?"
+    answer: "No. The Digital Nomad Visa forbids work for an employer based in Greece and gives no right to business activity in Greece. Article 5C requires exactly one of those, so DNV holders cannot use it."
+  - question: "How are Digital Nomad Visa holders taxed in Greece?"
+    answer: "Once you become Greek tax resident (main home or centre of life in Greece, or more than 183 days in 12 months), you pay the normal progressive rates of 9% to 44% on your worldwide income, with relief under the double tax treaty with your home country."
+  - question: "Can I switch from a Digital Nomad Visa to Article 5C?"
+    answer: "Only by changing to a residence status that allows Greek employment or self-employment and then meeting all 5C conditions. For non-EU citizens these routes are narrow and should be checked with an immigration lawyer before you move."
+  - question: "Do EU citizens need a Digital Nomad Visa for Greece?"
+    answer: "No. EU citizens can live and work in Greece without a visa and can use Article 5C, for example by registering as a sole proprietor and invoicing their clients from Greece, if they meet the other conditions."
 ---
 
-Greece is heavily promoting two massive incentives to attract foreign talent: the **Digital Nomad Visa (DNV)** and the **Article 5C 50% Tax Break**. 
+Greece promotes two incentives for people who move here: the **Digital Nomad Visa (DNV)** and the **Article 5C 50% tax break**. It is tempting to assume you can combine them: move on a DNV, keep working remotely, and pay tax on half your income. You cannot. This guide explains why, how DNV income is taxed instead, and which routes do qualify.
 
-If you read the headlines, you might assume you can combine them: move to Greece on a DNV, work remotely, and pay tax on only half your income. Unfortunately, many agencies and bloggers fail to mention one critical legal reality: **Combining the Digital Nomad Visa and the Article 5C Tax Break is virtually impossible.**
+## The short answer
 
-Here is the harsh truth about why these two programs clash, and what you can do about it.
+- **No combination:** the DNV forbids work for a Greek employer and business activity in Greece; Article 5C requires one of them.
+- **DNV taxation:** once you are Greek tax resident, you pay the normal scale (9% to 44%) on worldwide income, with treaty relief.
+- **EU citizens** need no DNV and can use 5C through a Greek sole proprietorship or a Greek employer.
+- **Non-EU citizens** who want 5C need a residence status that allows Greek employment or self-employment, which must be planned before the move.
 
-## The Core Conflict
+## The Digital Nomad Visa in brief
 
-To understand the problem, you have to look at the strict legal definitions of both programs.
+The DNV, now regulated in [Article 68 of the Migration Code (Law 5038/2023)](https://www.taxheaven.gr/law/5038/2023/arthro/68), is for non-EU citizens who work for employers or clients outside Greece. The main conditions:
 
-### The Rule of the Digital Nomad Visa (DNV)
-The DNV is designed for non-EU citizens who wish to live in Greece while working for foreign employers or foreign clients. 
-The most important condition of the DNV, under [Article 68 of the Migration Code (Law 5038/2023)](https://www.taxheaven.gr/law/5038/2023/arthro/68), is that **you commit not to work for an employer based in Greece**, and your self-employment has to be based outside Greece. You cannot accept employment from a Greek company, and the permit gives no right to business activity in Greece.
+- at least **€3,500 a month** in income (net for employees), plus 20% for a spouse and 15% per child;
+- health insurance and proof of accommodation;
+- a declaration that you will **not work for an employer based in Greece**, and self-employment that is based outside Greece.
 
-### The Rule of the Article 5C Tax Break
-The 50% tax break was created to combat "brain drain" and bring talent *into* the Greek economy. To qualify for [Article 5C](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ), you must transfer your tax residency to Greece, not have been Greek tax resident in five of the previous six years, declare that you'll stay at least two years, and **take up employment with a Greek legal entity (or a Greek branch of a foreign company)** OR **register your own business in Greece.**
+It starts as a national visa for up to one year and can be followed by a renewable residence permit.
 
-Do you see the conflict?
-- The DNV says: *You must not work for a Greek entity or start a Greek business.*
-- Article 5C says: *You must work for a Greek entity or start a Greek business.*
+## Why it rules out Article 5C
 
-Because the DNV conditions are incompatible with the activities required for Article 5C, **DNV holders cannot use the 50% tax break.**
+To qualify for [Article 5C](/guides/50-percent-tax-break-article-5c), you must:
 
-## The "Remote Worker" Misunderstanding
+1. transfer your tax residence to Greece from an EU/EEA country or a country with a tax cooperation agreement with Greece;
+2. not have been Greek tax resident in five of the previous six years;
+3. declare that you will stay at least two years; and
+4. **take up employment with a Greek legal entity (or the Greek branch of a foreign company), or register your own individual business in Greece.**
 
-Many remote workers think: *"I'll just move to Greece on a DNV, keep my US job, and apply for the tax break as a remote worker."*
+The fourth condition is exactly what the DNV excludes. That is why DNV holders cannot use the 50% exemption.
 
-Simply working from your laptop in Athens for a foreign company does not trigger Article 5C. The only way remote workers typically get the tax break is by setting up a Greek Sole Proprietorship and treating their foreign employer as a B2B client. 
+## How DNV holders are taxed
 
-**EU citizens** can do this easily because they have freedom of movement and the right to establish a business in Greece without a visa. 
-**Non-EU citizens** on a DNV cannot, because their permit does not allow business activity in Greece.
+A residence permit and tax residence are separate questions. You become Greek tax resident when your main home or centre of life is here, or after more than 183 days within any 12 months (see [the 183-day rule](/guides/tax-residency-greece-183-days)). From then on Greece taxes your worldwide income on the normal scale, and the double tax treaty with your home country decides how double taxation is avoided. Keeping a DNV does not change this.
 
-## What Are Your Alternatives?
+## Remote work for a foreign employer
 
-If you are a Non-EU citizen earning a high income and you desperately want the 50% tax break, the Digital Nomad Visa is the wrong path. You need a visa that grants you the right to work or establish a business in Greece.
+Working from your laptop in Athens for a foreign company does not trigger Article 5C on its own, whatever your nationality. For EU citizens, the usual route is to register as a sole proprietor in Greece and invoice the former employer, ideally alongside other clients, from the Greek business. Non-EU citizens on a DNV cannot do this, because the permit gives no right to business activity in Greece. More in [5C for employees and remote workers](/guides/5c-for-eu-remote-workers).
 
-Here are the primary alternatives:
+## Routes that can qualify for non-EU citizens
 
-### 1. A Residence Permit That Allows Self-Employment
+**A permit that allows self-employment.** The current Migration Code no longer provides a general permit for independent economic activity; existing permits can only be renewed. A non-EU route into self-employment in Greece is narrow and must be checked case by case with an immigration lawyer, before you move.
 
-Greece has not issued new "independent economic activity" permits since the 2014 Migration Code, and the current Code (Law 5038/2023) keeps only an investment-based business permit. Non-EU citizens who want to establish a business in Greece today face a narrow path. Whether and how a non-EU freelancer can obtain a permit that allows setting up a Greek Sole Proprietorship must be assessed case by case with an immigration lawyer. If you are non-EU and 5C is your goal, get legal advice on your visa route *before* you move — not after.
+**Employment with a Greek entity.** A job with a Greek company, or the Greek branch of your employer, meets the employment condition, but you need a work-based permit, such as the EU Blue Card or an employer-initiated work permit under the Migration Code. An Employer of Record that is itself a Greek company and employs you under a Greek contract may also meet the wording, but AADE has not published guidance on such setups, so check before relying on it.
 
-### 2. Employer of Record (EoR) with a Work Visa
-If your foreign employer is willing to hire you through a Greek Employer of Record (like Deel or Remote), the EoR becomes your legal Greek employer. They would need to sponsor a standard Greek Work Visa for you. Because you are then employed by a Greek legal entity (the EoR), you can apply for the 5C tax break, provided you meet the other conditions. Securing a work visa sponsor can be complex and bureaucratic.
+**The Golden Visa.** It gives residence through property investment but generally no right to employment. Holders can be shareholders or board members of a Greek company such as an IKE, but that does not bring 5C: the company's profits are taxed at company level (22% corporate tax plus 5% on dividends). See [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs).
 
-### 3. The Golden Visa (via Investment)
-While the Greek Golden Visa gives you residency, it generally **does not** give you the right to employment. However, Golden Visa holders can be shareholders or CEOs of a Greek company (like an IKE). But an IKE's profits are taxed at the company level (22% corporate tax plus 5% on dividends), and the 5C exemption does not apply to them. So this route does not deliver the 50% benefit. See [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs).
+## Frequently asked questions
 
-## Summary
+### Can Digital Nomad Visa holders get the 50% tax break in Greece?
 
-Don't be fooled by agencies selling a "DNV + 50% Tax Break" package to non-EU citizens. If you are on a DNV, you will pay standard progressive Greek income taxes on your worldwide income once you become a tax resident, with relief under the applicable double tax treaty. 
+No. The Digital Nomad Visa forbids work for an employer based in Greece and gives no right to business activity in Greece. Article 5C requires exactly one of those, so DNV holders cannot use it.
 
-If you want to see exactly how much you would save if you *did* qualify for 5C (or if you are an EU citizen), try our [Article 5C Tax Calculator](/greece/5c-tax-calculator).
+### How are Digital Nomad Visa holders taxed in Greece?
+
+Once you become Greek tax resident (main home or centre of life in Greece, or more than 183 days in 12 months), you pay the normal progressive rates of 9% to 44% on your worldwide income, with relief under the double tax treaty with your home country.
+
+### Can I switch from a Digital Nomad Visa to Article 5C?
+
+Only by changing to a residence status that allows Greek employment or self-employment and then meeting all 5C conditions. For non-EU citizens these routes are narrow and should be checked with an immigration lawyer before you move.
+
+### Do EU citizens need a Digital Nomad Visa for Greece?
+
+No. EU citizens can live and work in Greece without a visa and can use Article 5C, for example by registering as a sole proprietor and invoicing their clients from Greece, if they meet the other conditions.
+
+## Next steps
+
+If you are an EU citizen, or already hold a status that allows work in Greece, the [Article 5C tax calculator](/greece/5c-tax-calculator) shows what the exemption would save you. We prepare and file the 5C application and the ongoing filings as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping); send us a message for a free check of your situation.
+
+*Rules as of October 2026 (Law 5038/2023 art. 68, Income Tax Code art. 5C).*
