@@ -2,6 +2,7 @@
 title: "Retiring to Greece: the 7% Flat Tax (Article 5B) and What Else to Plan (2026)"
 description: "Greece's 7% flat tax for foreign pensioners: who qualifies, the new 31 October deadline, a worked example, treaty pitfalls, residence and healthcare."
 pubDate: 2026-10-16
+updatedDate: 2026-10-20
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -10,7 +11,7 @@ faq:
   - question: "Who qualifies for the 7% flat tax in Greece?"
     answer: "People who receive a pension from abroad, were not Greek tax resident in 5 of the previous 6 years, and move their tax residence to Greece from a country that has an administrative tax cooperation agreement with Greece, which covers EU states and most countries with a tax treaty with Greece. A spouse has to qualify in their own right."
   - question: "What is the deadline to apply for the 7% regime?"
-    answer: "31 October of the tax year you want the regime for, with documents by 30 November. Moved by 2 July: that year or the next. Moved later: only the next year."
+    answer: "31 October of the tax year you want the regime for, with documents by 30 November. Tax residence moved to Greece by 2 July: that year or the next. Moved later: only the next year."
   - question: "When is the 7% tax paid?"
     answer: "Once a year, in one payment, by the last working day of December. No instalments; a missed payment takes you out of the regime from that year on."
 ---
@@ -64,7 +65,7 @@ That is about **€3,000 a year**, or roughly €45,000 over 15 years at a const
 Law 5313/2026 and [AADE](https://www.aade.gr/sites/default/files/2026-09/a1192_2026.pdf) (the Greek tax authority) decision A.1192/2026 reworked the procedure. Older pages online still show a 31 March deadline; that no longer applies.
 
 - **Application:** by **31 October** of the tax year you want the regime for, through myAADE (AADE's online portal, under "My Requests"), by post or in person at the competent tax office.
-- **Which year:** if you moved to Greece **on or before 2 July**, you can choose the arrival year (apply by 31 October of that year) or the following year. If you moved **after 2 July**, only the following year.
+- **Which year:** if you moved your tax residence to Greece **on or before 2 July**, you can choose that year (apply by 31 October of that year) or the following year. If you moved **after 2 July**, only the following year.
 - **Documents:** a tax residence certificate from your former country (or the treaty residence form where one applies) and proof of your pension from the foreign provider; foreign documents with an apostille. Missing documents can follow until **30 November**.
 - **Payment:** the 7% is paid **once a year by the last working day of December**. There are no instalments. If you miss the payment, you are out of the regime from that year on and taxed on your worldwide income under the normal rules.
 - **Leaving the regime:** you can revoke by 31 October of a tax year, but a revocation is final; you cannot come back in.
@@ -87,7 +88,7 @@ The 7% only bites on income Greece is allowed to tax. Each country's treaty with
 
 **Non-EU citizens, including the British**, need a national (type D) visa first and then a residence permit. The usual route for retirees is the **financially independent person** permit: at least **€3,500 a month** in stable income, plus 20% for a spouse and 15% per child (€4,200 for a couple), full health insurance, no right to work, valid three years and renewable. The Golden Visa (€800,000 in high-demand areas, €400,000 elsewhere, €250,000 for conversions) is the investment alternative. A residence permit does not by itself make you tax resident; see [the 183-day rule](/guides/tax-residency-greece-183-days).
 
-**Healthcare:** UK and EU state pensioners can usually request an **S1** form from their home country, get an AMKA (Greek social security number) and register the S1 with EOPYY, the state health insurer; the home country then pays for Greek public healthcare. Pensioners from the US, Canada, Australia and others need private insurance.
+**Healthcare:** UK and EU state pensioners can usually request an **S1** form from their home country, get an AMKA (Greek social security number) and register the S1 with the Greek public health system (EOPYY; in practice often through your local EFKA office); the home country then pays for Greek public healthcare. The S1 can only be registered once you live here, so non-EU retirees usually bridge the first months with private cover, which the visa requires anyway. Pensioners with only a private pension, and those from the US, Canada, Australia and others, need private insurance.
 
 ## Your first-year checklist
 
@@ -119,7 +120,7 @@ People with a pension from abroad who were not Greek tax resident in 5 of the pr
 
 ### What is the deadline to apply for the 7% regime?
 
-31 October of the tax year you want the regime for, with documents by 30 November. Moved by 2 July: that year or the next. Moved later: only the next year.
+31 October of the tax year you want the regime for, with documents by 30 November. Tax residence moved to Greece by 2 July: that year or the next. Moved later: only the next year.
 
 ### When is the 7% tax paid?
 
