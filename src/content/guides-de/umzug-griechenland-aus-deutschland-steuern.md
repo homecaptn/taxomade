@@ -10,7 +10,7 @@ faq:
   - question: "Wird meine deutsche Rente in Griechenland oder in Deutschland besteuert?"
     answer: "Nach dem Doppelbesteuerungsabkommen von 1966 werden private und gesetzliche Renten nur im Wohnsitzstaat besteuert, also in Griechenland, sobald Sie dort leben. Beamtenpensionen bleiben in Deutschland steuerpflichtig. Das Finanzamt Neubrandenburg, zuständig für Rentner im Ausland, kann dennoch eine Steuererklärung anfordern."
   - question: "Bleibe ich in der deutschen Sozialversicherung, wenn ich remote aus Griechenland arbeite?"
-    answer: "In der Regel nicht. Nach EU-Recht sind Sie dort versichert, wo Sie arbeiten. Wer als Freiberufler nach Griechenland zieht und von dort arbeitet, ist bei EFKA versichert. Auch Angestellte eines deutschen Arbeitgebers, die dauerhaft aus Griechenland arbeiten, unterliegen der griechischen Sozialversicherung; Griechenland hat die EU-Rahmenvereinbarung zur Telearbeit nicht unterzeichnet."
+    answer: "In der Regel nicht. Nach EU-Recht sind Sie dort versichert, wo Sie arbeiten. Wer als Freiberufler nach Griechenland zieht und von dort arbeitet, ist bei EFKA versichert. Auch Angestellte eines deutschen Arbeitgebers, die dauerhaft aus Griechenland arbeiten, unterliegen der griechischen Sozialversicherung; die EU-Rahmenvereinbarung zur Telearbeit gilt nur für Telearbeit unter 50 % und wurde von Griechenland nicht unterzeichnet."
   - question: "Was ist die Wegzugsteuer, und betrifft sie mich?"
     answer: "Die Wegzugsteuer (§6 AStG) greift, wenn Sie mindestens 1 % an einer Kapitalgesellschaft wie einer GmbH halten und in mindestens 7 der letzten 12 Jahre in Deutschland unbeschränkt steuerpflichtig waren. Beim Wegzug besteuert Deutschland den Wertzuwachs Ihrer Anteile so, als hätten Sie sie verkauft. Bis 2021 wurde die Steuer bei Umzügen innerhalb der EU unbefristet und zinslos gestundet; bei Wegzügen seit 2022 wird sie fällig, auf Antrag in sieben Jahresraten, meist gegen Sicherheit."
   - question: "Kann ich als Deutscher den griechischen 50-%-Steuervorteil (Artikel 5C) nutzen?"
@@ -49,7 +49,7 @@ Ab dem Folgejahr besteuert Deutschland nur noch deutsche Einkünfte, etwa Mieten
 
 ## 3. Das Doppelbesteuerungsabkommen
 
-Zwischen Deutschland und Griechenland gilt das [Abkommen von 1966](https://rechtsanwalt-griechenland.de/wp-content/uploads/2026/07/Doppelbesteuerungsabkommen_Deutschland_Griechenland.pdf); ein neueres Abkommen ist nicht in Kraft, auch wenn das BEPS-Mehrseitige Übereinkommen seit 2025 einzelne Regelungen ändert. In der Praxis bedeutet das:
+Zwischen Deutschland und Griechenland gilt das [Abkommen von 1966](https://rechtsanwalt-griechenland.de/wp-content/uploads/2026/07/Doppelbesteuerungsabkommen_Deutschland_Griechenland.pdf); ein neueres Abkommen ist nicht in Kraft. In der Praxis bedeutet das:
 
 | Einkünfte | Besteuert in |
 |---|---|
@@ -67,7 +67,7 @@ Sehen beide Staaten Sie als ansässig, entscheidet die Kollisionsregel des Abkom
 Als Freiberufler melden Sie in Griechenland ein Einzelunternehmen an, versichern sich bei EFKA und stellen Ihre Rechnungen aus dem griechischen Unternehmen. Ihre deutschen Kunden bleiben Ihre Kunden:
 
 - **Rechnungen an deutsche Unternehmen** stellen Sie ohne Umsatzsteuer im Reverse-Charge-Verfahren, mit beiden USt-IdNrn.; Ihre griechische Nummer muss im VIES eingetragen sein. Siehe [Umsatzsteuer für Freelancer mit ausländischen Kunden](/guides/vat-freelancers-greece-foreign-clients) (Englisch).
-- **Die deutsche Kleinunternehmerregelung** gilt für Sie als deutsches Unternehmen nicht mehr. Für Geschäftskunden spielt das ohnehin keine Rolle, weil das Reverse-Charge-Verfahren greift.
+- **Die deutsche Kleinunternehmerregelung** gilt nicht mehr, weil Sie nicht mehr in Deutschland ansässig sind. Für Geschäftskunden spielt das ohnehin keine Rolle, weil das Reverse-Charge-Verfahren greift.
 - **Sozialversicherung:** Nach der [EU-Verordnung 883/2004](https://www.ihk.de/blueprint/servlet/resource/blob/4699626/f8b52df710e52ed806f2565e825f693b/ihk-merkblatt-zur-a1-bescheinigung-data.pdf) sind Sie dort versichert, wo Sie arbeiten, also bei EFKA. Eine A1-Bescheinigung aus Deutschland deckt nur vorübergehende Entsendungen bis 24 Monate ab, keinen dauerhaften Umzug.
 - **Artikel 5C:** Waren Sie in fünf der letzten sechs Jahre nicht in Griechenland steuerlich ansässig, können 50 % Ihrer griechischen Einkünfte aus selbstständiger Tätigkeit sieben Jahre lang von der Einkommensteuer befreit sein. Siehe [So funktioniert der 50-%-Steuervorteil](/guides/50-percent-tax-break-article-5c) (Englisch).
 
@@ -78,7 +78,7 @@ So sieht die griechische Anmeldung aus: [Als Freelancer in Griechenland starten]
 Wenn Sie Ihren deutschen Arbeitsvertrag behalten und aus Griechenland arbeiten, ändern sich zwei Dinge:
 
 - **Steuern:** Arbeitslohn für Tätigkeiten, die Sie physisch in Griechenland ausüben, ist in Griechenland steuerpflichtig. Arbeitstage in Deutschland bleiben deutsch.
-- **Sozialversicherung:** Wer dauerhaft aus Griechenland arbeitet, unterliegt der griechischen Sozialversicherung. Die [EU-Rahmenvereinbarung zur grenzüberschreitenden Telearbeit](https://socialsecurity.belgium.be/en/internationally-active/cross-border-telework-eu-eea-and-switzerland), mit der manche Remote-Angestellte im System des Arbeitgebers bleiben können, hat Deutschland unterzeichnet, **Griechenland nicht**. Ihr Arbeitgeber müsste sich für griechische Beiträge registrieren, was viele deutsche Arbeitgeber ablehnen.
+- **Sozialversicherung:** Wer dauerhaft aus Griechenland arbeitet, unterliegt der griechischen Sozialversicherung (EU-Verordnung 883/2004). Die [EU-Rahmenvereinbarung zur grenzüberschreitenden Telearbeit](https://socialsecurity.belgium.be/en/internationally-active/cross-border-telework-eu-eea-and-switzerland) hilft hier nicht: Sie gilt nur für Telearbeit unter 50 % der Arbeitszeit, und Griechenland hat sie nicht unterzeichnet. Im deutschen System zu bleiben, ginge nur über eine Ausnahmevereinbarung (Art. 16), die selten erteilt wird. Sonst muss sich Ihr Arbeitgeber für griechische Beiträge registrieren, was viele deutsche Arbeitgeber ablehnen.
 
 Deshalb wechseln die meisten deutschen Remote-Angestellten, die hierherziehen, in die Selbstständigkeit und stellen ihrem bisherigen Arbeitgeber Rechnungen. Artikel 5C als Angestellter setzt einen griechischen Arbeitgeber oder eine griechische Niederlassung des deutschen Unternehmens voraus. Details und Risiken in [5C für EU-Remote-Worker](/guides/5c-for-eu-remote-workers) (Englisch).
 
@@ -86,7 +86,9 @@ Deshalb wechseln die meisten deutschen Remote-Angestellten, die hierherziehen, i
 
 Zwei deutsche Regeln sind vor dem Umzug wichtig:
 
-**Wegzugsteuer (§6 AStG).** Halten Sie **mindestens 1 %** an einer Kapitalgesellschaft (GmbH, UG, AG) und waren Sie in **7 der letzten 12 Jahre** in Deutschland unbeschränkt steuerpflichtig, besteuert Deutschland beim Wegzug den Wertzuwachs Ihrer Anteile, als hätten Sie sie verkauft ([Überblick von EY](https://www.ey.com/de_de/technical/news-zum-internationalen-mitarbeitereinsatz/auslandseinsatz-und-wegzugsbesteuerung)). Bis 2021 wurde die Steuer bei Umzügen innerhalb der EU unbefristet und zinslos gestundet; bei Wegzügen seit 2022 wird sie fällig. Auf Antrag zahlen Sie in **sieben Jahresraten**, zinslos, aber in der Regel gegen Sicherheit. Kehren Sie innerhalb von sieben Jahren zurück (verlängerbar auf zwölf), entfällt die Steuer, sofern Sie zwischenzeitlich nicht mehr als 25 % des Anteilswerts ausgeschüttet haben. Jedes Jahr bis zum 31. Juli müssen Sie dem Finanzamt außerdem Ihre Anschrift und Ihre Beteiligung bestätigen, seit 2025 elektronisch.
+**Wegzugsteuer (§6 AStG).** Halten Sie **mindestens 1 %** an einer Kapitalgesellschaft (GmbH, UG, AG) und waren Sie in **7 der letzten 12 Jahre** in Deutschland unbeschränkt steuerpflichtig, besteuert Deutschland beim Wegzug den Wertzuwachs Ihrer Anteile, als hätten Sie sie verkauft ([Überblick von EY](https://www.ey.com/de_de/technical/news-zum-internationalen-mitarbeitereinsatz/auslandseinsatz-und-wegzugsbesteuerung)). Bis 2021 wurde die Steuer bei Umzügen innerhalb der EU unbefristet und zinslos gestundet; bei Wegzügen seit 2022 wird sie fällig. Auf Antrag zahlen Sie in **sieben Jahresraten**, zinslos, aber in der Regel gegen Sicherheit. Kehren Sie innerhalb von sieben Jahren zurück (verlängerbar auf zwölf), entfällt die Steuer, sofern Sie zwischenzeitlich nicht mehr als 25 % des Anteilswerts ausgeschüttet haben. Jedes Jahr bis zum 31. Juli müssen Sie dem Finanzamt außerdem Ihre Anschrift und Ihre Beteiligung bestätigen, über den amtlichen elektronischen Datensatz.
+
+**Erweiterte beschränkte Steuerpflicht (§2 AStG).** Deutsche Staatsangehörige, die in mindestens fünf der letzten zehn Jahre in Deutschland unbeschränkt steuerpflichtig waren, in ein Niedrigsteuerland ziehen und wesentliche wirtschaftliche Interessen in Deutschland behalten, können noch zehn Jahre nach dem Wegzug mit einem erweiterten Teil ihrer deutschen Einkünfte in Deutschland steuerpflichtig bleiben. Als niedrige Besteuerung kann auch eine Vorzugsbesteuerung gelten, also möglicherweise die griechischen 7 % (Artikel 5B) oder die 50-%-Befreiung (Artikel 5C). Die Regel greift erst oberhalb einer Einkommensgrenze und entfällt, wenn die griechische Steuer mindestens zwei Drittel der deutschen erreicht ([§2 AStG](https://lxgesetze.de/astg/2)). Lassen Sie das prüfen, bevor Sie sich bei nennenswerten deutschen Einkünften auf 5B oder 5C verlassen.
 
 **Ort der Geschäftsleitung (§10 AO).** Führt der alleinige Geschäftsführer die GmbH aus Griechenland, kann der Ort der Geschäftsleitung mit ihm wandern. Die Gesellschaft kann dann nach dem Abkommen in Griechenland ansässig werden. Sprechen Sie vor der Abmeldung mit Ihrem deutschen Steuerberater, nicht danach.
 
@@ -131,7 +133,7 @@ Nach dem Doppelbesteuerungsabkommen von 1966 werden private und gesetzliche Rent
 
 ### Bleibe ich in der deutschen Sozialversicherung, wenn ich remote aus Griechenland arbeite?
 
-In der Regel nicht. Nach EU-Recht sind Sie dort versichert, wo Sie arbeiten. Wer als Freiberufler nach Griechenland zieht und von dort arbeitet, ist bei EFKA versichert. Auch Angestellte eines deutschen Arbeitgebers, die dauerhaft aus Griechenland arbeiten, unterliegen der griechischen Sozialversicherung; Griechenland hat die EU-Rahmenvereinbarung zur Telearbeit nicht unterzeichnet.
+In der Regel nicht. Nach EU-Recht sind Sie dort versichert, wo Sie arbeiten. Wer als Freiberufler nach Griechenland zieht und von dort arbeitet, ist bei EFKA versichert. Auch Angestellte eines deutschen Arbeitgebers, die dauerhaft aus Griechenland arbeiten, unterliegen der griechischen Sozialversicherung; die EU-Rahmenvereinbarung zur Telearbeit gilt nur für Telearbeit unter 50 % und wurde von Griechenland nicht unterzeichnet.
 
 ### Was ist die Wegzugsteuer, und betrifft sie mich?
 

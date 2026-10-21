@@ -1,72 +1,107 @@
 ---
-title: "The Ultimate Guide to the Greece Digital Nomad Visa (2026)"
-description: "Everything you need to know about the Greek DNV in 2026. Discover the requirements, process, fees, and the critical 2026 law changes."
+title: "Greece Digital Nomad Visa: Requirements, Fees and Process (2026)"
+description: "Greece Digital Nomad Visa in 2026: the €3,500 income rule, consulate-only applications, documents, fees, renewal and why the DNV excludes Article 5C."
 pubDate: 2026-03-31
-updatedDate: 2026-10-10
+updatedDate: 2026-10-21
 category: "dnv"
 image: "/images/guides/dnv_guide_hero.png"
+faq:
+  - question: "How much income do I need for the Greece Digital Nomad Visa?"
+    answer: "At least €3,500 a month (net for employees), plus 20% for a spouse or partner and 15% for each child. Freelancers show stable income of that level through contracts and bank statements."
+  - question: "Can I apply for the Greek Digital Nomad Visa from inside Greece?"
+    answer: "Since Law 5275/2026, applications go through a Greek consulate or embassy before you travel; the earlier in-country route via a Schengen stay is no longer used in practice. Confirm the current procedure with your consulate."
+  - question: "How long is the Greek Digital Nomad Visa valid?"
+    answer: "The national (Type-D) visa is valid for up to 12 months. Before it expires you apply in Greece for the digital nomad residence permit (type I.8), valid for two years and renewable."
+  - question: "Do digital nomads pay tax in Greece?"
+    answer: "Yes, once you become Greek tax resident: main home or centre of life in Greece, or more than 183 days within any 12 months. You then declare your worldwide income in an annual Greek return, with relief under the tax treaty with your home country."
+  - question: "Can Digital Nomad Visa holders use the 50% tax break (Article 5C)?"
+    answer: "No. The DNV does not allow work for Greek employers or clients or business activity in Greece, which is exactly what Article 5C requires."
 ---
 
-Greece has rapidly become one of Europe’s top destinations for remote workers. With a Mediterranean climate, rich culture, and an excellent quality of life, it's easy to see why. For non-EU/EEA and non-Swiss citizens, the **Greece Digital Nomad Visa (DNV)** provides the legal framework to live and work remotely in the country.
+The **Greece Digital Nomad Visa (DNV)** lets non-EU/EEA and non-Swiss citizens live in Greece while working remotely for employers or clients abroad. This guide covers who qualifies, the income rule, the consulate-only process introduced in 2026, documents, fees, renewal, and what the visa means for your taxes.
 
-This ultimate guide covers everything you need to know about applying for the DNV in 2026, including the latest legislative changes that radically affect the application process.
+## The short answer
 
-## 1. Who Can Apply?
+- **Who:** non-EU/EEA/Swiss citizens working for employers or clients outside Greece.
+- **Income:** at least €3,500 a month (net for employees), +20% for a spouse, +15% per child.
+- **Process:** apply at a Greek consulate before travelling (Law 5275/2026), then apply in Greece for a two-year, renewable residence permit.
+- **Fees:** €75 visa fee and €1,000 permit fee, plus consular and card charges.
+- **Tax:** after more than 183 days you are usually Greek tax resident and file a Greek return on worldwide income.
+- **No 5C:** DNV holders cannot use the 50% tax break.
 
-The Greece Digital Nomad Visa is strictly for **non-EU / non-EEA / non-Swiss citizens**. If you hold an EU passport, you enjoy freedom of movement and do not need a visa to relocate to Greece (though you still need to register locally for tax purposes).
+## Who can apply
+
+The DNV is for **non-EU, non-EEA and non-Swiss citizens**. EU citizens do not need it: they can live and work in Greece freely, but after three months they register their residence and receive an EU registration certificate, and they register with the tax office once they become resident.
 
 You must be either:
-- **An employee** working for a company registered outside of Greece.
-- **A freelancer / self-employed individual** with clients based entirely outside of Greece.
 
-## 2. The Income Requirement
+- **an employee** of a company registered outside Greece; or
+- **a freelancer or business owner** whose clients are all outside Greece.
 
-The core requirement of the DNV is proving you have sufficient resources to support yourself without taking jobs away from the local Greek economy. 
+## The income requirement
 
-The financial threshold is **€3,500 per month**, under [Article 68 of the Migration Code (Law 5038/2023)](https://www.taxheaven.gr/law/5038/2023/arthro/68). For employees, the law explicitly means net income after tax, so your take-home pay must be at least €3,500. For freelancers and business owners, the law speaks of a stable income of €3,500 shown through contracts and bank statements.
+Under [Article 68 of the Migration Code (Law 5038/2023)](https://www.taxheaven.gr/law/5038/2023/arthro/68), you need at least **€3,500 a month**. For employees the law refers to net income after tax; freelancers and business owners show stable income of that level through contracts and bank statements.
 
-**Bringing Family:**
-If you wish to bring your family, the minimum net income requirement increases:
-- **+ 20%** for a spouse or partner (€4,200 in total)
-- **+ 15%** for each child under 18
+With family the threshold rises by **20%** for a spouse or partner (€4,200 in total) and **15%** for each child. Family members on the permit may not work or carry on any economic activity in Greece.
 
-## 3. The 2026 Rule Change (Law 5275/2026)
+## The 2026 change: apply at the consulate
 
-> **Critical Update:** Law 5275/2026 (Government Gazette A' 17, 6 February 2026) changed the application process for the Digital Nomad Visa significantly.
+Law 5275/2026 (Government Gazette A' 17, 6 February 2026) changed immigration procedures. In practice, the earlier route of entering on a 90-day Schengen stay and applying for the digital nomad permit inside Greece is no longer available. Applications now start with a national Type-D visa at the Greek consulate or embassy in your country of residence, before you travel. Confirm the current procedure with your consulate, as practice can vary.
 
-Previously, remote workers could enter Greece on a standard 90-day Schengen stay and apply for the digital nomad residence permit from within the country. **This in-country route is closed under the new law.** Confirm the current procedure with your consulate before you travel.
+Once you hold the Type-D visa, you enter Greece and apply for the residence permit before the visa expires.
 
-In 2026, you **must** apply for a national Type-D Digital Nomad Visa at the Greek consulate or embassy in your home country (or country of legal residence) *before* traveling to Greece. Once you receive the Type-D visa, you can enter Greece and apply for the 2-year residence permit.
+## Documents
 
-## 4. Required Documents
+The main documents are:
 
-A successful application relies on a perfectly organized dossier. Missing a single stamp can lead to significant delays. The primary documents include:
+- **Passport:** valid beyond the visa period; consulates usually ask for at least three months beyond your planned departure, two blank pages, and a passport issued within the last ten years.
+- **Proof of income:** employment contract, recent payslips, bank statements, or freelance contracts and invoices showing the €3,500 a month.
+- **Health insurance:** covering medical care and hospital treatment in Greece for the whole period. Basic travel policies are often not accepted; check your consulate's wording.
+- **Criminal record certificate:** from your country of residence, usually with an apostille and a certified Greek translation.
+- **Proof of accommodation:** often requested at the visa stage; a registered lease or purchase contract is needed for the permit.
+- **Declaration:** that you will work only for employers or clients based outside Greece.
 
-- **Valid Passport:** Valid beyond the visa period (consulates typically require at least three months beyond your planned departure, two blank pages, and a passport issued within the last ten years).
-- **Proof of Income:** Employment contracts, recent payslips, bank statements, or freelance invoices proving the €3,500 net monthly income.
-- **Health Insurance:** A policy covering medical care and hospitalisation in Greece for the whole visa period. Consulates differ in what they accept; basic travel policies are often not enough, so check your consulate's exact wording.
-- **Criminal Record Certificate:** Issued by your country of residence. In practice, consulates ask for an **Apostille** and a certified Greek translation.
-- **Proof of Accommodation:** Most consulates ask for it at the visa stage; a lease or purchase contract is required for the residence permit.
-- **Declaration Letter:** A formal declaration stating your intention to reside in Greece and confirming you will not provide services to Greek employers.
+## Validity, timelines and fees
 
-## 5. Validity, Timelines, and Fees
+**Validity.** The Type-D visa is valid for up to 12 months. The residence permit for digital nomads (type I.8) is valid for **two years** and can be renewed for further two-year periods. File the renewal before the permit expires; Law 5275/2026 introduced a fee for late renewals. After five years of legal residence, longer-term residence statuses can become available.
 
-**Validity:**
-The national (Type-D) visa issued by the consulate is valid for up to 12 months. Before it expires, you apply in Greece for the residence permit for digital nomads (permit type I.8), which is valid for **2 years** and is renewable.
+**Timelines.** The consulate must respond within 10 days of a complete application; in practice, allow about a month. There is no fixed legal deadline for the permit decision; it typically takes several weeks to a few months.
 
-**Processing Times:**
-- **Visa Processing:** By law, the consulate must respond within 10 days of a complete application. In practice, allow about a month.
-- **Permit Review:** Authorities have up to 90 days to decide on residence permit applications.
-- **Total Timeline:** From gathering documents to holding your permit, plan for a few months.
+**Fees.**
 
-**State Fees:**
-- Consular Visa Fee: **€75**, plus a consular administrative fee (currently €150)
-- Residence Permit Fee (e-Paravolo): **€1,000** per applicant, plus a small fee for the electronic residence card
+- Visa fee: **€75**, plus consular administrative charges that vary by consulate.
+- Residence permit fee: **€1,000** per applicant, plus a small fee for the electronic residence card.
 
-## 6. A Note on the 50% Tax Break (Article 5C)
+## What the DNV means for your taxes
 
-Many digital nomads move to Greece drawn by rumors of a massive 50% income tax break. While real (under Article 5C of the Income Tax Code, Law 4172/2013), it is important to know that **holding a Digital Nomad Visa actually makes you ineligible for this tax break.**
+A residence permit and tax residence are separate questions. You become Greek tax resident when your main home or centre of life is in Greece, or after more than 183 days within any 12 months (see [the 183-day rule](/guides/tax-residency-greece-183-days)). From then on you need a Greek tax number ([AFM](/guides/what-is-greek-afm-number)), file an annual Greek return on your worldwide income on the normal scale of 9% to 44%, and rely on the tax treaty with your home country to avoid double taxation. Social security depends on your situation and your home country's agreements with Greece.
 
-To qualify for the 50% tax exemption, you must transfer your tax residency to Greece, not have been Greek tax resident in five of the previous six years, and either be employed by a Greek legal entity (or a Greek branch of a foreign company) or register a business in Greece. 
+**Article 5C is not available.** The 50% exemption requires employment with a Greek employer or your own business in Greece, which the DNV rules out. More in [why the DNV rules out Article 5C](/guides/5c-vs-digital-nomad-visa), and for comparison with a short stay, [DNV vs tourist visa](/guides/dnv-vs-tourist-visa).
 
-Because the Digital Nomad Visa does not allow work for Greek employers or Greek business activity, you cannot meet the employment or business condition of Article 5C while on a DNV. Simply working remotely on a DNV for your foreign employer does not trigger the tax break.
+## Frequently asked questions
+
+### How much income do I need for the Greece Digital Nomad Visa?
+
+At least €3,500 a month (net for employees), plus 20% for a spouse or partner and 15% for each child. Freelancers show stable income of that level through contracts and bank statements.
+
+### Can I apply for the Greek Digital Nomad Visa from inside Greece?
+
+Since Law 5275/2026, applications go through a Greek consulate or embassy before you travel; the earlier in-country route via a Schengen stay is no longer used in practice. Confirm the current procedure with your consulate.
+
+### How long is the Greek Digital Nomad Visa valid?
+
+The national (Type-D) visa is valid for up to 12 months. Before it expires you apply in Greece for the digital nomad residence permit (type I.8), valid for two years and renewable.
+
+### Do digital nomads pay tax in Greece?
+
+Yes, once you become Greek tax resident: main home or centre of life in Greece, or more than 183 days within any 12 months. You then declare your worldwide income in an annual Greek return, with relief under the tax treaty with your home country.
+
+### Can Digital Nomad Visa holders use the 50% tax break (Article 5C)?
+
+No. The DNV does not allow work for Greek employers or clients or business activity in Greece, which is exactly what Article 5C requires.
+
+## Once you are here
+
+As a resident digital nomad you file a Greek return every year, and your foreign income has to be declared correctly against the treaty with your home country. We prepare and file the Greek return and the related registrations as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping); for the visa itself, see our [Digital Nomad Visa service](/greece/digital-nomad-visa). Send us a message for a free check.
+
+*Rules as of October 2026 (Law 5038/2023 art. 68, Law 5275/2026).*
