@@ -2,12 +2,12 @@
 title: "Greece Digital Nomad Visa: Requirements, Fees and Process (2026)"
 description: "Greece Digital Nomad Visa in 2026: the €3,500 income rule, consulate-only applications, documents, fees, renewal and why the DNV excludes Article 5C."
 pubDate: 2026-03-31
-updatedDate: 2026-10-21
+updatedDate: 2026-10-22
 category: "dnv"
 image: "/images/guides/dnv_guide_hero.png"
 faq:
   - question: "How much income do I need for the Greece Digital Nomad Visa?"
-    answer: "At least €3,500 a month (net for employees), plus 20% for a spouse or partner and 15% for each child. Freelancers show stable income of that level through contracts and bank statements."
+    answer: "At least €3,500 a month net, after the taxes due in the country where you work, for employees and freelancers alike, plus 20% for a spouse or partner and 15% for each child."
   - question: "Can I apply for the Greek Digital Nomad Visa from inside Greece?"
     answer: "Since Law 5275/2026, applications go through a Greek consulate or embassy before you travel; the earlier in-country route via a Schengen stay is no longer used in practice. Confirm the current procedure with your consulate."
   - question: "How long is the Greek Digital Nomad Visa valid?"
@@ -23,7 +23,7 @@ The **Greece Digital Nomad Visa (DNV)** lets non-EU/EEA and non-Swiss citizens l
 ## The short answer
 
 - **Who:** non-EU/EEA/Swiss citizens working for employers or clients outside Greece.
-- **Income:** at least €3,500 a month (net for employees), +20% for a spouse, +15% per child.
+- **Income:** at least €3,500 a month net (employees and freelancers), +20% for a spouse, +15% per child.
 - **Process:** apply at a Greek consulate before travelling (Law 5275/2026), then apply in Greece for a two-year, renewable residence permit.
 - **Fees:** €75 visa fee and €1,000 permit fee, plus consular and card charges.
 - **Tax:** after more than 183 days you are usually Greek tax resident and file a Greek return on worldwide income.
@@ -40,7 +40,7 @@ You must be either:
 
 ## The income requirement
 
-Under [Article 68 of the Migration Code (Law 5038/2023)](https://www.taxheaven.gr/law/5038/2023/arthro/68), you need at least **€3,500 a month**. For employees the law refers to net income after tax; freelancers and business owners show stable income of that level through contracts and bank statements.
+Under [Article 68 of the Migration Code (Law 5038/2023)](https://www.taxheaven.gr/law/5038/2023/arthro/68), you need at least **€3,500 a month** net, after the taxes due in the country where you work; the law applies this to employment and freelance (service or contract) income alike, shown through contracts and bank statements.
 
 With family the threshold rises by **20%** for a spouse or partner (€4,200 in total) and **15%** for each child. Family members on the permit may not work or carry on any economic activity in Greece.
 
@@ -82,7 +82,7 @@ A residence permit and tax residence are separate questions. You become Greek ta
 
 ### How much income do I need for the Greece Digital Nomad Visa?
 
-At least €3,500 a month (net for employees), plus 20% for a spouse or partner and 15% for each child. Freelancers show stable income of that level through contracts and bank statements.
+At least €3,500 a month net, after the taxes due in the country where you work, for employees and freelancers alike, plus 20% for a spouse or partner and 15% for each child.
 
 ### Can I apply for the Greek Digital Nomad Visa from inside Greece?
 
