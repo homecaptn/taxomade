@@ -20,6 +20,7 @@ jobs:
           channelId: live
           projectId: homecaptn
           target: taxomade
+          firebaseToolsVersion: '15.34.0'
       - name: Notify Bing & co. via IndexNow
         continue-on-error: true
         run: |
