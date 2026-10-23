@@ -51,7 +51,7 @@ There is no tax-free allowance for business income: the tax credit that employee
 
 ## 2. Minimum presumptive income
 
-Since 2023, Greece assumes a [minimum income for freelancers](https://www.taxheaven.gr/law/4172/2013/arthro/28Α). If your declared profit is lower, you are taxed on the minimum instead. The basis is the annual minimum wage of the tax year (€12,320 for 2025: €880 × 14). After your sixth year it rises by 10% per three years, up to +30%, and components for staff costs and for turnover above your sector's average can be added. In September 2026 the government announced it will drop these surcharges for freelancers with a clean compliance record; this is not yet law.
+Since tax year 2023, Greece assumes a [minimum income for freelancers](https://www.taxheaven.gr/law/4172/2013/arthro/28Α). If your declared profit is lower, you are taxed on the minimum instead. The basis is the annual minimum wage of the tax year (€12,320 for 2025: €880 × 14). After your sixth year it rises by 10% per three years, up to +30%, and components for staff costs and for turnover above your sector's average can be added. In September 2026 the government announced it will drop these surcharges for freelancers with a clean compliance record; this is not yet law.
 
 What matters for newcomers:
 

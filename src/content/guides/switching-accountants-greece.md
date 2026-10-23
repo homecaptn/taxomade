@@ -121,4 +121,4 @@ Copies of all filed tax and VAT returns with proof of submission, your books and
 
 In our experience, a clean handover usually takes about a week once your records are available. It can take longer if your old accountant is slow to send documents or if past filings need correcting.
 
-*Based on myAADE and Greek practice as of October 2026. Menu names in myAADE can change. This is general information, not tax or legal advice; individual situations vary.*
+*Rules as of October 2026 (myAADE practice; menu names in myAADE can change).*

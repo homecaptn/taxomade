@@ -92,4 +92,4 @@ Usually yes, if they work from Greece full-time. Exceptions are a formal posting
 
 EFKA registration, choosing the right class, applying for the starter rate and paying the monthly notices on time are part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, with myDATA, VAT returns and the annual tax return included. A missed EFKA payment adds interest, so this is worth having handled.
 
-*Contribution amounts reflect EFKA circular 6/2026 and are adjusted every year. This is general information, not tax or social security advice; individual situations vary.*
+*Rules as of October 2026 (EFKA circular 6/2026; amounts are adjusted every year).*

@@ -51,7 +51,7 @@ If you do register: the one-off fee is small (tens of euros), the annual GEMI fe
 
 ## 4. The presumptive minimum income after year three
 
-The cost most relocation guides skip entirely. Since 2024, Greek freelancers are taxed on at least a presumptive minimum income (τεκμαρτό εισόδημα) tied to the annual minimum wage, currently around €12,000 to €13,000, even if the declared profit is lower. New businesses are exempt for the first three years; in the fourth year the presumption is reduced by two thirds, in the fifth by one third, and from the sixth year it applies in full. For a part-time freelancer on the 5C break, this can matter more than any apostille fee. Details and the exceptions are in the [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
+The cost most relocation guides skip entirely. Since tax year 2023, Greek freelancers are taxed on at least a presumptive minimum income (τεκμαρτό εισόδημα) tied to the annual minimum wage, currently around €12,000 to €13,000, even if the declared profit is lower. New businesses are exempt for the first three years; in the fourth year the presumption is reduced by two thirds, in the fifth by one third, and from the sixth year it applies in full. For a part-time freelancer on the 5C break, this can matter more than any apostille fee. Details and the exceptions are in the [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
 
 ## 5. AMKA and KEP visits
 

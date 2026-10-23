@@ -1,12 +1,12 @@
 ---
 title: "Setting Up an IKE in Greece: Process and Annual Costs (2026 Guide)"
-description: "How to form a Greek private company (IKE) in 2026, what it costs to set up and run every year, how it is taxed, and when it makes more sense than a sole proprietorship."
+description: "How to form a Greek private company (IKE) in 2026, what it costs to set up and run each year, how it's taxed, and when it beats a sole proprietorship."
 pubDate: 2026-10-09
-updatedDate: 2026-10-17
+updatedDate: 2026-10-23
 category: "tax"
 faq:
   - question: "How much does it cost to open an IKE in Greece?"
-    answer: "The official registry fees for forming an IKE through the one-stop shop are low, typically in the tens of euros, and there is no real minimum capital. A notary is only needed in special cases. The real costs come afterwards: the annual trade fee of €800 or €1,000, social security for the administrator and double-entry bookkeeping."
+    answer: "The official registry fees for forming an IKE through the one-stop shop are low, around €20 for the online route, and there is no real minimum capital. A notary is only needed in special cases. The real costs come afterwards: the annual trade fee of €800 or €1,000, social security for the administrator and double-entry bookkeeping."
   - question: "How much tax does an IKE pay in Greece?"
     answer: "An IKE pays 22% corporate income tax on its profit. When profit is paid out as a dividend, 5% dividend tax is withheld, so distributed profit carries a combined tax of about 25.9%. A sole proprietor pays personal income tax of up to 44% instead."
   - question: "Can a foreigner open an IKE in Greece?"
@@ -21,8 +21,8 @@ Many founders moving to Greece ask the same question: should I open a company (I
 
 ## The short answer
 
-- **Formation:** fully online through the one-stop shop, typically within a few days, with no real minimum capital and no notary for standard articles.
-- **Formation costs:** official fees are low (tens of euros). Every founder needs a Greek tax number (AFM) first.
+- **Formation:** online through the one-stop shop (e-ΥΜΣ), typically within a few days, with no real minimum capital and no notary for standard articles.
+- **Formation costs:** official fees are low (around €20 for the online route). Every founder needs a Greek tax number (AFM) first.
 - **Annual fixed costs:** trade fee of **€800 or €1,000**, EFKA for the administrator (class 1: **€250.77/month**), double-entry bookkeeping and annual financial statements.
 - **Tax:** **22%** corporate tax, plus **5%** on dividends paid out (about 25.9% in total).
 
@@ -31,7 +31,7 @@ Many founders moving to Greece ask the same question: should I open a company (I
 The IKE (Ιδιωτική Κεφαλαιουχική Εταιρεία) is the Greek private company, governed by Law 4072/2012 (see the [ministry guidance](https://services.eea.gr/CMS/site/files/E_K1-1084.pdf)). Key points:
 
 - **Limited liability:** only the company's assets are liable for its debts, not yours (with exceptions, for example for guarantee contributions).
-- **Capital:** since 2013, the capital can even be **zero** ([tax authority opinion 25/2015](https://www.taxheaven.gr/circulars/27352/gnwmodothsh-nsk-25-2015)). Partners can contribute money, work or services, or guarantees.
+- **Capital:** since 2013, the capital can even be **zero** (Art. 43(3) Law 4072/2012, as amended by Law 4155/2013). Partners can contribute money, work or services, or guarantees.
 - **Single founder possible:** a single-member IKE is allowed.
 - **Administrator:** the company is run by an administrator (διαχειριστής), who can be a partner or someone else.
 
@@ -41,13 +41,13 @@ IKEs are formed [online through the one-stop shop (e-ΥΜΣ)](https://mitos.gov.
 
 1. **AFM for every founder.** Each founder needs an active Greek tax number before the company can be formed. If you don't have one yet, start here: [what the Greek AFM is and how to get it](/guides/what-is-greek-afm-number).
 2. **Articles of association.** With the standard model articles, a private document is enough. A notary is only needed in special cases, for example when real estate is contributed. Articles that don't follow the standard template can't use the fast online route.
-3. **Registration.** The company is registered with GEMI and receives its own tax number. Then registration with the chamber, EFKA for the administrator, and the company's VAT and myDATA setup follow.
+3. **Registration.** The company is registered with GEMI and receives its own tax number. The one-stop shop also registers the company with the chamber and issues its EFKA employer number. The administrator's EFKA insurance, VAT and myDATA setup follow.
 
 Forming a company does not give non-EU founders a right to live in Greece. A residence permit is a separate process.
 
 ## What it costs to set up
 
-The official fees for forming an IKE are low. GEMI and one-stop-shop fees are in the tens of euros, and the chamber charges a registration fee that varies by chamber. The [Competition Commission fee](https://www.taxheaven.gr/law/3959/2011/arthro/17) applies only to public limited companies (AE), not to an IKE.
+The official fees for forming an IKE are low. The online one-stop-shop fee is €18 according to gov.gr (one-off); the chamber may charge its own registration fee, which varies by chamber. The [Competition Commission fee](https://www.taxheaven.gr/law/3959/2011/arthro/17) applies only to public limited companies (AE), not to an IKE.
 
 Additional costs depend on your case: a notary if your articles need one, translations and certifications of foreign documents, and the accountant's setup fee.
 
@@ -60,19 +60,19 @@ Additional costs depend on your case: a notary if your articles need one, transl
 | Accounting | Double-entry books, monthly VAT returns, annual financial statements |
 | GEMI and chamber | Smaller annual fees |
 
-Three points matter here:
+Four points matter here:
 
-- **Trade fee:** sole proprietors, including freelancers, no longer pay it since tax year 2024. Companies still do, from their first year, under [Article 31 of Law 3986/2011](https://www.taxheaven.gr/news/44962/telos-epithdeymatos-egxeiridio-erwtapanthsewn-apo-thn-aade). Some very small villages and islands are exempt. In September 2026 the government [announced a phased abolition](https://taxrevenue.gr/telos-epitideymatos-epixeiriseis-katargisi/) for companies: from 2027 outside Attica, and in Attica a 50% cut in 2028 and full abolition in 2029. As of October 2026 it hasn't been passed into law.
+- **Trade fee:** sole proprietors, including freelancers, no longer pay it since tax year 2024. Companies still do, from their first year, under [Article 31 of Law 3986/2011](https://www.taxheaven.gr/news/44962/telos-epithdeymatos-egxeiridio-erwtapanthsewn-apo-thn-aade). Some very small villages and islands are exempt. In September 2026 the government [announced a phased abolition](https://www.taxheaven.gr/news/74555/h-exeidikeysh-twn-newn-metrwn-ths-deo-video) for companies: outside Attica (including Thessaloniki) from 2027, and in Attica a 50% cut in 2028 and full abolition in 2029. As of October 2026 it hasn't been passed into law.
 - **EFKA:** the administrator, and the sole partner of a single-member IKE, are insured as self-employed (ministry circular [Δ.15/Δ'/619/2018](https://www.taxheaven.gr/circulars/28504)). Ordinary partners are not insured just for holding shares. The amounts are the same classes as for freelancers. Whether an administrator can use the reduced class for new insured persons (€150.46) depends on the individual case. See [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
-- **Accounting:** an IKE keeps double-entry books and files VAT returns monthly. In our experience, ongoing accounting for an IKE costs roughly twice as much as for a sole proprietorship.
+- **Accounting:** an IKE keeps double-entry books and files VAT returns monthly. Its annual financial statements must be published on GEMI; since February 2026 GEMI fines missing filings, from €1,000 for a very small IKE. In our experience, ongoing accounting for an IKE costs roughly twice as much as for a sole proprietorship.
 - **Staff:** once the company hires, payroll and employer social security (21.79% on top of gross pay) come on top. See [hiring your first employee in Greece](/guides/hiring-first-employee-greece).
 
 ## How an IKE is taxed
 
 - **Corporate income tax:** **22%** of profit. There is no reduced rate for small companies.
 - **Dividend tax:** **5%** withheld when profit is paid out (treaties can change the rate for non-residents). Distributed profit therefore carries about **25.9%** in total (22% + 5% of the remaining 78%). Profit that stays in the company is taxed at 22% only.
-- **Advance tax:** with each return, the company pays an advance of **80%** of the year's corporate tax towards the next year, halved in the first three years.
-- **Return:** for a calendar year, the corporate tax return is due by the end of June of the following year, and the tax can be paid in monthly instalments.
+- **Advance tax:** with each return, the company pays an advance of **80%** of the year's corporate tax towards the next year, halved in the first three years. A gradual reduction from tax year 2028 has been announced but not legislated.
+- **Return:** for a calendar year, the corporate tax return is due by the end of June of the following year (in practice often extended into July), and the tax can be paid in monthly instalments.
 
 For comparison: a sole proprietor pays personal income tax on profit, from 9% up to 44% (see [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026)).
 
@@ -94,13 +94,13 @@ One more point: if you close a sole proprietorship and continue the same activit
 
 ## What we charge
 
-At taxomade, IKE setup and accounting are priced **on request**, because the effort depends on your activity, number of partners, staff and invoice volume. We prepare and file the formation documents, set up VAT, myDATA and EFKA, and handle the ongoing bookkeeping in English, German, Spanish or Greek. Send us a message for a free check of whether an IKE makes sense for you.
+At taxomade, IKE setup and accounting are priced **on request**, because the effort depends on your activity, number of partners, staff and invoice volume. We prepare and file the formation documents, set up VAT, myDATA and EFKA, and handle the [ongoing bookkeeping](/greece/ongoing-bookkeeping) in English, German, Spanish or Greek. Send us a message for a free check of whether an IKE makes sense for you.
 
-## FAQ
+## Frequently asked questions
 
 ### How much does it cost to open an IKE in Greece?
 
-The official registry fees for forming an IKE through the one-stop shop are low, typically in the tens of euros, and there is no real minimum capital. A notary is only needed in special cases. The real costs come afterwards: the annual trade fee of €800 or €1,000, social security for the administrator and double-entry bookkeeping.
+The official registry fees for forming an IKE through the one-stop shop are low, around €20 for the online route, and there is no real minimum capital. A notary is only needed in special cases. The real costs come afterwards: the annual trade fee of €800 or €1,000, social security for the administrator and double-entry bookkeeping.
 
 ### How much tax does an IKE pay in Greece?
 
@@ -117,3 +117,5 @@ Yes. The administrator, and the sole partner of a single-member IKE, are insured
 ### Is an IKE better than a sole proprietorship in Greece?
 
 It depends on your profit and plans. An IKE limits your liability and its tax rate is lower than the top personal rates, but it has higher fixed costs: trade fee, double-entry bookkeeping and monthly VAT returns. For smaller profits, a sole proprietorship is usually cheaper to run.
+
+*Rules as of October 2026 (Law 4072/2012, Income Tax Code art. 58 and 71, Law 3986/2011 art. 31).*
