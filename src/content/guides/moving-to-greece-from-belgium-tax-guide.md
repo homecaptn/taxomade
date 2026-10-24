@@ -8,7 +8,7 @@ faq:
   - question: "When does my Belgian tax residency end if I move to Greece?"
     answer: "When neither your domicile nor the seat of your wealth is in Belgium any more. Registration in the National Register creates a rebuttable presumption that you are resident, so deregister at your commune first. If both countries claim you, the 2004 treaty decides: permanent home first, then centre of vital interests."
   - question: "Does Belgium charge exit tax when I move to Greece?"
-    answer: "Since 2026, yes, on financial assets such as shares, funds, bonds and crypto. Gains accrued from 1 January 2026 up to your departure are taxed as if realised. For a move to Greece, payment is deferred automatically, and the tax lapses if you do not sell within 24 months."
+    answer: "Since 2026, yes, on financial assets such as shares, funds, bonds and crypto. Gains accrued from 1 January 2026 up to your departure are taxed as if realised. For a move to Greece, payment is deferred automatically, and the tax lapses if you do not sell or pledge the assets within 24 months."
   - question: "Is my Belgian pension taxed in Greece or in Belgium?"
     answer: "Belgian statutory pensions paid under social security legislation stay taxable in Belgium; you declare them in Greece too, and Greece credits the Belgian tax. Private and company pensions are taxed only in Greece. Civil service pensions are taxed only in Belgium unless you are a Greek national living in Greece."
   - question: "Do I keep paying Belgian self-employed contributions if I freelance from Greece?"
@@ -22,9 +22,9 @@ Belgians moving to Greece are mostly freelancers with Belgian clients, remote em
 ## The short answer
 
 - **Deregister at your commune** before you leave; a National Register entry presumes residence.
-- **The year you leave** needs a special return, filed within three months.
-- **New exit tax** on financial assets since 2026; for Greece it is deferred and lapses if you do not sell within 24 months.
-- **The 2004 treaty:** freelance income and private pensions are taxed in Greece; Belgian rent, statutory pensions and civil service pensions are taxed in Belgium.
+- **The year you leave** is covered by a single special return, filed within three months.
+- **New exit tax** on financial assets since 2026; for Greece it is deferred and lapses if you do not sell or pledge the assets within 24 months.
+- **The 2004 treaty:** freelance income and private pensions are taxed in Greece; Belgian rent and statutory pensions are taxed in Belgium first, with a Greek credit; civil service pensions only in Belgium.
 - **Social security follows your work:** freelancers working from Greece join EFKA.
 - **Article 5C** (50% exemption for 7 years) and **Article 5B** (7% on all foreign income for 15 years) are open to Belgian movers who qualify.
 
@@ -38,21 +38,21 @@ If both countries treat you as resident, the [Belgium–Greece treaty](https://w
 
 ## 2. The year you leave
 
-Report your departure to your tax office. You file a [special tax return](https://finance.belgium.be/en/private-individuals/international/leaving-belgium) covering 1 January to your departure date within three months of leaving, not in the normal filing season.
+Report your departure to your tax office. You receive a [special tax return](https://finance.belgium.be/en/private-individuals/international/leaving-belgium) for the year you leave and file it within three months of departure, not in the normal filing season. It is the only Belgian return for that year.
 
-If you keep Belgian income, such as rent, you also file a **non-resident return** (impôt des non-résidents / belasting van niet-inwoners) for that year and after.
+If you keep Belgian income, such as rent or a statutory pension, you file a **non-resident return** (impôt des non-résidents / belasting van niet-inwoners) every year after that.
 
 ## 3. The new exit tax on financial assets
 
-The [capital gains tax on financial assets](https://kpmg.com/be/en/insights/my-tax-compass/corporate-tax-insights/royal-decrees-on-belgian-capital-gains-tax-published.html) (Law of 6 April 2026) taxes gains from 1 January 2026 at **10%**, and when you emigrate, all latent gains on your financial assets count as realised. That covers shares, funds, bonds, crypto and certain insurance products. Gains before 2026 are not caught: assets held at 31 December 2025 can use that day's value as their starting point.
+The [capital gains tax on financial assets](https://kpmg.com/be/en/insights/my-tax-compass/corporate-tax-insights/royal-decrees-on-belgian-capital-gains-tax-published.html) (Law of 6 April 2026) taxes gains from 1 January 2026 at **10%** after a yearly exemption of about €10,000 (prorated in the year you leave), and when you emigrate, all latent gains on your financial assets count as realised. That covers shares, funds, bonds, crypto and certain insurance products. Holdings of 20% or more, typically your own BV/SRL, follow a separate scale from 1.25% to 10%, with the first €1 million of gains exempt. Gains before 2026 are not caught: assets held at 31 December 2025 can use that day's value as their starting point (or, for sales up to 2030, the documented purchase price if higher).
 
 For a move to Greece, the relief is automatic:
 
 - **Payment is deferred** for emigration to an EU/EEA state, without a guarantee.
-- **The tax lapses** if you do not sell within 24 months of leaving. You confirm your residence and holdings on a certificate due by the end of the 14th and 26th month after departure.
+- **The tax lapses** after 24 months if you have not sold or pledged the assets, or moved on outside the EU/EEA, in that time. You confirm your residence and holdings on a certificate due by the end of the 14th and 26th month after departure.
 - **You still report** the latent gains, even though nothing is paid.
 
-If you run a BV/SRL alone from Greece, its place of effective management, and with it its tax residence, can move too, and as a director working from Greece you are insured with EFKA. Talk to your Belgian accountant before you deregister. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs).
+If you run a BV/SRL alone from Greece, its place of effective management, and with it its tax residence, can move as well. Belgium treats that like a liquidation: corporate tax on the company's hidden reserves and, since 2025, a deemed dividend taxed in your hands as shareholder. As a director working from Greece you are insured with EFKA. Talk to your Belgian accountant before you deregister. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs).
 
 ## 4. The double tax treaty
 
@@ -65,6 +65,7 @@ If you run a BV/SRL alone from Greece, its place of effective management, and wi
 | Private and company pensions | Greece only |
 | Civil service pensions | Belgium, unless you are a Greek national living in Greece |
 | Belgian dividends | Belgium keeps 15% (30% withheld, the rest reclaimable); Greece credits only up to its own 5% dividend tax |
+| Belgian interest | Belgium keeps up to 10% (30% withheld, the rest reclaimable); Greece credits |
 | Gains on shares after the move | Greece (a deferred Belgian exit tax still falls due on a sale within 24 months) |
 
 Belgian property stays in the non-resident return; a home let to private tenants is generally taxed on its [indexed cadastral income plus 40%](https://www.rsm.global/belgium/en/insights/quick-overview-belgian-real-estate-2026), not on the actual rent.
@@ -73,7 +74,7 @@ Belgian property stays in the non-resident return; a home let to private tenants
 
 You stop your Belgian self-employed activity (enterprise counter, VAT, your social insurance fund), register as a sole trader in Greece and invoice from there.
 
-- **Belgian business clients** are invoiced without VAT under the reverse charge; the Belgian small-business exemption no longer applies ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients)).
+- **Belgian business clients** are invoiced without VAT under the reverse charge, private clients with Greek VAT; the Belgian small-business exemption no longer applies ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients)).
 - **Social security:** under EU Regulation 883/2004 you are insured where you work, so with EFKA, from about €150 per month for new freelancers ([EFKA guide](/guides/efka-social-security-freelancers-greece)), not with INASTI/RSVZ. A Belgian A1 only helps for temporary postings or if you also work substantially in Belgium.
 - **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request, myDATA for every invoice, e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027; invoices to Belgian clients are not covered ([e-invoicing](/guides/e-invoicing-greece-explained)), and a [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax) halved only in your first year with business income.
 
@@ -86,7 +87,7 @@ Steps in order: [AFM](/guides/what-is-greek-afm-number), [freelancer setup](/gui
 - **Tax:** under treaty Article 18(2), pensions paid under Belgian social security legislation are taxed in Belgium. You declare them in Greece as well, and Greece credits the Belgian tax up to the Greek tax on them. Private and company pensions are taxed only in Greece.
 - **Payment:** the Federal Pensions Service [pays employee, self-employed and civil service pensions abroad](https://diplomatie.belgium.be/en/belgians-abroad/your-belgian-pension-abroad). Return the yearly certificate of life on time.
 - **Health:** with only a Belgian pension, you stay insured through Belgium and [register for Greek care with form S1](https://www.caami-hziv.fgov.be/system/files/documents/europa-F.pdf) from your Belgian health insurance fund.
-- **Article 5B:** if you were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Apply by 31 October of the year you want it for (A.1192/2026). As Belgium keeps taxing statutory pensions, check whether it beats the normal 9–44% scale for your income ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
+- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Apply by 31 October of the year you want it for (A.1192/2026). Belgium keeps taxing statutory pensions, and that tax is credited against the 7%, so 5B mainly pays off for private pensions and other foreign income ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
 
 Child benefit is regional. In Flanders, the [Groeipakket usually ends](https://www.vlaanderen.be/vlaams-groeipakket/je-gezin-heeft-banden-buiten-vlaanderen) at the end of the month you move abroad, unless a parent keeps working in Flanders or receives a Belgian benefit; the other regions have their own funds.
 
@@ -106,7 +107,7 @@ When neither your domicile nor the seat of your wealth is in Belgium any more. R
 
 ### Does Belgium charge exit tax when I move to Greece?
 
-Since 2026, yes, on financial assets such as shares, funds, bonds and crypto. Gains accrued from 1 January 2026 up to your departure are taxed as if realised. For a move to Greece, payment is deferred automatically, and the tax lapses if you do not sell within 24 months.
+Since 2026, yes, on financial assets such as shares, funds, bonds and crypto. Gains accrued from 1 January 2026 up to your departure are taxed as if realised. For a move to Greece, payment is deferred automatically, and the tax lapses if you do not sell or pledge the assets within 24 months.
 
 ### Is my Belgian pension taxed in Greece or in Belgium?
 
