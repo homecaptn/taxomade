@@ -16,7 +16,7 @@ faq:
   - question: "How is rental income from a Greek property taxed for non-residents?"
     answer: "Rental income is taxed separately on a progressive scale: 15% up to €12,000, 25% from €12,000 to €24,000, 35% from €24,000 to €36,000 and 45% above that (income from 1 January 2026). There is no tax-free allowance; individuals get only a flat 5% deemed deduction for maintenance. UK and US residents then declare the same income at home and claim credit for the Greek tax under the respective treaty."
   - question: "Is Greece really raising the transfer tax to 15% for non-EU buyers?"
-    answer: "It was announced in September 2026 as a measure for 2027 but has not been legislated. The announced rate is 15% (15.45% with the municipal surcharge) instead of 3.09% for third-country individuals buying residential property. EU/EEA citizens, Greeks abroad and long-term residents are to be excluded. Start date, treatment of Golden Visa buyers and transitional rules for pre-contracts are still open."
+    answer: "It is planned but not yet law. The government announced it in September 2026, and a draft bill went to public consultation in October 2026, pointing to a start on 1 July 2027. The rate would be 15% (15.45% with the municipal surcharge) instead of 3.09% for individuals from outside the EU/EEA buying residential property. Whether the test is citizenship or tax residence, the treatment of Golden Visa buyers and the rules for preliminary contracts will be settled by the final law."
 ---
 
 If you are buying a house or apartment in Greece but live in the UK, the US or anywhere else, the Greek tax number comes first. Without an AFM the transfer tax cannot be filed, the notary cannot close and the deed cannot be registered. This guide covers how non-residents get the number in 2026, what you file after the purchase, and the one announcement UK and US buyers should watch: a 15% transfer tax for non-EU buyers from 2027.
@@ -27,7 +27,7 @@ If you are buying a house or apartment in Greece but live in the UK, the US or a
 - The application is online only, through myAADE, in English since April 2024. Identification is by video call or at a tax office, or an accountant or lawyer files it for you under a power of attorney.
 - A tax representative in Greece has been optional since September 2024. Appointing one is still the practical choice.
 - After the purchase: E9 property declaration by 31 January of the following year, ENFIA property tax every year, and an income tax return only if the property earns rent, taxed at 15% to 45%.
-- Announced for 2027, not yet law: transfer tax of 15% instead of 3.09% for buyers from outside the EU.
+- Planned from 1 July 2027 (draft bill, not yet law): transfer tax of 15% instead of 3.09% for buyers from outside the EU/EEA.
 
 ## Who needs an AFM when buying
 
@@ -59,7 +59,7 @@ Our advice is still to appoint one. ENFIA assessments, E9 corrections and querie
 
 ### E9: the property declaration
 
-Every acquisition or change in your property holdings is declared on form E9 by **31 January of the year following** the purchase (Law 5219/2025, confirmed by Law 5313/2026). Older guides still say 30 days or 31 March; the current deadline is 31 January, extended year by year. For purchases filed through myPROPERTY, AADE pre-fills the E9 from the deed, but check it: the surface area, floor and building year on the E9 drive your ENFIA for years. A late initial E9 costs €100.
+Every acquisition or change in your property holdings is declared on form E9 by **31 January of the year following** the purchase (article 23 of Law 3427/2005, as amended). Older guides still say 30 days or 31 March. For purchases filed through myPROPERTY, AADE pre-fills the E9 from the deed, but check it: the surface area, floor and building year on the E9 drive your ENFIA for years. A late initial E9 costs €100.
 
 ### ENFIA: the annual property tax
 
@@ -79,15 +79,16 @@ Rent it out and the picture changes: from the first euro, you file an E1 every y
 | above €36,000 | 45% |
 
 The bands are progressive (each slice at its own rate), there is no tax-free amount, and individuals cannot deduct their actual costs: the law allows only a flat 5% deemed deduction from gross rent for maintenance.
+
 ### Short-term letting
 
-If the plan is Airbnb: every short-term let (up to 59 days) needs a registry number (AMA) from AADE, a declaration per stay by the 20th of the following month, and a climate resilience fee (€8 per night April to October, €2 November to March; €15 / €4 for villas over 80 m²) collected from guests. Up to two properties are taxed as rental income; from the third, it is a business with VAT. New registrations are banned in central Athens and Thessaloniki through 2026, fines start at €20,000, and Golden Visa properties may not be short-term let at all.
+If the plan is Airbnb: every short-term let (up to 59 days) needs a registry number (AMA) from AADE, a declaration per stay by the 20th of the following month, and a climate resilience fee (€8 per night April to October, €2 November to March; €15 / €4 for villas over 80 m²) collected from guests. Up to two properties are taxed as rental income; from the third, it is a business with VAT. New registrations are banned in central Athens and Thessaloniki through 2026 (an extension into 2027 is in the October 2026 draft bill), fines start at €20,000, and Golden Visa properties may not be short-term let at all.
 
 ## Transfer tax, VAT and the 2027 announcement
 
-**Today:** the buyer pays transfer tax of 3% plus a 3% municipal surcharge on the tax, so 3.09% of the higher of the price and the objective value. The 24% VAT on new builds sold by developers is suspended until 31 December 2026, so buyers of new property pay the 3.09% instead. The government has announced that the VAT suspension will continue into 2027; it is not law yet.
+**Today:** the buyer pays transfer tax of 3% plus a 3% municipal surcharge on the tax, so 3.09% of the higher of the price and the objective value. The 24% VAT on new builds sold by developers is suspended until 31 December 2026, so buyers of new property pay the 3.09% instead. An extension to the end of 2027 is in the draft bill put to public consultation in October 2026; it is not law yet.
 
-**Announced for 2027:** in September 2026 the government announced a transfer tax of **15%** (15.45% with the surcharge) for individuals from countries outside the EU buying **residential** property ([IMI Daily](https://www.imidaily.com/europe/greece-to-quintuple-property-transfer-tax-to-15-for-non-eu-buyers-from-january-2027/)). Commercial property and land are excluded, as are Greeks abroad, EU and EEA citizens, recognised refugees and long-term residence permit holders. Reports put the start at 1 January or 1 July 2027; the implementing law will set it, and the treatment of Golden Visa investors and of preliminary contracts signed in 2026 is unresolved.
+**Planned for 2027:** in September 2026 the government announced a transfer tax of **15%** (15.45% with the surcharge) for individuals from outside the EU/EEA buying **residential** property, and a draft bill went to [public consultation in October 2026](https://www.e-forologia.gr/cms/viewContents.aspx?id=239678), pointing to a start on 1 July 2027. Commercial property and land are excluded; reported exclusions also cover Greeks abroad and holders of long-term residence status. Earlier statements spoke of third-country citizens, while the draft is reported to test tax residence instead, which matters for UK and US buyers. The final law will settle this, along with the treatment of Golden Visa investors and of preliminary contracts signed before the start date.
 
 For a UK or US buyer this is the single biggest number in the calculation: on a €400,000 house, €12,360 versus €61,800. If you are already in negotiations, check the status of the bill before you choose a completion date.
 
@@ -95,7 +96,7 @@ For a UK or US buyer this is the single biggest number in the calculation: on a 
 
 **UK residents** are taxed on worldwide income, so Greek rent goes on the Foreign pages (SA106) of the Self Assessment return. The UK–Greece convention dates from 1953 and has no article on property income; Greece taxes the rent under its own law and the UK gives credit for the Greek tax, capped at the UK tax on the same income (Article XIV, helpsheet HS263).
 
-**US citizens and residents** report the rent on their US return and claim the foreign tax credit for Greek tax paid; the 1950 US–Greece treaty contains a saving clause, so US tax applies regardless. Property held directly is not reportable on Form 8938 or the FBAR, but a [Greek bank account](/guides/open-bank-account-greece) opened for the purchase is, once all foreign accounts together exceed $10,000 at any point in the year.
+**US citizens and residents** report the rent on their US return and claim the foreign tax credit for Greek tax paid; the 1950 US–Greece treaty contains a saving clause, so US tax applies regardless. Property held directly is not reportable on Form 8938 or the FBAR, but a [Greek bank account](/guides/open-bank-account-greece) opened for the purchase is: on the FBAR once all foreign accounts together exceed $10,000 at any point in the year, and on Form 8938 above its higher thresholds.
 
 ## Common mistakes
 
@@ -105,24 +106,32 @@ For a UK or US buyer this is the single biggest number in the calculation: on a 
 
 ## Frequently asked questions
 
+### Do I need a Greek AFM to buy property in Greece as a non-resident?
+
+Yes. Every foreign person who holds a real right over property in Greece (ownership, usufruct) must have a Greek tax number. You need it before the deed is signed, because the transfer tax return is filed in your name through myPROPERTY. Holding an AFM does not make you a Greek tax resident.
+
 ### Can I get a Greek AFM from the UK or the US without travelling to Greece?
 
-Yes. The application is online only, through myAADE, with identification by video call or in person. Alternatively, an accountant or lawyer with a certified power of attorney files it for you, and no video call is needed.
+Yes. Since 2023 the application is filed online only, through the "TIN & Authentication Key" application in myAADE, which has had an English interface since April 2024. Identification is done by video call (myAADElive) or in person at a tax office. Alternatively, an accountant or lawyer with a certified power of attorney can file for you, in which case no video call is needed.
 
 ### Do I need a tax representative in Greece if I live abroad?
 
-Not since September 2024; it is optional for individuals. Most non-resident owners still appoint their accountant so that ENFIA and E9 deadlines are not missed.
+No longer. Since decision A.1069/2024 (in force from 9 September 2024), appointing a tax representative is optional for individuals. If you skip it, you declare a foreign address and email and accept that the tax office serves notices there. Most non-resident owners still appoint their accountant so that deadlines are not missed.
 
 ### Do I have to file a Greek tax return every year if I own a holiday home but earn no income in Greece?
 
-No. Non-residents file an income tax return only with real Greek-source income, such as rent. A holiday home that is not let out means E9 on purchase and ENFIA every year.
+No. Non-residents file an income tax return (E1) only if they have real Greek-source income, such as rent. A holiday home that is not let out triggers the E9 property declaration on purchase and the annual ENFIA property tax, which AADE assesses automatically. Non-residents are also not subject to Greece's deemed living-cost income.
+
+### How is rental income from a Greek property taxed for non-residents?
+
+Rental income is taxed separately on a progressive scale: 15% up to €12,000, 25% from €12,000 to €24,000, 35% from €24,000 to €36,000 and 45% above that (income from 1 January 2026). There is no tax-free allowance; individuals get only a flat 5% deemed deduction for maintenance. UK and US residents then declare the same income at home and claim credit for the Greek tax under the respective treaty.
 
 ### Is Greece really raising the transfer tax to 15% for non-EU buyers?
 
-It was announced in September 2026 for 2027 but has not been legislated. EU/EEA citizens, Greeks abroad and long-term residents are to be excluded; the start date and the treatment of Golden Visa buyers are open.
+It is planned but not yet law. The government announced it in September 2026, and a draft bill went to public consultation in October 2026, pointing to a start on 1 July 2027. The rate would be 15% (15.45% with the municipal surcharge) instead of 3.09% for individuals from outside the EU/EEA buying residential property. Whether the test is citizenship or tax residence, the treatment of Golden Visa buyers and the rules for preliminary contracts will be settled by the final law.
 
 ## What we charge
 
 taxomade prepares and files the annual obligations for non-resident owners: the E9 declaration, the ENFIA review, the income tax return where there is rental income, and, under a power of attorney, the AFM application and tax representative appointment. The service is quoted individually, based on the number of properties and whether they are let. Message us on WhatsApp with the property details for a quote, or use the contact form. If you also work from Greece, see [our monthly bookkeeping](/greece/ongoing-bookkeeping).
 
-*Rules reflect Greek law and AADE guidance as of October 2026. The 15% transfer tax for non-EU buyers is an announced measure, not legislation.*
+*Rules as of October 2026 (AADE decisions A.1185/2023 and A.1069/2024, Law 5246/2025; the 15% transfer tax is a draft bill, not yet law).*

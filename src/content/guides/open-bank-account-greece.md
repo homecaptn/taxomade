@@ -2,7 +2,7 @@
 title: "Opening a Bank Account in Greece as a Non-Resident"
 description: "The four major Greek banks, the documents you need, how to open a Greek IBAN remotely, and what banking costs in Greece in 2026."
 pubDate: 2026-05-03
-updatedDate: 2026-10-15
+updatedDate: 2026-10-24
 category: "afm"
 image: "/images/guides/bank_account_hero.png"
 faq:
@@ -11,7 +11,7 @@ faq:
   - question: "Do I need an AFM to open a bank account in Greece?"
     answer: "Yes. Greek banks must record a tax number for every customer, and in practice none will open an account for a newcomer without a Greek AFM."
   - question: "Can I open a Greek bank account remotely?"
-    answer: "Sometimes. Alpha Bank runs a video-call onboarding programme for residents of Germany, the UK, the USA, Cyprus and Israel, and Eurobank's international app onboarding is open to people still living in another EU/EEA country. Other in-app flows are built for Greek residents with a Greek ID and TAXISnet login."
+    answer: "Sometimes. Alpha Bank runs a video-call onboarding programme for residents of selected countries (currently including Germany, the UK, the USA, Canada, Switzerland, France, Italy, Cyprus and Israel), and Eurobank's international app onboarding is open to people who still live and work in another EU/EEA country. Other in-app flows are built for Greek residents with a Greek ID and TAXISnet login."
   - question: "Can I pay Greek taxes and EFKA from Revolut or Wise?"
     answer: "Greek taxes can be paid from any SEPA account, and refunds can go to a foreign SEPA IBAN. In practice, EFKA contributions, utility direct debits and IRIS payments work most reliably with a Greek IBAN."
 ---
@@ -24,7 +24,7 @@ Why? Strictly speaking, Greek taxes can be paid from any SEPA account ([AADE pub
 
 - **You need an AFM first.** No Greek bank opens an account for a newcomer without one.
 - **Bring:** passport (or EU ID card), proof of address from the last six months, proof of income or profession, and a phone number in your name.
-- **Remote opening is possible** through Alpha's video-call programme (residents of Germany, the UK, the USA, Cyprus, Israel) or Eurobank's international app onboarding (while you still live in another EU/EEA country). Otherwise it is one branch visit.
+- **Remote opening is possible** through Alpha's video-call programme (residents of selected countries, currently including Germany, the UK, the USA, Canada, Switzerland, France, Italy, Cyprus and Israel) or Eurobank's international app onboarding (while you still live and work in another EU/EEA country). Otherwise it is one branch visit.
 - **Neobank IBANs work for daily life**, but EFKA, direct debits and IRIS run most smoothly with a Greek IBAN.
 
 ## Prerequisite: you need an AFM
@@ -50,11 +50,11 @@ Greece's banking sector is consolidated into four systemic banks.
 
 ### Alpha Bank
 - **Best for:** opening an account before you arrive.
-- **Why:** Alpha runs a [remote onboarding programme](https://www.alpha.gr/en/retail/alpha-bank-your-premier-banking-partner-in-greece/banking-with-us/opening-an-account-remotely) for people living in Germany, the UK, the USA, Cyprus or Israel: online form, document upload, a 30-minute video call, and account, e-banking and debit card typically ready within about two business days. The myAlpha app is fully in English.
+- **Why:** Alpha runs a [remote onboarding programme](https://www.alpha.gr/en/retail/alpha-bank-your-premier-banking-partner-in-greece/banking-with-us/opening-an-account-remotely) for residents of selected countries, currently including Germany, the UK, the USA, Canada, Switzerland, France, Italy, Cyprus and Israel: online form, document upload, a 30-minute video call, and account, e-banking and debit card typically ready within about two business days. Onboarding runs in English.
 
 ### Eurobank
-- **Best for:** people still living in another EU country.
-- **Why:** its [international app onboarding](https://eurobank.gr/en/international-customers/what-we-offer/digital-customer-onboarding) accepts a passport, your home-country tax return and a recent utility or phone bill, with a short video call. The [international customers unit](https://www.eurobank.gr/en/international-customers) has an English-speaking hotline seven days a week. Once you have moved to Greece, this route no longer applies.
+- **Best for:** people still living and working in another EU/EEA country.
+- **Why:** its [international app onboarding](https://eurobank.gr/en/international-customers/what-we-offer/digital-customer-onboarding) is open to people who live and work in a country on its document list (mainly EU/EEA countries) and hold an ID or passport issued there. You need that ID or passport, your latest home-country tax return, proof of employment and a recent utility or phone bill, plus a short video call. The [international customers unit](https://www.eurobank.gr/en/international-customers) has an English-speaking hotline. Once you have moved to Greece, this route no longer applies.
 
 ### National Bank of Greece (NBG)
 - **Best for:** tradition and stability.
@@ -64,8 +64,8 @@ Greece's banking sector is consolidated into four systemic banks.
 
 **Sometimes, and it depends less on your passport than on where you currently live.**
 
-- **Most in-app onboarding is not for newcomers.** The "open an account from your phone" flows at [Piraeus](https://www.piraeusbank.gr/en/individuals/digital-solutions/digital-onboarding-service) and [Alpha](https://www.alpha.gr/en/retail/myalpha/opening-an-account-online) are built for people with a Greek ID card, TAXISnet login and Greek tax residency. Eurobank's international onboarding is the exception, but only while you still live in another EU/EEA country.
-- **Remote onboarding programmes:** Alpha's video-call route covers residents of Germany, the UK, the USA, Cyprus and Israel, with [more countries announced](https://greekreporter.com/2026/09/28/greek-bank-account-diaspora-us-uk-israel/). Greek citizenship is not required; ties to Greece (for example an AFM, property or a planned move) are expected.
+- **Most in-app onboarding is not for newcomers.** The "open an account from your phone" flows at [Piraeus](https://www.piraeusbank.gr/en/individuals/digital-solutions/digital-onboarding-service) and [Alpha](https://www.alpha.gr/en/retail/myalpha/opening-an-account-online) are built for people with a Greek ID card, TAXISnet login and Greek tax residency. Eurobank's international onboarding is the exception, but only while you still live and work in another EU/EEA country.
+- **Remote onboarding programmes:** Alpha's video-call route covers residents of selected countries, currently including Germany, the UK, the USA, Canada, Switzerland, France, Italy, Cyprus and Israel, and [the list has been growing](https://greekreporter.com/2026/09/28/greek-bank-account-diaspora-us-uk-israel/). Greek citizenship is not required; ties to Greece (for example an AFM, property or a planned move) are expected.
 - **Power of attorney:** some banks let a representative in Greece, usually a lawyer, open the account on your behalf. Banks often insist on their own wording, and you may still need one visit to sign.
 - **Branch visit:** for everyone else, a branch appointment with the documents above, often done in one visit.
 
@@ -73,10 +73,10 @@ Greece's banking sector is consolidated into four systemic banks.
 
 Greek bank fees dropped sharply in 2025 after government intervention. As of 2026:
 
-- **Account maintenance:** Eurobank charges €0.60/month and Alpha and NBG €0.80/month for their account packages (Alpha and NBG suspended the charge in 2026 after court rulings); Piraeus charges nothing. Alpha and Eurobank waive it if your salary or pension is paid in or you hold €10,000 or more.
+- **Account maintenance:** Eurobank charges €0.60/month and Alpha and NBG €0.80/month for their account packages; Athens courts ruled the Alpha and NBG charge abusive in 2026, so check whether it still applies to you. Piraeus charges nothing. Alpha and Eurobank waive it if your salary or pension is paid in or you hold €10,000 or more.
 - **ATM withdrawals:** since 11 August 2025, withdrawing at another Greek bank's ATM is free if your card was issued by a Greek bank. Independent ATMs (Euronet and similar) are capped at €1.50. Foreign cards (Revolut, N26, Wise) are not covered by either rule.
-- **Transfers:** domestic transfers to other Greek banks up to €5,000 are capped at €0.50; instant transfers cost the same as standard ones.
-- **IRIS:** instant phone-number payments between individuals are free, with limits of [€1,000 per day and €5,000 per month](https://www.tovima.com/society/greece-raises-iris-payment-limits-for-individuals-and-businesses) since January 2026. Businesses and freelancers have had to accept IRIS since 1 December 2025.
+- **Transfers:** domestic transfers to other Greek banks up to €5,000 are capped at €0.50 for the sender (and €0.50 for the receiver); instant transfers cost the same as standard ones.
+- **IRIS:** instant phone-number payments between individuals are free, with limits of [€1,000 per day and €5,000 per month](https://www.tovima.com/society/greece-raises-iris-payment-limits-for-individuals-and-businesses) since 15 January 2026. All businesses, including companies, have had to accept IRIS since 1 December 2025.
 - Incoming wire transfers from outside the SEPA zone may still incur receiving fees.
 
 ## What about neobanks?
@@ -87,22 +87,22 @@ Revolut gives Greek customers a Lithuanian IBAN, N26 a German one, Wise a Belgia
 
 ### Can a non-resident open a bank account in Greece?
 
-Yes. You need an AFM, a passport or EU ID card, proof of address from the last six months, proof of income or profession and a phone number in your name. Most non-residents open the account in one branch visit.
+Yes. You need a Greek tax number (AFM), a passport or EU ID card, proof of address issued within the last six months, proof of income or profession and a phone number in your name. Most non-residents open the account in one branch visit; some banks offer remote onboarding.
 
 ### Do I need an AFM to open a bank account in Greece?
 
-Yes. Banks must record a tax number for every customer, and in practice none opens an account for a newcomer without a Greek AFM.
+Yes. Greek banks must record a tax number for every customer, and in practice none will open an account for a newcomer without a Greek AFM.
 
 ### Can I open a Greek bank account remotely?
 
-Sometimes: through Alpha's video-call programme (Germany, UK, USA, Cyprus, Israel) or Eurobank's international app onboarding while you still live in another EU/EEA country.
+Sometimes. Alpha Bank runs a video-call onboarding programme for residents of selected countries (currently including Germany, the UK, the USA, Canada, Switzerland, France, Italy, Cyprus and Israel), and Eurobank's international app onboarding is open to people who still live and work in another EU/EEA country. Other in-app flows are built for Greek residents with a Greek ID and TAXISnet login.
 
 ### Can I pay Greek taxes and EFKA from Revolut or Wise?
 
-Taxes yes, from any SEPA account. EFKA, direct debits and IRIS work most reliably with a Greek IBAN.
+Greek taxes can be paid from any SEPA account, and refunds can go to a foreign SEPA IBAN. In practice, EFKA contributions, utility direct debits and IRIS payments work most reliably with a Greek IBAN.
 
 ## Next steps
 
 Secure your AFM first, then choose your route: Alpha's remote onboarding or Eurobank's international unit if you need an account before you arrive, a branch visit otherwise. Once your Greek IBAN is open and you start working, taxomade handles the rest of your setup with [ongoing bookkeeping](/greece/ongoing-bookkeeping) from €89/month, including myDATA, VAT returns and your annual tax return. Send us a message for a free check.
 
-*Bank fees, programmes and neobank status reflect the Greek market as of October 2026 and change often; check with the bank before applying.*
+*Rules as of October 2026 (Bank of Greece identification rules, 2025 bank-fee caps, banks' published onboarding programmes).*

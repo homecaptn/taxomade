@@ -83,7 +83,7 @@ From 2 November 2026, invoices to Greek and non-EU businesses have to be issued 
 
 ## 5. Advance tax
 
-With your annual return, you pay a [55% advance](https://www.taxheaven.gr/law/4172/2013/arthro/69) on next year's tax, calculated on this year's tax on business income, minus tax already withheld by Greek clients. In the year you first earn business income, the advance is halved to 27.5%. It is credited against the following year's bill, so it isn't lost, but it hurts cash flow. More on this in [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax).
+With your annual return, you pay a [55% advance](https://www.taxheaven.gr/law/4172/2013/arthro/69) on next year's tax, calculated on this year's tax on business income, minus tax already withheld by Greek clients. In the year you first earn business income, the advance is halved to 27.5%. A cut to 50% from tax year 2027 is in a draft bill put to public consultation in October 2026; it is not law yet. It is credited against the following year's bill, so it isn't lost, but it hurts cash flow. More on this in [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax).
 
 ## A worked example
 
