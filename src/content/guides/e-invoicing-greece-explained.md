@@ -120,7 +120,7 @@ At taxomade, myDATA and e-invoicing are part of our ongoing bookkeeping from **â
 
 For general pricing context, see [how much an accountant costs in Greece](/guides/accountant-cost-greece).
 
-## FAQ
+## Frequently asked questions
 
 ### Do freelancers in Greece need e-invoicing?
 

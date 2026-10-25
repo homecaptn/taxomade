@@ -112,11 +112,11 @@ The 7% only bites on income Greece is allowed to tax. Each country's treaty with
 
 ### What is the 7% tax regime for pensioners in Greece?
 
-Under Article 5B, pensioners who move their tax residence to Greece pay a flat 7% on all foreign-source income for 15 tax years instead of the normal 9% to 44% scale. Greek-source income is taxed normally.
+Under Article 5B of the Greek Income Tax Code, pensioners who move their tax residence to Greece can pay a flat 7% on all their foreign-source income for 15 tax years, instead of the normal progressive scale of 9% to 44%. Greek-source income is still taxed normally.
 
 ### Who qualifies for the 7% flat tax in Greece?
 
-People with a pension from abroad who were not Greek tax resident in 5 of the previous 6 years and move from a country with a tax cooperation agreement with Greece (EU states and most treaty countries). A spouse must qualify in their own right.
+People who receive a pension from abroad, were not Greek tax resident in 5 of the previous 6 years, and move their tax residence to Greece from a country that has an administrative tax cooperation agreement with Greece, which covers EU states and most countries with a tax treaty with Greece. A spouse has to qualify in their own right.
 
 ### What is the deadline to apply for the 7% regime?
 

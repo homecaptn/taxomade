@@ -78,19 +78,19 @@ If you are [setting up as a freelancer](/guides/freelancer-setup-greece) to clai
 
 ### Is the AADE timologio app free?
 
-Yes. No subscription or setup fees. The mobile version is myDATAapp. You log in with your TAXISnet credentials.
+Yes. timologio is a free web application from the Greek tax authority (AADE) for issuing invoices. There are no subscription or setup fees. The mobile version is called myDATAapp. You log in with your TAXISnet credentials.
 
 ### Do I need invoicing software as a freelancer in Greece?
 
-Not necessarily. timologio transmits to myDATA for free and is an approved channel under the e-invoicing mandate from 2 November 2026. Paid software or a provider makes sense for high volume or integrations.
+Not necessarily. Every invoice must be transmitted to myDATA, but timologio does this for free and is an approved channel under the e-invoicing mandate that applies to freelancers from 2 November 2026. Paid software or an approved provider makes sense for high volume, integrations or automated reminders.
 
 ### Can I issue invoices in English with timologio?
 
-Yes. The interface is in Greek, but since April 2026 the invoice document can be issued in English.
+Yes. The interface is in Greek, but since the April 2026 update the invoice itself can be issued in English, with your client's details, VAT numbers and the correct exemption wording for foreign clients.
 
 ### What is a MARK number on a Greek invoice?
 
-The unique registration number myDATA assigns to every transmitted invoice, printed with a QR code. It proves the invoice is registered with the tax authority.
+MARK (Μοναδικός Αριθμός Καταχώρησης) is the unique registration number myDATA assigns to every transmitted invoice, printed with a QR code. It proves the invoice is registered with the Greek tax authority.
 
 ## How taxomade can help
 

@@ -123,30 +123,30 @@ Many UK movers arrive on the 90-day rule, stay, and only ask about tax when a ba
 
 taxomade handles the Greek side: we prepare and file your tax residency registration, the 5C or 7% application, the freelancer or company setup, and the monthly bookkeeping from €89 per month with myDATA, VAT returns and the annual tax return included. The UK exit (SRT, split year, DT-Individual) is coordinated with your UK adviser or HMRC directly. Message us on WhatsApp for a free check of your situation, or see [our bookkeeping service](/greece/ongoing-bookkeeping).
 
-## FAQ
+## Frequently asked questions
 
 ### How do I stop being UK tax resident when I move to Greece?
 
-Through the Statutory Residence Test: fewer than 16 UK days, or full-time work abroad with fewer than 91 UK days. Claim split-year treatment for the year you leave. P85 only reclaims PAYE tax.
+Through HMRC's Statutory Residence Test. The clean routes are the automatic overseas tests: fewer than 16 UK days in the tax year (if you were UK resident in any of the last three years), or full-time work abroad with fewer than 91 UK days and fewer than 31 UK workdays. In the year you leave, split-year treatment can make you non-resident from the day you start working abroad or stop having a UK home. The P85 form only reclaims PAYE tax; it does not decide your residence.
 
 ### Is my UK pension taxed in Greece or in the UK?
 
-State Pension and private pensions: Greece only, via the DT-Individual claim. Pensions paid by the UK government (civil service, armed forces): UK only. Eligible retirees can apply for the Greek 7% rate.
+Under the 1953 UK–Greece convention, the UK State Pension and private or occupational pensions are taxable only in Greece once you are Greek tax resident; you claim UK exemption with HMRC's DT-Individual form. Pensions paid by the UK government or out of funds it created (civil service, armed forces) stay taxable in the UK. Eligible retirees can apply for the Greek 7% flat rate on foreign income for 15 years.
 
 ### Do UK citizens qualify for Greece's 50% tax break (Article 5C)?
 
-Yes, by the wording of the law. The UK counts as a cooperation state via the OECD mutual assistance convention and the treaty's exchange-of-information article. You still need a Greek job or business and 5 of 6 years of non-residence; DNV holders are not eligible.
+Yes, by the wording of the law. Article 5C requires moving from an EU/EEA state or a state with an administrative cooperation agreement with Greece; the UK meets that condition through the OECD Convention on Mutual Administrative Assistance and the exchange-of-information article of the UK–Greece treaty. You also need 5 of the last 6 years outside Greek tax residency and either a job with a Greek entity or a business registered here. Digital Nomad Visa holders are not eligible.
 
 ### Can I keep working for my UK employer from Greece?
 
-With a residence permit, yes, but your salary is taxed in Greece and, after any posting period, EFKA applies. Most people switch to self-employment and invoice the company.
+Immigration-wise, only with a residence permit, for example the Digital Nomad Visa (€3,500 net per month, applied for at a Greek consulate since the February 2026 law change). Tax-wise, once you are Greek tax resident your salary is taxed in Greece, and after any temporary posting period you fall under Greek social security (EFKA), which your employer would have to handle. The common alternative is to register as self-employed in Greece and invoice the UK company.
 
 ### What happens to my ISA when I move to Greece?
 
-It stays open, you cannot pay in, and Greece taxes the income and gains inside it.
+You can keep it but you cannot pay in while you are non-UK resident, and you must tell your provider. Greece does not recognise the ISA wrapper: as a Greek tax resident you declare the interest, dividends and gains in Greece.
 
 ### Can I still pay UK National Insurance from Greece?
 
-Class 2 abroad is closed to new applicants since April 2026. Class 3 is possible with ten years of UK residence or contributions; existing Class 3 payers continue, existing Class 2 payers can switch until April 2027.
+From 6 April 2026, voluntary Class 2 contributions for periods abroad are no longer available to new applicants. Class 3 is possible if you have ten years of UK residence or contributions, at a higher rate. Existing Class 3 payers continue unchanged; if you were already paying Class 2 from abroad, you can apply to move to Class 3 under the old eligibility rules until 6 April 2027.
 
 *Rules reflect UK and Greek law as of October 2026. The 15% transfer tax for non-EU buyers is an announced measure, not legislation.*

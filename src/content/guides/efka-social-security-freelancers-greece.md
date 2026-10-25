@@ -74,19 +74,19 @@ Coupled with the 50% income tax break, a freelancer on €80,000 a year keeps no
 
 ### How much is EFKA for freelancers in Greece in 2026?
 
-The lowest regular class is €250.77 per month. New freelancers can apply for €150.46 per month for their first five years. A €10 unemployment contribution comes on top for most freelancers. Contributions are fixed per class, not a percentage of income.
+The lowest regular class is €250.77 per month. New freelancers can apply for a reduced class of €150.46 per month for their first five years. For most freelancers, a €10 unemployment contribution comes on top. Contributions are fixed per class, not a percentage of income.
 
 ### Who qualifies for the reduced EFKA starter class?
 
-Anyone insured with EFKA as self-employed for the first time, for the first five years of that insurance. You apply for it, and you can use it only once.
+Anyone insured with EFKA as self-employed for the first time, for the first five years of that insurance. You have to apply for the class; it is not assigned automatically, and you can use it only once. After five years you move to a regular class.
 
 ### What does EFKA cover?
 
-Public healthcare, pension credit and, with the €10 contribution, the unemployment fund. The starter class gives full healthcare access from the first payment.
+Public healthcare (state hospitals and subsidised medication), pension credit for your eventual state pension and, with the €10 contribution, the unemployment fund. Higher classes build a higher pension; the starter class gives full healthcare access from the first payment.
 
 ### Do remote employees of a foreign company pay EFKA in Greece?
 
-Usually yes, if they work from Greece full-time. Exceptions are a formal posting with an A1 certificate and multi-state work with a substantial share in the home country.
+Usually yes, if they physically work in Greece full-time: the EU rule is that you are insured where you work, and Greece has not joined the EU telework framework agreement. Exceptions are a formal posting with an A1 certificate (normally up to 24 months) and multi-state work with a substantial share in the home country. Non-EU employees fall under bilateral agreements or Greek rules directly.
 
 ## How taxomade can help
 

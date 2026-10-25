@@ -77,19 +77,19 @@ An IKE also carries higher fixed costs: the annual trade fee, double-entry bookk
 
 ### How do I register as a freelancer in Greece?
 
-AFM and TAXISnet access, business start with AADE and your activity codes (KAD), then EFKA by the 10th of the following month and an AMKA. Most freelance professions do not need GEMI.
+You need a Greek tax number (AFM) and TAXISnet access, then you register a business start with the tax authority (AADE) and choose your activity codes (KAD). After that you apply to EFKA, the social security fund, by the 10th of the following month, and need an AMKA (social security number). Most freelance professions do not need to register with the commercial registry (GEMI).
 
 ### How much does it cost to be a freelancer in Greece per month?
 
-EFKA from €150.46 per month for your first five years of insurance (on application), otherwise from €250.77, plus €10 for most freelancers. Bookkeeping comes on top.
+The fixed monthly cost is EFKA. For your first five years of insurance as a self-employed person you can apply for a reduced class of €150.46 per month; the lowest regular class is €250.77. For most freelancers a €10 unemployment contribution comes on top. Bookkeeping comes on top of that.
 
 ### Do freelancers in Greece have to charge VAT?
 
-The standard rate is 24%. Foreign business clients are usually invoiced without Greek VAT, but the invoices still go into your VAT returns, monthly for new businesses with simple books.
+The standard rate is 24%. Invoices to business clients in other EU countries (reverse charge) and to clients outside the EU are usually issued without Greek VAT, but they still go into your VAT returns. Freelancers with simple books who started on or after 1 January 2024 file monthly and can switch to quarterly on request after 24 months.
 
 ### Should I open an IKE or register as a sole proprietor in Greece?
 
-For most freelancers, a sole proprietorship. An IKE pays 22% corporate tax plus 5% on distributions, needs double-entry books, and accounting costs about twice as much.
+For most freelancers, a sole proprietorship is simpler and cheaper. An IKE pays 22% corporate tax plus 5% on distributed profits, needs double-entry bookkeeping and monthly VAT returns, and ongoing accounting typically costs about twice as much.
 
 ## Getting help with the setup
 

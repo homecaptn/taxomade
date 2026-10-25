@@ -6,13 +6,13 @@ updatedDate: 2026-10-17
 category: "bookkeeping"
 faq:
   - question: "Do I really need an accountant as a freelancer in Greece?"
-    answer: "Legally you can file yourself — practically, almost nobody does. The myDATA system, Greek-only government portals and fixed fines for late filings (€250 per late return on simplified books, €500 on double-entry books) make professional handling the norm, even among Greeks."
+    answer: "Legally you can file yourself — practically, almost nobody does. The myDATA system, Greek-only government portals and fixed fines for late filings — €250 per late return on simplified books, €500 on double-entry books under Article 54 of the Tax Procedure Code — make professional handling the norm, even among Greeks. See our freelancer tax guide for what's involved."
   - question: "Why do internationals pay more than the €30–€60 local rate?"
     answer: "They don't pay more for the same thing — they buy a different scope: everything included, in their language, with someone reachable when it matters. Billed extras on a \"cheap\" plan typically close most of the gap anyway."
   - question: "Can I switch accountants mid-year?"
-    answer: "Yes, anytime. The new accountant takes over your records and access codes; a proper handover takes about a week."
+    answer: "Yes, anytime. The new accountant takes over your records and access codes; a proper handover takes about a week. We've written up the steps in our guide to switching accountants in Greece."
   - question: "Are accounting fees tax-deductible?"
-    answer: "For freelancers and companies, yes — accounting fees are a business expense under Article 22 of the Greek Income Tax Code and reduce your taxable income. The fee for a private individual's annual return is not deductible."
+    answer: "For freelancers and companies, yes — accounting fees are a business expense under Article 22 of the Greek Income Tax Code (Law 4172/2013) and reduce your taxable income, as long as they're invoiced and recorded in your books. The fee for a private individual's annual return is not deductible."
 ---
 
 If you're a freelancer, remote worker or small business owner in Greece, an accountant isn't really optional — between myDATA transmission of every invoice, [mandatory e-invoicing](/guides/e-invoicing-greece-explained) arriving for small businesses in November 2026, VAT returns and the annual return, the Greek system is built around professional filing. The good news: accounting in Greece costs far less than most internationals expect. Here's what you'll actually pay in 2026 — and more importantly, what you get for it.
