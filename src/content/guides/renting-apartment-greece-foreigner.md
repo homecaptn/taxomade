@@ -25,11 +25,11 @@ Here is how renting actually works, in the order you will encounter it.
 - **Move-in cost:** first month, a deposit of one to two months, and an agency fee of about one month's rent plus VAT if a broker is involved.
 - **Three-year minimum:** residential leases run at least three years by law, even if the contract says less.
 - **Registration:** the landlord declares the lease to AADE by the end of the following month; you accept it in myAADE within 30 days.
-- **Rent refund:** a registered lease paid by bank transfer can bring back up to one month's rent each November.
+- **Rent refund:** a registered lease declared in your tax return can bring back up to one month's rent each November (pay by bank transfer: it becomes a condition from July 2027).
 
 ## 1. You Need an AFM First
 
-Before a lease can exist on paper, you need a Greek Tax Number. The landlord is obliged to declare your lease electronically to AADE, and your **AFM is the identifier AADE expects** for the tenant. Strictly speaking, [AADE's published FAQ on lease declarations](https://www.forin.gr/articles/article/11099/suxnes-erwthseis-apanthseis-aade-misthwthria-akinhtwn) allows a foreign tenant without an AFM to be recorded by passport number — but in practice landlords and agents treat the AFM as a precondition, and you need your TAXISnet credentials (which come with the AFM) to accept the declaration from your side.
+Before a lease can exist on paper, you need a Greek Tax Number. The landlord is obliged to declare your lease electronically to AADE, and your **AFM is the identifier AADE expects** for the tenant. Strictly speaking, [AADE's published FAQ on lease declarations](https://aade.gr/sites/default/files/2020-09/Συχνές%20Ερωτήσεις%20Απαντήσεις%20(ενημερωμένο%20με%201192_2020).pdf) allows a foreign tenant without an AFM to be recorded by passport number — but in practice landlords and agents treat the AFM as a precondition, and you need your TAXISnet credentials (which come with the AFM) to accept the declaration from your side.
 
 This creates a sequencing problem for new arrivals, and the practical answer is almost always the same: get the AFM first, bridge the gap with a short-term rental, then sign a long lease once the number is in hand. Our guide on [what an AFM is and how to get one](/guides/what-is-greek-afm-number) covers that process — and it does not require a Greek address, so you can obtain one using a foreign address or a tax representative.
 
@@ -43,13 +43,13 @@ The advertised monthly rent is rarely what leaves your account in month one. Exp
 
 On a €700 apartment, that means about €1,400 on day one with a one-month deposit and no agent, and close to €3,000 with a two-month deposit and a broker. Greece also has **no state-run deposit protection scheme**. Your landlord holds the money personally, and recovering it depends largely on the relationship and on evidence. Photograph everything at handover and get a written condition note, however informal.
 
-For orientation on what "normal" rent looks like: asking rents in central Athens averaged around €9.8 per square metre in 2026, Attica as a whole about €9.2 and Thessaloniki about €7.7, according to [RE/MAX figures](https://en.protothema.gr/2026/09/03/the-2026-rent-map-which-areas-saw-prices-soar-and-the-leaders-in-athens-thessaloniki-and-the-islands/) — so a 60 m² flat in the centre lands somewhere around €600, before extras.
+For orientation on what "normal" rent looks like: agreed rents in [RE/MAX transactions](https://en.protothema.gr/2026/09/03/the-2026-rent-map-which-areas-saw-prices-soar-and-the-leaders-in-athens-thessaloniki-and-the-islands/) averaged about €9.8 per square metre in central Athens in 2026, €9.2 across Attica and €7.7 in Thessaloniki, while [asking rents on Spitogatos](https://www.spitogatos.gr/blog/pwliseis-enoikiaseis-katoikion-ellada-2o-trimino-2026) sit nearer €12 per square metre in both city centres. A 60 m² central flat is therefore advertised at roughly €600 to €720, before extras.
 
 ## 3. What the Contract Should Say
 
 Leases are frequently in Greek only. You are entitled to understand what you sign, so have it translated if there is any doubt — and check these points specifically:
 
-- **Duration.** Greek law gives residential leases a **minimum three-year term**, even if the contract says one or two years ([article 2 of Law 1703/1987](https://www.odigostoupoliti.eu/pote-misthosi-katoikias-mporei-na-ischyei-gia-ligotero-apo-tria-eti/)). This cuts both ways: the landlord cannot end it early, but neither can you simply leave — unless the contract contains an early-termination clause or you agree a termination with the landlord. If you think you might move within the first year, negotiate that clause before signing and have it checked. If you simply walk out, you can still owe rent until the landlord re-lets the flat; a shorter term agreed later only counts if it is made at least six months after signing and recorded by a notary.
+- **Duration.** Greek law gives residential leases a **minimum three-year term**, even if the contract says one or two years ([article 2 of Law 1703/1987](https://www.odigostoupoliti.eu/pote-misthosi-katoikias-mporei-na-ischyei-gia-ligotero-apo-tria-eti/)). This cuts both ways: the landlord cannot end it early, but neither can you simply leave — unless the contract contains an early-termination clause or you agree a termination with the landlord. If you think you might move within the first year, negotiate that clause before signing and have it checked. If you simply walk out, you can still owe rent until the landlord re-lets the flat; a shorter term agreed later only counts if it is made at least six months after the lease starts and recorded by a notary.
 - **Who pays the *koinochrista*.** These are the shared building charges — cleaning, lift, stairwell lighting, and in older blocks central heating. They are usually *not* included in the rent and can add a meaningful amount a month in winter.
 - **Heating type.** Autonomous (you control it) versus central oil heating (you pay a share of the building's tank). The latter can be brutal in an Athens January.
 - **Energy certificate (ΠΕΑ).** A valid energy performance certificate is required for a lease, and its number goes into the AADE declaration. Ask to see it.
@@ -70,7 +70,7 @@ Do not treat this as paperwork between the landlord and the tax office. The regi
 - **Proof of address** for a residence permit or [Digital Nomad Visa](/guides/ultimate-guide-dnv-greece) application.
 - Supporting documentation when [opening a Greek bank account](/guides/open-bank-account-greece).
 - A verifiable record if a deposit dispute ever arises.
-- Access to the annual **rent refund** (*επιστροφή ενοικίου*): if you declare the rent in your Greek tax return, have an IBAN registered in myAADE and meet the income limits (€25,000 single, €35,000 for couples plus €5,000 per child for the 2026 payment), AADE pays back one month's rent — capped at €800, or more with children — each November, [automatically and only for leases that match the electronic declaration](https://www.odigostoupoliti.eu/epistrofi-enoikiou-2026-pote-ginetai-pliromi-kai-poia-einai-ta-posa/).
+- Access to the annual **rent refund** (*επιστροφή ενοικίου*): if the flat is your main residence, you declare the rent in your Greek tax return, have an IBAN registered in myAADE and stay within the income limits (€25,000 single, €35,000 for couples, plus €5,000 per child) and the property limit (€120,000 in ENFIA value, plus €20,000 per additional family member), AADE pays back one month's rent (one twelfth of the year's rent), capped at €800, €850 with one child and €900 with two, at the end of November, [automatically and only for leases that match the electronic declaration](https://www.odigostoupoliti.eu/epistrofi-enoikiou-2026-pote-ginetai-pliromi-kai-poia-einai-ta-posa/).
 
 A signed paper contract that was never declared is, for official purposes, close to worthless. Make registration a written condition of the contract, and check myAADE within about six weeks of moving in that the declaration is there.
 
@@ -91,22 +91,22 @@ Secure your AFM first, budget two to four months' rent for move-in, read the con
 
 ### Do I need an AFM before I can rent in Greece?
 
-In practice, yes. A foreign tenant can technically be recorded by passport number, but most landlords and agents will not sign without an AFM, and you need TAXISnet credentials to accept the lease declaration yourself.
+In practice, yes. The landlord declares the lease electronically to AADE and your AFM is the standard identifier in that declaration; AADE's own FAQ allows a foreign tenant to be recorded by passport number instead, but most landlords and agents will not sign without an AFM, and you need your TAXISnet credentials to accept the declaration yourself. You can stay in a short-term rental without one.
 
 ### How much deposit should I expect to pay?
 
-Usually one to two months' rent, paid on signing alongside the first month. There is no legal cap and no state deposit protection scheme, so the condition report and photos at handover matter.
+Usually one to two months' rent, paid on signing alongside the first month. Greek law sets no cap and there is no state-run deposit protection scheme — your landlord holds the money directly, which is why the condition report and photos at handover matter so much.
 
 ### Is my landlord allowed to end a lease after one year?
 
-No. Residential leases carry a minimum three-year term by law, even when the contract states something shorter. The tenant can only leave early under a termination clause or by agreement with the landlord.
+No. Residential leases in Greece carry a minimum three-year term by law (article 2 of Law 1703/1987), even when the written contract states something shorter. The term binds both sides: the landlord cannot cut it short, and the tenant can only leave early under a termination clause or by mutual agreement.
 
 ### Can I use my rental contract as proof of address?
 
-Only once it is registered with AADE. The registered declaration, not the paper contract, is what permit applications, banks and public services ask for.
+Only once it is registered with AADE. The registered declaration — not the paper contract — is what residence permit applications, banks and public services generally ask for.
 
 ## Getting your Greek tax side in order
 
 Renting is usually the first step; tax registration, rent refunds and, if you work for yourself, monthly filings follow. If you want that handled in English, see our [ongoing bookkeeping](/greece/ongoing-bookkeeping) and send us a message for a free check.
 
-*Rules and market figures as of October 2026.*
+*Rules as of October 2026 (Law 1703/1987 art. 2, AADE A.1068/2025 and A.1187/2026, Law 5217/2025 art. 70; rents from RE/MAX transaction data and the Spitogatos Q2 2026 index).*

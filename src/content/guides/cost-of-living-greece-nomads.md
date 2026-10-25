@@ -1,19 +1,19 @@
 ---
 title: "The True Cost of Living in Greece for Remote Workers"
-description: "A realistic breakdown of monthly expenses for digital nomads living in Greece in 2026: rent, food, utilities, transport, health insurance, EFKA and income tax."
+description: "Monthly costs for remote workers in Greece in 2026: rent, food, utilities, transport, health insurance, EFKA and income tax, with realistic ranges."
 pubDate: 2026-06-05
 updatedDate: 2026-10-13
 category: "lifestyle"
 image: "/images/guides/cost_of_living_hero.png"
 faq:
   - question: "How much does it cost to live in Greece as a digital nomad?"
-    answer: "A single remote worker should budget €1,200 to €1,900 per month in Athens, Thessaloniki or Crete. Rent for a furnished one-bedroom is the biggest item at €600 to €1,000; groceries, eating out, transport, utilities and health insurance make up the rest. Freelancers add about €160 per month in EFKA social security."
+    answer: "A single remote worker should budget €1,200 to €2,300 per month in Athens, Thessaloniki or Crete. Rent for a furnished one-bedroom is the biggest item at €600 to €1,000; groceries, eating out, transport, utilities and health insurance make up the rest. Freelancers add about €160 per month in EFKA social security."
   - question: "Is Greece cheap for remote workers?"
     answer: "Cheaper than London, Paris or New York, but no longer a bargain. Supermarket prices match Western Europe; the savings come from rent outside tourist hotspots, local tavernas, farmers' markets and cheap public transport."
   - question: "How much is rent in Athens for a furnished apartment?"
     answer: "A modern, furnished one-bedroom in a good Athens neighbourhood costs €600 to €1,000 per month. Unfurnished local leases run roughly €450 to €650, with central Athens at the top of that range. Mykonos and Santorini run €1,300 and more and peak in summer."
   - question: "Do digital nomads pay social security in Greece?"
-    answer: "Only if you register as a freelancer (sole proprietor) in Greece. New freelancers can apply for a reduced EFKA class of €150.46 per month for their first five years, plus a €10 unemployment contribution. Remote employees who work from Greece full-time are normally insured in Greece too; postings under an A1 certificate are the exception."
+    answer: "If you register as a freelancer (sole proprietor) in Greece, yes. New freelancers can apply for a reduced EFKA class of €150.46 per month for their first five years, plus a €10 unemployment contribution. Remote employees who work from Greece full-time are normally insured in Greece too; postings under an A1 certificate are the exception."
 ---
 
 Greece is often sold as a cheap paradise. It is more affordable than London, New York or Paris, but tourism and remote workers have changed the market.
@@ -22,7 +22,7 @@ To plan your relocation you need realistic numbers. Here is a breakdown of the c
 
 ## The short answer
 
-- **Single remote worker, comfortable:** €1,500 to €1,900 per month in Athens, Thessaloniki or Crete.
+- **Single remote worker, comfortable:** €1,500 to €2,300 per month in Athens, Thessaloniki or Crete.
 - **Biggest variable:** rent. €600 to €1,000 for a furnished one-bedroom, €450 to €650 on a local unfurnished lease.
 - **Freelancers add EFKA:** about €160 per month in the first five years, €260 and more after.
 - **Winter costs more than you think:** poorly insulated buildings, heating and electricity.
@@ -30,7 +30,7 @@ To plan your relocation you need realistic numbers. Here is a breakdown of the c
 
 ## Estimated monthly budget (single person)
 
-Expect your costs to fall between **€1,200 and €1,900 per month** all-in. Around €1,200 is possible on an unfurnished local lease outside the centre, in Thessaloniki or on Crete; a comfortable setup with a furnished flat, coworking and EFKA in Athens is closer to €1,800.
+Expect your costs to fall between **€1,200 and €2,300 per month** all-in. Around €1,200 is possible on an unfurnished local lease outside the centre, in Thessaloniki or on Crete; a comfortable setup with a furnished flat, coworking and EFKA in Athens is closer to €2,000 to €2,300.
 
 ### 1. Accommodation: €600 to €1,000
 
@@ -57,7 +57,7 @@ Dining out is part of life here and still affordable.
 
 Public transport in Athens is cheap and effective.
 
-- 30-day unlimited card for all modes: **€27** (annual €300)
+- 30-day unlimited card for all modes except the airport lines: **€27** (annual €300)
 - Single metro or bus ticket (90 minutes): **€1.20**
 - Taxis via FREENOW or Uber (which books taxis in Greece) are affordable for short distances.
 
@@ -79,7 +79,7 @@ If you register as a freelancer (sole proprietor) in Greece, whether or not you 
 
 ### 9. Income tax: the part most budgets forget
 
-Income tax is not a monthly line, but it is real money. Freelance profit is taxed on a progressive scale from 9% to 44%, and advance tax for the following year is collected with your first return. If you moved your tax residency to Greece and were not a Greek tax resident in 5 of the last 6 years, [Article 5C](/guides/50-percent-tax-break-article-5c) halves the taxable base. The full picture is in our [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
+Income tax is not a monthly line, but it is real money. Freelance profit is taxed on a progressive scale from 9% to 44%, and an advance of 55% of next year's tax is collected with every return (27.5% in your first year with business income; a draft bill in consultation since October 2026 would cut it to 50% from tax year 2027, not yet law). If you moved your tax residency to Greece and were not a Greek tax resident in 5 of the last 6 years, [Article 5C](/guides/50-percent-tax-break-article-5c) halves the taxable base. The full picture is in our [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
 
 ## The reality of seasons
 
@@ -91,22 +91,22 @@ Income tax is not a monthly line, but it is real money. Freelance profit is taxe
 
 ### How much does it cost to live in Greece as a digital nomad?
 
-Budget €1,200 to €1,900 per month as a single remote worker in Athens, Thessaloniki or Crete. Rent is the biggest item; freelancers add about €160 per month in EFKA.
+A single remote worker should budget €1,200 to €2,300 per month in Athens, Thessaloniki or Crete. Rent for a furnished one-bedroom is the biggest item at €600 to €1,000; groceries, eating out, transport, utilities and health insurance make up the rest. Freelancers add about €160 per month in EFKA social security.
 
 ### Is Greece cheap for remote workers?
 
-Cheaper than London, Paris or New York, but no longer a bargain. The savings come from rent outside tourist hotspots, tavernas, farmers' markets and public transport.
+Cheaper than London, Paris or New York, but no longer a bargain. Supermarket prices match Western Europe; the savings come from rent outside tourist hotspots, local tavernas, farmers' markets and cheap public transport.
 
 ### How much is rent in Athens for a furnished apartment?
 
-€600 to €1,000 per month for a modern, furnished one-bedroom in a good neighbourhood. Unfurnished local leases run roughly €450 to €650.
+A modern, furnished one-bedroom in a good Athens neighbourhood costs €600 to €1,000 per month. Unfurnished local leases run roughly €450 to €650, with central Athens at the top of that range. Mykonos and Santorini run €1,300 and more and peak in summer.
 
 ### Do digital nomads pay social security in Greece?
 
-Only if you register as a freelancer in Greece: about €160 per month in the first five years. Remote employees working from Greece full-time are normally insured in Greece too, unless they are on a posting with an A1 certificate.
+If you register as a freelancer (sole proprietor) in Greece, yes. New freelancers can apply for a reduced EFKA class of €150.46 per month for their first five years, plus a €10 unemployment contribution. Remote employees who work from Greece full-time are normally insured in Greece too; postings under an A1 certificate are the exception.
 
 ## Summary
 
-Greece offers good value, especially outside the tourist islands. Budget around €1,500 a month in Athens or Thessaloniki and you live well, with room for weekend trips. If you are registering a business here, our [ongoing bookkeeping](/greece/ongoing-bookkeeping) starts at €89 per month with myDATA, VAT returns and the annual tax return included, so the tax side of your budget is a fixed number too.
+Greece offers good value, especially outside the tourist islands. Budget around €1,500 a month in Athens or Thessaloniki and you live well, with room for weekend trips. If you are registering a business here, our [ongoing bookkeeping](/greece/ongoing-bookkeeping) costs from €89 per month, with myDATA, VAT returns and the annual tax return included, so the tax side of your budget is a fixed number too.
 
-*Figures reflect the Greek market as of October 2026 and are indicative ranges, not quotes.*
+*Rules as of October 2026 (EFKA circular 6/2026, OASA fares, Income Tax Code art. 5C and 69; prices are indicative ranges).*
