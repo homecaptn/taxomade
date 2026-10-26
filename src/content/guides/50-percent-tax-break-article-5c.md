@@ -44,10 +44,10 @@ You must meet *all* of the following conditions:
 
 1. **Previous non-resident status:** you were not a Greek tax resident in at least 5 of the 6 years before the move.
 2. **Where you come from:** you transfer your tax residency from an EU or EEA member state, or from a country with which Greece has an administrative cooperation agreement on tax matters.
-3. **Activity in Greece:** you take up employment with a Greek legal entity or the Greek permanent establishment of a foreign company, **or** you register an individual business (sole proprietorship, ατομική επιχείρηση) in Greece. A company such as an IKE does not count as your own business for this purpose.
+3. **Activity in Greece:** you take up employment with a Greek legal entity or the Greek permanent establishment of a foreign company, **or** you register an individual business (sole proprietorship, ατομική επιχείρηση) in Greece. Profits from a company such as an IKE are not covered: only salary from a Greek employer or income from your own sole proprietorship.
 4. **Intent to stay:** you declare that you will remain in Greece for at least two years, counted from 1 January of the first year of the regime.
 
-[Law 5222/2025](https://taxblock.gr/forologikos-odigos-template/katargisi-tis-par-6-tou-arthrou-5g-kfe-ti-allazei-me-ton-n-5222-2025/) removed the condition that a job had to be a "newly created position", effective 28 July 2025. And since [decision A.1096/2026](https://www.taxheaven.gr/circulars/52732/a-1138-2026) (spring 2026), people moving to work in the Greek public sector can also apply, including for applications filed from 28 July 2025.
+[Law 5222/2025](https://taxblock.gr/forologikos-odigos-template/katargisi-tis-par-6-tou-arthrou-5g-kfe-ti-allazei-me-ton-n-5222-2025/) removed the condition that a job had to be a "newly created position", effective 28 July 2025. And since [decision A.1096/2026](https://www.taxheaven.gr/circulars/52732/a-1096-2026) (spring 2026), people moving to work in the Greek public sector can also apply, including for applications filed from 28 July 2025.
 
 ## How it works for remote workers
 
@@ -72,9 +72,9 @@ The deadline depends on when your job or business starts ([AADE](https://www.aad
 - **Start on or before 2 July:** apply by **31 December of the same year**. The regime then covers that year.
 - **Start after 2 July:** apply by **31 December of the following year**. The regime starts in that following year.
 
-Applying later doesn't necessarily cost you the regime; it usually shifts the first year it applies to.
+If you started by 2 July, a late application within the following year shifts the regime to that year; after that, the window is gone.
 
-The procedure follows decision A.1087/2021 as rewritten by [A.1138/2025](https://www.taxheaven.gr/circulars/51291/a-1138-2025). For employees, the system checks your employment automatically against the ERGANI register; if everything matches, the decision is immediate. Otherwise you upload documents, typically including a tax residence certificate from your previous country, and the tax office decides, with 30 days to supply anything missing ([AADE 5C FAQ](https://www.aade.gr/sites/default/files/2025-10/FAQS_5G_KFE.pdf)). Once approved, employers withhold tax on only the taxable half, and the exemption also appears in your annual return.
+The procedure follows decision A.1087/2021 as rewritten by [A.1138/2025](https://www.taxheaven.gr/circulars/51291/a-1138-2025). For employees, the system checks your employment automatically against the ERGANI register; if everything matches, the decision is immediate. Otherwise you upload documents, typically including a tax residence certificate from your previous country, and the tax office decides, with 30 days to supply anything missing (A.1138/2025). 5C can run alongside Article 5A or 5B if you meet the conditions of each ([AADE 5C FAQ](https://www.aade.gr/sites/default/files/2025-10/FAQS_5G_KFE.pdf)). Once approved, employers withhold tax on only the taxable half, and the exemption also appears in your annual return.
 
 To estimate what 5C saves in your case, use the [5C tax calculator](/greece/5c-tax-calculator); for help with the application, see our [50% tax break service](/greece/50-percent-tax-break).
 

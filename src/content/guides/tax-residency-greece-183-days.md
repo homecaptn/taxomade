@@ -20,8 +20,6 @@ faq:
 
 One of the most intimidating aspects of moving abroad is understanding where, when, and how much tax you owe. For remote workers moving to Greece, the rules generally revolve around one core concept: tax residency, and the 183-day rule behind it.
 
-Here is a simplified guide to understanding tax residency in Greece.
-
 ## The short answer
 
 - **More than 183 days** in Greece in any 12-month period makes you tax resident, from your first day.
@@ -59,19 +57,19 @@ To prevent expats from paying tax twice on the same income, Greece has [double t
 Under these treaties, tax paid in Greece is usually credited in your home country, or vice versa, or the income is exempt in one of the two countries, so in most cases you do not pay full tax twice. If both countries claim you as resident, the treaty tie-breaker decides: permanent home, then centre of vital interests, then habitual abode, then nationality.
 
 ### The US Exception
-United States citizens face a unique challenge: the US taxes based on *citizenship*, not just residency. If you are a US citizen living in Greece, you must still file US tax returns declaring your worldwide income. The [US–Greece treaty dates from 1950](https://cpasforexpats.com/post/us-greece-tax-treaty) and has a saving clause, so it does not switch off US taxation. Double tax is avoided through IRS provisions instead: the Foreign Earned Income Exclusion ([$132,900 for tax year 2026](https://kpmg.com/us/en/taxnewsflash/news/2025/10/tnf-rev-proc-2025-32-inflation-adjustments-for-2026-individual-taxpayers.html)) or the Foreign Tax Credit for Greek tax paid. You will need an accountant familiar with both systems.
+United States citizens face a unique challenge: the US taxes based on *citizenship*, not just residency. If you are a US citizen living in Greece, you must still file US tax returns declaring your worldwide income. The [US–Greece treaty dates from 1950](https://cpasforexpats.com/post/us-greece-tax-treaty) and does not switch off US taxation of citizens. Double tax is avoided through IRS provisions instead: the Foreign Earned Income Exclusion ([$132,900 for tax year 2026](https://kpmg.com/us/en/taxnewsflash/news/2025/10/tnf-rev-proc-2025-32-inflation-adjustments-for-2026-individual-taxpayers.html)) or the Foreign Tax Credit for Greek tax paid. You will need an accountant familiar with both systems.
 
 ## 4. The Benefit of Becoming a Greek Tax Resident
 
 While avoiding Greek taxes might seem appealing, becoming a Greek tax resident is actually the gateway to significant savings if you move your work here.
 
-If you become a tax resident and take up employment with a Greek employer (or the Greek branch of a foreign company) or register as self-employed in Greece, you can apply for **[Article 5C](/guides/50-percent-tax-break-article-5c)**. This incentive exempts **50% of your Greek employment or business income** from income tax for **seven years**. The main conditions: you were not a Greek tax resident in at least five of the six years before the move, and you stay in Greece for at least two years. Digital Nomad Visa holders cannot use it, because the visa does not allow Greek employment or business activity.
+If you become a tax resident and take up employment with a Greek employer (or the Greek branch of a foreign company) or register as self-employed in Greece, you can apply for **[Article 5C](/guides/50-percent-tax-break-article-5c)**. This incentive exempts **50% of your Greek employment or business income** from income tax for **seven years**. The main conditions: you were not a Greek tax resident in at least five of the six years before the move, you move from an EU/EEA country or one with a tax cooperation agreement with Greece, and you stay in Greece for at least two years. Digital Nomad Visa holders cannot use it, because the visa does not allow Greek employment or business activity.
 
 For high earners, structuring your life to *become* a Greek tax resident under this scheme is often far more profitable than remaining a tax resident in high-tax countries like Germany or the UK. (US citizens stay subject to US tax regardless, see above.)
 
 ## 5. Leaving Greece Again
 
-Residency works in both directions. If you later move away, you must formally transfer your tax residency abroad, and the deadline is tight: the application is due by the [last working day of the first ten days of March of the year after you leave](https://aade.gr/en/greeks-abroad-non-residents/income-taxation/transferring-tax-residency-greece-abroad), supporting documents (typically a foreign tax residency certificate) by early September. AADE still accepts late filings until 31 December of the year after you leave; until then, you risk being treated as resident.
+Residency works in both directions. If you later move away, you must formally transfer your tax residency abroad, and the deadline is tight: the application is due by the [last working day of the first ten days of March of the year after you leave](https://aade.gr/en/greeks-abroad-non-residents/income-taxation/transferring-tax-residency-greece-abroad), supporting documents (typically a foreign tax residency certificate) by early September. AADE accepts late filings until 31 December of the year after you leave and still examines later ones, but until the transfer is approved you are treated as resident.
 
 ## Summary
 
@@ -103,4 +101,4 @@ Apply to transfer your tax residency abroad by the first ten days of March of th
 
 Once you are resident, Greece expects a return on your worldwide income every year, and self-employed residents file VAT and myDATA on top. We prepare and file these as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping); send us a message for a free check of your situation.
 
-*Rules as of October 2026. Treaty outcomes depend on your home country and income type.*
+*Rules as of October 2026 (Income Tax Code art. 4, POL.1201/2017).*
