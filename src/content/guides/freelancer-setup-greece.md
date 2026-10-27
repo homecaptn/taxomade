@@ -32,7 +32,7 @@ It can be done alone, but most newcomers use an accountant for the first registr
 
 1. **AFM (tax number):** your foundational number in Greece, applied for online through myAADE. TAXISnet access (the tax portal login) is activated separately. See [what the AFM is](/guides/what-is-greek-afm-number).
 2. **Business start (έναρξη εργασιών):** you register your activity with the tax authority (AADE) and select your activity codes (KAD), for example software development, consulting or marketing. Registration with the commercial registry (GEMI) is only required if your activity counts as commercial; most freelance professions don't need it.
-3. **AMKA and EFKA:** AMKA is your social security number. After the business start, apply to EFKA, the social insurance fund, **by the 10th of the following month**. If you miss it, EFKA registers you itself in class 1 and you lose the reduced class for new starters.
+3. **AMKA and EFKA:** AMKA is your social security number. After the business start, apply to EFKA, the social insurance fund, **by the 10th of the following month**. If you miss it, EFKA registers you itself in class 1; you can still switch to the reduced class later, but only for what remains of your first five years.
 
 ## Monthly costs: EFKA contributions
 
@@ -41,7 +41,7 @@ EFKA contributions are not a percentage of income; you choose a class.
 - **Regular classes:** in 2026 the lowest is **€250.77 per month**, plus a €10 unemployment contribution for most freelancers.
 - **New-starter class:** for your first five years of insurance as a self-employed person, you can apply for a reduced class of **€150.46 per month** (2026). It is counted from your first self-employed insurance, not per business.
 
-Contributions are paid monthly with an RF payment code; a Greek bank account makes this easier. More in [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
+Contributions are paid monthly with an RF payment code, due by the last working day of the following month; a Greek bank account makes this easier. More in [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
 
 ## Invoicing and myDATA
 
@@ -95,4 +95,4 @@ For most freelancers, a sole proprietorship is simpler and cheaper. An IKE pays 
 
 The [timeline for moving to Greece as a freelancer](/guides/moving-to-greece-as-freelancer-timeline-payments) shows what is due when. At taxomade, we prepare and file your business start, VAT returns and annual tax return as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, with myDATA included. Send us a message for a free check of your setup.
 
-*Amounts reflect Greek tax and social security rules as of October 2026.*
+*Rules as of October 2026 (Income Tax Code art. 5C, 29 and 69, EFKA circular 6/2026, AADE decision A.1197/2026).*

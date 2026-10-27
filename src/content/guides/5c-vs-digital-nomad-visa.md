@@ -7,7 +7,7 @@ category: "tax"
 image: "/images/guides/dnv_mistakes_hero.png"
 faq:
   - question: "Can Digital Nomad Visa holders get the 50% tax break in Greece?"
-    answer: "No. The Digital Nomad Visa forbids work for an employer based in Greece and gives no right to business activity in Greece. Article 5C requires exactly one of those, so DNV holders cannot use it."
+    answer: "No. The Digital Nomad Visa forbids work for an employer based in Greece and gives no right to business activity in Greece. Article 5C requires one of the two, so DNV holders cannot use it."
   - question: "How are Digital Nomad Visa holders taxed in Greece?"
     answer: "Once you become Greek tax resident (main home or centre of life in Greece, or more than 183 days in 12 months), you pay the normal progressive rates of 9% to 44% on your worldwide income, with relief under the double tax treaty with your home country."
   - question: "Can I switch from a Digital Nomad Visa to Article 5C?"
@@ -29,11 +29,11 @@ Greece promotes two incentives for people who move here: the **Digital Nomad Vis
 
 The DNV, now regulated in [Article 68 of the Migration Code (Law 5038/2023)](https://www.taxheaven.gr/law/5038/2023/arthro/68), is for non-EU citizens who work for employers or clients outside Greece. The main conditions:
 
-- at least **€3,500 a month** in income (net for employees), plus 20% for a spouse and 15% per child;
+- at least **€3,500 a month** in income (net, after tax, for employees and freelancers alike), plus 20% for a spouse and 15% per child;
 - health insurance and proof of accommodation;
 - a declaration that you will **not work for an employer based in Greece**, and self-employment that is based outside Greece.
 
-It starts as a national visa for up to one year and can be followed by a renewable residence permit.
+It starts as a national (Type-D) visa of up to 12 months, applied for at a Greek consulate before you travel (Law 5275/2026), followed by a two-year renewable residence permit.
 
 ## Why it rules out Article 5C
 
@@ -56,7 +56,7 @@ Working from your laptop in Athens for a foreign company does not trigger Articl
 
 ## Routes that can qualify for non-EU citizens
 
-**A permit that allows self-employment.** The current Migration Code no longer provides a general permit for independent economic activity; existing permits can only be renewed. A non-EU route into self-employment in Greece is narrow and must be checked case by case with an immigration lawyer, before you move.
+**A permit that allows self-employment.** Residence permits for self-employment are very limited under the current Migration Code. A non-EU route into self-employment in Greece is narrow and must be checked case by case with an immigration lawyer, before you move.
 
 **Employment with a Greek entity.** A job with a Greek company, or the Greek branch of your employer, meets the employment condition, but you need a work-based permit, such as the EU Blue Card or an employer-initiated work permit under the Migration Code. An Employer of Record that is itself a Greek company and employs you under a Greek contract may also meet the wording, but AADE has not published guidance on such setups, so check before relying on it.
 
@@ -66,7 +66,7 @@ Working from your laptop in Athens for a foreign company does not trigger Articl
 
 ### Can Digital Nomad Visa holders get the 50% tax break in Greece?
 
-No. The Digital Nomad Visa forbids work for an employer based in Greece and gives no right to business activity in Greece. Article 5C requires exactly one of those, so DNV holders cannot use it.
+No. The Digital Nomad Visa forbids work for an employer based in Greece and gives no right to business activity in Greece. Article 5C requires one of the two, so DNV holders cannot use it.
 
 ### How are Digital Nomad Visa holders taxed in Greece?
 
@@ -84,4 +84,4 @@ No. EU citizens can live and work in Greece without a visa and can use Article 5
 
 If you are an EU citizen, or already hold a status that allows work in Greece, the [Article 5C tax calculator](/greece/5c-tax-calculator) shows what the exemption would save you. We prepare and file the 5C application and the ongoing filings as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping); send us a message for a free check of your situation.
 
-*Rules as of October 2026 (Law 5038/2023 art. 68, Income Tax Code art. 5C).*
+*Rules as of October 2026 (Law 5038/2023 art. 68 as amended by Law 5275/2026, Income Tax Code art. 5C).*

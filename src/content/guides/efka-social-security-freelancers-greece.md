@@ -1,6 +1,6 @@
 ---
 title: "Greek Social Security (EFKA) for Freelancers: Why New Freelancers Pay About €160/Month"
-description: "EFKA for freelancers in Greece: the reduced starter class of €150.46/month for your first five years, what it covers, who qualifies, and the rules for remote employees (2026)."
+description: "EFKA for freelancers in Greece: the €150.46/month starter class for your first five years, what it covers, who qualifies and remote employees (2026)."
 pubDate: 2026-07-14
 updatedDate: 2026-10-13
 category: "bookkeeping"
@@ -11,14 +11,14 @@ faq:
   - question: "Who qualifies for the reduced EFKA starter class?"
     answer: "Anyone insured with EFKA as self-employed for the first time, for the first five years of that insurance. You have to apply for the class; it is not assigned automatically, and you can use it only once. After five years you move to a regular class."
   - question: "What does EFKA cover?"
-    answer: "Public healthcare (state hospitals and subsidised medication), pension credit for your eventual state pension and, with the €10 contribution, the unemployment fund. Higher classes build a higher pension; the starter class gives full healthcare access from the first payment."
+    answer: "Public healthcare (state hospitals and subsidised medication), pension credit for your eventual state pension and, with the €10 contribution, the unemployment fund. Higher classes build a higher pension."
   - question: "Do remote employees of a foreign company pay EFKA in Greece?"
-    answer: "Usually yes, if they physically work in Greece full-time: the EU rule is that you are insured where you work, and Greece has not joined the EU telework framework agreement. Exceptions are a formal posting with an A1 certificate (normally up to 24 months) and multi-state work with a substantial share in the home country. Non-EU employees fall under bilateral agreements or Greek rules directly."
+    answer: "Usually yes, if they physically work in Greece full-time: the EU rule is that you are insured where you work, and Greece has not joined the EU telework framework agreement. Exceptions are a formal posting with an A1 certificate (normally up to 24 months) and multi-state work with less than 25% of working time in Greece. Non-EU employees fall under bilateral agreements or Greek rules directly."
 ---
 
 When remote workers look at relocating to Greece, they usually focus on the [Article 5C 50% tax break](/guides/50-percent-tax-break-article-5c) (available if you were not a Greek tax resident in 5 of the last 6 years). There is a second financial benefit that most people overlook until they move: the cost of social security, **EFKA**, for new freelancers.
 
-If you are a freelancer coming from Germany, France or Spain, social security is a large fixed cost. In Germany, a well-earning freelancer can pay €700 to €1,000 per month for statutory health and long-term-care insurance alone, before any pension saving.
+If you are a freelancer coming from Germany, France or Spain, social security is a large fixed cost. In Germany, a well-earning freelancer can pay up to about €1,200 per month for statutory health and long-term-care insurance alone, before any pension saving.
 
 In Greece, a newly registered freelancer pays about **€160 per month** (2026: €150.46 plus a €10 unemployment contribution for most freelancers) for public healthcare and pension coverage. Here is how the system works.
 
@@ -42,7 +42,7 @@ Every year, you select an insurance category. The lowest standard category costs
 
 ## The starter category for new freelancers
 
-To encourage new businesses, EFKA offers a reduced category for new professionals, the Ειδική Κατηγορία ("special category"). It applies for the **first five years of your insurance as self-employed**, counted from your first registration as self-employed in Greece, and can be used only once.
+To encourage new businesses, EFKA offers a reduced category for new professionals, the Ειδική Κατηγορία ("special category"). It applies for the **first five years of your insurance as self-employed**. You can choose it when you register or later within those five years, for the remaining period, and only once.
 
 In 2026 this category costs **€150.46 per month**, plus the €10 unemployment contribution for most freelancers. You have to apply for it; it is not assigned automatically.
 
@@ -60,7 +60,7 @@ The starter category applies to *freelancers* (sole proprietors). What if you ar
 
 If you live in Greece but stay on the payroll of a foreign employer, the answer depends on where you physically work. The EU default rule (Regulation 883/2004) is that you are insured where you work, and if that is your desk in Athens, that is Greece. Greece has not joined the EU framework agreement on cross-border telework, so a full-time remote employee living in Greece normally falls under EFKA, and the foreign employer has to register with EFKA or appoint the employee to handle the contributions on its behalf; many companies use an Employer of Record instead.
 
-The exceptions are a formal posting (A1 certificate from your home country, normally capped at 24 months) or genuinely splitting your working time between Greece and your home country, with a substantial share at home. In those cases your home system keeps covering you, and an S1 form gives you access to Greek public healthcare. Employees from outside the EU (UK, US) fall under bilateral agreements or Greek rules directly.
+The exceptions are a formal posting (A1 certificate from your home country, normally capped at 24 months) or working regularly in two countries with less than 25% of your working time in Greece. In those cases your home system keeps covering you, and an S1 form gives you access to Greek public healthcare. Employees from outside the EU (UK, US) fall under bilateral agreements or Greek rules directly.
 
 This is one of the areas where guessing gets expensive. Have it checked before you move; the employment side of the tax regime is in our guide on [5C for employees and remote workers](/guides/5c-for-eu-remote-workers).
 
@@ -82,11 +82,11 @@ Anyone insured with EFKA as self-employed for the first time, for the first five
 
 ### What does EFKA cover?
 
-Public healthcare (state hospitals and subsidised medication), pension credit for your eventual state pension and, with the €10 contribution, the unemployment fund. Higher classes build a higher pension; the starter class gives full healthcare access from the first payment.
+Public healthcare (state hospitals and subsidised medication), pension credit for your eventual state pension and, with the €10 contribution, the unemployment fund. Higher classes build a higher pension.
 
 ### Do remote employees of a foreign company pay EFKA in Greece?
 
-Usually yes, if they physically work in Greece full-time: the EU rule is that you are insured where you work, and Greece has not joined the EU telework framework agreement. Exceptions are a formal posting with an A1 certificate (normally up to 24 months) and multi-state work with a substantial share in the home country. Non-EU employees fall under bilateral agreements or Greek rules directly.
+Usually yes, if they physically work in Greece full-time: the EU rule is that you are insured where you work, and Greece has not joined the EU telework framework agreement. Exceptions are a formal posting with an A1 certificate (normally up to 24 months) and multi-state work with less than 25% of working time in Greece. Non-EU employees fall under bilateral agreements or Greek rules directly.
 
 ## How taxomade can help
 

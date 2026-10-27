@@ -38,7 +38,7 @@ The law sets no nationality requirement and no minimum pension amount. The 5-of-
 
 ## What the 7% covers and what it does not
 
-The 7% applies to **all foreign-source income**, not only the pension: foreign rent, dividends, interest and capital income are included. Paying the 7% settles your Greek tax on that foreign income for the year. Tax already paid abroad can be credited, but only up to the Greek 7%; any excess is not refunded.
+The 7% applies to **all foreign-source income**, not only the pension: foreign rent, dividends, interest and capital income are included. Paying the 7% settles your Greek tax on that foreign income for the year. Tax already paid abroad on that income is credited against the 7%, up to the Greek tax on it, where the tax treaty lets the source country tax the income or there is no treaty with it; any excess is not refunded.
 
 What stays outside:
 
@@ -62,7 +62,7 @@ That is about **€3,000 a year**, or roughly €45,000 over 15 years at a const
 
 ## The 2026 changes: deadlines and payment
 
-Law 5313/2026 and [AADE](https://www.aade.gr/sites/default/files/2026-09/a1192_2026.pdf) (the Greek tax authority) decision A.1192/2026 reworked the procedure. Older pages online still show a 31 March deadline; that no longer applies.
+Law 5313/2026 and [AADE](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf) (the Greek tax authority) decision A.1192/2026 reworked the procedure. Older pages online still show a 31 March deadline; that no longer applies.
 
 - **Application:** by **31 October** of the tax year you want the regime for, through myAADE (AADE's online portal, under "My Requests"), by post or in person at the competent tax office.
 - **Which year:** if you moved your tax residence to Greece **on or before 2 July**, you can choose that year (apply by 31 October of that year) or the following year. If you moved **after 2 July**, only the following year.
@@ -77,7 +77,7 @@ The 7% only bites on income Greece is allowed to tax. Each country's treaty with
 
 - **UK:** private and occupational pensions are taxed in Greece, and the UK State Pension is generally treated the same way; you claim UK exemption with HMRC's DT-Individual form (a 'No Tax' code stops UK deductions). **UK government pensions** (civil service, armed forces) stay taxable in the UK. More in our [UK guide](/guides/moving-to-greece-from-uk-tax-guide).
 - **Germany:** the statutory pension (gesetzliche Rente) is taxed only in Greece; **civil servant pensions** (Beamtenpensionen) stay taxable in Germany. More in our [Germany guide](/guides/moving-to-greece-from-germany-tax-guide).
-- **United States:** the treaty's saving clause lets the US keep taxing its citizens, who file in both countries; the Greek credit for US tax is capped at the 7%. Non-US citizens receiving US Social Security face US withholding, since Greece is not on the US list of treaty exemptions.
+- **United States:** the treaty's saving clause lets the US keep taxing its citizens, who file in both countries; where Greece credits US tax, the credit is capped at the 7%, and whether US tax on your pension qualifies depends on the type of pension, so check before you apply. Non-US citizens receiving US Social Security face US withholding, since Greece is not on the US list of treaty exemptions.
 - **Canada:** Canada may also tax private pensions at source, capped at 15% of the gross payment once annual payments exceed CAD 15,000; check how CPP and OAS are treated. Anything above the Greek 7% is not credited.
 - **Australia:** there is no tax treaty with Greece, so double taxation is a real risk and the credit is capped at the Greek 7%.
 - **Netherlands, Scandinavia and other state pensions:** check the specific treaty; some state pensions remain taxable at source.
@@ -130,4 +130,4 @@ Once a year, in one payment, by the last working day of December. No instalments
 
 We check whether the 7% regime pays off in your case, prepare and file the Article 5B application and your annual Greek tax return, and handle the Greek side of the treaty paperwork, such as having your DT-Individual form certified by the Greek tax office. If you also earn income in Greece, see our [ongoing bookkeeping](/greece/ongoing-bookkeeping). Send us a message with your pension details for a free check.
 
-*Rules reflect Greek law and AADE decision A.1192/2026 as of October 2026. Treaty outcomes depend on the type of pension and your nationality.*
+*Rules as of October 2026 (Income Tax Code art. 5B and 9, AADE decision A.1192/2026).*
