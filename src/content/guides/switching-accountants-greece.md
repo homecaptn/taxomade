@@ -79,7 +79,7 @@ Ask your old accountant, in writing, to hand over:
 | Payroll and employee records (if any) | Needed for social security and ERGANI; see [hiring your first employee](/guides/hiring-first-employee-greece) |
 | Access details for invoicing software or e-invoicing provider | Your invoicing keeps running without interruption |
 
-Ask for the documents to go straight to your new accountant, and keep a written list of what was handed over and when. Settle any fees you still owe for work already done first: in practice, unpaid fees are the most common reason a handover stalls.
+Ask for the documents to go straight to your new accountant, and keep a written list of what was handed over and when. Settle any fees you still owe for work already done first: unpaid fees can hold up the handover.
 
 ## Step 5: Pick the right moment
 
