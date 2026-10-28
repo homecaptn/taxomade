@@ -2,6 +2,7 @@
 title: "Moving to Greece from Austria: Tax and Setup Guide (2026)"
 description: "Moving from Austria to Greece: ending Austrian tax residency, exit tax on shares and crypto, the 2007 treaty, pensions, social security and Greek setup."
 pubDate: 2026-10-22
+updatedDate: 2026-10-28
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -64,7 +65,7 @@ If you run your GmbH alone from Greece, its place of management, and with it its
 | Rent from Austrian property | Austria; Greece credits |
 | Statutory (PVA, SVS), company and private pensions | Greece only |
 | Civil service pensions | Austria, unless you are a Greek national living in Greece |
-| Austrian dividends | Austria may keep 15% (27.5% withheld, the rest reclaimable); Greece credits |
+| Austrian dividends | Austria may keep 15% (27.5% withheld, the rest reclaimable); Greece credits only up to its own 5% dividend tax |
 | Gains on shares after the move | Greece (deferred Austrian exit tax still falls due on sale) |
 
 ## 5. Freelancers and remote workers
@@ -84,7 +85,7 @@ Steps in order: [AFM](/guides/what-is-greek-afm-number), [freelancer setup](/gui
 - **Tax:** statutory and private pensions are taxed in Greece. The PVA keeps withholding Austrian tax until you send a [Greek residence certificate on form ZS-QU1](https://pv.at/de/flipbooks/PV-504/flipbook.pdf). Once a year you return a proof of life.
 - **Civil servants:** a Beamtenpension is taxed only in Austria (treaty Art. 19), unless you are also a Greek national; Greece does not tax it.
 - **Health:** with only an Austrian pension, you stay insured through Austria and get Greek care via form S1; a health contribution is deducted from the pension.
-- **Article 5B:** if you were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Apply by 31 October of the year you want it for (A.1192/2026). Whether it beats the normal 9–44% scale depends on your pension ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
+- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years, unless a tax treaty exempts it. Move by 2 July and you can apply by 31 October of that year; move later and it starts the following year ([A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf)). Statutory, company and private pensions are taxed only in Greece, so the 7% applies to them in full. Income the treaty leaves to Austria alone (civil service pensions, unless you are also a Greek national) is not taxed in Greece, so the 7% does not reach it. Where both countries may tax, such as Austrian rent or dividends, Austrian tax is credited against the 7% up to the Greek tax on that income, and any excess is not refunded (A.1192/2026, art. 5). Whether 5B beats the normal 9–44% scale depends on your pension ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
 
 Familienbeihilfe generally ends once the family lives in Greece, unless a parent still works in Austria or receives an Austrian pension. Austrian pension periods are kept and combined with Greek ones under EU rules.
 
