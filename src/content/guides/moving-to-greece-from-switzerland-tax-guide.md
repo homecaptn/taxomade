@@ -2,6 +2,7 @@
 title: "Moving to Greece from Switzerland: Tax and Setup Guide (2026)"
 description: "Moving from Switzerland to Greece: tax residence, the 1983 treaty, AHV and pension fund money, pillar 3a, health insurance and the Greek tax setup."
 pubDate: 2026-10-23
+updatedDate: 2026-10-28
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -70,7 +71,7 @@ Private capital gains on shares, funds and crypto are tax-free in Switzerland, s
 
 **Lump sums and pillar 3a.** A lump sum taken while you still live in Switzerland is taxed there at the reduced rate for capital benefits. Taken after the move, Switzerland withholds tax at source. For private-law pension funds and pillar 3a, [Greek residents can reclaim it](https://www.sz.ch/public/upload/assets/84283/Merkblatt_Quellenbesteuerung_privatrechtlicher_Vorsorgeleistungen_an_Personen_ohne_Wohnsitz_oder_Aufenthalt_in_der_Schweiz_Stand_1_Januar_2025.pdf?fp=3) within three years, with a confirmation that the Greek tax office knows about the payment; Greece may then tax it. Lump sums from public-law pension funds stay taxed in Switzerland unless you are a Greek national. Pillar 3a can be withdrawn in full when you leave; the EU block applies only to the mandatory BVG part. How Greece treats a given lump sum, including under 5B, needs an individual check, so plan the timing before you deregister.
 
-**Retirees with only a Swiss pension** generally [stay in Swiss health insurance](https://www.bag.admin.ch/de/krankenversicherung-bezueger-und-bezuegerinnen-einer-schweizerischen-rente-im-ausland) at country-specific premiums and register for Greek care with form S1. With **Article 5B**, your foreign income is taxed at 7% for 15 years if you were not Greek tax resident in 5 of the previous 6 years ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
+**Retirees with only a Swiss pension** generally [stay in Swiss health insurance](https://www.bag.admin.ch/de/krankenversicherung-bezueger-und-bezuegerinnen-einer-schweizerischen-rente-im-ausland) at country-specific premiums and register for Greek care with form S1. With **Article 5B**, your foreign income is taxed at 7% for 15 years if you were not Greek tax resident in 5 of the previous 6 years; see section 7 for the deadlines and how Swiss tax is credited ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
 
 ## 6. Freelancers and remote workers
 
@@ -88,7 +89,7 @@ Steps in order: [AFM](/guides/what-is-greek-afm-number), [freelancer setup](/gui
 
 If you were not Greek tax resident in **5 of the previous 6 years**, [Article 5C](/guides/50-percent-tax-break-article-5c) exempts 50% of Greek employment or business income for **7 years**. You need a Greek employer, a Greek establishment of a foreign employer, or your own sole proprietorship in Greece (an IKE does not count, nor does a salary from your Swiss company). Start by 2 July and you apply by 31 December of that year; later, by 31 December of the next. AADE allows it alongside 5A or 5B. **Digital Nomad Visa holders are not eligible** ([5C vs DNV](/guides/5c-vs-digital-nomad-visa)). Estimate the effect with the [5C calculator](/greece/5c-tax-calculator).
 
-For 5B, you apply by 31 October of the year you want it for (A.1192/2026); it is subject to statutory and treaty exceptions, and the 7% is paid in one payment by the last working day of December.
+For **Article 5B**, if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years, unless a tax treaty exempts it. Move by 2 July and you can apply by 31 October of that year; move later and it starts the following year ([A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf)). AHV, private-law pension fund and pillar 3a pensions are taxed in Greece, not in Switzerland, so the 7% applies to them in full. Income the treaty leaves to Switzerland alone (pensions and lump sums from Swiss public employers and public-law pension funds, unless you are a Greek national) is not taxed in Greece, so the 7% does not reach it. Where both countries may tax, such as Swiss rent, dividends or interest, Swiss tax is credited against the 7% up to the Greek tax on that income, and any excess is not refunded (A.1192/2026, art. 5). The 7% is paid in one payment by the last working day of December.
 
 ## How we can help
 

@@ -2,7 +2,7 @@
 title: "Switching Accountants in Greece: A Step-by-Step Guide (2026)"
 description: "How to switch accountants in Greece without gaps: myAADE authorizations, what your old accountant must hand over, best timing and how long it takes."
 pubDate: 2026-10-07
-updatedDate: 2026-10-16
+updatedDate: 2026-10-28
 category: "bookkeeping"
 faq:
   - question: "Can I change my accountant in Greece in the middle of the year?"
@@ -61,7 +61,7 @@ In Greece, your accountant works on your behalf through the tax authority's onli
 1. Log in to [myAADE](https://www.aade.gr/myaade) with your TAXISnet credentials (your Greek tax portal login).
 2. Go to **Registry & Communication → Authorizations** (Μητρώο & Επικοινωνία → Εξουσιοδοτήσεις).
 3. Enter your new accountant's tax number (AFM) and select which services they may handle. You can authorize specific services only and change this later.
-4. Your new accountant logs in to their own myAADE account and accepts the authorization. Until then it shows as pending.
+4. Your new accountant logs in to their own myAADE account and accepts the authorization. Until then it shows as pending acceptance.
 
 You never need to share your password. In the same menu you can revoke your old accountant's authorization. It's good practice to also tell them in writing.
 
@@ -79,7 +79,7 @@ Ask your old accountant, in writing, to hand over:
 | Payroll and employee records (if any) | Needed for social security and ERGANI; see [hiring your first employee](/guides/hiring-first-employee-greece) |
 | Access details for invoicing software or e-invoicing provider | Your invoicing keeps running without interruption |
 
-Under the professional rules for Greek accountants, once you instruct them in writing, your old accountant is expected to hand over your documents to your new accountant with a written handover record. Settle any fees you still owe for work already done first, because unpaid fees can hold up the handover.
+Ask for the documents to go straight to your new accountant, and keep a written list of what was handed over and when. Settle any fees you still owe for work already done first: unpaid fees can hold up the handover.
 
 ## Step 5: Pick the right moment
 
