@@ -25,7 +25,7 @@ French movers to Greece are mostly freelancers and micro-entrepreneurs with Fren
 - **The year you leave** is split: worldwide income up to the departure date, French-source income after it, declared the following spring on the usual return plus form 2042-NR.
 - **Exit tax on shares:** after six of the last ten years in France, holdings worth €800,000 or more, or 50% of a company's profits, trigger tax on unrealised gains; for Greece, payment is deferred automatically.
 - **A new treaty applies since 2024:** the 2022 convention replaced the 1963 one.
-- **French pensions:** private-sector and state pensions are taxed only in Greece; public-service pensions of French nationals stay in France.
+- **French pensions:** social security (CNAV) and private-sector pensions are taxed only in Greece; public-service pensions of French nationals stay in France.
 - **Social security follows your work:** freelancers working from Greece join EFKA.
 - **Article 5C** (50% exemption for 7 years) and **Article 5B** (7% on all foreign income for 15 years) are open to French movers who qualify.
 
@@ -55,7 +55,7 @@ If you run a French SASU alone from Greece, Greece may treat it as resident beca
 
 ## 3. The 2022 tax treaty
 
-France and Greece signed a new convention in Athens on **11 May 2022**. France approved it by Law 2023-1232 and published it by [Decree 2024-16 of 9 January 2024](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048898913/). It [entered into force on 30 December 2023](https://bofip.impots.gouv.fr/bofip/2711-PGP.html/identifiant=BOI-INT-CVB-GRC-20240911) and applies from 1 January 2024, replacing the convention of 21 August 1963. It includes a principal purpose test (Article 27) that denies treaty benefits to arrangements made mainly to get them. As of October 2026 it is in force.
+France and Greece signed a new convention in Athens on **11 May 2022**. France approved it by Law 2023-1232 and published it by [Decree 2024-16 of 9 January 2024](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048898913/). It [entered into force on 30 December 2023](https://bofip.impots.gouv.fr/bofip/2711-PGP.html/identifiant=BOI-INT-CVB-GRC-20240911) and applies from 1 January 2024, replacing the convention of 21 August 1963. It includes a principal purpose test (Article 27) that denies treaty benefits where obtaining them was one of the principal purposes of an arrangement. As of October 2026 it is in force.
 
 The [text of the convention](https://www.impots.gouv.fr/sites/default/files/media/10_conventions/grece/convention_franco-grecque_20220511_non_entree_en_vigueur.pdf) splits pensions in two:
 
@@ -71,7 +71,7 @@ Greece relieves double taxation under Article 21 by crediting French tax, capped
 | Freelance work done from Greece | Greece, unless you have a permanent establishment in France |
 | Employment | Greece for work done from Greece; France can tax days worked in France |
 | Rent from French property | France, generally at a [minimum rate of 20%](https://www.impots.gouv.fr/sites/default/files/media/1_metier/5_international/actualite/fiches-relais/fiche_les-particularites-de-la-fiscalite-des-nr_vd_03-2026.pdf) (30% above €29,579) unless your average rate is lower; Greece credits |
-| French state and private-sector pensions | Greece only |
+| French social security (CNAV) and private-sector pensions | Greece only |
 | Public-service pensions | France only, unless you are a Greek national without French nationality |
 | French dividends | France, capped at 15% under the treaty; Greece credits only up to its own 5% dividend tax |
 | French interest | Greece; the treaty caps any French tax at 5% |
@@ -93,8 +93,8 @@ Steps in order: [AFM](/guides/what-is-greek-afm-number), [freelancer setup](/gui
 ## 6. Retirees
 
 - **Tax:** your CNAV state pension and private-sector pensions are taxed only in Greece. A civil servant's pension stays taxed only in France if you are a French national. The French tax office advises asking each pension body [which type of pension it pays](https://www.impots.gouv.fr/international-particulier/questions/comment-declarer-mes-traitements-salaires-et-pensions-et-comment) (private, social security or public) before applying the treaty.
-- **Health:** you request [form S1](https://www.cleiss.fr/particuliers/partir/retraite/ue-eee-suisse_4.html) from your basic pension fund (CNAV, CARSAT, MSA) or, for state civil and military pensions, from the Centre de gestion des retraites, ideally before you leave, and register it with EFKA for Greek care. With a French S1 and tax residence abroad, France deducts a health contribution of 3.2% on basic pensions and 4.2% on supplementary pensions.
-- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Move by 2 July and you can apply by 31 October of that year; move later and it starts the following year (A.1192/2026). Your French state and private-sector pensions are taxed only in Greece, so they fall fully under the 7%, with no French tax to credit. Income the treaty leaves to France alone, such as a French national's public-service pension, falls outside the 7%. Where both countries may tax, such as French rent or dividends, French tax is credited against the 7% up to the Greek tax on that income, and any excess is not refunded (A.1192/2026, art. 5). 5B pays off most for private-sector retirees ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
+- **Health:** you request [form S1](https://www.cleiss.fr/particuliers/partir/retraite/ue-eee-suisse_4.html) from your basic pension fund (CNAV, CARSAT, MSA) or, for state civil and military pensions, from the Centre de gestion des retraites, ideally before you leave, and register it with EFKA for Greek care. With a French S1 and tax residence abroad, France deducts a health contribution of 3.2% on basic pensions and 4.2% on supplementary pensions (7.1% on self-employed pensions).
+- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Move by 2 July and you can apply by 31 October of that year; move later and it starts the following year (A.1192/2026). Your CNAV and private-sector pensions are taxed only in Greece, so they fall fully under the 7%, with no French tax to credit. Income the treaty leaves to France alone, such as a French national's public-service pension, falls outside the 7%. Where both countries may tax, such as French rent or dividends, French tax is credited against the 7% up to the Greek tax on that income, and any excess is not refunded (A.1192/2026, art. 5). 5B pays off most for private-sector retirees ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
 
 ## 7. Article 5C: the 50% exemption
 
