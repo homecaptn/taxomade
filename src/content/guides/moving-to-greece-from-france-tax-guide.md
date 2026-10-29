@@ -22,8 +22,8 @@ French movers to Greece are mostly freelancers and micro-entrepreneurs with Fren
 ## The short answer
 
 - **Three tests decide:** you stay French tax resident while your household, main activity or economic interests are in France. One is enough.
-- **The year you leave** is split: worldwide income up to the departure date, French-source income after it, all on one return filed the following spring.
-- **Exit tax on shares:** after six of the last ten years in France, holdings worth €800,000 or more trigger tax on unrealised gains; for Greece, payment is deferred automatically.
+- **The year you leave** is split: worldwide income up to the departure date, French-source income after it, declared the following spring on the usual return plus form 2042-NR.
+- **Exit tax on shares:** after six of the last ten years in France, holdings worth €800,000 or more, or 50% of a company's profits, trigger tax on unrealised gains; for Greece, payment is deferred automatically.
 - **A new treaty applies since 2024:** the 2022 convention replaced the 1963 one.
 - **French pensions:** private-sector and state pensions are taxed only in Greece; public-service pensions of French nationals stay in France.
 - **Social security follows your work:** freelancers working from Greece join EFKA.
@@ -39,13 +39,13 @@ Under article 4 B of the Code général des impôts, you are [domiciled in Franc
 
 Spouses are assessed individually, so one can become non-resident while the other stays resident. A spouse and children who stay in France usually keep you resident under French law, whatever the dates on your Greek lease.
 
-[Before you leave](https://www.service-public.gouv.fr/particuliers/vosdroits/F31442), tell the tax office your new address, ideally through the secure messaging in your impots.gouv.fr account. Your file is then handled by the Service des impôts des particuliers non-résidents in Noisy-le-Grand.
+[Before you leave](https://www.service-public.gouv.fr/particuliers/vosdroits/F31442), tell the tax office your new address, ideally through the secure messaging in your impots.gouv.fr account. From then on, the Service des impôts des particuliers non-résidents in Noisy-le-Grand is your point of contact; paper returns for the departure year still go to your former tax office.
 
 In Greece, you become [tax resident](/guides/tax-residency-greece-183-days) with your main home or centre of life here, or after 183 days in 12 months. If both countries claim you, Article 4 of the treaty decides along OECD lines: permanent home first, then centre of vital interests, habitual abode and nationality.
 
 ## 2. The year you leave and the exit tax
 
-In the spring of your departure year, you file the usual return for the previous year. The spring after you leave, you [declare the split year](https://www.service-public.gouv.fr/particuliers/vosdroits/F31442): worldwide income from 1 January to the departure date as a resident, and French-source income taxable in France after that date on form 2042-NR.
+In the spring of your departure year, you file the usual return for the previous year. The spring after you leave, you [declare the split year](https://www.service-public.gouv.fr/particuliers/vosdroits/F31442): worldwide income from 1 January to the departure date as a resident, and French-source income after that date on form 2042-NR. Foreign income from before departure goes on form 2047.
 
 **Exit tax.** If you were French tax resident for at least **six of the ten years** before the move and your shareholdings are worth at least **€800,000** in total, or give you at least 50% of a company's profits, France [taxes the unrealised gains](https://www.impots.gouv.fr/particulier/questions/je-quitte-la-france-suis-je-concerne-par-lexit-tax) when you transfer your tax residence (article 167 bis CGI). For a move to Greece, an EU country, payment is **deferred automatically**. The tax is cancelled if you still hold the shares **two years** after the move, or **five years** if they are worth more than €2.57 million; selling, buying back or cancelling them earlier triggers payment. You report on form 2074-ETD with the return for your departure year and file follow-up forms while the deferral runs.
 
