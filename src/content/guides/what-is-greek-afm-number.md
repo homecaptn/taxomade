@@ -2,7 +2,7 @@
 title: "What is an AFM Number in Greece and Why Do You Need It?"
 description: "What the Greek tax number (AFM) is, when you need it, and how foreigners apply online through myAADE, with or without a representative."
 pubDate: 2026-03-20
-updatedDate: 2026-10-23
+updatedDate: 2026-10-29
 category: "afm"
 image: "/images/guides/afm_hero.png"
 faq:
@@ -50,12 +50,12 @@ An AFM does not make you a Greek tax resident, nor does it subject your worldwid
 
 ## How to get an AFM
 
-Obtaining an AFM used to mean queuing at a local tax office (DOY) with a translator. Since December 2023, applications are made **online only**, through the ["TIN & Authentication Key" application in myAADE](https://aade.gr/en/greeks-abroad-non-residents/registration-tax-register/issuance-tax-identification-number-and-authentication-key-and-appointment). Applying with AADE is free.
+Obtaining an AFM used to mean queuing at a local tax office (DOY) with a translator. Since 1 December 2023 ([AADE decision A.1185/2023](https://www.taxheaven.gr/circulars/45422/a-1185-2023)), applications are made **online only**, through the ["TIN & Authentication Key" application in myAADE](https://aade.gr/en/greeks-abroad-non-residents/registration-tax-register/issuance-tax-identification-number-and-authentication-key-and-appointment). Applying with AADE is free.
 
 ### Applying yourself
 1. Fill in the online application and upload your passport (EU citizens can use a national ID card). Any foreign public document, such as a marriage certificate, needs an apostille and a Greek translation.
 2. Confirm your identity by video call with AADE (myAADElive) or at a tax office of your choice. The video call works from abroad.
-3. Once your identity is verified, you receive your access key right after the call and the AFM certificate usually the same working day. Video calls run 08:00–14:30 Athens time; appointments can be booked up to 15 days ahead.
+3. Once your identity is verified, your authentication key is emailed right after the call, and the AFM certificate follows by email after the call or later during AADE working hours. You can take the first available video slot or book an appointment up to 15 days ahead.
 
 ### Applying through a representative
 You can authorise a lawyer or accountant to prepare and file the application for you. The authorisation needs a certified signature; documents signed abroad usually need an apostille and a Greek translation. In Greece, the signature can be certified at a KEP (citizens' service centre). The representative is identified with their own credentials, so you don't need a video call.
@@ -94,4 +94,4 @@ No. Since 9 September 2024 a tax representative is optional for individuals unde
 
 We [prepare and file AFM applications](/greece/tax-number-afm) for people moving to Greece, and once you start working, taxomade takes over your [ongoing bookkeeping](/greece/ongoing-bookkeeping) from €89/month, with myDATA, VAT returns and your annual tax return included. Send us a message for a free check.
 
-*Rules as of October 2026 (AADE decisions A.1190/2023 and A.1069/2024).*
+*Rules as of October 2026 (AADE decisions A.1185/2023, A.1190/2023 and A.1069/2024).*
