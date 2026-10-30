@@ -41,7 +41,7 @@ Whether you file monthly or quarterly depends on your books and your start date 
 
 - **Double-entry books** (this includes every IKE): monthly.
 - **Simple books, started on or after 1 January 2024:** monthly, under [AADE decision A.1049/2025](https://www.taxheaven.gr/circulars/50029/a-1049-2025). After 24 months of activity you can switch to quarterly on request, by the penultimate working day of January, April, July or October.
-- **Simple books, started before 2024:** quarterly, unless you opted into monthly filing.
+- **Simple books, started before 2024:** quarterly.
 
 The return is due by the **last working day of the month after the period ends**. A monthly filer files September by the end of October. A quarterly filer files July–September by the end of October. Payment is due by the same date. If you file on time and owe more than €100, you can split the payment into two equal instalments, the second due by the last working day of the following month.
 
@@ -75,7 +75,7 @@ Since tax year 2025, [Law 5297/2026, art. 249](https://www.taxheaven.gr/law/5297
 | 15 June | 3% |
 | 15 July | 2% |
 
-For tax year 2025, A.1140/2026 kept the 2% discount for returns filed by 24 July 2026.
+For tax year 2025, A.1140/2026 kept the 2% discount for individuals who filed by 24 July 2026.
 
 If you don't pay in full, the tax is paid in **8 equal monthly instalments**. The first is due by the last working day of July, the rest by the last working day of each following month. For the 2025 return, that means July 2026 through February 2027. For the 2026 return, July 2027 through February 2028.
 
@@ -104,12 +104,12 @@ You need to have been non-resident for tax purposes in Greece for 5 of the previ
 
 For [Article 5B](/guides/retiring-to-greece-7-percent-flat-tax), the cut-off is also 2 July, but the deadline is **31 October** ([AADE press release, 25 September 2026](https://www.aade.gr/sites/default/files/2026-09/d.t._25.09.2026.pdf); [A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf)):
 
-- **Move by 2 July:** apply by 31 October of that year, and the regime starts that year.
+- **Move by 2 July:** apply by 31 October of that year, and the regime starts that year. If you miss that, you can still apply by 31 October of the following year, and the regime starts then.
 - **Move later:** the regime starts the following year, and you apply by 31 October of that year.
 
 ## E-invoicing from 2 November 2026
 
-Since 2 March 2026, large businesses have had to issue B2B invoices electronically. Everyone else, freelancers included, follows from **2 November 2026** ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). It covers invoices to Greek businesses, businesses outside the EU and the public sector.
+Since 2 March 2026, large businesses have had to issue B2B invoices electronically. Everyone else, freelancers included, follows from **2 November 2026** ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). It covers invoices to Greek businesses and to businesses outside the EU.
 
 A transition period runs until **31 January 2027**, but only if you filed a declaration with a start date no later than 2 November 2026. From 1 February 2027, invoices in scope can only be issued through an approved provider or AADE's free apps. Details: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
 
@@ -135,7 +135,7 @@ A transition period runs until **31 January 2027**, but only if you filed a decl
 Fines for late returns are set by [Article 53 of the Tax Procedure Code (Law 5104/2024)](https://www.taxheaven.gr/law/5104/2024/arthro/53) and are imposed automatically:
 
 - **Late return with no tax to pay** (including a zero VAT return): **€100**.
-- **Late return with tax to pay:** **€250** with simple books, **€500** with double-entry books.
+- **Late income tax, VAT or withholding return with tax to pay:** **€250** with simple books, **€500** with double-entry books.
 - **Late initial income tax return** showing €100 tax or less: no fine.
 
 Late payment adds interest on top. If you've already missed something, filing as soon as possible usually keeps the damage small. More on the costs in [freelancer taxes in Greece](/guides/freelancer-taxes-greece-2026).
