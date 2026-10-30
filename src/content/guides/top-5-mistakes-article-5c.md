@@ -2,7 +2,7 @@
 title: "Top 5 Mistakes When Applying for Greece's 50% Tax Break (Article 5C)"
 description: "Article 5C mistakes that cost expats Greece's 50% tax break: wrong start date, missing proof, IKE instead of sole trader, DNV, disguised employment."
 pubDate: 2026-07-10
-updatedDate: 2026-10-22
+updatedDate: 2026-10-30
 category: "tax"
 image: "/images/guides/tax_break_hero.png"
 faq:
@@ -28,7 +28,7 @@ The rules are strict, but more forgiving than their reputation: a late applicati
 
 - **Deadline:** start by 2 July → apply by 31 December that year; start later → by 31 December of the following year.
 - **Proof:** foreign tax residence evidence for the years Greek records don't cover.
-- **Structure:** a Greek employer (or Greek branch) or your own sole proprietorship, not an IKE.
+- **Structure:** a job with a Greek employer (or Greek branch) or your own sole proprietorship; IKE profits don't count.
 - **Status:** the Digital Nomad Visa does not qualify.
 - **EFKA** contributions are not reduced.
 
