@@ -108,10 +108,27 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
         </div>
       )}
 
+      <!-- Early CTA (compact) -->
+      <div class="not-prose mb-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 bg-emerald-50 border border-emerald-100 rounded-2xl px-6 py-5">
+        <p class="text-slate-800 font-semibold leading-snug">Not sure how this applies to you?<span class="block text-sm font-normal text-slate-600">Free check via WhatsApp — we reply the same day.</span></p>
+        <a href={checkUrl} target="_blank" rel="noopener noreferrer" data-cta="guide-check-top" class="shrink-0 inline-flex items-center justify-center px-5 py-3 text-sm font-bold rounded-xl text-white bg-emerald-600 hover:bg-emerald-700 transition-colors">Get a free check</a>
+      </div>
+
       <!-- Article Content (Prose) -->
       <article class="prose prose-slate prose-lg max-w-none prose-headings:font-bold prose-a:text-blue-800 hover:prose-a:text-blue-900 prose-img:rounded-xl">
         <Content />
       </article>
+
+      <!-- Mid-article CTA (moved into the article before the 3rd H2 by the script below) -->
+      <template id="guide-mid-cta">
+        <div class="not-prose my-10 bg-slate-900 text-white rounded-2xl px-6 py-6 sm:px-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+          <p class="font-bold text-lg leading-snug">Every situation is different.<span class="block text-sm font-normal text-slate-300">Send us your case — we check it for free and reply the same day, in English, German, Spanish or Greek.</span></p>
+          <a href={checkUrl} target="_blank" rel="noopener noreferrer" data-cta="guide-check-mid" class="shrink-0 inline-flex items-center justify-center px-5 py-3 text-sm font-bold rounded-xl text-slate-900 bg-white hover:bg-emerald-50 transition-colors">Free check via WhatsApp</a>
+        </div>
+      </template>
+
+      <!-- Sticky mobile CTA -->
+      <a id="guide-sticky-cta" href={checkUrl} target="_blank" rel="noopener noreferrer" data-cta="guide-check-sticky" class="md:hidden fixed bottom-4 left-4 right-4 z-40 hidden items-center justify-center px-5 py-3.5 text-base font-bold rounded-xl text-white bg-emerald-600 shadow-xl">Free check via WhatsApp</a>
 
       <!-- Closing line + CTA -->
       <p class="mt-12 text-slate-600 italic">
@@ -119,7 +136,7 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
         <span class="block mt-2 text-sm not-italic text-slate-500">How we research and update our guides: <a href="/editorial-standards" class="underline hover:text-slate-700">editorial standards</a>.</span>
       </p>
 
-      <div class="mt-10 bg-slate-50 p-8 rounded-2xl border border-slate-100 text-center">
+      <div id="guide-end-cta" class="mt-10 bg-slate-50 p-8 rounded-2xl border border-slate-100 text-center">
         <h3 class="text-2xl font-bold text-slate-900 mb-3">Want us to check your situation?</h3>
         <p class="text-slate-600 mb-6">Send us a short message — we reply the same day, in English, German, Spanish or Greek.</p>
         <div class="flex flex-col sm:flex-row gap-3 justify-center">
@@ -134,4 +151,40 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
     </div>
   </div>
 
+  <script is:inline>
+    (function () {
+      var article = document.querySelector('article.prose');
+      var tpl = document.getElementById('guide-mid-cta');
+      if (article && tpl) {
+        var h2s = article.querySelectorAll('h2');
+        var target = h2s.length >= 4 ? h2s[2] : (h2s.length >= 2 ? h2s[h2s.length - 1] : null);
+        if (target) target.parentNode.insertBefore(tpl.content.cloneNode(true), target);
+      }
+      // Sticky mobile button: show after 25% scroll, hide when the end CTA or the cookie banner is visible.
+      var sticky = document.getElementById('guide-sticky-cta');
+      var end = document.getElementById('guide-end-cta');
+      if (sticky) {
+        var update = function () {
+          var doc = document.documentElement;
+          var progress = (window.scrollY + window.innerHeight) / doc.scrollHeight;
+          var endVisible = end && end.getBoundingClientRect().top < window.innerHeight;
+          var banner = document.getElementById('cookie-banner');
+          var bannerOpen = banner && !banner.classList.contains('hidden');
+          var show = progress > 0.25 && !endVisible && !bannerOpen;
+          sticky.classList.toggle('hidden', !show);
+          sticky.classList.toggle('flex', show);
+        };
+        window.addEventListener('scroll', update, { passive: true });
+        window.addEventListener('resize', update);
+        update();
+      }
+      // Track which CTA position gets clicked (GTM/GA4 via dataLayer).
+      document.addEventListener('click', function (e) {
+        var a = e.target && e.target.closest ? e.target.closest('a[data-cta^="guide-"]') : null;
+        if (!a) return;
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({ event: 'whatsapp_cta_click', cta_position: a.getAttribute('data-cta'), page_path: location.pathname });
+      }, true);
+    })();
+  </script>
 </Layout>
