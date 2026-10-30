@@ -81,7 +81,7 @@ If you don't pay in full, the tax is paid in **8 equal monthly instalments**. Th
 
 ### Advance tax (prokatavoli)
 
-The income tax assessment includes an advance on next year's tax. For freelancers and sole traders it is [55% of the tax on business income](https://www.taxheaven.gr/law/4172/2013/arthro/69), minus tax withheld by Greek clients. It is part of the same bill, so it follows the same instalment dates. For IKEs, the advance is [80% of the tax, halved in the first three tax years](https://www.taxheaven.gr/law/4172/2013/arthro/71).
+The income tax assessment includes an advance on next year's tax. For freelancers and sole traders it is [55% of the tax on business income](https://www.taxheaven.gr/law/4172/2013/arthro/69), minus tax withheld by Greek clients, and halved in the year you first earn business income. It is part of the same bill, so it follows the same instalment dates. For IKEs, the advance is [80% of the tax, halved in the first three tax years](https://www.taxheaven.gr/law/4172/2013/arthro/71).
 
 A draft bill, in public consultation since 18 October 2026, would cut the rate for sole proprietorships from 55% to 50% from tax year 2027 ([taxheaven](https://www.taxheaven.gr/news/74903/se-dhmosia-diaboyleysh-to-neo-forologiko-nomosxedio-me-ta-metra-ths-deo-poy-efarmozontai-kata-ta-eth-2026-kai-2027)). It is a draft bill, not yet law. Why the advance hits newcomers hard: [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax).
 
@@ -104,12 +104,12 @@ You need to have been non-resident for tax purposes in Greece for 5 of the previ
 
 For [Article 5B](/guides/retiring-to-greece-7-percent-flat-tax), the cut-off is also 2 July, but the deadline is **31 October** ([AADE press release, 25 September 2026](https://www.aade.gr/sites/default/files/2026-09/d.t._25.09.2026.pdf); [A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf)):
 
-- **Move by 2 July:** apply by 31 October of that year, and the regime starts that year. If you miss that, you can still apply by 31 October of the following year, and the regime starts then.
+- **Move by 2 July:** choose that year or the next. For that year, apply by 31 October of that year. For the next year, apply by 31 October of the next year, and the regime starts then.
 - **Move later:** the regime starts the following year, and you apply by 31 October of that year.
 
 ## E-invoicing from 2 November 2026
 
-Since 2 March 2026, large businesses have had to issue B2B invoices electronically. Everyone else, freelancers included, follows from **2 November 2026** ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). It covers invoices to Greek businesses and to businesses outside the EU.
+Since 2 March 2026, large businesses have had to issue B2B invoices electronically. Everyone else, freelancers included, follows from **2 November 2026** ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). It covers invoices to Greek businesses, to businesses outside the EU and to the public sector. For public-sector clients, e-invoicing was already mandatory under separate rules for public contracts and General Government expenses.
 
 A transition period runs until **31 January 2027**, but only if you filed a declaration with a start date no later than 2 November 2026. From 1 February 2027, invoices in scope can only be issued through an approved provider or AADE's free apps. Details: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
 
