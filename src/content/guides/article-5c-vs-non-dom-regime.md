@@ -2,7 +2,7 @@
 title: "Article 5C vs. The Non-Dom Regime: Which Greek Tax Break is Right for You?"
 description: "Article 5C (50% exemption) vs Article 5A (€100,000 non-dom flat tax): what each covers, 2026 deadlines, break-even, and who should pick which."
 pubDate: 2026-07-18
-updatedDate: 2026-10-20
+updatedDate: 2026-10-31
 category: "tax"
 image: "/images/guides/cost_of_living_hero.png"
 faq:
@@ -20,7 +20,7 @@ faq:
     answer: "No. The Digital Nomad Visa does not allow work for a Greek employer or business activity in Greece, which is exactly what Article 5C requires. DNV holders are taxed under the normal rules once they become Greek tax residents."
 ---
 
-Greece has three special regimes for people who move their tax residency here. Two of them get compared constantly: **[Article 5C](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ)**, the 50% income tax exemption for people who come to work, and **[Article 5A](https://www.taxheaven.gr/laws/view/index/law/4172/year/2013/article/5α)**, the €100,000 flat tax usually called the non-dom regime. (The third, [Article 5B](https://www.taxheaven.gr/law/4172/2013/arthro/5Β), taxes foreign pensioners at a flat 7%; applications are due by 31 October.)
+Greece has three special regimes for people who move their tax residency here. Two of them get compared constantly: **[Article 5C](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ)**, the 50% income tax exemption for people who come to work, and **[Article 5A](https://www.taxheaven.gr/laws/view/index/law/4172/year/2013/article/5α)**, the €100,000 flat tax usually called the non-dom regime. (The third, [Article 5B](https://www.taxheaven.gr/law/4172/2013/arthro/5Β), taxes foreign pensioners at a flat 7%; applications are due by 31 October under AADE decision A.1192/2026.)
 
 The comparison is less of a contest than it looks, because the two regimes tax different income, and [AADE](https://aade.gr/sites/default/files/2025-11/forologika_kinitra.pdf) even allows holding 5C together with 5A or 5B. Here is what each one does, what it costs, and where the break-even lies.
 
@@ -34,7 +34,7 @@ The comparison is less of a contest than it looks, because the two regimes tax d
 
 Article 5C is for professionals, executives and freelancers who come to Greece to work.
 
-**How it works:** if you transfer your tax residency to Greece and take up employment with a Greek company (or the Greek branch of a foreign one), or start your own business here, 50% of that Greek employment or business income is exempt from income tax for seven tax years. The deemed living expenses for your home and car are also not applied to you ([art. 5C par. 2](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ)). Social security (EFKA) is not reduced.
+**How it works:** if you transfer your tax residency to Greece and take up employment with a Greek company (or the Greek branch of a foreign one), or start your own business here, 50% of that Greek employment or business income is exempt from income tax for seven tax years. For the same seven years, the deemed living expenses for your homes and private cars are not applied to you ([AADE](https://aade.gr/sites/default/files/2025-11/forologika_kinitra.pdf)). Social security (EFKA) is not reduced.
 
 **Conditions:**
 - You were not Greek tax resident in 5 of the 6 years before the move.
@@ -62,7 +62,7 @@ Article 5A targets people whose wealth is generated outside Greece: dividends, c
 Three things the headline leaves out:
 - **Greek-source income is taxed normally.** Salary from a Greek employer, profits of a Greek business, Greek rent: all under the standard rules, on top of the €100,000.
 - **No foreign tax credit.** Tax withheld abroad on the covered income is not offset against the Greek lump sum. If your dividends already suffer 15% withholding at source, the €100,000 comes on top of that.
-- **No reporting of the covered income.** You do not have to declare the foreign income the lump sum covers, and foreign movable assets you inherit or receive as a gift (or pass on) are exempt from Greek inheritance and gift tax (par. 8, as amended by [Law 5222/2025](https://www.mondaq.com/investment-immigration/1772334/greece-as-a-destination-for-internationally-mobile-wealth-the-golden-visa-and-the-non-dom-tax-regime)). For some people this simplicity is the main reason to apply.
+- **No reporting of the covered income.** You do not have to declare the foreign income the lump sum covers, and foreign movable assets you inherit or receive as a gift (or pass on) are exempt from Greek inheritance and gift tax (par. 8, as amended by [Law 5222/2025](https://www.taxheaven.gr/law/5222/2025/arthro/206)). For some people this simplicity is the main reason to apply.
 
 **Conditions:**
 - You were not Greek tax resident in **7 of the 8 years** before the move.
@@ -139,4 +139,4 @@ No. Article 5C has no minimum income and no fee. You need a job with a Greek emp
 
 No. The Digital Nomad Visa does not allow work for a Greek employer or business activity in Greece, which is exactly what Article 5C requires. DNV holders are taxed under the normal rules once they become Greek tax residents.
 
-*Rules as of October 2026 (A.1147/2026 for 5A, A.1087/2021 as amended for 5C).*
+*Rules as of October 2026 (Income Tax Code arts. 5A, 5B and 5C as amended by Laws 5222/2025 and 5313/2026; A.1147/2026 for 5A, A.1192/2026 for 5B, A.1087/2021 as amended for 5C).*
