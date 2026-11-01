@@ -2,7 +2,7 @@
 title: "What is an AFM Number in Greece and Why Do You Need It?"
 description: "What the Greek tax number (AFM) is, when you need it, and how foreigners apply online through myAADE, with or without a representative."
 pubDate: 2026-03-20
-updatedDate: 2026-10-29
+updatedDate: 2026-11-01
 category: "afm"
 image: "/images/guides/afm_hero.png"
 faq:
@@ -13,7 +13,7 @@ faq:
   - question: "Can I get a Greek AFM from abroad?"
     answer: "Yes. You apply through the TIN and Authentication Key application in myAADE, upload your passport (or EU ID card) and confirm your identity by video call. You can also authorise a lawyer or accountant to prepare and file the application for you."
   - question: "Do non-residents need a tax representative in Greece?"
-    answer: "No. Since 9 September 2024 a tax representative is optional for individuals under AADE decision A.1069/2024, provided you declare your full foreign address, your foreign tax number and an email address."
+    answer: "No. Since 9 September 2024 a tax representative is optional for individuals under AADE decision A.1069/2024, provided you declare your full foreign address, your foreign tax number and an email address, and accept that AADE notices are sent to those contact details."
 ---
 
 If you plan to spend any significant time in Greece, you will quickly meet three letters you need for almost every administrative step: **AFM** (pronounced *Ah-Fee-Mee*). Here is what it is, why you need it, and how to apply without setting foot in a Greek tax office.
@@ -22,7 +22,7 @@ If you plan to spend any significant time in Greece, you will quickly meet three
 
 - **The AFM is your 9-digit Greek tax number.** It is permanent and you need it to rent, open a bank account, sign utility contracts, buy property and file taxes.
 - **It does not make you tax resident.** Residency depends on where you live and the 183-day rule.
-- **You apply online through myAADE**, with a video identity check that works from abroad. AADE charges nothing.
+- **You apply online through myAADE**, with a video identity check that works from abroad. AADE lists no fee for the application.
 - **No tax representative needed.** Since September 2024 it is optional for non-residents. A lawyer or accountant can still prepare and file the application for you.
 
 ## What is an AFM?
@@ -46,16 +46,20 @@ You cannot function in Greece long-term without an AFM. You will be asked for it
 
 **No.** This is a widespread myth.
 
-An AFM does not make you a Greek tax resident, nor does it subject your worldwide income to Greek tax. Tourists, foreign investors with summer homes and short-term exchange students all hold AFMs without being tax residents. You become tax resident if Greece is your permanent or main home, your habitual abode or the centre of your vital interests, or if you spend more than 183 days in Greece within any 12-month period. More in our guide on [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days). Moving from the UK? Our [UK-to-Greece tax guide](/guides/moving-to-greece-from-uk-tax-guide) covers the switch step by step.
+An AFM does not make you a Greek tax resident, nor does it subject your worldwide income to Greek tax. Tourists, foreign investors with summer homes and short-term exchange students all hold AFMs without being tax residents.
+
+You become tax resident if Greece is your permanent or main home, your habitual abode or the centre of your vital interests, or if you spend more than 183 days in Greece within any 12-month period. More in our guide on [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days). Moving from the UK? Our [UK-to-Greece tax guide](/guides/moving-to-greece-from-uk-tax-guide) covers the switch step by step. Coming to work as a freelancer? See [freelancer setup in Greece](/guides/freelancer-setup-greece).
 
 ## How to get an AFM
 
-Obtaining an AFM used to mean queuing at a local tax office (DOY) with a translator. Since 1 December 2023 ([AADE decision A.1185/2023](https://www.taxheaven.gr/circulars/45422/a-1185-2023)), applications are made **online only**, through the ["TIN & Authentication Key" application in myAADE](https://aade.gr/en/greeks-abroad-non-residents/registration-tax-register/issuance-tax-identification-number-and-authentication-key-and-appointment). Applying with AADE is free.
+Obtaining an AFM used to mean queuing at a local tax office (DOY) with a translator. Since 1 December 2023 ([AADE decision A.1185/2023](https://www.taxheaven.gr/circulars/45422/a-1185-2023)), applications are made **online only**, through the ["TIN & Authentication Key" application in myAADE](https://aade.gr/en/greeks-abroad-non-residents/registration-tax-register/issuance-tax-identification-number-and-authentication-key-and-appointment). AADE does not list any fee for the application.
 
 ### Applying yourself
 1. Fill in the online application and upload your passport (EU citizens can use a national ID card). Any foreign public document, such as a marriage certificate, needs an apostille and a Greek translation.
 2. Confirm your identity by video call with AADE (myAADElive) or at a tax office of your choice. The video call works from abroad.
-3. Once your identity is verified, your authentication key is emailed right after the call, and the AFM certificate follows by email after the call or later during AADE working hours. You can take the first available video slot or book an appointment up to 15 days ahead.
+3. Once your identity is verified, your authentication key is emailed right after the call. The AFM certificate follows by email, either after the call or later during AADE working hours.
+
+For the video call you can take the first available slot or book an appointment; the calendar shows slots for the next 15 days.
 
 ### Applying through a representative
 You can authorise a lawyer or accountant to prepare and file the application for you. The authorisation needs a certified signature; documents signed abroad usually need an apostille and a Greek translation. In Greece, the signature can be certified at a KEP (citizens' service centre). The representative is identified with their own credentials, so you don't need a video call.
@@ -64,7 +68,7 @@ You can authorise a lawyer or accountant to prepare and file the application for
 - **Living abroad:** a valid passport, plus your full foreign address, your foreign tax number and an email address.
 - **Living in Greece:** a passport plus proof of legal stay, such as a residence permit.
 
-Since 9 September 2024 a tax representative is optional for non-residents ([AADE decision A.1069/2024](https://www.aade.gr/sites/default/files/2024-05/a1069_2024.pdf)), provided you declare your foreign address, foreign tax number and email.
+Since 9 September 2024 a tax representative is optional for non-residents ([AADE decision A.1069/2024](https://www.aade.gr/sites/default/files/2024-05/a1069_2024.pdf)), provided you declare your full foreign address, your foreign tax number and an email address, and accept that AADE notices are sent to those contact details.
 
 ## TAXISnet: your digital key
 
@@ -88,10 +92,10 @@ Yes. You apply through the TIN and Authentication Key application in myAADE, upl
 
 ### Do non-residents need a tax representative in Greece?
 
-No. Since 9 September 2024 a tax representative is optional for individuals under AADE decision A.1069/2024, provided you declare your full foreign address, your foreign tax number and an email address.
+No. Since 9 September 2024 a tax representative is optional for individuals under AADE decision A.1069/2024, provided you declare your full foreign address, your foreign tax number and an email address, and accept that AADE notices are sent to those contact details.
 
 ## Need help with your AFM and what comes after?
 
 We [prepare and file AFM applications](/greece/tax-number-afm) for people moving to Greece, and once you start working, taxomade takes over your [ongoing bookkeeping](/greece/ongoing-bookkeeping) from €89/month, with myDATA, VAT returns and your annual tax return included. Send us a message for a free check.
 
-*Rules as of October 2026 (AADE decisions A.1185/2023, A.1190/2023 and A.1069/2024).*
+*Rules as of November 2026 (AADE decisions A.1185/2023 and A.1069/2024).*
