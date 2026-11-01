@@ -117,7 +117,7 @@ At EU level, the "VAT in the Digital Age" (ViDA) reforms are set to extend e-inv
 
 ## What we charge
 
-At taxomade, myDATA and e-invoicing are part of our ongoing bookkeeping from **€89/month**: we set you up on a compliant channel, prepare and file any declaration you need, and prepare and file your VAT returns and annual tax return, all in English. Not sure whether your current setup is compliant? [See what's included](/greece/ongoing-bookkeeping) and request a free compliance check via WhatsApp or our contact form.
+At taxomade, myDATA and e-invoicing are part of our ongoing bookkeeping from **€89/month**: we set you up on a compliant channel, prepare and file any declaration you need, plus your VAT returns and annual tax return, all in English. Not sure whether your current setup is compliant? [See what's included](/greece/ongoing-bookkeeping) and request a free compliance check via WhatsApp or our contact form.
 
 For general pricing context, see [how much an accountant costs in Greece](/guides/accountant-cost-greece).
 
