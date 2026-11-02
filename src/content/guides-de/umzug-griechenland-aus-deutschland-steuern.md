@@ -2,6 +2,7 @@
 title: "Auswandern nach Griechenland: Steuern und Anmeldung für Deutsche (2026)"
 description: "Abmeldung, Wegzugsjahr, DBA 1966, Rente, Krankenversicherung und Wegzugsteuer: Was sich steuerlich ändert, wenn Sie von Deutschland nach Griechenland ziehen."
 pubDate: 2026-10-10
+updatedDate: 2026-11-02
 category: "tax"
 translationOf: "moving-to-greece-from-germany-tax-guide"
 faq:
@@ -60,7 +61,7 @@ Zwischen Deutschland und Griechenland gilt das [Abkommen von 1966](https://recht
 | Deutsche Beamtenpensionen | Deutschland |
 | Deutsche Dividenden | Deutschland darf bis zu 25 % behalten (der Überhang aus der deutschen Abgeltungsteuer von 26,375 % kann erstattet werden); Griechenland rechnet an |
 
-Sehen beide Staaten Sie als ansässig, entscheidet die Kollisionsregel des Abkommens (Tie-Breaker): ständige Wohnstätte, dann Mittelpunkt der Lebensinteressen, dann gewöhnlicher Aufenthalt. Deutschland stellt griechische Einkünfte unter Progressionsvorbehalt frei; Griechenland rechnet deutsche Steuer an.
+Sehen beide Staaten Sie als ansässig, entscheidet die Kollisionsregel des Abkommens (Tie-Breaker): ständige Wohnstätte, dann Mittelpunkt der Lebensinteressen, dann gewöhnlicher Aufenthalt. Deutschland stellt griechische Einkünfte grundsätzlich unter Progressionsvorbehalt frei, rechnet bei griechischen Dividenden und Zinsen aber die griechische Steuer an; Griechenland rechnet deutsche Steuer an.
 
 ## 4. Freiberufler und Remote-Worker
 

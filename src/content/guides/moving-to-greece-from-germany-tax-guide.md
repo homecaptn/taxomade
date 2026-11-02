@@ -2,7 +2,7 @@
 title: "Moving to Greece from Germany: Tax and Setup Guide (2026)"
 description: "Moving from Germany to Greece: deregistration, the year of departure, the 1966 tax treaty, social security, pensions and exit tax, plus the Greek setup."
 pubDate: 2026-10-10
-updatedDate: 2026-10-21
+updatedDate: 2026-11-02
 category: "tax"
 translationOf: "umzug-griechenland-aus-deutschland-steuern"
 faq:
@@ -61,7 +61,7 @@ Germany and Greece use the [treaty of 1966](https://rechtsanwalt-griechenland.de
 | German civil service pensions (Beamte) | Germany |
 | German dividends | Germany may keep up to 25% (the excess over the German 26.375% withholding can be reclaimed); Greece credits |
 
-If both countries see you as resident, the treaty's tie-breaker decides: permanent home, then centre of vital interests, then habitual abode. Germany exempts Greek income with progression; Greece credits German tax.
+If both countries see you as resident, the treaty's tie-breaker decides: permanent home, then centre of vital interests, then habitual abode. Germany generally exempts Greek income with progression, but credits Greek tax on Greek dividends and interest; Greece credits German tax.
 
 ## 4. Freelancers and remote workers
 
