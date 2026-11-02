@@ -2,16 +2,16 @@
 title: "Already Living in Greece Without a Tax Setup? A 2026 Fix-It Checklist"
 description: "Moved to Greece but never sorted out your taxes? Check tax residency, register your work, file late returns and see what the 2026 fines really are."
 pubDate: 2026-10-07
-updatedDate: 2026-10-29
+updatedDate: 2026-11-02
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
   - question: "Do I have to pay taxes in Greece if I work remotely for a foreign company?"
     answer: "If you are a Greek tax resident, yes. Greek tax residents are taxed on their worldwide income, including salary or fees paid from abroad. You generally become tax resident if you spend more than 183 days in Greece within any 12-month period, or if your permanent home or centre of vital interests is in Greece."
   - question: "What happens if I lived in Greece and never filed a tax return?"
-    answer: "You can still file late returns. Fines for late filing are imposed automatically by the tax system. If you file before the tax office contacts you, they are fixed amounts per late return plus interest, usually far smaller than the percentage-based penalties after an audit. The sooner you file, the less builds up."
+    answer: "You can still file late returns. If you file before the tax office contacts you, the fines are fixed amounts per late return plus interest, usually far smaller than the percentage-based penalties after an audit. The sooner you file, the less builds up."
   - question: "What is the fine for a late tax return in Greece?"
-    answer: "Late returns with no tax to pay cost €100. If a late return shows tax to pay, the fine is €100 for employees and pensioners, €250 for self-employed people with simple bookkeeping and €500 with double-entry bookkeeping. If a late initial income tax return shows €100 tax or less, no fine applies. Interest of 0.73% per month on the unpaid tax comes on top."
+    answer: "It depends on your books, not on whether the return shows tax to pay. The fine per late return is €100 if you keep no business books (for example employees and pensioners), €250 for self-employed people with simple bookkeeping and €500 with double-entry bookkeeping. If a late initial income tax return shows €100 tax or less, no fine applies. Interest of 0.73% per month on unpaid tax comes on top."
   - question: "Do I need to register as self-employed in Greece if my clients are abroad?"
     answer: "Yes. If you are tax resident in Greece and work as a freelancer, you must register your business activity with the Greek tax authority before your first invoice, regardless of where your clients are. That also brings social security (EFKA), invoicing through myDATA and, in most cases, VAT returns."
   - question: "Can I still apply for the 5C tax regime if I moved last year?"
@@ -45,27 +45,32 @@ What you need depends on how you earn your money:
 
 | Your situation | What you need in Greece |
 |---|---|
-| **Freelancer / self-employed** | Register your business activity, register with EFKA (social security), report every invoice to myDATA (AADE's digital bookkeeping platform), file VAT returns in most cases |
+| **Freelancer / self-employed** | Register your business activity, register with EFKA (social security), report every invoice to [myDATA](/guides/mydata-greece-explained) (AADE's digital bookkeeping platform), file VAT returns in most cases |
 | **Employed by a foreign company, working remotely** | Annual Greek tax return as a resident; check with your employer how your social security is handled (e.g. an A1 certificate, the EU form confirming which country's social security applies) |
 | **Employed by a Greek company** | Your employer handles payroll; you still file an annual tax return |
 
-For freelancers, this step matters most. Under Greek VAT law, the activity has to be registered **before your first transaction**. Working without registration is a violation in itself. In a case reviewed on appeal in 2026 ([ΔΕΔ 200/2026](https://www.taxheaven.gr/circulars/52927/ded-200-2026)), a business owner who had worked for years before registering was fined €100 for the missing registration, but €10,000 per year (2020–2023) for the books that were never kept. Under the current [Article 57 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/57) (Law 5104/2024), the fine for books not kept is 15% of average annual revenue, within a range of €10,000–30,000 per audited year for simple bookkeeping (€30,000–90,000 for double-entry), with higher minimums if income tax returns are missing. Freelancers whose Greek turnover stays at or below €10,000 in both the current and the previous year can opt for the [small-business VAT exemption](https://www.taxheaven.gr/circulars/51970/a-1011-2026) (Article 44a VAT Code, AADE decision A.1011/2026): new freelancers choose it in their registration declaration, existing ones apply online through the "My Requests" application in myAADE. That is why VAT returns apply "in most cases", not always. From 2 November 2026, invoices to Greek businesses, businesses outside the EU and public bodies must also be issued as [e-invoices](/guides/e-invoicing-greece-explained).
+For freelancers, this step matters most. Under Greek VAT law, the activity has to be registered **before your first transaction**. Working without registration is a violation in itself.
+
+In a case reviewed on appeal in 2026 ([ΔΕΔ 200/2026](https://www.taxheaven.gr/circulars/52927/ded-200-2026)), a business owner who had worked for years before registering was fined €100 for the missing registration, but €10,000 per year (2020–2023) for the books that were never kept. Under the current [Article 57 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/57) (Law 5104/2024), the fine for books not kept is 15% of average annual revenue, within a range of €10,000–30,000 per audited year for simple bookkeeping (€30,000–90,000 for double-entry), with higher minimums if income tax returns are missing.
+
+Freelancers whose Greek turnover stays at or below €10,000 in both the current and the previous year can opt for the [small-business VAT exemption](https://www.taxheaven.gr/circulars/51970/a-1011-2026) (Article 44a VAT Code, AADE decision A.1011/2026): new freelancers choose it in their registration declaration, existing ones apply online through the "My Requests" application in myAADE. That is why VAT returns apply "in most cases", not always. From 2 November 2026, invoices to Greek businesses and to businesses outside the EU must also be issued as [e-invoices](/guides/e-invoicing-greece-explained); for most public contracts, this has applied since 1 September 2025.
 
 Our guide on [setting up as a freelancer in Greece](/guides/freelancer-setup-greece) walks through the registration, and [EFKA for freelancers](/guides/efka-social-security-freelancers-greece) explains social security.
 
 ## Step 4: File what you missed
 
-You can file missed tax returns late. Fines for late returns are now calculated and imposed **automatically** when you submit, and appear in your myAADE account. The amounts come from [Article 53 of the Greek Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/53) (Law 5104/2024) (see also [ERT, May 2026](https://www.ertnews.gr/eidiseis/oikonomia/aytomata-o-katalogismos-prostimon-gia-ekprothesmes-forologikes-diloseis/)):
+You can file missed tax returns late. The fines are fixed amounts per late return, set in [Article 53 of the Greek Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/53) (Law 5104/2024) and imposed by the tax office with a fine notice. What counts is the type of books you keep, not whether the return shows tax to pay ([AADE circular E.2059/2025](https://www.aade.gr/sites/default/files/2025-08/e2059_2025pro.pdf)):
 
-| Late return | Fine |
+| Who files late | Fine per late return |
 |---|---|
-| Any late return with no tax to pay (including VAT returns with zero or a credit) | €100 |
-| Late return with tax to pay: employees and pensioners (no business books) | €100 |
-| Late return with tax to pay: self-employed, simple bookkeeping | €250 |
-| Late return with tax to pay: double-entry bookkeeping | €500 |
+| No business books (for example employees and pensioners) | €100 |
+| Self-employed, simple bookkeeping | €250 |
+| Double-entry bookkeeping (for example an IKE) | €500 |
 | Late initial income tax return showing €100 tax or less | No fine |
 
-Late-payment interest of 0.73% per month on the unpaid tax comes on top, and the fine applies per late return, so it adds up with every missed month or quarter. If you were only employed, or had no business activity, catching up is usually limited to these fixed fines plus interest, far less than after a tax audit. If you worked as a freelancer without registering, fines for the missing registration, invoices and books can come on top, so get the full picture before you file. If you also owe tax, budget for the [advance tax and other hidden costs](/guides/hidden-costs-moving-to-greece-advance-tax) that come with a Greek setup. A [draft tax bill](https://www.taxheaven.gr/news/74903/se-dhmosia-diaboyleysh-to-neo-forologiko-nomosxedio-me-ta-metra-ths-deo-poy-efarmozontai-kata-ta-eth-2026-kai-2027), in public consultation since 18 October 2026 and not yet law, would cut the advance tax for self-employed people from 55% to 50% from tax year 2027.
+For the self-employed, the higher fines apply to returns linked to the business, such as VAT and income tax returns, even when they show nothing to pay. Information returns, such as the recapitulative statement for EU business clients, cost €100 whatever books you keep.
+
+Late-payment interest of 0.73% per month on the unpaid tax comes on top, and the fine applies per late return, so it adds up with every missed month or quarter. If you were only employed, or had no business activity, catching up is usually limited to these fixed fines plus interest, far less than after a tax audit. If you worked as a freelancer without registering, fines for the missing registration, invoices and books can come on top, so get the full picture before you file. If you also owe tax, budget for the [advance tax and other hidden costs](/guides/hidden-costs-moving-to-greece-advance-tax) that come with a Greek setup. A cut of the advance tax for self-employed people from 55% to 50% from tax year 2027 is proposed in a [draft tax bill](https://www.taxheaven.gr/news/74903/se-dhmosia-diaboyleysh-to-neo-forologiko-nomosxedio-me-ta-metra-ths-deo-poy-efarmozontai-kata-ta-eth-2026-kai-2027) (public consultation until 1 November 2026), but it is not yet law.
 
 ## Step 5: Check the 5C regime before it's too late
 
@@ -89,11 +94,11 @@ If you are a Greek tax resident, yes. Greek tax residents are taxed on their wor
 
 ### What happens if I lived in Greece and never filed a tax return?
 
-You can still file late returns. Fines for late filing are imposed automatically by the tax system. If you file before the tax office contacts you, they are fixed amounts per late return plus interest, usually far smaller than the percentage-based penalties after an audit. The sooner you file, the less builds up.
+You can still file late returns. If you file before the tax office contacts you, the fines are fixed amounts per late return plus interest, usually far smaller than the percentage-based penalties after an audit. The sooner you file, the less builds up.
 
 ### What is the fine for a late tax return in Greece?
 
-Late returns with no tax to pay cost €100. If a late return shows tax to pay, the fine is €100 for employees and pensioners, €250 for self-employed people with simple bookkeeping and €500 with double-entry bookkeeping. If a late initial income tax return shows €100 tax or less, no fine applies. Interest of 0.73% per month on the unpaid tax comes on top.
+It depends on your books, not on whether the return shows tax to pay. The fine per late return is €100 if you keep no business books (for example employees and pensioners), €250 for self-employed people with simple bookkeeping and €500 with double-entry bookkeeping. If a late initial income tax return shows €100 tax or less, no fine applies. Interest of 0.73% per month on unpaid tax comes on top.
 
 ### Do I need to register as self-employed in Greece if my clients are abroad?
 
@@ -103,4 +108,4 @@ Yes. If you are tax resident in Greece and work as a freelancer, you must regist
 
 Possibly, but the application has deadlines and conditions, including that you were not Greek tax resident in five of the last six years. Employees only qualify with a Greek employer or a Greek branch of a foreign company. Applying late can cost you a year of the benefit, so check your eligibility as soon as possible.
 
-*Rules as of October 2026 (Tax Procedure Code, Law 5104/2024, arts. 53 and 57; VAT Code art. 44a; Income Tax Code art. 5C).*
+*Rules as of November 2026 (Tax Procedure Code, Law 5104/2024, arts. 53 and 57; VAT Code art. 44a; Income Tax Code art. 4 and 5C; AADE decisions A.1011/2026 and A.1197/2026).*

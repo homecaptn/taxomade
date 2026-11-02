@@ -2,7 +2,7 @@
 title: "Setting up as a Freelancer in Greece: The Complete Guide"
 description: "What a new freelancer in Greece must set up: AFM and business start, EFKA from €150.46/month, myDATA invoicing, VAT and income tax rates for 2026."
 pubDate: 2026-05-14
-updatedDate: 2026-10-16
+updatedDate: 2026-11-02
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -24,7 +24,7 @@ If you work for clients and move your tax residence to Greece, the usual setup i
 - **Social security:** from **€150.46/month** for your first five years of insurance (on application), otherwise from €250.77, plus €10 for most freelancers.
 - **Invoicing:** every invoice is reported to myDATA; e-invoicing applies to Greek and non-EU business clients from 2 November 2026.
 - **VAT:** 24% standard rate; foreign business clients are usually invoiced without Greek VAT.
-- **Income tax:** 9% to 44% from income year 2026, plus a 55% advance on next year's tax.
+- **Income tax:** 9% to 44% from income year 2026, plus a 55% advance on next year's tax (halved in your first year with business income).
 
 ## The setup process
 
@@ -32,7 +32,7 @@ It can be done alone, but most newcomers use an accountant for the first registr
 
 1. **AFM (tax number):** your foundational number in Greece, applied for online through myAADE. TAXISnet access (the tax portal login) is activated separately. See [what the AFM is](/guides/what-is-greek-afm-number).
 2. **Business start (έναρξη εργασιών):** you register your activity with the tax authority (AADE) and select your activity codes (KAD), for example software development, consulting or marketing. Registration with the commercial registry (GEMI) is only required if your activity counts as commercial; most freelance professions don't need it.
-3. **AMKA and EFKA:** AMKA is your social security number. After the business start, apply to EFKA, the social insurance fund, **by the 10th of the following month**. If you miss it, EFKA registers you itself in class 1; you can still switch to the reduced class later, but only for what remains of your first five years.
+3. **AMKA and EFKA:** AMKA is your social security number. After the business start, apply to EFKA, the social insurance fund, **by the 10th of the following month**. If you miss it, EFKA registers you itself, normally in class 1. The reduced class is only granted on application and runs for five years from the start of your activity, so applying late shortens it.
 
 ## Monthly costs: EFKA contributions
 
@@ -45,14 +45,14 @@ Contributions are paid monthly with an RF payment code, due by the last working 
 
 ## Invoicing and myDATA
 
-Greece reports every invoice electronically through **myDATA**, the tax authority's digital books. You cannot simply email a Word document to a client.
+Greece reports every invoice electronically through **myDATA**, the tax authority's digital books (see [myDATA explained](/guides/mydata-greece-explained)). You cannot simply email a Word document to a client.
 
-- **E-invoicing:** from 2 November 2026, invoices to Greek businesses and to businesses outside the EU must be issued through an AADE-approved provider or AADE's free timologio or myDATAapp, with a transition period until 31 January 2027. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
+- **E-invoicing:** from 2 November 2026, invoices to Greek businesses and to businesses outside the EU must be issued through an AADE-approved provider or AADE's free timologio or myDATAapp. A transition period until 31 January 2027 applies only if the required declaration was filed on time (by 12 November 2026 for a 2 November start). Invoices for most public contracts have required e-invoicing since 1 September 2025. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
 - **timologio:** AADE's free online tool issues invoices that sync with myDATA automatically; see [the timologio guide](/guides/free-invoicing-greece-aade-timologio). Many freelancers prefer commercial software for usability.
 
 ## Taxes: VAT and income tax
 
-**VAT:** the standard rate is **24%**. Invoices to clients outside the EU, and to business clients in other EU countries under the reverse charge, are usually issued without Greek VAT, but they still go into your returns. With simple books, you file monthly if you started on or after 1 January 2024 (quarterly on request after 24 months), otherwise quarterly; double-entry books file monthly. See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
+**VAT:** the standard rate is **24%**. Invoices to clients outside the EU, and to business clients in other EU countries under the reverse charge, are usually issued without Greek VAT, but they still go into your returns. Double-entry books, and simple books for businesses started on or after 1 January 2024, file monthly (simple books can switch to quarterly on request after 24 months). Older businesses with simple books file quarterly. If your Greek turnover stays at or below €10,000, you can opt for the small-business VAT exemption (VAT Code art. 44a). See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
 
 **Income tax** for sole proprietors is progressive. For income from 2026:
 
@@ -65,13 +65,13 @@ Greece reports every invoice electronically through **myDATA**, the tax authorit
 
 Lower rates apply to under-30s and parents. Details in [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026).
 
-If you were not Greek tax resident in five of the previous six years, you may qualify for the [Article 5C regime](/guides/50-percent-tax-break-article-5c): 50% of your income from the registered activity is exempt from income tax. Digital Nomad Visa holders are not eligible. On top of income tax, budget for the [55% advance tax](/guides/hidden-costs-moving-to-greece-advance-tax) on next year's bill (halved in your first year) and, from your fourth year, the minimum presumptive income. The trade fee no longer applies to individuals.
+If you were not Greek tax resident in five of the previous six years, you may qualify for the [Article 5C regime](/guides/50-percent-tax-break-article-5c): 50% of your income from the registered activity is exempt from income tax. Digital Nomad Visa holders are not eligible. On top of income tax, budget for the [55% advance tax](/guides/hidden-costs-moving-to-greece-advance-tax) on next year's bill (halved in your first year with business income; a cut to 50% from tax year 2027 is proposed, not yet law) and, from your fourth year, the minimum presumptive income. The trade fee no longer applies to individuals.
 
 ### What about an IKE (private company)?
 
 Many expats read about the 5% dividend tax and assume they should open a company (IKE). **The 5% is a tax on company distributions, paid after 22% corporate tax, and has nothing to do with sole-proprietor income.**
 
-An IKE also carries higher fixed costs: the annual trade fee, double-entry bookkeeping and monthly VAT returns. In our experience, ongoing accounting for an IKE costs about twice as much as for a sole proprietorship. For most freelancers, a sole proprietorship, combined with 5C where available, is simpler and cheaper. Details in [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs).
+An IKE also carries higher fixed costs: the annual trade fee (currently still charged to companies; a draft bill in public consultation in October 2026 proposes phasing it out by 2028), double-entry bookkeeping and monthly VAT returns. In our experience, ongoing accounting for an IKE costs about twice as much as for a sole proprietorship. For most freelancers, a sole proprietorship, combined with 5C where available, is simpler and cheaper. Details in [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs).
 
 ## Frequently asked questions
 
@@ -95,4 +95,4 @@ For most freelancers, a sole proprietorship is simpler and cheaper. An IKE pays 
 
 The [timeline for moving to Greece as a freelancer](/guides/moving-to-greece-as-freelancer-timeline-payments) shows what is due when. At taxomade, we prepare and file your business start, VAT returns and annual tax return as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, with myDATA included. Send us a message for a free check of your setup.
 
-*Rules as of October 2026 (Income Tax Code art. 5C, 29 and 69, EFKA circular 6/2026, AADE decision A.1197/2026).*
+*Rules as of November 2026 (Income Tax Code art. 5C, 29 and 69, VAT Code art. 44a, Law 4387/2016 art. 39 and 39A, EFKA circular 6/2026, AADE decision A.1197/2026).*

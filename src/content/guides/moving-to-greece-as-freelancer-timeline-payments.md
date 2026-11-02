@@ -2,7 +2,7 @@
 title: "Moving to Greece as a Freelancer: Timeline & Tax Deadlines"
 description: "Greek freelancer tax calendar 2026: myDATA, monthly EFKA, VAT returns, EU recapitulative statements, the E1/E3 return and the 55% advance tax."
 pubDate: 2026-08-03
-updatedDate: 2026-10-14
+updatedDate: 2026-11-02
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -16,7 +16,7 @@ faq:
     answer: "An advance of 55% of your income tax on business income, paid with your annual return towards next year's tax. It is halved in the year you first earn business income and credited against the following year's bill."
 ---
 
-A Greek freelancer's year runs on three clocks: monthly (myDATA, EFKA), monthly or quarterly (VAT), and annual (the income tax return and the advance tax). Missing a deadline triggers penalties automatically, without a warning letter first, so you need a clear picture of what is due when. This guide lays out the calendar for a [sole proprietorship](/guides/freelancer-setup-greece) (ατομική επιχείρηση) in Greece.
+A Greek freelancer's year runs on three clocks: monthly (myDATA, EFKA), monthly or quarterly (VAT), and annual (the income tax return and the advance tax). There is no reminder before a deadline, and a late return brings a fixed fine that the tax office imposes with a fine notice ([Article 53 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/53), Law 5104/2024), so you need a clear picture of what is due when. This guide lays out the calendar for a [sole proprietorship](/guides/freelancer-setup-greece) (ατομική επιχείρηση) in Greece.
 
 ## The short answer
 
@@ -33,7 +33,7 @@ A Greek freelancer's year runs on three clocks: monthly (myDATA, EFKA), monthly 
 
 Greece runs a digital bookkeeping system called **myDATA** (My Digital Accounting and Tax Application).
 
-- **Issuing invoices:** every invoice you issue is transmitted to myDATA, in real time through invoicing software such as the free [AADE timologio](/guides/free-invoicing-greece-aade-timologio), or by the next day at the latest. From 2 November 2026 (transition period to 31 January 2027), invoices to Greek businesses, businesses outside the EU and public bodies must be issued through an approved e-invoicing channel: timologio, myDATAapp or a certified provider. See [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
+- **Issuing invoices:** every invoice you issue is transmitted to myDATA, in real time through invoicing software such as the free [AADE timologio](/guides/free-invoicing-greece-aade-timologio), or by the next day at the latest. From 2 November 2026 (transition period to 31 January 2027), invoices to Greek businesses and businesses outside the EU must be issued through an approved e-invoicing channel: timologio, myDATAapp or a certified provider. For most public contracts, e-invoicing has already been mandatory since 1 September 2025. See [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
 - **Expenses:** your business expenses are classified in myDATA as well. Your accountant does this before the VAT return for the period is filed.
 
 ### 2. Social security contributions (EFKA)
@@ -45,7 +45,7 @@ EFKA is the national social security fund. As a freelancer you pay a fixed month
 
 ### 3. Recapitulative statements (only with EU business clients)
 
-If you invoice VAT-registered businesses in other EU countries, you file a monthly recapitulative statement listing them, by the **26th of the following month**, separately from the VAT return and even in months when no VAT return is due. A missed statement is penalised automatically. More in our [VAT guide for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
+If you invoice VAT-registered businesses in other EU countries, you file a monthly recapitulative statement listing them, by the **26th of the following month**, separately from the VAT return and even in months when no VAT return is due. A late statement costs a fixed €100 fine per statement, whatever books you keep, issued when you file it late ([Article 53 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/53), [AADE circular E.2059/2025](https://www.aade.gr/sites/default/files/2025-08/e2059_2025pro.pdf)). More in our [VAT guide for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
 
 ## VAT returns (monthly or quarterly)
 
@@ -99,4 +99,4 @@ An advance of 55% of your income tax on business income, paid with your annual r
 
 Every deadline above is part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month: myDATA transmission, EFKA notices, VAT returns, recapitulative statements and the annual E1/E3 return, in English, German, Spanish or Greek. Send us a message for a free check of your setup.
 
-*Rules as of October 2026 (AADE A.1049/2025 and A.1197/2026, Income Tax Code art. 69, EFKA circular 6/2026; deadlines are extended in some years).*
+*Rules as of November 2026 (AADE A.1049/2025 and A.1197/2026, Income Tax Code art. 69, Tax Procedure Code art. 53, E.2059/2025, EFKA circular 6/2026; deadlines are extended in some years).*
