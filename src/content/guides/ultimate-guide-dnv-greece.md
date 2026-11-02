@@ -56,7 +56,7 @@ The main documents are:
 
 - **Passport:** valid beyond the visa period; consulates usually ask for at least three months beyond your planned departure, two blank pages, and a passport issued within the last ten years.
 - **Proof of income:** employment contract, recent payslips, bank statements, or freelance contracts and invoices showing the €3,500 a month.
-- **Health insurance:** covering medical care and hospital treatment in Greece for the whole period. Basic travel policies are often not accepted; check your consulate's wording.
+- **Health insurance:** covering medical care and hospital treatment in Greece for the whole period. Basic travel policies are often not accepted; check your consulate's wording. More on [health insurance in Greece](/greece/health-insurance).
 - **Criminal record certificate:** from your country of residence, usually with an apostille and a certified Greek translation.
 - **Proof of accommodation:** often requested at the visa stage; a registered lease or purchase contract is needed for the permit.
 - **Declaration:** that you will work only for employers or clients based outside Greece.

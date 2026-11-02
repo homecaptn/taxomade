@@ -1,0 +1,77 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import RelatedGuides from '../../components/RelatedGuides.astro';
+
+// Placeholder until BDAE sends the Greece landing page link
+const BDAE_URL = 'https://www.bdae.com/';
+const BDAE_LINK_IS_PLACEHOLDER = true;
+---
+
+<Layout title="Health Insurance in Greece for Expats: EFKA vs Private Cover | taxomade" description="Health insurance in Greece for expats: what EFKA covers, when you need private cover (visas, gaps, worldwide protection) and our partner BDAE.">
+  <main class="pt-32 pb-24 md:pt-40 bg-white">
+    <article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-wider text-blue-800 mb-4">Health insurance</p>
+      <h1 class="text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight leading-tight">Health insurance in Greece: EFKA vs private cover</h1>
+      <p class="text-xl text-slate-600 mb-12 leading-relaxed">
+        If you live and work in Greece, health cover usually comes through the public system. Many internationals still need, or want, private insurance on top. Here is how the two fit together.
+      </p>
+
+      <div class="prose prose-slate prose-lg max-w-none">
+        <h2>EFKA: public cover through your social security</h2>
+        <p>
+          Once you are registered as self-employed or employed in Greece, you pay social security contributions to EFKA. These contributions include public health cover through EOPYY, the national health service provider. As a freelancer you pay them every month, from the first month of your activity. For how the contribution classes work, see our <a href="/guides/efka-social-security-freelancers-greece">EFKA guide for freelancers</a>.
+        </p>
+        <p>
+          Public cover gives you access to public hospitals and contracted doctors. Waiting times can be long, and English is not guaranteed. That is why many people add private insurance.
+        </p>
+
+        <h2>Who usually needs private cover</h2>
+        <ul>
+          <li><strong>Visa applicants from outside the EU.</strong> The <a href="/greece/digital-nomad-visa">Digital Nomad Visa</a>, the financially independent person permit and the Golden Visa all require proof of health insurance that covers you in Greece. Check the exact wording your consulate asks for.</li>
+          <li><strong>People not (yet) covered through EFKA.</strong> For example remote employees of foreign companies, retirees without an S1 form, or anyone in the months before their Greek registration is complete.</li>
+          <li><strong>Anyone who wants more.</strong> Private hospitals, English-speaking doctors, and cover that also applies when you travel or spend time back home.</li>
+        </ul>
+
+        <h2>Our own experience</h2>
+        <p>
+          We, Manoli and Leonard, have both been insured with BDAE for years. What mattered most to us: the cover also works during stays back home in Germany, including an operation there. That is our personal experience, not advice on which plan is right for you.
+        </p>
+      </div>
+
+      <!-- Partner box -->
+      <section class="mt-12 rounded-2xl border border-slate-200 bg-slate-50 p-6 md:p-8">
+        <div class="flex flex-col sm:flex-row sm:items-center gap-6">
+          <img src="/images/partners/bdae.svg" alt="BDAE logo" class="h-12 w-auto shrink-0" width="188" height="50" loading="lazy" />
+          <div>
+            <p class="text-lg font-bold text-slate-900 mb-1">Our partner for international health insurance: BDAE</p>
+            <p class="text-slate-600">BDAE (Hamburg) specialises in health insurance for people living abroad. Advice and applications are handled directly by BDAE. We don't compare plans, quote prices or help with applications.</p>
+          </div>
+        </div>
+        <div class="mt-6">
+          <a href={BDAE_URL} target="_blank" rel="sponsored noopener" data-cta="bdae-health-insurance" class="inline-flex items-center justify-center px-6 py-3 text-base font-bold rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors">
+            Visit BDAE
+            <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+          </a>
+          {BDAE_LINK_IS_PLACEHOLDER && (
+            <p class="mt-3 text-sm text-slate-600">Please mention <strong>taxomade</strong> when contacting BDAE.</p>
+          )}
+        </div>
+        <p class="mt-6 text-xs text-slate-500">We may receive a commission from our partners. This does not affect the price you pay.</p>
+      </section>
+
+      <div class="prose prose-slate prose-lg max-w-none mt-12">
+        <h2>Health insurance is one part of your setup</h2>
+        <p>
+          Your EFKA registration, tax number and bookkeeping decide how you are covered and what you pay. If you're not sure your setup is complete, we check it for free. See <a href="/greece/ongoing-bookkeeping">our bookkeeping service</a> or message us on <a href="https://wa.me/491743426818" target="_blank" rel="noopener">WhatsApp</a>.
+        </p>
+      </div>
+    </article>
+
+    <RelatedGuides
+      category="tax"
+      pinned={["efka-social-security-freelancers-greece", "retiring-to-greece-7-percent-flat-tax", "ultimate-guide-dnv-greece"]}
+      title="Further reading"
+      subtitle="Social security, visas and retiring in Greece."
+    />
+  </main>
+</Layout>

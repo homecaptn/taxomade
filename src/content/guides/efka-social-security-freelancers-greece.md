@@ -18,7 +18,7 @@ faq:
 
 When remote workers look at relocating to Greece, they usually focus on the [Article 5C 50% tax break](/guides/50-percent-tax-break-article-5c) (available if you were not a Greek tax resident in 5 of the last 6 years). There is a second financial benefit that most people overlook until they move: the cost of social security, **EFKA**, for new freelancers.
 
-If you are a freelancer coming from Germany, France or Spain, social security is a large fixed cost. In Germany, a well-earning freelancer can pay up to about €1,200 per month for statutory health and long-term-care insurance alone, before any pension saving.
+If you are a freelancer coming from Germany, France or Spain, social security is a large fixed cost. In Germany, a well-earning freelancer can pay up to about €1,200 per month for statutory health and long-term-care insurance alone, before any pension saving. In Greece, public health cover comes with your EFKA contributions; for private cover on top, see [health insurance in Greece](/greece/health-insurance).
 
 In Greece, a newly registered freelancer pays about **€160 per month** (2026: €150.46 plus a €10 unemployment contribution for most freelancers) for public healthcare and pension coverage. Here is how the system works.
 
