@@ -9,7 +9,7 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://taxomade.com',
-  integrations: [sitemap({ filter: (page) => !page.endsWith('/call/') && !page.endsWith('/call') })],
+  integrations: [sitemap()],
   vite: {
     plugins: [tailwindcss()]
   },
