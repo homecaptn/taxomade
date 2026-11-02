@@ -31,7 +31,7 @@ const articleSchema = {
   "@type": "Article",
   "headline": entry.data.title,
   "description": entry.data.description,
-  "image": entry.data.image ? `https://taxomade.com${entry.data.image}` : "https://taxomade.com/images/logo.svg",
+  "image": entry.data.image ? `https://taxomade.com${entry.data.image}` : "https://taxomade.com/og-default.jpg",
   "author": {
     "@type": "Organization",
     "name": "taxomade"
@@ -41,7 +41,7 @@ const articleSchema = {
     "name": "taxomade",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://taxomade.com/images/logo.svg"
+      "url": "https://taxomade.com/logo.png"
     }
   },
   "datePublished": entry.data.pubDate.toISOString(),
@@ -63,7 +63,7 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
 } : null;
 ---
 
-<Layout title={`${entry.data.title} | taxomade Knowledge Hub`} description={entry.data.description} image={entry.data.image || '/images/logo.svg'} alternates={alternates}>
+<Layout title={`${entry.data.title} | taxomade Knowledge Hub`} description={entry.data.description} image={entry.data.image || '/og-default.jpg'} alternates={alternates}>
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)}></script>
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)}></script>}
   <div class="pt-32 pb-16 bg-white min-h-screen">
@@ -122,7 +122,7 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
       <!-- Mid-article CTA (moved into the article before the 3rd H2 by the script below) -->
       <template id="guide-mid-cta">
         <div class="not-prose my-10 bg-slate-900 text-white rounded-2xl px-6 py-6 sm:px-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-          <p class="font-bold text-lg leading-snug">Every situation is different.<span class="block text-sm font-normal text-slate-300">Send us your case — we check it for free and reply the same day, in English, German, Spanish or Greek.</span></p>
+          <p class="font-bold text-lg leading-snug">Every situation is different.<span class="block text-sm font-normal text-slate-300">Send us your case — we check it for free and reply the same day, in English, German or Greek.</span></p>
           <a href={checkUrl} target="_blank" rel="noopener noreferrer" data-cta="guide-check-mid" class="shrink-0 inline-flex items-center justify-center px-5 py-3 text-sm font-bold rounded-xl text-slate-900 bg-white hover:bg-emerald-50 transition-colors">Free check via WhatsApp</a>
         </div>
       </template>
@@ -138,7 +138,7 @@ const faqSchema = entry.data.faq && entry.data.faq.length > 0 ? {
 
       <div id="guide-end-cta" class="mt-10 bg-slate-50 p-8 rounded-2xl border border-slate-100 text-center">
         <h3 class="text-2xl font-bold text-slate-900 mb-3">Want us to check your situation?</h3>
-        <p class="text-slate-600 mb-6">Send us a short message — we reply the same day, in English, German, Spanish or Greek.</p>
+        <p class="text-slate-600 mb-6">Send us a short message — we reply the same day, in English, German or Greek.</p>
         <div class="flex flex-col sm:flex-row gap-3 justify-center">
           <a href={checkUrl} target="_blank" rel="noopener noreferrer" data-cta="guide-free-check" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200 shadow-md">
             Free check via WhatsApp

@@ -44,7 +44,7 @@ Five outgoing invoices a month is a different job than fifty. Most firms price i
 
 ### 3. Language and service level
 
-Working in English, German, Spanish or Greek — with digital document handling, written confirmations and guaranteed response times — sits in the full-service segment. That's where internationals almost always end up, by choice.
+Working in English, German or Greek — with digital document handling, written confirmations and guaranteed response times — sits in the full-service segment. That's where internationals almost always end up, by choice.
 
 ### 4. Payroll
 
@@ -52,7 +52,7 @@ Each employee adds roughly €15–€35 per month on Greek price lists, dependi
 
 ## What we charge at taxomade
 
-Full transparency, since that's the point of this article: our [ongoing bookkeeping for freelancers](/greece/ongoing-bookkeeping) is **from €89 per month** (all-in, depending on volume) — all core filings included: myDATA handling, VAT declarations, your annual tax return, and communication in English, German, Spanish or Greek, with fast response times as standard. No per-declaration surprises. Company bookkeeping is quoted individually based on volume.
+Full transparency, since that's the point of this article: our [ongoing bookkeeping for freelancers](/greece/ongoing-bookkeeping) is **from €89 per month** (all-in, depending on volume) — all core filings included: myDATA handling, VAT declarations, your annual tax return, and communication in English, German or Greek, with fast response times as standard. No per-declaration surprises. Company bookkeeping is quoted individually based on volume.
 
 ## Frequently asked questions
 

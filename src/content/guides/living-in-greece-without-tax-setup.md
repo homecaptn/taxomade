@@ -84,7 +84,7 @@ Moving your tax residency to Greece usually means telling your home country too.
 
 ## What we charge
 
-A typical catch-up includes your AFM and online access, registering your activity if you're self-employed, filing missed returns with their fines and interest, and ongoing bookkeeping from then on. At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT returns and your annual tax return included, in English, German, Spanish or Greek. If you've been living in Greece without a setup, we look at your situation, tell you what's missing and prepare and file everything needed. [See what's included](/greece/ongoing-bookkeeping), or send us a message for a free check.
+A typical catch-up includes your AFM and online access, registering your activity if you're self-employed, filing missed returns with their fines and interest, and ongoing bookkeeping from then on. At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT returns and your annual tax return included, in English, German or Greek. If you've been living in Greece without a setup, we look at your situation, tell you what's missing and prepare and file everything needed. [See what's included](/greece/ongoing-bookkeeping), or send us a message for a free check.
 
 ## Frequently asked questions
 

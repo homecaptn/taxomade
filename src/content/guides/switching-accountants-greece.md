@@ -95,7 +95,7 @@ In our experience, a clean switch takes **about a week** once your records are a
 
 ## What we charge
 
-At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT returns and your annual tax return included, in English, German, Spanish or Greek. We coordinate the handover with your old accountant. [See what's included](/greece/ongoing-bookkeeping), or send us a message for a free check of your current setup.
+At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT returns and your annual tax return included, in English, German or Greek. We coordinate the handover with your old accountant. [See what's included](/greece/ongoing-bookkeeping), or send us a message for a free check of your current setup.
 
 If you have clients abroad, our guides on [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients) and [e-invoicing in Greece](/guides/e-invoicing-greece-explained) are worth a look before you switch.
 

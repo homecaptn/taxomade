@@ -6,7 +6,7 @@ import RelatedGuides from '../../components/RelatedGuides.astro';
 import TrustPromise from '../../components/TrustPromise.astro';
 ---
 
-<Layout title="Tax Number (AFM) Greece | Taxomade" description="Get your Greek Tax Number (AFM) and register with the tax authorities (AADE) fully remotely. Our licensed professionals handle the paperwork." image="/images/afm_hero_sea_desk.png">
+<Layout title="Tax Number (AFM) Greece | Taxomade" description="Greek tax number (AFM) for foreigners: we prepare and file your application with AADE via power of attorney. Usually 1–2 weeks, longer for non-EU citizens." image="/og-default.jpg">
   <!-- Section 1: Hero (Conversion Optimized) -->
   <div class="relative pt-32 pb-8 md:pt-40 md:pb-32 overflow-hidden bg-slate-50">
     <div class="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]"></div>
@@ -17,10 +17,10 @@ import TrustPromise from '../../components/TrustPromise.astro';
         <!-- Left: Copy & CTAs -->
         <div class="max-w-2xl">
           <h1 class="text-4xl md:text-6xl font-black text-slate-900 mb-6 tracking-tight leading-tight">
-            Your Greek tax number (AFM) <span class="text-blue-800">—</span> remote, in days.
+            Your Greek tax number (AFM) <span class="text-blue-800">—</span> fully remote.
           </h1>
           <p class="text-xl text-slate-600 mb-8 leading-relaxed">
-            The AFM is your gateway to living, working and banking in Greece. We register it for you via power of attorney without you needing to travel.
+            The AFM is your gateway to living, working and banking in Greece. We prepare and file your application via power of attorney, without you needing to travel.
           </p>
           
           <!-- Benefit Checkmarks -->
@@ -31,7 +31,7 @@ import TrustPromise from '../../components/TrustPromise.astro';
             </li>
             <li class="flex items-center text-slate-700 font-medium">
               <svg class="w-6 h-6 text-emerald-500 mr-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
-              Fast turnaround (done in days)
+              Usually 1–2 weeks (longer for non-EU citizens)
             </li>
             <li class="flex items-center text-slate-700 font-medium">
               <svg class="w-6 h-6 text-emerald-500 mr-3 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
@@ -48,8 +48,8 @@ import TrustPromise from '../../components/TrustPromise.astro';
             <a href="#contact-form" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200 shadow-md">
               Get started
             </a>
-            <a href="/call" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-slate-700 bg-white border-2 border-slate-200 hover:border-slate-300 hover:bg-slate-50 transition-colors duration-200">
-              Book a free call
+            <a href="https://wa.me/491743426818" target="_blank" rel="noopener" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-xl text-slate-700 bg-white border-2 border-slate-200 hover:border-slate-300 hover:bg-slate-50 transition-colors duration-200">
+              Message us on WhatsApp
             </a>
           </div>
           <p class="text-sm text-slate-500 font-medium flex items-center mb-1">
@@ -329,6 +329,7 @@ import TrustPromise from '../../components/TrustPromise.astro';
         </div>
       </div>
     </section>
+    <script type="application/ld+json" set:html={JSON.stringify({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do EU citizens need an AFM?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, if they live, work or do financial transactions in Greece."}}, {"@type": "Question", "name": "Can I get it before moving?", "acceptedAnswer": {"@type": "Answer", "text": "Yes — we can register it remotely via power of attorney before you ever step foot in Greece."}}, {"@type": "Question", "name": "Is the AFM the same as registering as a freelancer?", "acceptedAnswer": {"@type": "Answer", "text": "No — the AFM comes first; freelancer registration is a separate step we also handle."}}, {"@type": "Question", "name": "Do I need it if I stay under 6 months?", "acceptedAnswer": {"@type": "Answer", "text": "Often not for tax purposes, but you may still need it for banking, buying a car, or renting long-term."}}]})}></script>
 
     <ServiceContactForm />
     <RelatedGuides category="afm" />

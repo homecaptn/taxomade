@@ -97,6 +97,6 @@ An advance of 55% of your income tax on business income, paid with your annual r
 
 ## How taxomade can help
 
-Every deadline above is part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month: myDATA transmission, EFKA notices, VAT returns, recapitulative statements and the annual E1/E3 return, in English, German, Spanish or Greek. Send us a message for a free check of your setup.
+Every deadline above is part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month: myDATA transmission, EFKA notices, VAT returns, recapitulative statements and the annual E1/E3 return, in English, German or Greek. Send us a message for a free check of your setup.
 
 *Rules as of November 2026 (AADE A.1049/2025 and A.1197/2026, Income Tax Code art. 69, Tax Procedure Code art. 53, E.2059/2025, EFKA circular 6/2026; deadlines are extended in some years).*

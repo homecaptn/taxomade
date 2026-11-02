@@ -29,7 +29,7 @@ Thousands of internationals live and work in Greece — but most Greek accountan
 
 Greek tax life happens in deadlines: myDATA transmission of every invoice, VAT returns (quarterly for most established freelancers unless you qualify for the [small-business VAT exemption](https://www.taxheaven.gr/circulars/51970/a-1011-2026) for Greek turnover up to €10,000, [monthly for the first 24 months if you started on or after 1 January 2024](https://aade.gr/sites/default/files/2025-07/dt_03.07.2025.pdf), then quarterly on request), monthly [EFKA contributions](/guides/efka-social-security-freelancers-greece) (from [€250.77 plus €10 unemployment levy in 2026](https://www.forin.gr/articles/article/88941/efka-egk-6-2026), or €150.46 plus €10 on the reduced class for new freelancers in their first five years), and the annual return in July. When something goes wrong, it goes wrong in writing — a notice from AADE (the Greek tax authority), a mismatch flag, a fixed fine ([€250 or €500 per late return with tax due](https://www.taxheaven.gr/news/71451/prostima-diadikastikwn-parabasewn-kfd-dieykriniseis-kai-paradeigmata), depending on your bookkeeping category, €100 when no tax is due), imposed automatically and without warning. You need an accountant who can *explain* these things to you, not just translate them. The difference between "we speak English" and "we work in your language" is whether your questions get answered before the deadline or after it.
 
-And English is only part of the story: many internationals in Greece are German, Spanish-speaking or Greek diaspora returnees. An accountant who works in **English, German, Spanish and Greek** covers the conversation with you, your clients and the Greek authorities — without anything getting lost in between.
+And English is only part of the story: many internationals in Greece are German-speaking or Greek diaspora returnees. An accountant who works in **English, German and Greek** covers the conversation with you, your clients and the Greek authorities — without anything getting lost in between.
 
 ## What to look for
 
@@ -92,6 +92,6 @@ Usually about a week. The new accountant takes over your TAXISnet authorisations
 ## How we can help
 
 **Looking for an accountant who ticks every box above?**
-Our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) covers myDATA, VAT declarations and your annual tax return at one fixed monthly rate, from €89 per month, in English, German, Spanish or Greek, with written confirmations as standard.
+Our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) covers myDATA, VAT declarations and your annual tax return at one fixed monthly rate, from €89 per month, in English, German or Greek, with written confirmations as standard.
 
 *Rules as of October 2026 (Tax Procedure Code art. 53, Law 5104/2024; AADE decisions A.1140/2026 and A.1011/2026; EFKA circular 6/2026).*

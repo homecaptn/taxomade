@@ -114,7 +114,7 @@ Without 5C, the tax is €900 + €2,000 + €2,600 = €5,500. Under the [Artic
 
 ## What we charge
 
-At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT returns and your annual tax return included, in English, German, Spanish or Greek. We keep track of your EFKA class, VAT periods and the advance tax, so none of it surprises you. [See what's included](/greece/ongoing-bookkeeping), or send us a message for a free check of your setup.
+At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT returns and your annual tax return included, in English, German or Greek. We keep track of your EFKA class, VAT periods and the advance tax, so none of it surprises you. [See what's included](/greece/ongoing-bookkeeping), or send us a message for a free check of your setup.
 
 ## Frequently asked questions
 

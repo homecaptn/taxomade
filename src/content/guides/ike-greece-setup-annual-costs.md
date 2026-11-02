@@ -94,7 +94,7 @@ One more point: if you close a sole proprietorship and continue the same activit
 
 ## What we charge
 
-At taxomade, IKE setup and accounting are priced **on request**, because the effort depends on your activity, number of partners, staff and invoice volume. We prepare and file the formation documents, set up VAT, myDATA and EFKA, and handle the [ongoing bookkeeping](/greece/ongoing-bookkeeping) in English, German, Spanish or Greek. Send us a message for a free check of whether an IKE makes sense for you.
+At taxomade, IKE setup and accounting are priced **on request**, because the effort depends on your activity, number of partners, staff and invoice volume. We prepare and file the formation documents, set up VAT, myDATA and EFKA, and handle the [ongoing bookkeeping](/greece/ongoing-bookkeeping) in English, German or Greek. Send us a message for a free check of whether an IKE makes sense for you.
 
 ## Frequently asked questions
 

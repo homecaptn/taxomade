@@ -143,7 +143,7 @@ Late payment adds interest on top. If you've already missed something, filing as
 
 ## Keeping track
 
-None of these deadlines is hard on its own. The difficulty is that they overlap: a monthly VAT filer with EU clients and a property has four or five payments and filings due in some months. At taxomade, all of these are part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping) from **€89/month**: we prepare and file your VAT returns, VIES statements and annual return and keep track of EFKA and instalment dates, in English, German, Spanish or Greek. Send us a message via WhatsApp or our contact form for a free compliance check. For market prices, see [how much an accountant costs in Greece](/guides/accountant-cost-greece).
+None of these deadlines is hard on its own. The difficulty is that they overlap: a monthly VAT filer with EU clients and a property has four or five payments and filings due in some months. At taxomade, all of these are part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping) from **€89/month**: we prepare and file your VAT returns, VIES statements and annual return and keep track of EFKA and instalment dates, in English, German or Greek. Send us a message via WhatsApp or our contact form for a free compliance check. For market prices, see [how much an accountant costs in Greece](/guides/accountant-cost-greece).
 
 ## Frequently asked questions
 
