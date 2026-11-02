@@ -25,20 +25,18 @@
         </button>
       </div>
         
-        <!-- Step 1: Origin -->
+        <!-- Step 1: Work -->
         <div class="conf-step active" id="step-1">
-          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">Where are you from?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">How do you work, or plan to work, in Greece?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="noneu">
-              <span class="block font-semibold">I'm from outside the EU</span>
-            </button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="eu">
-              <span class="block font-semibold">I'm from the EU</span>
-            </button>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="freelance"><span class="block font-semibold">As a freelancer / self-employed</span></button>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="company"><span class="block font-semibold">With a company (IKE or similar), existing or planned</span></button>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="employed"><span class="block font-semibold">Employed remotely by a company abroad</span></button>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="switch"><span class="block font-semibold">I'm already set up and want to switch accountant</span></button>
           </div>
           <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
             <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <p><span class="font-bold text-slate-700">Why we ask this:</span> This determines if you need a visa to enter and live in Greece.</p>
+            <p><span class="font-bold text-slate-700">Why we ask this:</span> Freelancers, companies and remote employees have very different reporting and bookkeeping obligations in Greece.</p>
           </div>
         </div>
 
@@ -59,20 +57,20 @@
           </div>
         </div>
 
-        <!-- Step 3: Employment -->
+        <!-- Step 3: Origin -->
         <div class="conf-step hidden" id="step-3">
-          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">How will you be working?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">Where are you from?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="3" data-val="freelance">
-              <span class="block font-semibold">As a freelancer / self-employed</span>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="3" data-val="noneu">
+              <span class="block font-semibold">I'm from outside the EU</span>
             </button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="3" data-val="employed">
-              <span class="block font-semibold">Employed remotely for a company abroad</span>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="3" data-val="eu">
+              <span class="block font-semibold">I'm from the EU</span>
             </button>
           </div>
           <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
             <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <p><span class="font-bold text-slate-700">Why we ask this:</span> Freelancers have different ongoing reporting and bookkeeping obligations in Greece compared to remote employees.</p>
+            <p><span class="font-bold text-slate-700">Why we ask this:</span> Non-EU citizens usually need a residence permit or visa to live in Greece.</p>
           </div>
         </div>
 
@@ -80,18 +78,11 @@
         <div class="conf-step hidden" id="step-4">
           <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">Roughly what's your net annual income?</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="low">
-              <span class="block font-semibold">Under €25,000</span>
-            </button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="mid">
-              <span class="block font-semibold">€25,000–42,000</span>
-            </button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="high">
-              <span class="block font-semibold">€42,000–70,000</span>
-            </button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="highest">
-              <span class="block font-semibold">Over €70,000</span>
-            </button>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="low"><span class="block font-semibold">Under €25,000</span></button>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="mid"><span class="block font-semibold">€25,000–42,000</span></button>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="high"><span class="block font-semibold">€42,000–70,000</span></button>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="highest"><span class="block font-semibold">€70,000–120,000</span></button>
+            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="top"><span class="block font-semibold">Over €120,000</span></button>
           </div>
           <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
             <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
@@ -125,9 +116,9 @@
   let historyStack: number[] = [1];
   const totalSteps = 4;
   let answers = {
-    origin: '',
-    duration: '',
     employment: '',
+    duration: '',
+    origin: '',
     income: ''
   };
 
@@ -137,11 +128,14 @@
     short: '< 6 Months',
     long: '6+ Months',
     freelance: 'Freelance',
+    company: 'Company',
     employed: 'Employed',
+    switch: 'Switching accountant',
     low: '< €25k',
     mid: '€25k-42k',
     high: '€42k-70k',
-    highest: '> €70k'
+    highest: '€70k-120k',
+    top: '> €120k'
   };
 
   function renderChips() {
@@ -149,7 +143,7 @@
     if (!container) return;
     container.innerHTML = '';
     
-    const orderedKeys = ['origin', 'duration', 'employment', 'income'] as const;
+    const orderedKeys = ['employment', 'duration', 'origin', 'income'] as const;
     
     orderedKeys.forEach(key => {
       const val = answers[key];
@@ -172,13 +166,13 @@
       const val = el.getAttribute('data-val') || '';
 
       if (step === 1) {
-        answers.origin = val;
+        answers.employment = val;
         nextStep(2);
       } else if (step === 2) {
         answers.duration = val;
         nextStep(3);
       } else if (step === 3) {
-        answers.employment = val;
+        answers.origin = val;
         nextStep(4);
       } else if (step === 4) {
         answers.income = val;
@@ -197,9 +191,9 @@
       
       // Clear future answers when going back
       if (prevStep <= 4) answers.income = '';
-      if (prevStep <= 3) answers.employment = '';
+      if (prevStep <= 3) answers.origin = '';
       if (prevStep <= 2) answers.duration = '';
-      if (prevStep <= 1) answers.origin = '';
+      if (prevStep <= 1) answers.employment = '';
       
       renderChips();
       showStep(prevStep);
@@ -234,7 +228,7 @@
       const whyText = document.getElementById('income-why-text');
       if (whyText) {
         if (answers.origin === 'noneu') {
-          whyText.innerHTML = '<span class="font-bold text-slate-700">Why we ask this:</span> This determines if you meet the financial threshold for the Digital Nomad Visa.';
+          whyText.innerHTML = '<span class="font-bold text-slate-700">Why we ask this:</span> It affects your tax, the 50% Tax Break and the income thresholds for residence permits.';
         } else {
           whyText.innerHTML = '<span class="font-bold text-slate-700">Why we ask this:</span> This helps us calculate your potential savings from the 50% Tax Break (Article 5C).';
         }
@@ -267,7 +261,7 @@
     
     let html = '';
     
-    if (answers.duration === 'short') {
+    if (answers.duration === 'short' && answers.employment !== 'switch') {
       resultSubtitle.innerText = "Based on your answers, you'll need very little — here's what applies:";
       if (resultHint) resultHint.classList.add('hidden');
     } else {
@@ -275,45 +269,48 @@
       if (resultHint) resultHint.classList.remove('hidden');
     }
 
-    // 1. Visa
-    if (answers.origin === 'noneu') {
-      if (answers.duration === 'long') {
-        if (answers.income === 'low' || answers.income === 'mid') {
-          html += createResultItem('Visa Requirements Not Met', "Unfortunately, you don't fulfill the financial requirements for the Digital Nomad Visa. You need at least €42,000 net annual income (€3,500/month) to qualify.", false, false, true);
-        } else {
-          html += createResultItem('Digital Nomad Visa', "You qualify for a Digital Nomad Visa — apply 1–2 months before you move. We handle the full application.", true);
-        }
-      } else {
-        html += createResultItem('Visa requirements', "If you stay under 90 days you likely don't need a visa; between 90 days and 6 months you may need a short-stay visa — book a free call.");
-      }
-      // Insurance is strictly required for visas
-      html += createResultItem('Health Insurance', 'Private health insurance is required for your visa. We can sort that out for you.');
+    const isLong = answers.duration === 'long';
+    const highIncome = ['high', 'highest', 'top'].includes(answers.income);
+
+    // 1. Residence (non-EU)
+    if (answers.origin === 'noneu' && isLong) {
+      html += createResultItem('Residence permit', "As a non-EU citizen you need a visa or residence permit to live in Greece. Which one fits depends on your work and income. We look at your case with you.");
+      html += createResultItem('Health insurance', 'Visas and residence permits require private health insurance. See <a href="/greece/health-insurance" class="underline font-medium">health insurance in Greece</a>; our partner BDAE advises you directly.');
+    } else if (answers.origin === 'noneu') {
+      html += createResultItem('Visa requirements', "Short stays under 90 days usually need no visa; for longer stays the rules depend on your nationality. We check it with you.");
     }
 
-    // 2. AFM & Registration
-    if (answers.duration === 'long') {
-      html += createResultItem('Tax Number & Registration', "You'll need a Greek tax number (AFM) and to register your activity — we set this up for you.");
+    // 2. Tax number & registration
+    if (answers.employment === 'switch') {
+      html += createResultItem('Switch to taxomade', "Switching usually takes about a week. We take over your books, VAT and EFKA from your current accountant and check what is outstanding.", true);
+    } else if (isLong) {
+      html += createResultItem('Tax Number & Registration', answers.employment === 'company'
+        ? "You and your company need a Greek tax number (AFM). We prepare and file the registrations with you."
+        : "You'll need a Greek tax number (AFM) and, if self-employed, to register your activity. We prepare and file it with you.");
     } else {
-      html += createResultItem('No Registration needed', "You likely won't need to register or pay Greek tax — you stay below the tax-residency threshold.");
+      html += createResultItem('Tax number', "For a short stay you usually only need a Greek tax number (AFM) if you rent, buy or open a bank account. We prepare the application with you.");
     }
 
     // 3. 5C
-    if (answers.duration === 'long' && answers.origin !== 'noneu') {
-      if (answers.income === 'high' || answers.income === 'highest') {
-        html += createResultItem('50% Tax Break (5C)', 'Strongly recommended — the 5C regime exempts 50% of your Greek income from tax for 7 years. At your income this saves you several thousand euros per year. The application deadline depends on when your job or business starts.', true);
+    if (isLong && answers.employment !== 'switch') {
+      const dnvNote = answers.origin === 'noneu' ? ' Not available with a Digital Nomad Visa.' : '';
+      if (highIncome) {
+        html += createResultItem('50% Tax Break (5C)', 'Worth checking: the 5C regime exempts 50% of your Greek employment or business income from tax for 7 years, if you were not Greek tax resident in 5 of the last 6 years.' + dnvNote, true);
       } else if (answers.income === 'mid') {
-        html += createResultItem('50% Tax Break (5C)', "Worth considering — 5C still gives meaningful savings. We'll calculate if it's worth it for you.", true);
+        html += createResultItem('50% Tax Break (5C)', "Can still make sense at your income. We calculate whether it's worth it for you." + dnvNote, true);
       } else {
-        html += createResultItem('50% Tax Break (5C)', 'Optional — savings are smaller at your income level, but still available.', false, true);
+        html += createResultItem('50% Tax Break (5C)', 'Optional: the savings are smaller at your income level.' + dnvNote, false, true);
       }
     }
 
-    // 4. Bookkeeping
-    if (answers.duration === 'long') {
-      if (answers.employment === 'freelance' && answers.origin !== 'noneu') {
-        html += createResultItem('Full Bookkeeping', 'Recommended — monthly bookkeeping & tax compliance (myDATA, EFKA, VAT, year-end, and the mandatory e-invoicing from November 2026). We handle it all in English.', true);
+    // 4. Ongoing
+    if (isLong || answers.employment === 'switch') {
+      if (answers.employment === 'company') {
+        html += createResultItem('Company Setup & Bookkeeping', 'We advise on the legal form, prepare the setup and take over double-entry books, VAT, payroll if needed and annual accounts. Quoted individually.', true);
+      } else if (answers.employment === 'freelance' || answers.employment === 'switch') {
+        html += createResultItem('Monthly Bookkeeping', 'Monthly bookkeeping and compliance: myDATA and e-invoicing, VAT, EFKA and your annual tax return, all in English. From €89/month.', true);
       } else {
-        html += createResultItem('Annual Tax Return', "You'll need an annual Greek tax return — we handle that for you.");
+        html += createResultItem('Annual Tax Return', "As a remote employee you usually only need your yearly Greek tax return. We prepare and file it for you.");
       }
     }
 
