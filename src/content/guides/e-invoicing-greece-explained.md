@@ -2,11 +2,11 @@
 title: "E-Invoicing in Greece for Freelancers: What Changes From November 2026"
 description: "E-invoicing in Greece for freelancers: mandatory from November 2, 2026. Which invoices are covered, timologio, declarations, deadlines and penalties."
 pubDate: 2026-09-30
-updatedDate: 2026-11-01
+updatedDate: 2026-11-03
 category: "bookkeeping"
 faq:
   - question: "Do freelancers in Greece need e-invoicing?"
-    answer: "Yes. Freelancers and sole traders fall under the second phase of Greece's e-invoicing mandate, which applies from November 2, 2026, for invoices to Greek businesses, businesses outside the EU and public sector bodies."
+    answer: "Yes. Freelancers and sole traders fall under the second phase of Greece's e-invoicing mandate, which applies from November 2, 2026, for invoices to Greek businesses and businesses outside the EU. Invoices to the Greek public sector have had to be e-invoices since September 1, 2025."
   - question: "When does e-invoicing become mandatory for small businesses in Greece?"
     answer: "From November 2, 2026, for businesses with gross revenue of up to €1 million in their 2023 tax return. A transition period runs until January 31, 2027. The original start date of October 1, 2026 was postponed."
   - question: "Do I need e-invoicing for invoices to US or UK clients?"
@@ -27,7 +27,7 @@ The start date was originally October 1, 2026. On September 30, decision A.1197/
 
 - **What it is:** For invoices covered by the new rules, you can no longer just create an invoice in Word, Excel or an ordinary invoicing tool and send it. It has to be issued through an approved channel, which transmits the data to AADE.
 - **Who it affects:** All businesses with gross revenue of up to €1 million, freelancers included. What counts is the revenue in your 2023 tax return, not this year's. Businesses above €1 million have been covered since March 2, 2026.
-- **Which invoices:** Invoices to Greek businesses, to businesses outside the EU, and to the public sector. Invoices to private customers and to businesses in other EU countries are not part of this mandate.
+- **Which invoices:** Invoices to Greek businesses and to businesses outside the EU. Invoices to the Greek public sector (B2G) have been covered since September 1, 2025, under separate rules. Invoices to private customers and to businesses in other EU countries are not part of this mandate.
 - **Timeline:** Mandatory from November 2, 2026, with a transition period until January 31, 2027. From February 1, 2027, invoices in scope can only be issued through the approved channels.
 
 ## What "e-invoicing" actually means
@@ -50,17 +50,17 @@ This is the part that matters most for internationals, because many freelancers 
 
 <div class="overflow-x-auto">
 
-| Your client | Covered by the e-invoicing mandate? |
+| Your client | Covered by e-invoicing? |
 |---|---|
-| Greek business | Yes |
-| Business outside the EU (US, UK, Switzerland...) | Yes |
-| Public sector body in Greece | Yes |
+| Greek business | Yes, from November 2, 2026 |
+| Business outside the EU (US, UK, Switzerland...) | Yes, from November 2, 2026 |
+| Public sector body in Greece | Yes, already since September 1, 2025 (separate rules) |
 | Business in another EU country | No |
 | Private individual | No |
 
 </div>
 
-For most public contracts, e-invoicing has already been mandatory since September 1, 2025, under separate rules.
+Invoices to the public sector (B2G) are not part of the November 2026 phase: for them, e-invoicing has already been mandatory since September 1, 2025, under separate rules.
 
 "Not covered" doesn't mean "no rules." Invoices to EU businesses and private customers still have to be reported to myDATA as before. They just don't have to be issued through the new e-invoicing channels.
 
@@ -110,14 +110,14 @@ At EU level, the "VAT in the Digital Age" (ViDA) reforms are set to extend e-inv
 
 ## What to do now
 
-1. **Check who your clients are.** If any are Greek businesses, businesses outside the EU or public bodies, you're in scope.
+1. **Check who your clients are.** If any are Greek businesses or businesses outside the EU, you're in scope from November 2, 2026. Public-sector clients already require e-invoices.
 2. **Choose your channel.** For low volume, timologio usually works. For higher volume or software integration, an approved provider.
 3. **File or accept the declaration if you need one**, with a start date no later than November 2, 2026, and within 10 days of that date (by November 12, 2026 for a November 2 start).
 4. **Use the transition period** to test before February 2027.
 
 ## What we charge
 
-At taxomade, myDATA and e-invoicing are part of our ongoing bookkeeping from **€89/month**: we set you up on a compliant channel, prepare and file any declaration you need, plus your VAT returns and annual tax return, all in English. Not sure whether your current setup is compliant? [See what's included](/greece/ongoing-bookkeeping) and request a free compliance check via WhatsApp or our contact form.
+At taxomade, myDATA and e-invoicing are part of our ongoing bookkeeping from **€89/month**: we set you up on a compliant channel, prepare and file any declaration you need, plus your VAT returns and annual tax return, in English, German or Greek. Not sure whether your current setup is compliant? [See what's included](/greece/ongoing-bookkeeping) and request a free compliance check via WhatsApp or our contact form.
 
 For general pricing context, see [how much an accountant costs in Greece](/guides/accountant-cost-greece).
 
@@ -125,7 +125,7 @@ For general pricing context, see [how much an accountant costs in Greece](/guide
 
 ### Do freelancers in Greece need e-invoicing?
 
-Yes. Freelancers and sole traders fall under the second phase of Greece's e-invoicing mandate, which applies from November 2, 2026, for invoices to Greek businesses, businesses outside the EU and public sector bodies.
+Yes. Freelancers and sole traders fall under the second phase of Greece's e-invoicing mandate, which applies from November 2, 2026, for invoices to Greek businesses and businesses outside the EU. Invoices to the Greek public sector have had to be e-invoices since September 1, 2025.
 
 ### When does e-invoicing become mandatory for small businesses in Greece?
 

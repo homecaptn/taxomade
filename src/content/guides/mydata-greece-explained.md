@@ -11,7 +11,7 @@ faq:
   - question: "Do invoices to foreign clients have to be reported to myDATA?"
     answer: "Yes. Invoices to clients in other EU countries, outside the EU and to private customers all have to be reported. The client's location changes the VAT treatment and whether the e-invoicing mandate applies, not the myDATA obligation."
   - question: "What is the difference between myDATA and e-invoicing?"
-    answer: "myDATA is the reporting platform where invoice data reaches AADE. E-invoicing regulates how certain invoices are issued: from 2 November 2026, invoices to Greek businesses, businesses outside the EU and the public sector must be issued through an approved provider or AADE's free timologio or myDATAapp."
+    answer: "myDATA is the reporting platform where invoice data reaches AADE. E-invoicing regulates how certain invoices are issued: from 2 November 2026, invoices to Greek businesses and businesses outside the EU must be issued through an approved provider or AADE's free timologio or myDATAapp (public-sector invoices since 1 September 2025)."
   - question: "Who classifies expenses in myDATA, me or my accountant?"
     answer: "In practice your accountant. Expense invoices from Greek suppliers are classified by the deadline of the VAT return for the period. Payroll entries follow the withholding tax return, and depreciation and other year-end entries follow the income tax return."
   - question: "What happens if an invoice is missing from myDATA?"
@@ -95,7 +95,7 @@ myDATA has no single annual deadline. It runs alongside your VAT return cycle, m
 
 myDATA is where invoice data ends up. E-invoicing regulates **how** certain invoices are issued.
 
-From **2 November 2026**, freelancers and businesses with revenue up to €1 million (per their 2023 tax return) must issue invoices to Greek businesses, businesses outside the EU and the public sector through an approved provider or timologio/myDATAapp ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). For most public contracts, e-invoicing has been mandatory since 1 September 2025 under separate rules ([Lawspot](https://www.lawspot.gr/nomika-nea/enarxi-ypohreotikis-ilektronikis-timologisis-b2g-gia-dapanes-foreon-tis-genikis/)). A transition period runs until 31 January 2027 for those who filed the required declaration on time. Invoices to EU businesses and private customers are outside the mandate but still go to myDATA.
+From **2 November 2026**, freelancers and businesses with revenue up to €1 million (per their 2023 tax return) must issue invoices to Greek businesses and businesses outside the EU through an approved provider or timologio/myDATAapp ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). Invoices to the public sector (B2G) have had to be electronic since 1 September 2025 under separate rules ([Lawspot](https://www.lawspot.gr/nomika-nea/enarxi-ypohreotikis-ilektronikis-timologisis-b2g-gia-dapanes-foreon-tis-genikis/)). A transition period runs until 31 January 2027 for those who filed the required declaration on time. Invoices to EU businesses and private customers are outside the mandate but still go to myDATA.
 
 Who is in scope, declarations and penalties: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
 
@@ -137,7 +137,7 @@ Yes. Invoices to clients in other EU countries, outside the EU and to private cu
 
 ### What is the difference between myDATA and e-invoicing?
 
-myDATA is the reporting platform where invoice data reaches AADE. E-invoicing regulates how certain invoices are issued: from 2 November 2026, invoices to Greek businesses, businesses outside the EU and the public sector must be issued through an approved provider or AADE's free timologio or myDATAapp.
+myDATA is the reporting platform where invoice data reaches AADE. E-invoicing regulates how certain invoices are issued: from 2 November 2026, invoices to Greek businesses and businesses outside the EU must be issued through an approved provider or AADE's free timologio or myDATAapp (public-sector invoices since 1 September 2025).
 
 ### Who classifies expenses in myDATA, me or my accountant?
 

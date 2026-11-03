@@ -2,7 +2,7 @@
 title: "Greek Tax Deadlines Calendar 2026–2027 for Freelancers and Small Businesses"
 description: "Greek tax deadlines 2026–2027: income tax return and instalments, VAT, VIES, EFKA, ENFIA, 5C/5B applications, e-invoicing and late-filing fines."
 pubDate: 2026-10-30
-updatedDate: 2026-11-02
+updatedDate: 2026-11-03
 category: "tax"
 faq:
   - question: "When is the deadline for tax returns in Greece in 2026?"
@@ -84,7 +84,7 @@ If you don't pay in full, the tax is paid in **8 equal monthly instalments**. Th
 
 The income tax assessment includes an advance on next year's tax. For freelancers and sole traders it is [55% of the tax on business income](https://www.taxheaven.gr/law/4172/2013/arthro/69), minus tax withheld by Greek clients, and halved in the year you first earn business income. It is part of the same bill, so it follows the same instalment dates. For IKEs, the advance is [80% of the tax, halved in the first three tax years](https://www.taxheaven.gr/law/4172/2013/arthro/71).
 
-A draft bill, in public consultation since 18 October 2026, would cut the rate for sole proprietorships from 55% to 50% from tax year 2027 ([taxheaven](https://www.taxheaven.gr/news/74903/se-dhmosia-diaboyleysh-to-neo-forologiko-nomosxedio-me-ta-metra-ths-deo-poy-efarmozontai-kata-ta-eth-2026-kai-2027)). It is a draft bill, not yet law. Why the advance hits newcomers hard: [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax).
+A draft bill, in public consultation from 18 October to 1 November 2026, would cut the rate for sole proprietorships from 55% to 50% from tax year 2027 ([taxheaven](https://www.taxheaven.gr/news/74903/se-dhmosia-diaboyleysh-to-neo-forologiko-nomosxedio-me-ta-metra-ths-deo-poy-efarmozontai-kata-ta-eth-2026-kai-2027)). It is a draft bill, not yet law. Why the advance hits newcomers hard: [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax).
 
 ## ENFIA: the property tax
 
@@ -110,7 +110,7 @@ For [Article 5B](/guides/retiring-to-greece-7-percent-flat-tax), the cut-off is 
 
 ## E-invoicing from 2 November 2026
 
-Since 2 March 2026, large businesses have had to issue B2B invoices electronically. Everyone else, freelancers included, follows from **2 November 2026** ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). It covers invoices to Greek businesses, to businesses outside the EU and to the public sector. For public-sector clients, e-invoicing was already mandatory under separate rules for public contracts and General Government expenses.
+Since 2 March 2026, large businesses have had to issue B2B invoices electronically. Everyone else, freelancers included, follows from **2 November 2026** ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). It covers invoices to Greek businesses and to businesses outside the EU. Invoices to the public sector (B2G) have had to be electronic since 1 September 2025, under separate rules.
 
 A transition period runs until **31 January 2027**, but only if you filed a declaration with a start date no later than 2 November 2026. From 1 February 2027, invoices in scope can only be issued through an approved provider or AADE's free apps. Details: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
 

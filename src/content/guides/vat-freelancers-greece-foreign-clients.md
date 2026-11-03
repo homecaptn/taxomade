@@ -2,7 +2,7 @@
 title: "VAT for Freelancers in Greece With Foreign Clients (2026 Guide)"
 description: "Reverse charge, VIES registration, recapitulative statements and the €10,000 OSS threshold — how Greek VAT actually works when your clients are abroad."
 pubDate: 2026-09-20
-updatedDate: 2026-10-19
+updatedDate: 2026-11-03
 category: "bookkeeping"
 faq:
   - question: "Do I charge VAT to clients outside Greece?"
@@ -12,10 +12,10 @@ faq:
   - question: "Do I need to register for VIES in Greece?"
     answer: "Yes — before your first invoice to an EU business. Your Greek VAT number must be entered in the intra-Community register with AADE, otherwise it won't validate when clients check it."
   - question: "What is a recapitulative statement (Φ4)?"
-    answer: "A monthly report listing your EU business clients, their VAT numbers, and invoice amounts — due by the 26th of the following month, separate from your VAT return. Missing it triggers automatic penalties."
+    answer: "A monthly report listing your EU business clients, their VAT numbers, and invoice amounts — due by the 26th of the month after any month in which you invoiced EU businesses, separate from your VAT return. A late statement costs a €100 fine, issued when you file it."
   - question: "How often do freelancers in Greece file VAT returns?"
     answer: "Single-entry businesses that started activity on or after 1 January 2024 file monthly; after 24 months they can switch to quarterly on request. Double-entry businesses file monthly (Art. 38 VAT Code). Established freelancers with single-entry books file quarterly, by the last working day of the month after the quarter ends."
-  - question: "Does the €10,000 threshold apply to all services to EU consumers?"
+  - question: "Does the €10,000 OSS threshold apply to all services to EU consumers?"
     answer: "No. It applies to TBE services — telecommunications, broadcasting and electronically supplied services — plus intra-EU distance sales of goods. Ordinary live services to EU consumers carry Greek VAT regardless of volume."
 ---
 
@@ -30,7 +30,7 @@ If you freelance from Greece and your clients are in Germany, the US, or anywher
 
 ## The one question that decides everything
 
-Greek VAT on services follows the EU-wide place-of-supply rules. For B2B services, the general rule (Article 44 of the EU VAT Directive) is that the place of taxation is where your customer is established. For services to private individuals, the default is where you are established — which usually means Greek VAT.
+Greek VAT on services follows the EU-wide place-of-supply rules, which Greece applies through [Article 14 of its VAT Code](https://www.taxheaven.gr/law/2859/2000/arthro/14). For B2B services, the general rule (Article 44 of the [EU VAT Directive 2006/112/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0112)) is that the place of taxation is where your customer is established. For services to private individuals, the default (Article 45) is where you are established — which usually means Greek VAT.
 
 Both rules have exceptions for specific service types (property-related services, admission to events, passenger transport, and a few others). But for the typical freelancer selling consulting, development, design, writing, or marketing services, the general rules apply. So before you write any invoice, you need two answers: **is my client a business or a consumer, and where are they?**
 
@@ -48,7 +48,7 @@ For this to be valid, three things must be true:
 
 ## The step almost everyone misses: VIES registration
 
-You can't just start invoicing EU businesses. Before your first intra-Community transaction, your Greek VAT number must be entered in the intra-Community (VIES) register with the tax authority (AADE). Without this, your number won't validate when your client checks it — and many EU companies will refuse to pay an invoice from a supplier whose number doesn't validate.
+You can't just start invoicing EU businesses. Before your first intra-Community transaction, your Greek VAT number must be entered in the intra-Community (VIES) register with the tax authority, AADE ([AADE guidance](https://aade.gr/exypiretisi-enimerosi/hristikoi-odigoi/enarxi-epiheirimatikis-drastiriotitas/ti-prepei-na-gnorizete-ean-epithymeite-na)). Without this, your number won't validate when your client checks it — and many EU companies will refuse to pay an invoice from a supplier whose number doesn't validate.
 
 This is a separate step from getting your [AFM](/guides/what-is-greek-afm-number) and starting your business activity. Your accountant should handle it as part of your setup — **before** you sign your first foreign client, not after.
 
@@ -56,13 +56,13 @@ This is a separate step from getting your [AFM](/guides/what-is-greek-afm-number
 
 Once you invoice EU businesses, you have a second reporting obligation: the **recapitulative statement** (Φ4 form, sometimes called an EC Sales List). It lists every EU business client you invoiced that month, with VAT numbers and amounts.
 
-It's filed monthly, by the **26th of the following month** — even in months where no regular VAT return is due. Miss it, and a fixed penalty is issued automatically, without a warning letter first. This is one of the most common gaps we see in the books of freelancers who set things up on their own, or with an accountant who rarely handles international clients.
+It's filed for each month in which you invoiced EU businesses, by the **26th of the following month** ([AADE decision A.1222/2020](https://www.taxheaven.gr/circulars/34379/a-1222-2020)) — even if your regular VAT return for that period is only due later. File it late, and a **€100** fine is issued with the late filing ([Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53); [AADE circular E.2059/2025](https://www.aade.gr/sites/default/files/2025-08/e2059_2025pro.pdf)), without a warning letter first. This is one of the most common gaps we see in the books of freelancers who set things up on their own, or with an accountant who rarely handles international clients.
 
 ## Non-EU clients: US, UK, and everywhere else
 
 For business clients outside the EU, the same logic applies: for ordinary B2B services — consulting, software, design, marketing and the like — the service is taxed where the customer is established. Since that's outside the EU, your invoice carries no Greek VAT and needs no reverse charge note.
 
-This is the general rule, not a blanket one: specific categories (property-related work, events, and others) follow their own rules, and EU law allows "use and enjoyment" adjustments in certain cases. If your work doesn't fit the ordinary-services mould, check first.
+This is the general rule, not a blanket one: specific categories (property-related work, events, and others) follow their own rules, and EU law allows "use and enjoyment" adjustments in certain cases (Article 59a of the Directive). If your work doesn't fit the ordinary-services mould, check first.
 
 Two things still matter: the invoice remains subject to Greek [myDATA reporting](/guides/free-invoicing-greece-aade-timologio) and must be classified correctly — and keep evidence that your client is a business (contract, company details, foreign tax ID). For private individuals outside the EU, treatment depends on the service type; get specific advice if that's a meaningful share of your income.
 
@@ -70,9 +70,9 @@ Two things still matter: the invoice remains subject to Greek [myDATA reporting]
 
 For ordinary services to private individuals — live coaching, consulting, tutoring delivered by you in real time — the default applies: Greek VAT at 24%, regardless of where in the EU they live.
 
-The big exception is **electronically supplied services** — services delivered over the internet in an essentially automated way: pre-recorded courses, downloads, software subscriptions, streaming. For these (together with telecoms and broadcasting — the "TBE services"), VAT is due where the customer lives. It's the same rule that makes streaming platforms charge each subscriber their own country's VAT rate.
+The big exception is **electronically supplied services** — services delivered over the internet in an essentially automated way: pre-recorded courses, downloads, software subscriptions, streaming. For these (together with telecoms and broadcasting — the "TBE services"), VAT is due where the customer lives (Article 58 of the Directive). It's the same rule that makes streaming platforms charge each subscriber their own country's VAT rate.
 
-There's a simplification: while your total cross-border B2C sales of TBE services (plus intra-EU distance sales of goods) stay under **€10,000 per year**, you can keep charging Greek VAT. Above that, you charge each customer's local rate — reported through the EU's One-Stop-Shop (OSS): one registration, one quarterly return, instead of registering in every country.
+There's a simplification: while your total cross-border B2C sales of TBE services (plus intra-EU distance sales of goods) stay under **€10,000 per year**, you can keep charging Greek VAT. Above that (Article 59c of the Directive), you charge each customer's local rate — reported through the EU's One-Stop-Shop (OSS): one registration, one quarterly return, instead of registering in every country.
 
 The dividing line is **automation, not the internet**. A live Zoom session is an ordinary service (Greek 24%). A pre-recorded course bought and watched without you is electronically supplied.
 
@@ -80,24 +80,26 @@ The dividing line is **automation, not the internet**. A live Zoom session is an
 
 Greece changed its filing rules in 2025, and it matters most for exactly the people reading this:
 
-- **Single-entry businesses that started activity on or after 1 January 2024** file VAT returns **monthly** ([AADE decision A.1049/2025](https://aade.gr/sites/default/files/2025-04/a1049_2025.pdf); those that started between January 2024 and March 2025 since the July 2025 period). After 24 months from commencement, they can switch to quarterly on request. Double-entry businesses file monthly anyway.
+- **Single-entry businesses that started activity on or after 1 January 2024** file VAT returns **monthly** ([AADE decision A.1049/2025](https://www.aade.gr/sites/default/files/2025-04/a1049_2025fek.pdf); those that started between January 2024 and March 2025 since the July 2025 period). After 24 months from commencement, they can switch to quarterly on request. Double-entry businesses file monthly anyway ([VAT Code art. 38](https://www.taxheaven.gr/law/2859/2000/arthro/38)).
 - **Established freelancers with single-entry books** file **quarterly**, due the last working day of the month following the quarter.
 
 If you're registering as a freelancer now, plan for monthly VAT returns from day one — plus monthly recapitulative statements if you have EU business clients. That's a heavier cadence than most people expect, and the main reason DIY bookkeeping breaks down within months.
 
+A late VAT return is fined even when it shows nothing to pay: **€250** per return with simple books, **€500** with double-entry books (Article 53, Law 5104/2024).
+
 ### What about the small business VAT exemption?
 
-Freelancers whose Greek turnover stays at or under **€10,000** in both the current and the previous year can apply for the [small business exemption](https://aade.gr/sites/default/files/2026-01/A_1011_2026_ada.pdf) (Art. 44a of the VAT Code, decision A.1011/2026): no Greek VAT on invoices and no periodic VAT returns, but also no deduction of VAT on your own costs. New businesses choose it at registration; existing ones apply in myAADE, and it applies from approval. Cross the limit and you move to the normal regime. Whether it pays off depends on your client mix and costs, so check it before you register.
+Freelancers whose Greek turnover stays at or under **€10,000** in both the current and the previous year can opt for the [small business exemption](https://www.taxheaven.gr/circulars/51970/a-1011-2026) (Art. 44a of the VAT Code, AADE decision A.1011/2026): no Greek VAT on your domestic invoices, but also no deduction of VAT on your own costs. New businesses choose it in their registration declaration; existing ones apply through "My Requests" in myAADE, and it applies from approval. Cross the limit and you move to the normal VAT regime. Whether it pays off depends on your client mix and costs, so check it before you register.
 
 ## E-invoicing: what changes in November 2026
 
-Greece is rolling out mandatory e-invoicing on top of myDATA — and the two are not the same thing. myDATA is the reporting layer (your invoice data reaches AADE); the e-invoicing mandate is about **how the invoice is issued**: through a certified e-invoicing provider or AADE's free tools (timologio or myDATAapp).
+Greece has made e-invoicing mandatory on top of myDATA — and the two are not the same thing. myDATA is the reporting layer (your invoice data reaches AADE); the e-invoicing mandate is about **how the invoice is issued**: through a certified e-invoicing provider or AADE's free tools (timologio or myDATAapp).
 
-The rollout is phased: large businesses came first in early 2026, and all other businesses — freelancers included — must comply from **November 2, 2026** (originally October 1, 2026, then postponed), with a transition period until January 31, 2027. From February 1, 2027, invoices in scope can only be issued through the approved channels. Under the current framework, the mandate covers domestic B2B invoices and invoices to non-EU businesses; for invoices to EU-based businesses, e-invoicing remains optional. If you're setting up now, choose a compliant invoicing channel from the start — one migration you can simply skip. For a plain-English explanation, see our guide on [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
+The rollout is phased: businesses with revenue above €1 million came first on March 2, 2026, and all other businesses — freelancers included — must comply from **November 2, 2026** (originally October 1, 2026, then postponed by [AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). A transition period runs until January 31, 2027, but only if you filed the required declaration on time (by November 12, 2026 for a November 2 start). From February 1, 2027, invoices in scope can only be issued through the approved channels. The mandate covers B2B invoices to Greek businesses and invoices to non-EU businesses; invoices to the Greek public sector have had to be e-invoices since September 1, 2025. For invoices to EU-based businesses, e-invoicing remains optional. If you're setting up now, choose a compliant invoicing channel from the start — one migration you can simply skip. For a plain-English explanation, see our guide on [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
 
 ## What we charge at taxomade
 
-Ongoing bookkeeping for freelancers is **from €89 per month** (all-in, depending on volume), and cross-border invoicing is exactly what it's built for: myDATA transmission, VAT returns (monthly or quarterly), VIES registration and recapitulative statements, and your annual income tax declaration — all included, in English.
+Ongoing bookkeeping for freelancers is **from €89 per month** (all-in, depending on volume), and cross-border invoicing is exactly what it's built for: myDATA transmission, VAT returns (monthly or quarterly), VIES registration and recapitulative statements, and your annual income tax return — we prepare and file all of it, in English, German or Greek.
 
 If you're setting up now, or your current accountant hasn't mentioned half the obligations on this page, see what's included in our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) or [send us a message](https://wa.me/491743426818) for a free check.
 
@@ -119,14 +121,14 @@ Yes — before your first invoice to an EU business. Your Greek VAT number must 
 
 ### What is a recapitulative statement (Φ4)?
 
-A monthly report listing your EU business clients, their VAT numbers, and invoice amounts — due by the 26th of the following month, separate from your VAT return. Missing it triggers automatic penalties.
+A monthly report listing your EU business clients, their VAT numbers, and invoice amounts — due by the 26th of the month after any month in which you invoiced EU businesses, separate from your VAT return. A late statement costs a €100 fine, issued when you file it.
 
 ### How often do freelancers in Greece file VAT returns?
 
 Single-entry businesses that started activity on or after 1 January 2024 file monthly; after 24 months they can switch to quarterly on request. Double-entry businesses file monthly (Art. 38 VAT Code). Established freelancers with single-entry books file quarterly, by the last working day of the month after the quarter ends.
 
-### Does the €10,000 threshold apply to all services to EU consumers?
+### Does the €10,000 OSS threshold apply to all services to EU consumers?
 
 No. It applies to TBE services — telecommunications, broadcasting and electronically supplied services — plus intra-EU distance sales of goods. Ordinary live services to EU consumers carry Greek VAT regardless of volume.
 
-*Rules as of October 2026 (EU VAT Directive art. 44, 45 and 196; A.1049/2025; A.1011/2026; A.1197/2026).*
+*Rules as of November 2026 (EU VAT Directive art. 44, 45, 58, 59a, 59c and 196; VAT Code art. 14, 38 and 44a; A.1049/2025; A.1011/2026; A.1222/2020; A.1197/2026; Tax Procedure Code art. 53, E.2059/2025).*

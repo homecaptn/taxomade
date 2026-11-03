@@ -95,4 +95,4 @@ For most freelancers, a sole proprietorship is simpler and cheaper. An IKE pays 
 
 The [timeline for moving to Greece as a freelancer](/guides/moving-to-greece-as-freelancer-timeline-payments) shows what is due when. At taxomade, we prepare and file your business start, VAT returns and annual tax return as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, with myDATA included. Send us a message for a free check of your setup.
 
-*Rules as of November 2026 (Income Tax Code art. 5C, 29 and 69, VAT Code art. 44a, Law 4387/2016 art. 39 and 39A, EFKA circular 6/2026, AADE decision A.1197/2026).*
+*Rules as of November 2026 (Income Tax Code art. 5C, 29 and 69, VAT Code art. 44a, Law 4387/2016 art. 39, EFKA circular 6/2026, AADE decision A.1197/2026).*

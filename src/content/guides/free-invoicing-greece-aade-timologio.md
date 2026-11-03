@@ -2,7 +2,7 @@
 title: "How to Invoice Clients as a Greek Freelancer (Free AADE timologio Guide)"
 description: "Invoicing as a freelancer in Greece with AADE's free timologio app: myDATA, MARK, VAT codes for foreign clients and the November 2026 e-invoicing rules."
 pubDate: 2026-07-07
-updatedDate: 2026-10-30
+updatedDate: 2026-11-03
 category: "bookkeeping"
 image: "/images/guides/timologio_hero.png"
 faq:
@@ -24,7 +24,7 @@ In Greece, the system has gone fully digital with **myDATA**, the electronic boo
 
 - **Every invoice** you issue in Greece must be transmitted to myDATA and carries a MARK number and QR code.
 - **timologio** is AADE's free web app that does this for you. No software subscription needed.
-- **From 2 November 2026** e-invoicing becomes mandatory for freelancers for invoices to Greek businesses, non-EU businesses and the public sector, and timologio is one of the approved channels.
+- **From 2 November 2026** e-invoicing is mandatory for freelancers for invoices to Greek businesses and non-EU businesses (public-sector invoices since 1 September 2025), and timologio is one of the approved channels.
 - **It only issues invoices.** VAT returns, bookkeeping and the annual return are still your accountant's job.
 - **Remote employees** on a foreign payroll do not invoice at all.
 
@@ -56,7 +56,7 @@ timologio is *only* an invoicing tool, not accounting software. It does not calc
 
 ## November 2026: timologio becomes your compliance channel
 
-From **2 November 2026**, invoices to Greek businesses, the public sector and businesses outside the EU (US, UK, Switzerland) have to be issued through an approved e-invoicing channel: a licensed provider, or AADE's free apps. Invoices to EU businesses and to private individuals are not covered yet, but still go to myDATA as before. A transition period runs until 31 January 2027.
+From **2 November 2026**, invoices to Greek businesses and businesses outside the EU (US, UK, Switzerland) have to be issued through an approved e-invoicing channel: a licensed provider, or AADE's free apps. Invoices to the public sector have had to be electronic since 1 September 2025. Invoices to EU businesses and to private individuals are not covered yet, but still go to myDATA as before. A transition period runs until 31 January 2027 if the declaration was filed by 12 November 2026.
 
 If you issue all in-scope invoices through timologio or myDATAapp, you do not need to file a declaration. If you want to keep your current invoicing method in parallel during the transition, you need a declaration of use for timologio (or a provider's declaration) with a start date no later than 2 November 2026 ([A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). An in-scope invoice not issued through an approved channel is treated as a missing invoice under [Article 57 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/57): 50% of the VAT with a minimum of €250 (simple books) or €500 (double-entry) for a first offence, rising for repeat offences, or a fixed €500 or €1,000 per audit if the invoice carries no VAT. Full details, deadlines and penalties are in our [e-invoicing guide](/guides/e-invoicing-greece-explained).
 
