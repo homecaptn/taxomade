@@ -1,8 +1,8 @@
 ---
 title: "Freelancer Taxes in Greece: 2026 Overview (Income Tax, EFKA, VAT)"
-description: "Greek freelancer taxes 2026: new income tax scale, EFKA from €150.46/month, VAT, the 55% advance tax and minimum income, with a worked example."
+description: "Greek freelancer taxes 2026: new income tax scale, EFKA from €250.77/month, VAT, the 55% advance tax and minimum income, with a worked example."
 pubDate: 2026-10-08
-updatedDate: 2026-10-16
+updatedDate: 2026-11-04
 category: "tax"
 faq:
   - question: "How much tax does a freelancer pay in Greece in 2026?"
@@ -22,8 +22,8 @@ Freelance taxes in Greece are not one tax but five things at once: income tax, s
 ## The short answer
 
 - **Income tax 2026:** 9% to 44%, with new, lower middle brackets from income year 2026.
-- **EFKA:** from **€150.46/month** (new freelancers, first 5 years, on application) or **€250.77/month** (lowest regular class), plus €10 unemployment contribution for most freelancers.
-- **VAT:** 24% standard rate. Businesses started since 2024 file **monthly**, older ones with simple books quarterly. Below €10,000 turnover, an exemption is possible.
+- **EFKA:** **€250.77/month** in the lowest regular class, plus €10 unemployment contribution for most freelancers. Only new freelancers in their first five years can apply for a reduced class of €150.46/month.
+- **VAT:** 24% standard rate. Most established freelancers with simple books file **quarterly**; businesses started since 1 January 2024 file **monthly** for at least their first 24 months. Up to €10,000 turnover, an exemption is possible.
 - **Advance tax:** 55% of your income tax on business income, paid on top with your return (halved in your first year of business income).
 - **Minimum income:** from your fourth year, Greece may tax you on a minimum presumed income even if you earned less.
 
@@ -51,12 +51,16 @@ There is no tax-free allowance for business income: the tax credit that employee
 
 ## 2. Minimum presumptive income
 
-Since tax year 2023, Greece assumes a [minimum income for freelancers](https://www.taxheaven.gr/law/4172/2013/arthro/28Α). If your declared profit is lower, you are taxed on the minimum instead. The basis is the annual minimum wage of the tax year (€12,320 for 2025: €880 × 14). After your sixth year it rises by 10% per three years, up to +30%, and components for staff costs and for turnover above your sector's average can be added. In September 2026 the government announced it will drop these surcharges for freelancers with a clean compliance record; this is not yet law.
+Since tax year 2023, Greece assumes a [minimum income for freelancers](https://www.taxheaven.gr/law/4172/2013/arthro/28Α). If your declared profit is lower, you are taxed on the minimum instead.
+
+The basis is the annual minimum wage of the tax year (€12,320 for 2025: €880 × 14). After your sixth year of activity it rises in 10% steps every three years, and components for staff costs and for turnover above your sector's average can be added.
+
+In September 2026 the government announced it will drop the staff-cost and turnover components for freelancers with a clean compliance record, starting with 2026 income; check with your accountant whether this has been enacted when you file.
 
 What matters for newcomers:
 
 - It does **not apply in your first three years** of activity. In year four it is reduced by two-thirds, in year five by one-third ([Article 28C](https://www.taxheaven.gr/law/4172/2013/arthro/28Γ)).
-- It is halved in some cases, for example for large families, single parents, and if you live and work in a small village or on a small island.
+- It is halved in some cases, for example for parents of large families, single parents of minor children, and if your main residence is in a small village or on a small island.
 - You can contest it with evidence (for example illness) or by requesting a tax audit.
 
 ## 3. EFKA: social security
@@ -69,21 +73,23 @@ Unless you are still covered by another EU country's system with an A1 certifica
 | Class 1 (lowest regular class) | €250.77 |
 | Class 6 (highest) | €675.87 |
 
-For most freelancers, an unemployment contribution of €10 per month comes on top. If you don't choose a class, you are placed in class 1. The reduced special class has to be applied for and can only be used once. Paid contributions are deductible from your business income. More details: [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
+For most freelancers, an unemployment contribution of €10 per month comes on top. If you don't choose a class, you are placed in class 1, so €250.77 is the realistic minimum for most people.
+
+The reduced special class (Article 39 of Law 4387/2016) is only open to new freelancers in their first five years, has to be applied for and can only be used once. Paid contributions are deductible from your business income. More details: [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
 
 ## 4. VAT
 
 The standard VAT rate is 24%. Whether you charge it depends on your clients. Business clients abroad are usually invoiced without Greek VAT, but the invoices still go into your returns. See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
 
-- **Small business exemption:** with turnover up to **€10,000**, you can opt not to charge Greek VAT. With business clients in other EU countries, some filings still apply.
-- **Monthly or quarterly:** under [AADE decision A.1049/2025](https://aade.gr/sites/default/files/2025-04/a1049_2025.pdf), freelancers with simple books who started on or after 1 January 2024 file **monthly**. After 24 months of activity, they can switch to quarterly on request. Those who started earlier file quarterly.
+- **Small business exemption:** with turnover up to **€10,000** ([AADE decision A.1011/2026](https://www.taxheaven.gr/circulars/51970/a-1011-2026)), you can opt not to charge Greek VAT. With business clients in other EU countries, some filings still apply.
+- **Monthly or quarterly:** most established freelancers with simple books file **quarterly**. Under [AADE decision A.1049/2025](https://aade.gr/sites/default/files/2025-04/a1049_2025.pdf), those who started on or after 1 January 2024 file **monthly**; after 24 months of activity, they can switch to quarterly on request.
 - **Deadline:** last working day of the month after the period ends.
 
-From 2 November 2026, invoices to Greek and non-EU businesses have to be issued as e-invoices, with a transition period until 31 January 2027. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
+Since 2 November 2026, invoices to Greek businesses and to businesses outside the EU have to be issued as e-invoices; invoices to public bodies (B2G) have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies if you declare your invoicing method by 12 November 2026. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
 
 ## 5. Advance tax
 
-With your annual return, you pay a [55% advance](https://www.taxheaven.gr/law/4172/2013/arthro/69) on next year's tax, calculated on this year's tax on business income, minus tax already withheld by Greek clients. In the year you first earn business income, the advance is halved to 27.5%. A cut to 50% from tax year 2027 is in a draft bill put to public consultation in October 2026; it is not law yet. It is credited against the following year's bill, so it isn't lost, but it hurts cash flow. More on this in [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax).
+With your annual return, you pay a [55% advance](https://www.taxheaven.gr/law/4172/2013/arthro/69) on next year's tax, calculated on this year's tax on business income, minus tax already withheld by Greek clients. In the year you first earn business income, the advance is halved to 27.5%. Companies such as an IKE pay 80%. The advance is credited against the following year's bill, so it isn't lost, but it hurts cash flow. More on this in [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax).
 
 ## A worked example
 
@@ -100,6 +106,7 @@ Without 5C, the tax is €900 + €2,000 + €2,600 = €5,500. Under the [Artic
 ## Other rules to know
 
 - **20% withholding:** Greek business clients withhold 20% income tax on invoices above €300. You offset it against your annual tax. Foreign clients don't withhold Greek tax.
+- **Late filings:** fines are fixed under Article 53 of the Tax Procedure Code (Law 5104/2024): €100 per late return with no tax due, €250 (simple books) or €500 (double-entry books) with tax due, and €100 for a late VIES recapitulative statement. They are imposed automatically, without a warning.
 - **Card spending rule:** you have to spend 30% of your income (up to €20,000) by card or electronic payment. The shortfall is taxed at 22%.
 - **5C regime:** if you weren't Greek tax resident in five of the last six years, 50% of your freelance income can be tax-exempt for seven years. Digital Nomad Visa holders are not eligible. See [5C vs Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa).
 
@@ -109,8 +116,8 @@ Without 5C, the tax is €900 + €2,000 + €2,600 = €5,500. Under the [Artic
 |---|---|
 | EFKA | Monthly, by the end of the following month |
 | VAT return | Monthly or quarterly, by the last working day of the following month |
-| Annual tax return (E1 personal return with the E3 business statement) | From mid-March to 15 July |
-| Income tax payment | In full by 31 July (discount for early filing) or in up to 8 monthly instalments from 31 July |
+| Annual tax return (E1 personal return with the E3 business statement) | From mid-March to 15 July (extended to 24 July in 2026) |
+| Income tax payment | In full by 31 July, or in up to 8 monthly instalments from the end of July. Paying in full by 31 July earns a discount of 4%, 3% or 2% if you filed by 30 April, 15 June or the final deadline (24 July in 2026) |
 
 ## What we charge
 
@@ -138,4 +145,4 @@ Freelancers with simple bookkeeping who started on or after 1 January 2024 file 
 
 When you file your tax return, you also pay an advance on next year's tax: 55% of this year's income tax on business income, minus tax already withheld. It is halved in the year you first earn business income. The advance is credited against next year's tax bill.
 
-*Rates and amounts reflect Greek tax law as of October 2026.*
+*Rules as of November 2026 (Law 5246/2025; Income Tax Code arts. 28A–29 and 69; EFKA circular 6/2026; AADE decisions A.1049/2025, A.1011/2026 and A.1140/2026; Tax Procedure Code art. 53).*

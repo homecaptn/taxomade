@@ -2,11 +2,11 @@
 title: "How Much Does an Accountant Cost in Greece? (2026 Prices)"
 description: "What accountants cost in Greece in 2026: €30–60/month local rates vs full-service bookkeeping, what drives the price and what is actually included."
 pubDate: 2026-09-06
-updatedDate: 2026-10-28
+updatedDate: 2026-11-04
 category: "bookkeeping"
 faq:
   - question: "Do I really need an accountant as a freelancer in Greece?"
-    answer: "In practice, yes. Very few freelancers file on their own: the myDATA system, Greek-only government portals and fixed fines for late filings — €250 per late return with tax due on simplified books, €500 on double-entry books under Article 53 of the Tax Procedure Code (Law 5104/2024) — make professional handling the norm, even among Greeks. See our freelancer tax guide for what's involved."
+    answer: "In practice, yes. Very few freelancers file on their own: the myDATA system, Greek-only government portals and fixed fines for late filings — €100 per late return with no tax due, €250 with tax due on simplified books and €500 on double-entry books under Article 53 of the Tax Procedure Code (Law 5104/2024) — make professional handling the norm, even among Greeks. See our freelancer tax guide for what's involved."
   - question: "Why do internationals pay more than the €30–€60 local rate?"
     answer: "They don't pay more for the same thing — they buy a different scope: everything included, in their language, with someone reachable when it matters. Billed extras on a \"cheap\" plan typically close most of the gap anyway."
   - question: "Can I switch accountants mid-year?"
@@ -15,7 +15,7 @@ faq:
     answer: "For freelancers and companies, yes — accounting fees are a business expense under Article 22 of the Greek Income Tax Code (Law 4172/2013) and reduce your taxable income, as long as they're invoiced and recorded in your books. The fee for a private individual's annual return is not deductible."
 ---
 
-If you're a freelancer, remote worker or small business owner in Greece, an accountant isn't really optional — between myDATA transmission of every invoice, [mandatory e-invoicing](/guides/e-invoicing-greece-explained) for small businesses from November 2, 2026, VAT returns and the [annual return](/guides/freelancer-taxes-greece-2026), the Greek system is built around professional filing. The good news: accounting in Greece costs far less than most internationals expect. Here's what you'll actually pay in 2026 — and more importantly, what you get for it.
+If you're a freelancer, remote worker or small business owner in Greece, an accountant isn't really optional — between myDATA transmission of every invoice, [mandatory B2B e-invoicing](/guides/e-invoicing-greece-explained) for small businesses since November 2, 2026, VAT returns and the [annual return](/guides/freelancer-taxes-greece-2026), the Greek system is built around professional filing. Here's what you'll actually pay in 2026, and what you get for it.
 
 ## The short answer
 
@@ -28,7 +28,9 @@ If you're a freelancer, remote worker or small business owner in Greece, an acco
 
 Here's what most price lists won't tell you: the €40 offer and the €120 offer are usually not the same product at different prices — they're different products.
 
-Most low-cost quotes cover basic ledger keeping only. VAT returns (quarterly for most established freelancers with simplified books, but [monthly if you started your business on or after 1 January 2024](https://aade.gr/sites/default/files/2025-07/dt_03.07.2025.pdf) — with a quarterly option only after 24 months), myDATA transmission of your invoices, the annual tax return, responses to tax office notices — each billed separately, in Greek, when you remember to ask. Add it up over a year and you often land at the same total as the full-service rate, minus the response times, minus your language, and minus someone actively watching your deadlines.
+Most low-cost quotes cover basic ledger keeping only. VAT returns, myDATA transmission of your invoices, the annual tax return and responses to tax office notices are each billed separately, in Greek, when you remember to ask.
+
+VAT alone can mean four returns a year or twelve: quarterly for most established freelancers with simplified books, but [monthly if you started on or after 1 January 2024](https://aade.gr/sites/default/files/2025-07/dt_03.07.2025.pdf), with a quarterly option only after 24 months. Add it up over a year and you often land at the same total as the full-service rate, minus the response times, minus your language, and minus someone actively watching your deadlines.
 
 So when comparing accountants, don't ask "how much per month?" — ask "what exactly is included?" If your current accountant fails that test, [switching accountants](/guides/switching-accountants-greece) takes about a week.
 
@@ -44,7 +46,7 @@ Five outgoing invoices a month is a different job than fifty. Most firms price i
 
 ### 3. Language and service level
 
-Working in English, German or Greek — with digital document handling, written confirmations and guaranteed response times — sits in the full-service segment. That's where internationals almost always end up, by choice.
+Working in English, German or Greek — with digital document handling, written confirmations and guaranteed response times — sits in the full-service segment. That's where most internationals end up.
 
 ### 4. Payroll
 
@@ -52,13 +54,13 @@ Each employee adds roughly €15–€35 per month on Greek price lists, dependi
 
 ## What we charge at taxomade
 
-Full transparency, since that's the point of this article: our [ongoing bookkeeping for freelancers](/greece/ongoing-bookkeeping) is **from €89 per month** (all-in, depending on volume) — all core filings included: myDATA handling, VAT declarations, your annual tax return, and communication in English, German or Greek, with fast response times as standard. No per-declaration surprises. Company bookkeeping is quoted individually based on volume.
+Full transparency, since that's the point of this article: our [ongoing bookkeeping for freelancers](/greece/ongoing-bookkeeping) is **from €89 per month**, depending on invoice volume, with all core filings included: myDATA handling, VAT declarations and your annual tax return. We prepare and file them, handled by our state-certified Greek accountant, in English, German or Greek. No per-declaration extras. Company bookkeeping is quoted individually based on volume.
 
 ## Frequently asked questions
 
 ### Do I really need an accountant as a freelancer in Greece?
 
-In practice, yes. Very few freelancers file on their own: the myDATA system, Greek-only government portals and fixed fines for late filings — €250 per late return with tax due on simplified books, €500 on double-entry books under Article 53 of the Tax Procedure Code (Law 5104/2024) — make professional handling the norm, even among Greeks. See our freelancer tax guide for what's involved.
+In practice, yes. Very few freelancers file on their own: the myDATA system, Greek-only government portals and fixed fines for late filings — €100 per late return with no tax due, €250 with tax due on simplified books and €500 on double-entry books under Article 53 of the Tax Procedure Code (Law 5104/2024) — make professional handling the norm, even among Greeks. See our freelancer tax guide for what's involved.
 
 ### Why do internationals pay more than the €30–€60 local rate?
 
@@ -72,9 +74,4 @@ Yes, anytime. The new accountant takes over your records and access codes; a pro
 
 For freelancers and companies, yes — accounting fees are a business expense under Article 22 of the Greek Income Tax Code (Law 4172/2013) and reduce your taxable income, as long as they're invoiced and recorded in your books. The fee for a private individual's annual return is not deductible.
 
-## How we can help
-
-**Want a fixed monthly price with everything included?**
-Take a look at our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) — one rate, all core filings, handled by our state-certified Greek accountant in your language.
-
-*Rules as of October 2026 (Tax Procedure Code art. 53, Income Tax Code art. 22, AADE decision A.1049/2025; prices are indicative market ranges).*
+*Rules as of November 2026 (Tax Procedure Code art. 53, Income Tax Code art. 22, AADE decision A.1049/2025; prices are indicative market ranges).*
