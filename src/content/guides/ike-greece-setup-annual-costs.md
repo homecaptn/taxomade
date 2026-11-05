@@ -2,7 +2,7 @@
 title: "Setting Up an IKE in Greece: Process and Annual Costs (2026 Guide)"
 description: "How to form a Greek private company (IKE) in 2026, what it costs to set up and run each year, how it's taxed, and when it beats a sole proprietorship."
 pubDate: 2026-10-09
-updatedDate: 2026-10-31
+updatedDate: 2026-11-05
 category: "tax"
 faq:
   - question: "How much does it cost to open an IKE in Greece?"
@@ -23,7 +23,7 @@ Many founders moving to Greece ask the same question: should I open a company (I
 
 - **Formation:** online through the one-stop shop (e-ΥΜΣ), typically within a few days, with no real minimum capital and no notary for standard articles.
 - **Formation costs:** official fees are low (around €20 for the online route). Every founder needs a Greek tax number (AFM) first.
-- **Annual fixed costs:** trade fee of **€800 or €1,000**, EFKA for the administrator (class 1: **€250.77/month**), double-entry bookkeeping and annual financial statements.
+- **Annual fixed costs:** trade fee of **€800 or €1,000** (a bill to abolish it is pending, not yet law), EFKA for the administrator (class 1: **€250.77/month**), double-entry bookkeeping and annual financial statements.
 - **Tax:** **22%** corporate tax, plus **5%** on dividends paid out (about 25.9% in total).
 
 ## What an IKE is
@@ -62,17 +62,19 @@ Additional costs depend on your case: a notary if your articles need one, transl
 
 Four points matter here:
 
-- **Trade fee:** sole proprietors, including freelancers, no longer pay it since tax year 2024. Companies still do, from their first year, under [Article 31 of Law 3986/2011](https://www.taxheaven.gr/news/44962/telos-epithdeymatos-egxeiridio-erwtapanthsewn-apo-thn-aade). Some very small villages and islands are exempt. In September 2026 the government [announced a phased abolition](https://www.taxheaven.gr/news/74555/h-exeidikeysh-twn-newn-metrwn-ths-deo-video) for companies: outside Attica (including Thessaloniki) from the fee assessed in 2027, for tax year 2026, and in Attica a 50% cut in 2028 and full abolition in 2029. It is in a [draft bill](https://www.e-forologia.gr/cms/viewContents.aspx?id=239678) put to public consultation in October 2026, not yet law.
+- **Trade fee:** sole proprietors, including freelancers, no longer pay it since tax year 2024. Companies still do, from their first year, under [Article 31 of Law 3986/2011](https://www.taxheaven.gr/news/44962/telos-epithdeymatos-egxeiridio-erwtapanthsewn-apo-thn-aade). Some very small villages and islands are exempt. A bill to abolish the fee for companies is pending (see below).
 - **EFKA:** the administrator, and the sole partner of a single-member IKE, are insured as self-employed (ministry circular [Δ.15/Δ'/619/2018](https://www.taxheaven.gr/circulars/28504)). Ordinary partners are not insured just for holding shares. The amounts are the same classes as for freelancers. Whether an administrator can use the reduced class for new insured persons (€150.46) depends on the individual case. See [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
-- **Accounting:** an IKE keeps double-entry books and files VAT returns monthly. Its annual financial statements must be published on GEMI; since February 2026 GEMI fines missing filings automatically. From 2 November 2026, invoices to Greek and non-EU businesses must also be issued as [e-invoices](/guides/e-invoicing-greece-explained), with a transition period until 31 January 2027. In our experience, ongoing accounting for an IKE costs roughly twice as much as for a sole proprietorship.
+- **Accounting:** an IKE keeps double-entry books and files VAT returns monthly. Its annual financial statements must be published on GEMI; since 1 January 2026 GEMI fines missing filings automatically. Since 2 November 2026, invoices to Greek and non-EU businesses must also be issued as [e-invoices](/guides/e-invoicing-greece-explained); invoices to public bodies have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies if the company declares its invoicing method by 12 November 2026. In our experience, ongoing accounting for an IKE costs roughly twice as much as for a sole proprietorship.
 - **Staff:** once the company hires, payroll and employer social security (21.79% on top of gross pay) come on top. See [hiring your first employee in Greece](/guides/hiring-first-employee-greece).
+
+**Pending bill, not yet law: trade-fee abolition.** In September 2026 the government [announced a phased abolition](https://www.taxheaven.gr/news/74555/h-exeidikeysh-twn-newn-metrwn-ths-deo-video) for companies. The [bill](https://www.e-forologia.gr/cms/viewContents.aspx?id=239678) tabled in Parliament on 4 November 2026 proposes no fee outside Attica (including Thessaloniki) and on the Attica islands from tax year 2026. In the rest of Attica it proposes a 50% cut for tax year 2027 and full abolition from tax year 2028. The details can still change in Parliament. Until it is passed, the current fees apply.
 
 ## How an IKE is taxed
 
 - **Corporate income tax:** **22%** of profit. There is no reduced rate for small companies.
 - **Dividend tax:** **5%** withheld when profit is paid out (treaties can change the rate for non-residents). Distributed profit therefore carries about **25.9%** in total (22% + 5% of the remaining 78%). Profit that stays in the company is taxed at 22% only.
-- **Advance tax:** with each return, the company pays an advance of **80%** of the year's corporate tax towards the next year, halved in the first three years. A cut to 50% in steps of 5 points a year from tax year 2028 is in a draft bill, not yet law.
-- **Return:** for a calendar year, the corporate tax return is due by the end of June of the following year (in practice often extended into July), and the tax can be paid in monthly instalments.
+- **Advance tax:** with each return, the company pays an advance of **80%** of the year's corporate tax towards the next year, halved in the first three years. In September 2026 the government announced a cut to 50% in steps of 5 points a year from tax year 2028; it is not law yet.
+- **Return:** for a calendar year, the corporate tax return is filed between 15 March and 15 July of the following year (Law 5162/2024), and the tax can be paid in monthly instalments.
 
 For comparison: a sole proprietor pays personal income tax on profit, from 9% up to 44% (see [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026)).
 
@@ -118,4 +120,4 @@ Yes. The administrator, and the sole partner of a single-member IKE, are insured
 
 It depends on your profit and plans. An IKE limits your liability and its tax rate is lower than the top personal rates, but it has higher fixed costs: trade fee, double-entry bookkeeping and monthly VAT returns. For smaller profits, a sole proprietorship is usually cheaper to run.
 
-*Rules as of October 2026 (Law 4072/2012, Income Tax Code art. 58 and 71, Law 3986/2011 art. 31, AADE decision A.1197/2026; the trade-fee abolition and the advance-tax cut are a draft bill, not yet law).*
+*Rules as of November 2026 (Law 4072/2012, Income Tax Code art. 58, 68 and 71, Law 5162/2024, Law 3986/2011 art. 31, AADE decision A.1197/2026; the trade-fee abolition is a bill tabled in Parliament and the corporate advance-tax cut an announcement, neither yet law).*

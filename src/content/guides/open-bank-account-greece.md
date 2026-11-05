@@ -2,7 +2,7 @@
 title: "Opening a Bank Account in Greece as a Non-Resident"
 description: "The four major Greek banks, the documents you need, how to open a Greek IBAN remotely, and what banking costs in Greece in 2026."
 pubDate: 2026-05-03
-updatedDate: 2026-11-01
+updatedDate: 2026-11-05
 category: "afm"
 image: "/images/guides/bank_account_hero.png"
 faq:
@@ -83,7 +83,7 @@ Transaction fees dropped sharply in 2025 after government intervention, while th
 
 Revolut, N26 and Wise give Greek customers foreign IBANs (Revolut's are Lithuanian). They work for cards and most transfers, but not for IRIS, and occasionally get rejected by payroll or EFKA-related systems.
 
-Two things are changing. Snappi, a Piraeus-backed digital bank licensed by the ECB, launched in September 2025 with Greek IBANs, initially for Greek taxpayers. And Revolut [received approval for a Greek branch in July 2026](https://www.skai.gr/en/news/business/revolut-gets-bank-of-greece-approval-for-local-branch-plans-greek-iban-rollout), with Greek IBANs announced for "the coming months" but no launch date yet. Until then, a traditional bank is the safe choice for your tax and EFKA setup.
+Two things are changing. Snappi, a Piraeus-backed digital bank licensed by the ECB, launched in September 2025 with Greek IBANs, initially for Greek taxpayers. And Revolut [received approval for a Greek branch in July 2026](https://www.skai.gr/en/news/business/revolut-gets-bank-of-greece-approval-for-local-branch-plans-greek-iban-rollout), with Greek IBANs announced for "the coming months" but no launch date confirmed. Until they arrive, a traditional bank is the safe choice for your tax and EFKA setup.
 
 ## Frequently asked questions
 
@@ -105,6 +105,6 @@ Greek taxes can be paid from any SEPA account, and refunds can go to a foreign S
 
 ## Next steps
 
-Secure your [AFM](/guides/what-is-greek-afm-number) first, then choose your route: Alpha's remote onboarding or Eurobank's international unit if you need an account before you arrive, a branch visit otherwise. Once your Greek IBAN is open and you start working, taxomade handles the rest of your setup with [ongoing bookkeeping](/greece/ongoing-bookkeeping) from €89/month, including myDATA, VAT returns and your annual tax return. Send us a message for a free check.
+Secure your [AFM](/guides/what-is-greek-afm-number) first, then choose your route: Alpha's remote onboarding or Eurobank's international unit if you need an account before you arrive, a branch visit otherwise. Once your Greek IBAN is open and you start working, taxomade's [ongoing bookkeeping](/greece/ongoing-bookkeeping) starts from €89/month: we prepare and file your myDATA submissions, VAT returns and annual tax return. Send us a message for a free compliance check.
 
 *Rules as of November 2026 (Bank of Greece Banking and Credit Committee decision 281/2009, 2025 bank-fee caps, banks' published onboarding programmes).*

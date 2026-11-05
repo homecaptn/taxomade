@@ -2,7 +2,7 @@
 title: "Hiring Your First Employee in Greece: Costs, ERGANI & EFKA (2026)"
 description: "What it really costs to hire your first employee in Greece in 2026: employer EFKA, 14 salaries, ERGANI II, the digital work card and a worked example."
 pubDate: 2026-10-15
-updatedDate: 2026-10-23
+updatedDate: 2026-11-05
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -11,7 +11,7 @@ faq:
   - question: "What is the minimum wage in Greece in 2026?"
     answer: "€920 gross per month for employees from 1 April 2026, paid 14 times a year. A further increase from 1 April 2027 has been announced, with a target of €1,000 by January 2028; the 2027 amount has not been set."
   - question: "What do I have to file before my first employee starts?"
-    answer: "As a sole proprietor, register as an employer with e-EFKA to get an employer number (AME); an IKE formed through the GEMI one-stop-shop gets one automatically. Then file the digital hiring declaration in ERGANI II before the first working hour, and the employee accepts it in MyErgani. Starting without it counts as undeclared work."
+    answer: "As a sole proprietor, register as an employer with e-EFKA to get an employer number (AME); an IKE formed through the GEMI one-stop-shop gets one automatically. Then file the digital hiring declaration in ERGANI II before the first working hour; the employee can confirm the main terms in MyErgani. Starting without the declaration counts as undeclared work."
   - question: "Can I dismiss an employee during the first year in Greece?"
     answer: "During the first 12 months of an open-ended contract, the employer can terminate without notice and without severance, unless agreed otherwise. Probation can last up to six months and counts towards those 12 months. The termination still has to be declared in ERGANI II."
 ---
@@ -23,7 +23,7 @@ Your first hire in Greece is a bigger step than it looks from abroad. The salary
 - **Cost:** budget about **17 times the monthly gross** per year. €1,500 gross a month costs roughly €25,600 a year.
 - **Why:** 14 salaries (Christmas bonus, Easter bonus, leave allowance) plus **21.79% employer EFKA** on each. The employee pays 13.37%.
 - **Minimum wage:** €920 gross a month since 1 April 2026.
-- **Before day one:** employer registration with e-EFKA, then the hiring declaration in **ERGANI II**, accepted by the employee, before the first working hour.
+- **Before day one:** employer registration with e-EFKA, then the hiring declaration in **ERGANI II** before the first working hour.
 - **Digital work card:** mandatory for consulting, advertising and other office businesses from 16 November 2026.
 - **First 12 months:** termination without notice or severance; probation up to six months.
 
@@ -31,14 +31,14 @@ Your first hire in Greece is a bigger step than it looks from abroad. The salary
 
 **Sole proprietor:** you register yourself as an employer on e-EFKA through gov.gr and receive an employer number (AME, ΑΜΕ). It is online only, free, and asks for each employee's AFM (tax number), AMKA (social security number), specialty and start date. You need to be registered with AADE and insured with [EFKA](/guides/efka-social-security-freelancers-greece) yourself first. Details on the setup are in [how to register as a freelancer in Greece](/guides/freelancer-setup-greece).
 
-**IKE:** a company formed through the GEMI one-stop-shop gets its employer number automatically at incorporation. Note that the IKE's managing partner is insured as self-employed, not as an employee; your first hire is usually the first person on the company's payroll. The company side is covered in [setting up an IKE](/guides/ike-greece-setup-annual-costs).
+**IKE:** a company formed through the GEMI one-stop-shop gets its employer number automatically at incorporation. Note that the IKE's administrator is insured as self-employed, not as an employee; your first hire is usually the first person on the company's payroll. The company side is covered in [setting up an IKE](/guides/ike-greece-setup-annual-costs).
 
 ## 2. ERGANI II: file before the first working hour
 
 ERGANI II, the Ministry of Labour's employment register, has been fully live since 16 February 2026. Three rules matter for a first hire:
 
-- **Hiring declaration before work starts.** The digital hiring declaration (which replaced the old E3 form) is filed before the employee's first working hour, and the employee accepts it in MyErgani, the employee's ERGANI app, again before starting. A trial day without it counts as undeclared work.
-- **Contract terms on file.** The main terms of employment are posted in ERGANI II before hiring and before any change. Salary changes are declared within 30 days.
+- **Hiring declaration before work starts.** The digital hiring declaration (which replaced the old E3 form) is filed before the employee's first working hour. The employee can confirm the main terms digitally, for example in MyErgani, the employee's ERGANI app. A trial day without it counts as undeclared work.
+- **Contract terms on file.** The main terms of employment are posted in ERGANI II before hiring, and later changes, including salary changes, are declared there as well.
 - **Terminations** are declared in ERGANI II as well, including the end of a probation period.
 
 The fine for undeclared work is currently **€10,500 per worker**, reduced to €7,000, €5,000 or €3,000 if you then hire the person full-time for 3, 6 or 12 months.
@@ -59,7 +59,7 @@ The digital work card records each employee's actual start and end of work in re
 | Employee (withheld from pay) | 13.37% |
 | Total | 35.16% |
 
-Contributions are calculated on gross pay up to €7,761.94 a month. The payroll declaration (APD, ΑΠΔ) and payment are due by the last working day of the following month; when the declaration deadline is extended, the payment deadline is not. A further 0.5-point cut on the employee side (unemployment contribution) has been announced from 1 April 2027 but is not yet law.
+Contributions are calculated on gross pay up to €7,761.94 a month. The payroll declaration (APD, ΑΠΔ) and payment are due by the last working day of the following month; when the declaration deadline is extended, the payment deadline is not. A 0.5-point cut on the employee side (unemployment contribution, from 1.20% to 0.70%) from 1 April 2027 is in a bill tabled in Parliament on 4 November 2026; it is not law yet.
 
 **Income tax withholding** follows the 2026 scale (9% to 44%, [Law 5246/2025](https://www.taxheaven.gr/law/5246/2025/arthro/3)), with lower rates for employees under 30 and for parents. Payroll works out the annual tax, deducts the employee tax credit and withholds one fourteenth each month.
 
@@ -125,7 +125,7 @@ Roughly 17 times the monthly gross salary per year. An employee on €1,500 gros
 
 ### What do I have to file before my first employee starts?
 
-As a sole proprietor, register as an employer with e-EFKA to get an employer number (AME); an IKE formed through the GEMI one-stop-shop gets one automatically. Then file the digital hiring declaration in ERGANI II before the first working hour, and the employee accepts it in MyErgani. Starting without it counts as undeclared work.
+As a sole proprietor, register as an employer with e-EFKA to get an employer number (AME); an IKE formed through the GEMI one-stop-shop gets one automatically. Then file the digital hiring declaration in ERGANI II before the first working hour; the employee can confirm the main terms in MyErgani. Starting without the declaration counts as undeclared work.
 
 ### Can I dismiss an employee during the first year in Greece?
 
@@ -133,6 +133,6 @@ During the first 12 months of an open-ended contract, the employer can terminate
 
 ## How taxomade can help
 
-We prepare and file the employer registration where needed, the ERGANI II declarations, monthly payroll, the APD and withholding returns, alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping). Bookkeeping for a sole proprietor starts from €89 per month; IKE bookkeeping and payroll are priced separately, depending on your setup and number of employees. Send us a message before your first hire, not after it.
+We prepare and file the employer registration where needed, the ERGANI II declarations, monthly payroll, the APD and withholding returns, alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping). Bookkeeping for a sole proprietor starts from €89/month; IKE bookkeeping and payroll are priced separately, depending on your setup and number of employees. Send us a message before your first hire, not after it.
 
-*Rules as of October 2026 (Law 5053/2023, Law 5239/2025, Law 5246/2025, Law 5275/2026, e-EFKA circular 4/2026). The worked example is simplified.*
+*Rules as of November 2026 (Law 5053/2023, Law 5239/2025, Law 5246/2025, Law 5275/2026, e-EFKA circular 4/2026; the 2027 contribution cut is not yet law, the 2027 minimum wage not yet set, and the worked example is simplified).*
