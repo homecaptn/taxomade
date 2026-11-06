@@ -2,7 +2,7 @@
 title: "What is an AFM Number in Greece and Why Do You Need It?"
 description: "What the Greek tax number (AFM) is, when you need it, and how foreigners apply online through myAADE, with or without a representative."
 pubDate: 2026-03-20
-updatedDate: 2026-11-01
+updatedDate: 2026-11-06
 category: "afm"
 image: "/images/guides/afm_hero.png"
 faq:
@@ -16,7 +16,7 @@ faq:
     answer: "No. Since 9 September 2024 a tax representative is optional for individuals under AADE decision A.1069/2024, provided you declare your full foreign address, your foreign tax number and an email address, and accept that AADE notices are sent to those contact details."
 ---
 
-If you plan to spend any significant time in Greece, you will quickly meet three letters you need for almost every administrative step: **AFM** (pronounced *Ah-Fee-Mee*). Here is what it is, why you need it, and how to apply without setting foot in a Greek tax office.
+Almost every administrative step in Greece starts with three letters: **AFM** (pronounced *Ah-Fee-Mee*), your Greek tax number. Here is what it is, why you need it, and how to apply without setting foot in a Greek tax office.
 
 ## The short answer
 
@@ -55,6 +55,7 @@ You become tax resident if Greece is your permanent or main home, your habitual 
 Obtaining an AFM used to mean queuing at a local tax office (DOY) with a translator. Since 1 December 2023 ([AADE decision A.1185/2023](https://www.taxheaven.gr/circulars/45422/a-1185-2023)), applications are made **online only**, through the ["TIN & Authentication Key" application in myAADE](https://aade.gr/en/greeks-abroad-non-residents/registration-tax-register/issuance-tax-identification-number-and-authentication-key-and-appointment). AADE does not list any fee for the application.
 
 ### Applying yourself
+
 1. Fill in the online application and upload your passport (EU citizens can use a national ID card). Any foreign public document, such as a marriage certificate, needs an apostille and a Greek translation.
 2. Confirm your identity by video call with AADE (myAADElive) or at a tax office of your choice. The video call works from abroad.
 3. Once your identity is verified, your authentication key is emailed right after the call. The AFM certificate follows by email, either after the call or later during AADE working hours.
@@ -62,9 +63,11 @@ Obtaining an AFM used to mean queuing at a local tax office (DOY) with a transla
 For the video call you can take the first available slot or book an appointment; the calendar shows slots for the next 15 days.
 
 ### Applying through a representative
+
 You can authorise a lawyer or accountant to prepare and file the application for you. The authorisation needs a certified signature; documents signed abroad usually need an apostille and a Greek translation. In Greece, the signature can be certified at a KEP (citizens' service centre). The representative is identified with their own credentials, so you don't need a video call.
 
 ### What non-EU citizens need
+
 - **Living abroad:** a valid passport, plus your full foreign address, your foreign tax number and an email address.
 - **Living in Greece:** a passport plus proof of legal stay, such as a residence permit.
 
@@ -96,6 +99,6 @@ No. Since 9 September 2024 a tax representative is optional for individuals unde
 
 ## Need help with your AFM and what comes after?
 
-We [prepare and file AFM applications](/greece/tax-number-afm) for people moving to Greece, and once you start working, taxomade takes over your [ongoing bookkeeping](/greece/ongoing-bookkeeping) from €89/month, with myDATA, VAT returns and your annual tax return included. Send us a message for a free check.
+If you are moving to Greece, [we prepare and file your application](/greece/tax-number-afm) for you. Once you start working, taxomade takes over your [ongoing bookkeeping](/greece/ongoing-bookkeeping) from €89/month, with myDATA, VAT returns and your annual tax return included. Send us a message for a free check.
 
 *Rules as of November 2026 (AADE decisions A.1185/2023 and A.1069/2024).*
