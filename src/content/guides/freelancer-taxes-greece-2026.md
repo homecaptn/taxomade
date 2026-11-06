@@ -2,7 +2,7 @@
 title: "Freelancer Taxes in Greece: 2026 Overview (Income Tax, EFKA, VAT)"
 description: "Greek freelancer taxes 2026: new income tax scale, EFKA from €250.77/month, VAT, the 55% advance tax and minimum income, with a worked example."
 pubDate: 2026-10-08
-updatedDate: 2026-11-04
+updatedDate: 2026-11-06
 category: "tax"
 faq:
   - question: "How much tax does a freelancer pay in Greece in 2026?"
@@ -106,7 +106,7 @@ Without 5C, the tax is €900 + €2,000 + €2,600 = €5,500. Under the [Artic
 ## Other rules to know
 
 - **20% withholding:** Greek business clients withhold 20% income tax on invoices above €300. You offset it against your annual tax. Foreign clients don't withhold Greek tax.
-- **Late filings:** fines are fixed under Article 53 of the Tax Procedure Code (Law 5104/2024): €100 per late return with no tax due, €250 (simple books) or €500 (double-entry books) with tax due, and €100 for a late VIES recapitulative statement. They are imposed automatically, without a warning.
+- **Late filings:** fines are fixed under Article 53 of the Tax Procedure Code (Law 5104/2024). A late annual income tax return is not fined if it shows €100 of tax or less; above that, the fine is €250 (simple books) or €500 (double-entry books) where business income is concerned, otherwise €100. A late VAT return with tax due costs €250 or €500, and a late VIES recapitulative statement €100. Fines are imposed automatically, without a warning.
 - **Card spending rule:** you have to spend 30% of your income (up to €20,000) by card or electronic payment. The shortfall is taxed at 22%.
 - **5C regime:** if you weren't Greek tax resident in five of the last six years, 50% of your freelance income can be tax-exempt for seven years. Digital Nomad Visa holders are not eligible. See [5C vs Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa).
 
@@ -117,7 +117,7 @@ Without 5C, the tax is €900 + €2,000 + €2,600 = €5,500. Under the [Artic
 | EFKA | Monthly, by the end of the following month |
 | VAT return | Monthly or quarterly, by the last working day of the following month |
 | Annual tax return (E1 personal return with the E3 business statement) | From mid-March to 15 July (extended to 24 July in 2026) |
-| Income tax payment | In full by 31 July, or in up to 8 monthly instalments from the end of July. Paying in full by 31 July earns a discount of 4%, 3% or 2% if you filed by 30 April, 15 June or the final deadline (24 July in 2026) |
+| Income tax payment | In full by 31 July, or in up to 8 monthly instalments from the end of July. Paying in full by 31 July earns a discount of 4%, 3% or 2% if you filed by 15 May, 15 June or the final deadline (24 July in 2026) |
 
 ## What we charge
 
@@ -145,4 +145,4 @@ Freelancers with simple bookkeeping who started on or after 1 January 2024 file 
 
 When you file your tax return, you also pay an advance on next year's tax: 55% of this year's income tax on business income, minus tax already withheld. It is halved in the year you first earn business income. The advance is credited against next year's tax bill.
 
-*Rules as of November 2026 (Law 5246/2025; Income Tax Code arts. 28A–29 and 69; EFKA circular 6/2026; AADE decisions A.1049/2025, A.1011/2026 and A.1140/2026; Tax Procedure Code art. 53).*
+*Rules as of November 2026 (Law 5246/2025; Income Tax Code arts. 28A–29 and 69; EFKA circular 6/2026; Law 5297/2026 art. 249; AADE decisions A.1049/2025, A.1011/2026 and A.1140/2026; Tax Procedure Code art. 53 and AADE circular E.2059/2025).*

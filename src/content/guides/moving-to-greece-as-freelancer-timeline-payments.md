@@ -2,7 +2,7 @@
 title: "Moving to Greece as a Freelancer: Timeline & Tax Deadlines"
 description: "Greek freelancer tax calendar 2026: myDATA, monthly EFKA, VAT returns, EU recapitulative statements, the E1/E3 return and the 55% advance tax."
 pubDate: 2026-08-03
-updatedDate: 2026-11-02
+updatedDate: 2026-11-06
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -65,11 +65,11 @@ If your business is subject to VAT (FPA), you file VAT returns and pay any VAT o
 Your annual income tax return (E1 is the personal return, E3 the business income schedule) summarises your income, deductible expenses and final income tax.
 
 - **Filing window:** 15 March to 15 July, fixed by law since 2025. Extensions happen in some years, but do not plan around them.
-- **Payment:** in full by the end of July, with a discount of 4% if you filed by 30 April (extended to 15 May in 2026), 3% by 15 June and 2% by 15 July, or in **eight monthly instalments** from the end of July to the end of February of the following year.
+- **Payment:** in full by the end of July, with a discount of 4% if you filed by 15 May, 3% by 15 June and 2% by 15 July ([Law 5297/2026, art. 249](https://www.taxheaven.gr/law/5297/2026/arthro/249)), or in **eight monthly instalments** from the end of July to the end of February of the following year.
 
 ### 2. The advance tax (prokatavoli)
 
-With your annual income tax, Greece collects an **advance on next year's tax**: 55% of the income tax on your business income, halved to 27.5% in the year you first earn business income. A draft bill in public consultation since October 2026 would cut it to 50% from tax year 2027; it is not law yet. It is credited against the following year's bill, but it has to be paid with this year's. The full mechanics are in [the hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax), a worked example in the [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
+With your annual income tax, Greece collects an **advance on next year's tax**: 55% of the income tax on your business income, halved to 27.5% in the year you first earn business income. A cut to 50% from tax year 2027 was put to public consultation in October 2026; it is not yet law. It is credited against the following year's bill, but it has to be paid with this year's. The full mechanics are in [the hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax), a worked example in the [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
 
 ## Summary: a typical year
 
@@ -99,4 +99,4 @@ An advance of 55% of your income tax on business income, paid with your annual r
 
 Every deadline above is part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month: myDATA transmission, EFKA notices, VAT returns, recapitulative statements and the annual E1/E3 return, in English, German or Greek. Send us a message for a free check of your setup.
 
-*Rules as of November 2026 (AADE A.1049/2025 and A.1197/2026, Income Tax Code art. 69, Tax Procedure Code art. 53, E.2059/2025, EFKA circular 6/2026; deadlines are extended in some years).*
+*Rules as of November 2026 (AADE A.1049/2025 and A.1197/2026, Income Tax Code art. 69, Law 5297/2026 art. 249, Tax Procedure Code art. 53, E.2059/2025, EFKA circular 6/2026; deadlines are extended in some years).*
