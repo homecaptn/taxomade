@@ -2,7 +2,7 @@
 title: "E-Invoicing in Greece for Freelancers: What Changes From November 2026"
 description: "E-invoicing in Greece for freelancers: mandatory from November 2, 2026. Which invoices are covered, timologio, declarations, deadlines and penalties."
 pubDate: 2026-09-30
-updatedDate: 2026-11-03
+updatedDate: 2026-11-07
 category: "bookkeeping"
 faq:
   - question: "Do freelancers in Greece need e-invoicing?"
@@ -14,7 +14,7 @@ faq:
   - question: "Does e-invoicing apply to EU clients or private customers?"
     answer: "No. Invoices to businesses in other EU countries and to private customers are not covered by the mandate. They still have to be reported to myDATA as before."
   - question: "Is the timologio app free, and do I need a declaration?"
-    answer: "timologio is free. If you issue all your in-scope invoices exclusively through timologio or myDATAapp from November 2, 2026, you don't need to file a declaration. If you use a provider, the provider files a declaration in myAADE that you accept. To keep your old setup during the transition period, you need a provider declaration or a declaration of use for timologio, with a start date no later than November 2, 2026, filed within 10 days of that start date (by November 12, 2026 for a November 2 start)."
+    answer: "timologio is free. If you issue all your in-scope invoices exclusively through timologio or myDATAapp from November 2, 2026, you don't need to file a declaration. If you use a provider, the provider files a declaration in myAADE that you accept. The transition period until January 31, 2027 only applies to businesses that declared their invoicing method in time: a provider declaration or a declaration of use for timologio, with a start date no later than November 2, 2026."
   - question: "What are the penalties for not issuing an e-invoice in Greece?"
     answer: "A missing e-invoice is treated as a missing invoice. For invoices with VAT, the penalty is 50% of the VAT, with a minimum of €250 (single-entry books) or €500 (double-entry books). Without VAT, fixed fines of €500 or €1,000 per tax audit apply. Repeat violations are penalized more heavily."
 ---
@@ -80,7 +80,7 @@ This depends on which option you choose:
 
 - **timologio or myDATAapp only:** If you issue all your in-scope invoices through AADE's free apps from November 2 onward, you don't need to file a declaration.
 - **Approved provider:** The provider files a "Declaration of Commencement of Electronic Issuance" in myAADE within 10 days of your contract's start date, and you accept it there; if you don't respond within 10 days, it counts as accepted. If the provider misses its deadline, you have to file the declaration yourself within the following 10 days.
-- **Keeping your old setup during the transition:** You need either that provider declaration or a "declaration of use" for timologio, with a start date no later than November 2, 2026. The declaration of use is due within 10 days of that start date, so by **November 12, 2026** if you start on November 2. Without a timely declaration, the transition period doesn't apply to you.
+- **Keeping your old setup during the transition:** You need either that provider declaration or a "declaration of use" for timologio, filed in time and with a start date no later than November 2, 2026. The declaration of use is due within 10 days of the date you start using timologio (A.1129/2025). AADE has not published a separate calendar deadline for the postponed November 2 start, so if yours isn't in yet, file it now and check whether the transition still applies to you. Without a timely declaration, it doesn't.
 
 ## What the transition period means
 
@@ -112,7 +112,7 @@ At EU level, the "VAT in the Digital Age" (ViDA) reforms are set to extend e-inv
 
 1. **Check who your clients are.** If any are Greek businesses or businesses outside the EU, you're in scope from November 2, 2026. Public-sector clients already require e-invoices.
 2. **Choose your channel.** For low volume, timologio usually works. For higher volume or software integration, an approved provider.
-3. **File or accept the declaration if you need one**, with a start date no later than November 2, 2026, and within 10 days of that date (by November 12, 2026 for a November 2 start).
+3. **File or accept the declaration if you need one**, with a start date no later than November 2, 2026. The transition period only applies to declarations filed in time, so don't wait.
 4. **Use the transition period** to test before February 2027.
 
 ## What we charge
@@ -141,7 +141,7 @@ No. Invoices to businesses in other EU countries and to private customers are no
 
 ### Is the timologio app free, and do I need a declaration?
 
-timologio is free. If you issue all your in-scope invoices exclusively through timologio or myDATAapp from November 2, 2026, you don't need to file a declaration. If you use a provider, the provider files a declaration in myAADE that you accept. To keep your old setup during the transition period, you need a provider declaration or a declaration of use for timologio, with a start date no later than November 2, 2026, filed within 10 days of that start date (by November 12, 2026 for a November 2 start).
+timologio is free. If you issue all your in-scope invoices exclusively through timologio or myDATAapp from November 2, 2026, you don't need to file a declaration. If you use a provider, the provider files a declaration in myAADE that you accept. The transition period until January 31, 2027 only applies to businesses that declared their invoicing method in time: a provider declaration or a declaration of use for timologio, with a start date no later than November 2, 2026.
 
 ### What are the penalties for not issuing an e-invoice in Greece?
 

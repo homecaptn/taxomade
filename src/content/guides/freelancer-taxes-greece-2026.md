@@ -2,7 +2,7 @@
 title: "Freelancer Taxes in Greece: 2026 Overview (Income Tax, EFKA, VAT)"
 description: "Greek freelancer taxes 2026: new income tax scale, EFKA from €250.77/month, VAT, the 55% advance tax and minimum income, with a worked example."
 pubDate: 2026-10-08
-updatedDate: 2026-11-06
+updatedDate: 2026-11-07
 category: "tax"
 faq:
   - question: "How much tax does a freelancer pay in Greece in 2026?"
@@ -85,7 +85,7 @@ The standard VAT rate is 24%. Whether you charge it depends on your clients. Bus
 - **Monthly or quarterly:** most established freelancers with simple books file **quarterly**. Under [AADE decision A.1049/2025](https://aade.gr/sites/default/files/2025-04/a1049_2025.pdf), those who started on or after 1 January 2024 file **monthly**; after 24 months of activity, they can switch to quarterly on request.
 - **Deadline:** last working day of the month after the period ends.
 
-Since 2 November 2026, invoices to Greek businesses and to businesses outside the EU have to be issued as e-invoices; invoices to public bodies (B2G) have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies if you declare your invoicing method by 12 November 2026. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
+Since 2 November 2026, invoices to Greek businesses and to businesses outside the EU have to be issued as e-invoices; invoices to public bodies (B2G) have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies to businesses that declared their invoicing method in time. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
 
 ## 5. Advance tax
 
@@ -106,7 +106,7 @@ Without 5C, the tax is €900 + €2,000 + €2,600 = €5,500. Under the [Artic
 ## Other rules to know
 
 - **20% withholding:** Greek business clients withhold 20% income tax on invoices above €300. You offset it against your annual tax. Foreign clients don't withhold Greek tax.
-- **Late filings:** fines are fixed under Article 53 of the Tax Procedure Code (Law 5104/2024). A late annual income tax return is not fined if it shows €100 of tax or less; above that, the fine is €250 (simple books) or €500 (double-entry books) where business income is concerned, otherwise €100. A late VAT return with tax due costs €250 or €500, and a late VIES recapitulative statement €100. Fines are imposed automatically, without a warning.
+- **Late filings:** fines are fixed under Article 53 of the Tax Procedure Code (Law 5104/2024). A late annual income tax return is not fined if it shows €100 of tax or less; above that, the fine is €250 (simple books) or €500 (double-entry books) where business income is concerned, otherwise €100. A late VAT return costs €100 if it shows nothing to pay and €250 or €500 if tax is due, and a late VIES recapitulative statement €100. Fines are imposed automatically, without a warning.
 - **Card spending rule:** you have to spend 30% of your income (up to €20,000) by card or electronic payment. The shortfall is taxed at 22%.
 - **5C regime:** if you weren't Greek tax resident in five of the last six years, 50% of your freelance income can be tax-exempt for seven years. Digital Nomad Visa holders are not eligible. See [5C vs Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa).
 

@@ -2,7 +2,7 @@
 title: "Greek Tax Deadlines Calendar 2026–2027 for Freelancers and Small Businesses"
 description: "Greek tax deadlines 2026–2027: income tax return and instalments, VAT, VIES, EFKA, ENFIA, 5C/5B applications, e-invoicing and late-filing fines."
 pubDate: 2026-10-30
-updatedDate: 2026-11-03
+updatedDate: 2026-11-07
 category: "tax"
 faq:
   - question: "When is the deadline for tax returns in Greece in 2026?"
@@ -16,7 +16,7 @@ faq:
   - question: "When is ENFIA due in 2026?"
     answer: "AADE issued the 2026 ENFIA assessments in March. You can pay in one go or in up to 12 monthly instalments, the first by 31 March 2026 and the last by the last working day of February 2027."
   - question: "What is the fine for filing a tax return late in Greece?"
-    answer: "It depends on your books, not on whether the return shows tax to pay. The fine per late return is €100 if you keep no business books, €250 with simple books and €500 with double-entry books, for business returns such as VAT and income tax even when they show nothing to pay. Information returns such as the VIES recapitulative statement cost €100 regardless. A late initial income tax return showing €100 tax or less carries no fine. The fine is issued when you file late."
+    answer: "It depends on the return. A late VAT return costs €100 if it shows nothing to pay, and €250 (simple books) or €500 (double-entry books) if tax is due. A late income tax return showing €100 of tax or less is not fined; above that, the fine is €250 or €500 with business income, otherwise €100. A late VIES recapitulative statement costs €100. The fine is issued when you file late."
 ---
 
 Most tax trouble in Greece doesn't come from high rates. It comes from dates. A late return brings a fixed fine, and the system doesn't send a reminder first. This calendar covers the deadlines that apply to freelancers, sole traders and small IKEs, with the legal source for each.
@@ -46,7 +46,7 @@ Whether you file monthly or quarterly depends on your books and your start date 
 
 The return is due by the **last working day of the month after the period ends**. A monthly filer files September by the end of October. A quarterly filer files July–September by the end of October. Payment is due by the same date. If you file on time and owe more than €100, you can split the payment into two equal instalments, the second due by the last working day of the following month.
 
-A late VAT return is fined even if it shows nothing to pay, so a zero return still has to go in on time.
+A late VAT return is fined even if it shows nothing to pay (€100), so a zero return still has to go in on time.
 
 ### VIES recapitulative statement
 
@@ -112,7 +112,7 @@ For [Article 5B](/guides/retiring-to-greece-7-percent-flat-tax), the cut-off is 
 
 Since 2 March 2026, large businesses have had to issue B2B invoices electronically. Everyone else, freelancers included, follows from **2 November 2026** ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). It covers invoices to Greek businesses and to businesses outside the EU. Invoices to the public sector (B2G) have had to be electronic since 1 September 2025, under separate rules.
 
-A transition period runs until **31 January 2027**, but only if you filed a declaration with a start date no later than 2 November 2026. From 1 February 2027, invoices in scope can only be issued through an approved provider or AADE's free apps. Details: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
+A transition period runs until **31 January 2027**, but only if you filed a declaration in time, with a start date no later than 2 November 2026. From 1 February 2027, invoices in scope can only be issued through an approved provider or AADE's free apps. Details: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
 
 ## The calendar at a glance
 
@@ -133,11 +133,11 @@ A transition period runs until **31 January 2027**, but only if you filed a decl
 
 ## What a missed deadline costs
 
-Fines for late returns are fixed amounts per return, set by [Article 53 of the Tax Procedure Code (Law 5104/2024)](https://www.taxheaven.gr/law/5104/2024/arthro/53) and imposed with a fine notice, which AADE's system issues when you file late. What counts is the type of books you keep, not whether the return shows tax to pay ([AADE circular E.2059/2025](https://www.aade.gr/sites/default/files/2025-08/e2059_2025pro.pdf)):
+Fines for late returns are fixed amounts per return, set by [Article 53 of the Tax Procedure Code (Law 5104/2024)](https://www.taxheaven.gr/law/5104/2024/arthro/53) and imposed with a fine notice, which AADE's system issues when you file late:
 
-- **Late business return** (VAT, income tax, withholding), even a zero return: **€100** with no business books, **€250** with simple books, **€500** with double-entry books.
+- **Late VAT return** with nothing to pay: **€100**. With tax due: **€250** with simple books, **€500** with double-entry books.
+- **Late income tax return** showing €100 of tax or less: no fine. Above that: **€250** or **€500** with business income, otherwise **€100**.
 - **Late information return** (for example the VIES recapitulative statement): **€100**, whatever books you keep.
-- **Late initial income tax return** showing €100 tax or less: no fine.
 
 Late payment adds interest on top. If you've already missed something, filing as soon as possible usually keeps the damage small. More on the costs in [freelancer taxes in Greece](/guides/freelancer-taxes-greece-2026).
 
@@ -169,6 +169,6 @@ AADE issued the 2026 ENFIA assessments in March. You can pay in one go or in up 
 
 ### What is the fine for filing a tax return late in Greece?
 
-It depends on your books, not on whether the return shows tax to pay. The fine per late return is €100 if you keep no business books, €250 with simple books and €500 with double-entry books, for business returns such as VAT and income tax even when they show nothing to pay. Information returns such as the VIES recapitulative statement cost €100 regardless. A late initial income tax return showing €100 tax or less carries no fine. The fine is issued when you file late.
+It depends on the return. A late VAT return costs €100 if it shows nothing to pay, and €250 (simple books) or €500 (double-entry books) if tax is due. A late income tax return showing €100 of tax or less is not fined; above that, the fine is €250 or €500 with business income, otherwise €100. A late VIES recapitulative statement costs €100. The fine is issued when you file late.
 
 *Rules as of November 2026 (Income Tax Code art. 67, 69 and 71, Law 5297/2026 art. 249, A.1140/2026, VAT Code art. 38, A.1049/2025, A.1222/2020, Law 4223/2013 art. 8, A.1192/2026, A.1197/2026, Tax Procedure Code art. 53, E.2059/2025).*

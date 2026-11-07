@@ -2,6 +2,7 @@
 title: "Moving to Greece With a Greek Spouse or Partner: Tax Guide (2026)"
 description: "Moving to Greece with a Greek spouse or partner? Tax residency, your own AFM, joint or separate returns, and registering as a freelancer in 2026."
 pubDate: 2026-11-04
+updatedDate: 2026-11-07
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -83,9 +84,9 @@ Marriage to a Greek citizen does not change how you register or are taxed as sel
 - **Registration:** start of business activity with AADE, with the right activity codes (KAD).
 - **EFKA:** new freelancers can apply for the reduced class of **€150.46/month** for their first five years ([Article 39, Law 4387/2016](https://www.taxheaven.gr/law/4387/2016/arthro/39)). The lowest regular class is €250.77. See [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
 - **VAT:** usually quarterly returns for freelancers on single-entry books. If your Greek turnover stays at or under **€10,000**, you can opt for the small business exemption (AADE decision A.1011/2026). Foreign clients have their own rules: [VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
-- **Invoicing:** every invoice is reported to [myDATA](/guides/mydata-greece-explained). Since 2 November 2026, [e-invoicing](/guides/e-invoicing-greece-explained) is mandatory for invoices to Greek businesses and to businesses outside the EU, with a transition period until 31 January 2027 only for businesses that declared it by 12 November 2026. Invoices to the public sector have been covered since 1 September 2025.
+- **Invoicing:** every invoice is reported to [myDATA](/guides/mydata-greece-explained). Since 2 November 2026, [e-invoicing](/guides/e-invoicing-greece-explained) is mandatory for invoices to Greek businesses and to businesses outside the EU, with a transition period until 31 January 2027 only for businesses that declared their invoicing method in time. Invoices to the public sector have been covered since 1 September 2025.
 - **Advance tax:** with each return you pay **55%** of your income tax as an advance on next year, halved in your first year with business income. See [the hidden costs of moving](/guides/hidden-costs-moving-to-greece-advance-tax).
-- **Penalties:** late or missing filings are fined automatically, with no warning letter first: €100, €250 or €500 per return depending on your books ([Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53)).
+- **Penalties:** late or missing filings are fined automatically, with no warning letter first: €100 for a late VAT return with nothing to pay, €250 or €500 (depending on your books) if tax is due ([Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53)).
 
 Rates and brackets: [freelancer taxes in 2026](/guides/freelancer-taxes-greece-2026).
 

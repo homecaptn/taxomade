@@ -2,7 +2,7 @@
 title: "How to Invoice Clients as a Greek Freelancer (Free AADE timologio Guide)"
 description: "Invoicing as a freelancer in Greece with AADE's free timologio app: myDATA, MARK, VAT codes for foreign clients and the November 2026 e-invoicing rules."
 pubDate: 2026-07-07
-updatedDate: 2026-11-03
+updatedDate: 2026-11-07
 category: "bookkeeping"
 image: "/images/guides/timologio_hero.png"
 faq:
@@ -56,7 +56,7 @@ timologio is *only* an invoicing tool, not accounting software. It does not calc
 
 ## November 2026: timologio becomes your compliance channel
 
-From **2 November 2026**, invoices to Greek businesses and businesses outside the EU (US, UK, Switzerland) have to be issued through an approved e-invoicing channel: a licensed provider, or AADE's free apps. Invoices to the public sector have had to be electronic since 1 September 2025. Invoices to EU businesses and to private individuals are not covered yet, but still go to myDATA as before. A transition period runs until 31 January 2027 if the declaration was filed by 12 November 2026.
+From **2 November 2026**, invoices to Greek businesses and businesses outside the EU (US, UK, Switzerland) have to be issued through an approved e-invoicing channel: a licensed provider, or AADE's free apps. Invoices to the public sector have had to be electronic since 1 September 2025. Invoices to EU businesses and to private individuals are not covered yet, but still go to myDATA as before. A transition period until 31 January 2027 applies to businesses that declared their invoicing method in time.
 
 If you issue all in-scope invoices through timologio or myDATAapp, you do not need to file a declaration. If you want to keep your current invoicing method in parallel during the transition, you need a declaration of use for timologio (or a provider's declaration) with a start date no later than 2 November 2026 ([A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). An in-scope invoice not issued through an approved channel is treated as a missing invoice under [Article 57 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/57): 50% of the VAT with a minimum of €250 (simple books) or €500 (double-entry) for a first offence, rising for repeat offences, or a fixed €500 or €1,000 per audit if the invoice carries no VAT. Full details, deadlines and penalties are in our [e-invoicing guide](/guides/e-invoicing-greece-explained).
 
@@ -97,4 +97,4 @@ MARK (Μοναδικός Αριθμός Καταχώρησης) is the unique re
 
 timologio is free, but the first invoice is where the mistakes happen: wrong activity code (KAD), wrong VAT exemption reason, missing VIES check. In our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, we set up your timologio profile and exemption codes with you and handle the myDATA and VAT side from there.
 
-*Rules as of October 2026 (joint decision A.1128/2025 as amended by A.1197/2026, VAT Code arts. 14 and 44a, Tax Procedure Code art. 57).*
+*Rules as of November 2026 (joint decision A.1128/2025 as amended by A.1197/2026, A.1129/2025, VAT Code arts. 14 and 44a, Tax Procedure Code art. 57).*

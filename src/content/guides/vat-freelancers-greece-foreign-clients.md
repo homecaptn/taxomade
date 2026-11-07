@@ -2,7 +2,7 @@
 title: "VAT for Freelancers in Greece With Foreign Clients (2026 Guide)"
 description: "Reverse charge, VIES registration, recapitulative statements and the €10,000 OSS threshold — how Greek VAT actually works when your clients are abroad."
 pubDate: 2026-09-20
-updatedDate: 2026-11-03
+updatedDate: 2026-11-07
 category: "bookkeeping"
 faq:
   - question: "Do I charge VAT to clients outside Greece?"
@@ -85,7 +85,7 @@ Greece changed its filing rules in 2025, and it matters most for exactly the peo
 
 If you're registering as a freelancer now, plan for monthly VAT returns from day one — plus monthly recapitulative statements if you have EU business clients. That's a heavier cadence than most people expect, and the main reason DIY bookkeeping breaks down within months.
 
-A late VAT return is fined even when it shows nothing to pay: **€250** per return with simple books, **€500** with double-entry books (Article 53, Law 5104/2024).
+A late VAT return is fined even when it shows nothing to pay: **€100** per return. If tax is due, the fine is **€250** with simple books and **€500** with double-entry books (Article 53, Law 5104/2024).
 
 ### What about the small business VAT exemption?
 
@@ -95,7 +95,7 @@ Freelancers whose Greek turnover stays at or under **€10,000** in both the cur
 
 Greece has made e-invoicing mandatory on top of myDATA — and the two are not the same thing. myDATA is the reporting layer (your invoice data reaches AADE); the e-invoicing mandate is about **how the invoice is issued**: through a certified e-invoicing provider or AADE's free tools (timologio or myDATAapp).
 
-The rollout is phased: businesses with revenue above €1 million came first on March 2, 2026, and all other businesses — freelancers included — must comply from **November 2, 2026** (originally October 1, 2026, then postponed by [AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). A transition period runs until January 31, 2027, but only if you filed the required declaration on time (by November 12, 2026 for a November 2 start). From February 1, 2027, invoices in scope can only be issued through the approved channels. The mandate covers B2B invoices to Greek businesses and invoices to non-EU businesses; invoices to the Greek public sector have had to be e-invoices since September 1, 2025. For invoices to EU-based businesses, e-invoicing remains optional. If you're setting up now, choose a compliant invoicing channel from the start — one migration you can simply skip. For a plain-English explanation, see our guide on [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
+The rollout is phased: businesses with revenue above €1 million came first on March 2, 2026, and all other businesses — freelancers included — must comply from **November 2, 2026** (originally October 1, 2026, then postponed by [AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). A transition period runs until January 31, 2027, but only for businesses that declared their invoicing method in time. From February 1, 2027, invoices in scope can only be issued through the approved channels. The mandate covers B2B invoices to Greek businesses and invoices to non-EU businesses; invoices to the Greek public sector have had to be e-invoices since September 1, 2025. For invoices to EU-based businesses, e-invoicing remains optional. If you're setting up now, choose a compliant invoicing channel from the start — one migration you can simply skip. For a plain-English explanation, see our guide on [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
 
 ## What we charge at taxomade
 

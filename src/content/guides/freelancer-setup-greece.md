@@ -2,7 +2,7 @@
 title: "Setting up as a Freelancer in Greece: The Complete Guide"
 description: "What a new freelancer in Greece must set up: AFM and business start, EFKA from €150.46/month, myDATA invoicing, VAT and income tax rates for 2026."
 pubDate: 2026-05-14
-updatedDate: 2026-11-02
+updatedDate: 2026-11-07
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -47,7 +47,7 @@ Contributions are paid monthly with an RF payment code, due by the last working 
 
 Greece reports every invoice electronically through **myDATA**, the tax authority's digital books (see [myDATA explained](/guides/mydata-greece-explained)). You cannot simply email a Word document to a client.
 
-- **E-invoicing:** from 2 November 2026, invoices to Greek businesses and to businesses outside the EU must be issued through an AADE-approved provider or AADE's free timologio or myDATAapp. A transition period until 31 January 2027 applies only if the required declaration was filed on time (by 12 November 2026 for a 2 November start). Invoices for most public contracts have required e-invoicing since 1 September 2025. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
+- **E-invoicing:** from 2 November 2026, invoices to Greek businesses and to businesses outside the EU must be issued through an AADE-approved provider or AADE's free timologio or myDATAapp. A transition period until 31 January 2027 applies only to businesses that declared their invoicing method in time, with a start date no later than 2 November 2026. Invoices for most public contracts have required e-invoicing since 1 September 2025. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
 - **timologio:** AADE's free online tool issues invoices that sync with myDATA automatically; see [the timologio guide](/guides/free-invoicing-greece-aade-timologio). Many freelancers prefer commercial software for usability.
 
 ## Taxes: VAT and income tax
@@ -65,13 +65,15 @@ Greece reports every invoice electronically through **myDATA**, the tax authorit
 
 Lower rates apply to under-30s and parents. Details in [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026).
 
-If you were not Greek tax resident in five of the previous six years, you may qualify for the [Article 5C regime](/guides/50-percent-tax-break-article-5c): 50% of your income from the registered activity is exempt from income tax. Digital Nomad Visa holders are not eligible. On top of income tax, budget for the [55% advance tax](/guides/hidden-costs-moving-to-greece-advance-tax) on next year's bill (halved in your first year with business income; a cut to 50% from tax year 2027 is proposed, not yet law) and, from your fourth year, the minimum presumptive income. The trade fee no longer applies to individuals.
+If you were not Greek tax resident in five of the previous six years, you may qualify for the [Article 5C regime](/guides/50-percent-tax-break-article-5c): 50% of your income from the registered activity is exempt from income tax. Digital Nomad Visa holders are not eligible. On top of income tax, budget for the [55% advance tax](/guides/hidden-costs-moving-to-greece-advance-tax) on next year's bill (halved in your first year with business income; a cut to 50% from tax year 2027 is in a bill submitted to Parliament in November 2026, not yet law) and, from your fourth year, the minimum presumptive income. The trade fee no longer applies to individuals.
+
+**Late filings** are fined automatically, without a warning ([Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53)). A late VAT return costs €100 if it shows nothing to pay, and €250 (simple books) or €500 (double-entry books) if tax is due. A late income tax return showing €100 of tax or less is not fined; above that, the fine is €250 or €500 with business income. A late VIES statement costs €100.
 
 ### What about an IKE (private company)?
 
 Many expats read about the 5% dividend tax and assume they should open a company (IKE). **The 5% is a tax on company distributions, paid after 22% corporate tax, and has nothing to do with sole-proprietor income.**
 
-An IKE also carries higher fixed costs: the annual trade fee (currently still charged to companies; a draft bill in public consultation in October 2026 proposes phasing it out by 2028), double-entry bookkeeping and monthly VAT returns. In our experience, ongoing accounting for an IKE costs about twice as much as for a sole proprietorship. For most freelancers, a sole proprietorship, combined with 5C where available, is simpler and cheaper. Details in [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs).
+An IKE also carries higher fixed costs: the annual trade fee (currently still charged to companies; a bill submitted to Parliament in November 2026 would phase it out by 2028, not yet law), double-entry bookkeeping and monthly VAT returns. In our experience, ongoing accounting for an IKE costs about twice as much as for a sole proprietorship. For most freelancers, a sole proprietorship, combined with 5C where available, is simpler and cheaper. Details in [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs).
 
 ## Frequently asked questions
 
@@ -95,4 +97,4 @@ For most freelancers, a sole proprietorship is simpler and cheaper. An IKE pays 
 
 The [timeline for moving to Greece as a freelancer](/guides/moving-to-greece-as-freelancer-timeline-payments) shows what is due when. At taxomade, we prepare and file your business start, VAT returns and annual tax return as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, with myDATA included. Send us a message for a free check of your setup.
 
-*Rules as of November 2026 (Income Tax Code art. 5C, 29 and 69, VAT Code art. 44a, Law 4387/2016 art. 39, EFKA circular 6/2026, AADE decision A.1197/2026).*
+*Rules as of November 2026 (Income Tax Code art. 5C, 29 and 69, VAT Code art. 44a, Tax Procedure Code art. 53 as amended by Law 5301/2026, Law 4387/2016 art. 39, EFKA circular 6/2026, AADE decisions A.1049/2025 and A.1197/2026; the advance-tax cut is a bill, not yet law).*

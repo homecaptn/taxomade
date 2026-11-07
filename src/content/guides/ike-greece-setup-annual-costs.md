@@ -2,7 +2,7 @@
 title: "Setting Up an IKE in Greece: Process and Annual Costs (2026 Guide)"
 description: "How to form a Greek private company (IKE) in 2026, what it costs to set up and run each year, how it's taxed, and when it beats a sole proprietorship."
 pubDate: 2026-10-09
-updatedDate: 2026-11-05
+updatedDate: 2026-11-07
 category: "tax"
 faq:
   - question: "How much does it cost to open an IKE in Greece?"
@@ -64,7 +64,7 @@ Four points matter here:
 
 - **Trade fee:** sole proprietors, including freelancers, no longer pay it since tax year 2024. Companies still do, from their first year, under [Article 31 of Law 3986/2011](https://www.taxheaven.gr/news/44962/telos-epithdeymatos-egxeiridio-erwtapanthsewn-apo-thn-aade). Some very small villages and islands are exempt. A bill to abolish the fee for companies is pending (see below).
 - **EFKA:** the administrator, and the sole partner of a single-member IKE, are insured as self-employed (ministry circular [Δ.15/Δ'/619/2018](https://www.taxheaven.gr/circulars/28504)). Ordinary partners are not insured just for holding shares. The amounts are the same classes as for freelancers. Whether an administrator can use the reduced class for new insured persons (€150.46) depends on the individual case. See [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
-- **Accounting:** an IKE keeps double-entry books and files VAT returns monthly. Its annual financial statements must be published on GEMI; since 1 January 2026 GEMI fines missing filings automatically. Since 2 November 2026, invoices to Greek and non-EU businesses must also be issued as [e-invoices](/guides/e-invoicing-greece-explained); invoices to public bodies have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies if the company declares its invoicing method by 12 November 2026. In our experience, ongoing accounting for an IKE costs roughly twice as much as for a sole proprietorship.
+- **Accounting:** an IKE keeps double-entry books and files VAT returns monthly. Its annual financial statements must be published on GEMI; since 1 January 2026 GEMI fines missing filings automatically. Since 2 November 2026, invoices to Greek and non-EU businesses must also be issued as [e-invoices](/guides/e-invoicing-greece-explained); invoices to public bodies have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies to companies that declared their invoicing method in time. In our experience, ongoing accounting for an IKE costs roughly twice as much as for a sole proprietorship.
 - **Staff:** once the company hires, payroll and employer social security (21.79% on top of gross pay) come on top. See [hiring your first employee in Greece](/guides/hiring-first-employee-greece).
 
 **Pending bill, not yet law: trade-fee abolition.** In September 2026 the government [announced a phased abolition](https://www.taxheaven.gr/news/74555/h-exeidikeysh-twn-newn-metrwn-ths-deo-video) for companies. The [bill](https://www.e-forologia.gr/cms/viewContents.aspx?id=239678) tabled in Parliament on 4 November 2026 proposes no fee outside Attica (including Thessaloniki) and on the Attica islands from tax year 2026. In the rest of Attica it proposes a 50% cut for tax year 2027 and full abolition from tax year 2028. The details can still change in Parliament. Until it is passed, the current fees apply.

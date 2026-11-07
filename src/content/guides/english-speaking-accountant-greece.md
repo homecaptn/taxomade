@@ -2,7 +2,7 @@
 title: "English-Speaking Accountant in Greece: What to Look For (and the Red Flags)"
 description: "How to choose an accountant in Greece as an international: the criteria that matter, red flags to avoid and five questions to ask up front."
 pubDate: 2026-08-30
-updatedDate: 2026-11-04
+updatedDate: 2026-11-07
 category: "bookkeeping"
 faq:
   - question: "How do I find an English-speaking accountant in Greece?"
@@ -34,7 +34,7 @@ Greek tax life happens in deadlines:
 - **EFKA:** monthly [social security contributions](/guides/efka-social-security-freelancers-greece), from [€250.77 plus a €10 unemployment levy in 2026](https://www.forin.gr/articles/article/88941/efka-egk-6-2026). Only new freelancers in their first five years can apply for the reduced class of €150.46 plus €10.
 - **Annual return:** due in July.
 
-When something goes wrong, it goes wrong in writing: a notice from AADE (the Greek tax authority), a mismatch flag, or a fixed fine ([€250 or €500 per late return with tax due](https://www.taxheaven.gr/news/71451/prostima-diadikastikwn-parabasewn-kfd-dieykriniseis-kai-paradeigmata), depending on your bookkeeping category; €100 when no tax is due or for a late VIES statement). Fines are imposed automatically, without warning.
+When something goes wrong, it goes wrong in writing: a notice from AADE (the Greek tax authority), a mismatch flag, or a fixed fine ([€250 or €500 per late return with tax due](https://www.taxheaven.gr/news/71451/prostima-diadikastikwn-parabasewn-kfd-dieykriniseis-kai-paradeigmata), depending on your bookkeeping category; €100 for a late VAT return with nothing to pay or a late VIES statement). Fines are imposed automatically, without warning.
 
 You need an accountant who can *explain* these things to you, not just translate them. The difference between "we speak English" and "we work in your language" is whether your questions get answered before the deadline or after it.
 

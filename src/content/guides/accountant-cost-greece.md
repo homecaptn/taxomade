@@ -2,11 +2,11 @@
 title: "How Much Does an Accountant Cost in Greece? (2026 Prices)"
 description: "What accountants cost in Greece in 2026: €30–60/month local rates vs full-service bookkeeping, what drives the price and what is actually included."
 pubDate: 2026-09-06
-updatedDate: 2026-11-04
+updatedDate: 2026-11-07
 category: "bookkeeping"
 faq:
   - question: "Do I really need an accountant as a freelancer in Greece?"
-    answer: "In practice, yes. Very few freelancers file on their own: the myDATA system, Greek-only government portals and fixed fines for late filings — €100 per late return with no tax due, €250 with tax due on simplified books and €500 on double-entry books under Article 53 of the Tax Procedure Code (Law 5104/2024) — make professional handling the norm, even among Greeks. See our freelancer tax guide for what's involved."
+    answer: "In practice, yes. Very few freelancers file on their own: the myDATA system, Greek-only government portals and fixed fines for late filings — €100 for a late VAT return with nothing to pay, €250 (simple books) or €500 (double-entry books) for a late return with tax due under Article 53 of the Tax Procedure Code (Law 5104/2024) — make professional handling the norm, even among Greeks. See our freelancer tax guide for what's involved."
   - question: "Why do internationals pay more than the €30–€60 local rate?"
     answer: "They don't pay more for the same thing — they buy a different scope: everything included, in their language, with someone reachable when it matters. Billed extras on a \"cheap\" plan typically close most of the gap anyway."
   - question: "Can I switch accountants mid-year?"
@@ -60,7 +60,7 @@ Full transparency, since that's the point of this article: our [ongoing bookkeep
 
 ### Do I really need an accountant as a freelancer in Greece?
 
-In practice, yes. Very few freelancers file on their own: the myDATA system, Greek-only government portals and fixed fines for late filings — €100 per late return with no tax due, €250 with tax due on simplified books and €500 on double-entry books under Article 53 of the Tax Procedure Code (Law 5104/2024) — make professional handling the norm, even among Greeks. See our freelancer tax guide for what's involved.
+In practice, yes. Very few freelancers file on their own: the myDATA system, Greek-only government portals and fixed fines for late filings — €100 for a late VAT return with nothing to pay, €250 (simple books) or €500 (double-entry books) for a late return with tax due under Article 53 of the Tax Procedure Code (Law 5104/2024) — make professional handling the norm, even among Greeks. See our freelancer tax guide for what's involved.
 
 ### Why do internationals pay more than the €30–€60 local rate?
 
