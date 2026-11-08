@@ -2,6 +2,7 @@
 title: "Inheriting Property in Greece as a Foreigner: Tax, AFM and Deadlines (2026)"
 description: "Greek inheritance tax for foreign heirs in 2026: categories A, B and C, the 9-month and 1-year deadlines, AFM, acceptance, costs and renouncing."
 pubDate: 2026-11-07
+updatedDate: 2026-11-08
 category: "tax"
 image: "/images/guides/afm_hero.png"
 faq:
@@ -101,7 +102,7 @@ Miss it and the inheritance counts as accepted, debts included.
 
 - **ENFIA:** heirs owe the annual property tax from the year after the death ([AADE circular E.2060/2022](https://www.taxheaven.gr/circulars/40472/e-2060-2022)). Check your share on the E9.
 - **Renting:** rent is taxed at 15–45% with an annual return; see [rental income tax for foreign owners](/guides/rental-income-tax-greece-foreign-owners).
-- **Selling:** the 15% capital gains tax on property sales by individuals is suspended until 31 December 2026. A draft bill put to consultation in October 2026 extends this to 31 December 2027; it is not yet law.
+- **Selling:** the 15% capital gains tax on property sales by individuals is suspended until 31 December 2026. A bill tabled in Parliament on 4 November 2026 extends this to the end of 2027; it had not been voted on as of 8 November 2026.
 
 ## Double taxation
 
@@ -145,4 +146,4 @@ Yes, by a declaration at the magistrate's court of the deceased's last residence
 
 Yes. The tax can be paid in up to 12 equal bimonthly instalments of at least €500 each (24 for minors). Paying the full amount by the first instalment deadline earns a 5% discount.
 
-*Rules as of November 2026 (Law 5219/2025, arts. 75–87; AADE guidance for non-residents; Civil Code art. 1847; AADE circular E.2060/2022; § 21 ErbStG; the 2027 capital gains extension was still a draft bill).*
+*Rules as of November 2026 (Law 5219/2025, arts. 75–87; AADE guidance for non-residents; Civil Code art. 1847; AADE circular E.2060/2022; § 21 ErbStG; the 2027 capital gains extension was a bill tabled on 4 November 2026, not yet voted).*
