@@ -2,7 +2,7 @@
 title: "Switching Accountants in Greece: A Step-by-Step Guide (2026)"
 description: "How to switch accountants in Greece without gaps: myAADE authorizations, what your old accountant must hand over, best timing and how long it takes."
 pubDate: 2026-10-07
-updatedDate: 2026-11-03
+updatedDate: 2026-11-08
 category: "bookkeeping"
 faq:
   - question: "Can I change my accountant in Greece in the middle of the year?"
@@ -33,7 +33,7 @@ Here's how to do it without leaving a gap in your filings.
 
 Most people switch for the same reasons:
 
-- **Late filings or fines** you only find out about afterwards (a late return costs a fixed fine of €100 to €500, depending on your books, and AADE issues it when the late return is filed, without a warning letter first: [Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53); [AADE circular E.2059/2025](https://www.aade.gr/sites/default/files/2025-08/e2059_2025pro.pdf))
+- **Late filings or fines** you only find out about afterwards. A late VAT return costs €100 even with nothing to pay, and €250 or €500 (depending on your books) if tax is due. A late income tax return is fined only above €100 of tax. AADE issues the fine when the late return is filed, with no warning letter first ([Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53)).
 - **No answers**, or answers that take days or weeks
 - **Language:** everything comes in Greek, nothing is explained
 - **Surprise extra fees** on top of the monthly price
@@ -52,7 +52,7 @@ Doing this first makes the rest of the handover much easier, and it gives your n
 
 ## Step 2: Choose your new accountant
 
-Look beyond the monthly price. Ask what is actually included: VAT returns, myDATA, the annual tax return, e-invoicing, and how quickly they reply. Our guide on [what an English-speaking accountant in Greece should offer](/guides/english-speaking-accountant-greece) has a checklist, and [what accountants cost in Greece](/guides/accountant-cost-greece) explains typical price ranges.
+Look beyond the monthly price. Ask what is actually included: VAT returns, myDATA, the annual tax return, e-invoicing, and how quickly they reply. Check that they hold a licence from the Economic Chamber of Greece (ΟΕΕ): only a licensed accountant can sign and file your business returns. Our guide on [what an English-speaking accountant in Greece should offer](/guides/english-speaking-accountant-greece) has a checklist, and [what accountants cost in Greece](/guides/accountant-cost-greece) explains typical price ranges.
 
 ## Step 3: Give your new accountant access in myAADE
 
@@ -87,7 +87,7 @@ You can switch any day, but some moments are easier than others:
 
 - **End of a month** keeps the accounting periods clean.
 - **Not right before a deadline:** VAT returns, for example, are due by the last working day of the month after the period ends ([VAT Code art. 38](https://www.taxheaven.gr/law/2859/2000/arthro/38)), and the VIES statement for EU clients by the 26th. Switching a few days before that adds unnecessary pressure. See the [Greek tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026).
-- **Before your annual tax return season** (the filing window opens on 15 March) is a good moment if you want your new accountant to handle the full year.
+- **Before your annual tax return season** (the filing window usually opens in mid-March) is a good moment if you want your new accountant to handle the full year.
 
 ## How long it takes
 
@@ -121,4 +121,4 @@ Copies of all filed tax and VAT returns with proof of submission, your books and
 
 In our experience, a clean handover usually takes about a week once your records are available. It can take longer if your old accountant is slow to send documents or if past filings need correcting.
 
-*Rules as of November 2026 (Tax Procedure Code art. 53, Law 5104/2024; E.2059/2025; VAT Code art. 38; myAADE menu names can change).*
+*Rules as of November 2026 (Art. 53 Law 5104/2024; VAT Code art. 38; myAADE menu names can change).*

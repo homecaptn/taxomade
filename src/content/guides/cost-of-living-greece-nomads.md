@@ -2,7 +2,7 @@
 title: "The True Cost of Living in Greece for Remote Workers"
 description: "Monthly costs for remote workers in Greece in 2026: rent, food, utilities, transport, health insurance, EFKA and income tax, with realistic ranges."
 pubDate: 2026-06-05
-updatedDate: 2026-10-13
+updatedDate: 2026-11-08
 category: "lifestyle"
 image: "/images/guides/cost_of_living_hero.png"
 faq:
@@ -79,7 +79,7 @@ If you register as a freelancer (sole proprietor) in Greece, whether or not you 
 
 ### 9. Income tax: the part most budgets forget
 
-Income tax is not a monthly line, but it is real money. Freelance profit is taxed on a progressive scale from 9% to 44%, and an advance of 55% of next year's tax is collected with every return (27.5% in your first year with business income; a draft bill in consultation since October 2026 would cut it to 50% from tax year 2027, not yet law). If you moved your tax residency to Greece and were not a Greek tax resident in 5 of the last 6 years, [Article 5C](/guides/50-percent-tax-break-article-5c) halves the taxable base. The full picture is in our [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
+Income tax is not a monthly line, but it is real money. Freelance profit is taxed on a progressive scale from 9% to 44%, and an advance of 55% of next year's tax is collected with every return (27.5% in your first year with business income; a cut to 50% from tax year 2027 is in a bill submitted to Parliament in November 2026, not yet law). If you moved your tax residency to Greece and were not a Greek tax resident in 5 of the last 6 years, [Article 5C](/guides/50-percent-tax-break-article-5c) halves the taxable base. The full picture is in our [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
 
 ## The reality of seasons
 
@@ -109,4 +109,4 @@ If you register as a freelancer (sole proprietor) in Greece, yes. New freelancer
 
 Greece offers good value, especially outside the tourist islands. Budget around €1,500 a month in Athens or Thessaloniki and you live well, with room for weekend trips. If you are registering a business here, our [ongoing bookkeeping](/greece/ongoing-bookkeeping) costs from €89 per month, with myDATA, VAT returns and the annual tax return included, so the tax side of your budget is a fixed number too.
 
-*Rules as of October 2026 (EFKA circular 6/2026, OASA fares, Income Tax Code art. 5C and 69; prices are indicative ranges).*
+*Rules as of November 2026 (EFKA circular 6/2026, OASA fares, Income Tax Code art. 5C and 69; prices are indicative ranges).*

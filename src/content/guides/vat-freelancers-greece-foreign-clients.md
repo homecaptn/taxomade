@@ -2,7 +2,7 @@
 title: "VAT for Freelancers in Greece With Foreign Clients (2026 Guide)"
 description: "Reverse charge, VIES registration, recapitulative statements and the €10,000 OSS threshold — how Greek VAT actually works when your clients are abroad."
 pubDate: 2026-09-20
-updatedDate: 2026-11-07
+updatedDate: 2026-11-08
 category: "bookkeeping"
 faq:
   - question: "Do I charge VAT to clients outside Greece?"
@@ -56,7 +56,7 @@ This is a separate step from getting your [AFM](/guides/what-is-greek-afm-number
 
 Once you invoice EU businesses, you have a second reporting obligation: the **recapitulative statement** (Φ4 form, sometimes called an EC Sales List). It lists every EU business client you invoiced that month, with VAT numbers and amounts.
 
-It's filed for each month in which you invoiced EU businesses, by the **26th of the following month** ([AADE decision A.1222/2020](https://www.taxheaven.gr/circulars/34379/a-1222-2020)) — even if your regular VAT return for that period is only due later. File it late, and a **€100** fine is issued with the late filing ([Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53); [AADE circular E.2059/2025](https://www.aade.gr/sites/default/files/2025-08/e2059_2025pro.pdf)), without a warning letter first. This is one of the most common gaps we see in the books of freelancers who set things up on their own, or with an accountant who rarely handles international clients.
+It's filed for each month in which you invoiced EU businesses, by the **26th of the following month** ([AADE decision A.1222/2020](https://www.taxheaven.gr/circulars/34379/a-1222-2020)) — even if your regular VAT return for that period is only due later. File it late, and a **€100** fine is issued with the late filing ([Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53)), without a warning letter first. This is one of the most common gaps we see in the books of freelancers who set things up on their own, or with an accountant who rarely handles international clients.
 
 ## Non-EU clients: US, UK, and everywhere else
 
@@ -131,4 +131,4 @@ Single-entry businesses that started activity on or after 1 January 2024 file mo
 
 No. It applies to TBE services — telecommunications, broadcasting and electronically supplied services — plus intra-EU distance sales of goods. Ordinary live services to EU consumers carry Greek VAT regardless of volume.
 
-*Rules as of November 2026 (EU VAT Directive art. 44, 45, 58, 59a, 59c and 196; VAT Code art. 14, 38 and 44a; A.1049/2025; A.1011/2026; A.1222/2020; A.1197/2026; Tax Procedure Code art. 53, E.2059/2025).*
+*Rules as of November 2026 (EU VAT Directive art. 44, 45, 58, 59a, 59c and 196; VAT Code art. 14, 38 and 44a; A.1049/2025; A.1011/2026; A.1222/2020; A.1197/2026; Art. 53 Law 5104/2024).*

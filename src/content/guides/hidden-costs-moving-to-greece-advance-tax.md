@@ -2,7 +2,7 @@
 title: "The Hidden Costs of Moving to Greece: Translations, Apostilles, and the 55% Advance Tax"
 description: "The 55% advance tax, apostilles, certified translations, GEMI fees and presumptive income: what moving to Greece as a freelancer really costs in 2026."
 pubDate: 2026-06-20
-updatedDate: 2026-11-02
+updatedDate: 2026-11-08
 category: "tax"
 image: "/images/guides/tax_break_hero.png"
 faq:
@@ -34,7 +34,7 @@ When you file your annual tax return as a freelancer, you do not just pay the ta
 
 **How the maths looks:** your final income tax bill for the year, after the 50% tax break, is €5,000. You pay that €5,000 plus €2,750 (55%) as an advance for next year: €7,750 in total. In your first year of business income the advance is €1,375.
 
-A draft bill put to public consultation in October 2026 proposes cutting the advance for sole proprietors to 50% from tax year 2027. As of 2 November 2026 it is proposed, not yet law. If you trade through a company (IKE), the advance is 80% of the corporate tax, halved for the first three tax years ([Article 71](https://www.taxheaven.gr/law/4172/2013/arthro/71)).
+A bill submitted to Parliament in November 2026 would cut the advance for sole proprietors to 50% from tax year 2027. It is not yet law. If you trade through a company (IKE), the advance is 80% of the corporate tax, halved for the first three tax years ([Article 71](https://www.taxheaven.gr/law/4172/2013/arthro/71)).
 
 The following year, the €2,750 is deducted from your new bill. You do not lose the money, but you need it from the end of July, when the first instalment is due. The total can be split into up to eight monthly instalments; filing early and paying in full earns a 4%, 3% or 2% discount (see the [tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026)). The worked example in our [freelancer tax guide](/guides/freelancer-taxes-greece-2026) includes it.
 

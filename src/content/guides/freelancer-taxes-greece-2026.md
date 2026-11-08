@@ -2,7 +2,7 @@
 title: "Freelancer Taxes in Greece: 2026 Overview (Income Tax, EFKA, VAT)"
 description: "Greek freelancer taxes 2026: new income tax scale, EFKA from €250.77/month, VAT, the 55% advance tax and minimum income, with a worked example."
 pubDate: 2026-10-08
-updatedDate: 2026-11-07
+updatedDate: 2026-11-08
 category: "tax"
 faq:
   - question: "How much tax does a freelancer pay in Greece in 2026?"
@@ -145,4 +145,4 @@ Freelancers with simple bookkeeping who started on or after 1 January 2024 file 
 
 When you file your tax return, you also pay an advance on next year's tax: 55% of this year's income tax on business income, minus tax already withheld. It is halved in the year you first earn business income. The advance is credited against next year's tax bill.
 
-*Rules as of November 2026 (Law 5246/2025; Income Tax Code arts. 28A–29 and 69; EFKA circular 6/2026; Law 5297/2026 art. 249; AADE decisions A.1049/2025, A.1011/2026 and A.1140/2026; Tax Procedure Code art. 53 and AADE circular E.2059/2025).*
+*Rules as of November 2026 (Law 5246/2025; Income Tax Code arts. 28A–29 and 69; EFKA circular 6/2026; Law 5297/2026 art. 249; AADE decisions A.1049/2025, A.1011/2026 and A.1140/2026; Art. 53 Law 5104/2024).*

@@ -2,7 +2,7 @@
 title: "Greek Social Security (EFKA) for Freelancers in 2026: From About €160/Month"
 description: "EFKA for freelancers in Greece in 2026: €250.77/month regular class, the €150.46 reduced class for new freelancers, what it covers, remote employees."
 pubDate: 2026-07-14
-updatedDate: 2026-11-03
+updatedDate: 2026-11-08
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -32,13 +32,13 @@ A newly registered freelancer in Greece who applies for the reduced class pays a
 
 ## How EFKA works for freelancers
 
-EFKA (e-ΕΦΚΑ) is the unified social security fund in Greece. If you [set up a sole proprietorship](/guides/freelancer-setup-greece) (ατομική επιχείρηση) to work as a freelancer or contractor, you have to register with EFKA and pay monthly contributions, by the last working day of the following month.
+EFKA (e-ΕΦΚΑ) is the unified social security fund in Greece. If you [set up a sole proprietorship](/guides/freelancer-setup-greece) (ατομική επιχείρηση) to work as a freelancer or contractor, you have to register with EFKA and pay monthly contributions by the last working day of the following month (January's contribution by the end of February, and so on).
 
 Unlike in many other European countries, your EFKA contributions in Greece **are not a percentage of your income**. Under [Article 39 of Law 4387/2016](https://www.taxheaven.gr/law/4387/2016/arthro/39), self-employed people pay a fixed amount per insurance class.
 
 ### The regular classes
 
-There are six regular classes. In 2026 they range from **€250.77 per month** (class 1) to **€675.87** (class 6); higher classes build a higher state pension. Whether you earn €20,000 or €200,000 a year, your contribution is set by your class, not your income. If you don't choose a class, EFKA normally places you in class 1. Moving to a higher class is optional and done on application.
+There are six regular classes. In 2026 they range from **€250.77 per month** (class 1) to **€675.87** (class 6); higher classes build a higher state pension. Whether you earn €20,000 or €200,000 a year, your contribution is set by your class, not your income. If you don't choose a class when you register, EFKA normally places you in class 1. Changing class is optional: you apply on e-EFKA by 31 January, and the new class applies for that whole year. If you do nothing, you stay in last year's class.
 
 The amounts are adjusted every year in line with consumer price inflation. For 2026 they rose by 2.5% ([e-EFKA circular 6/2026](https://www.taxheaven.gr/circulars/52023/egkyklios-e-efka-6-2026)).
 

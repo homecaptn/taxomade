@@ -2,6 +2,7 @@
 title: "myDATA in Greece Explained for Freelancers and Small Businesses (2026)"
 description: "myDATA in Greece explained: what AADE's digital books platform is, what you must report, MARK numbers, timing, e-invoicing and common mistakes."
 pubDate: 2026-11-01
+updatedDate: 2026-11-08
 category: "bookkeeping"
 faq:
   - question: "What is myDATA in Greece?"
@@ -95,7 +96,7 @@ myDATA has no single annual deadline. It runs alongside your VAT return cycle, m
 
 myDATA is where invoice data ends up. E-invoicing regulates **how** certain invoices are issued.
 
-From **2 November 2026**, freelancers and businesses with revenue up to €1 million (per their 2023 tax return) must issue invoices to Greek businesses and businesses outside the EU through an approved provider or timologio/myDATAapp ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). Invoices to the public sector (B2G) have had to be electronic since 1 September 2025 under separate rules ([Lawspot](https://www.lawspot.gr/nomika-nea/enarxi-ypohreotikis-ilektronikis-timologisis-b2g-gia-dapanes-foreon-tis-genikis/)). A transition period runs until 31 January 2027 for those who filed the required declaration on time. Invoices to EU businesses and private customers are outside the mandate but still go to myDATA.
+From **2 November 2026**, freelancers and businesses with revenue up to €1 million (per their 2023 tax return) must issue invoices to Greek businesses and businesses outside the EU through an approved provider or timologio/myDATAapp ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). Invoices to the public sector (B2G) have had to be electronic since 1 September 2025 under separate rules ([Lawspot](https://www.lawspot.gr/nomika-nea/enarxi-ypohreotikis-ilektronikis-timologisis-b2g-gia-dapanes-foreon-tis-genikis/)). Until 31 January 2027, a transition period lets you keep using other channels alongside. It only applies if you declared your e-invoicing method (provider or timologio) in time, with a start date no later than 2 November 2026. Invoices to EU businesses and private customers are outside the mandate but still go to myDATA.
 
 Who is in scope, declarations and penalties: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
 
@@ -112,6 +113,8 @@ Who is in scope, declarations and penalties: [e-invoicing in Greece explained](/
 ## What it costs to get wrong
 
 An invoice that should have been issued electronically but wasn't counts as an invoice not issued at all. For invoices with VAT, a first offence costs 50% of the VAT, with a minimum of €250 (single-entry books) or €500 (double-entry books); without VAT, €500 or €1,000 per audit ([Tax Procedure Code art. 57](https://www.taxheaven.gr/news/74429/hlektronikh-timologhsh-b-periodos-analytiko-xronodiagramma-paradeigmata-erwthseis-kai-prostima)). Repeat offences cost more.
+
+Invoices that were issued but never transmitted fall under [Article 58 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/58): 10% of the net value of each missing invoice, capped at €250 per day, and half that if the data arrives late. Missing payroll, depreciation or year-end entries cost €250 (single-entry books) or €500 (double-entry books) per year and breach. These fines only apply from a start date the Finance Minister still has to set by decision. As of November 2026, they are law but not yet enforced.
 
 The less visible cost is the gap itself: income AADE counts and expenses it won't accept.
 
@@ -147,4 +150,4 @@ In practice your accountant. Expense invoices from Greek suppliers are classifie
 
 AADE cannot assess your income lower than what myDATA shows, and expenses whose documents were not transmitted are not deductible. If a supplier fails to report an invoice, you as the recipient report the omission before your VAT return deadline.
 
-*Rules as of November 2026 (Tax Procedure Code art. 16 and 57, A.1138/2020 as amended, A.1128/2025 as amended by A.1197/2026).*
+*Rules as of November 2026 (Tax Procedure Code, Law 5104/2024, art. 16, 57 and 58, A.1138/2020 as amended, A.1128/2025 as amended by A.1197/2026).*

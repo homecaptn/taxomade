@@ -2,7 +2,7 @@
 title: "Greece vs Cyprus vs Portugal vs Spain for Freelancers (2026 Comparison)"
 description: "Greece, Cyprus, Portugal and Spain compared for freelancers in 2026: income tax, social security, newcomer tax regimes, nomad visas and VAT."
 pubDate: 2026-10-21
-updatedDate: 2026-10-31
+updatedDate: 2026-11-08
 category: "tax"
 image: "/images/guides/tax_break_hero.png"
 faq:
@@ -40,7 +40,7 @@ Greece, Cyprus, Portugal and Spain all pitch themselves to remote workers. For a
 
 ## Income tax
 
-**Greece** taxes income from 2026 at [9%, 20%, 26%, 34%, 39% and 44%](https://www.taxheaven.gr/law/5246/2025/arthro/3), with the top rate from €60,000. Freelancers get no tax-free allowance. On top come a 55% advance on next year's tax (halved in the first year you earn business income; a cut to 50% from tax year 2027 is in a draft bill, not yet law) and, from year four, a minimum presumed income. Details in our [freelancer tax overview](/guides/freelancer-taxes-greece-2026).
+**Greece** taxes income from 2026 at [9%, 20%, 26%, 34%, 39% and 44%](https://www.taxheaven.gr/law/5246/2025/arthro/3), with the top rate from €60,000. Freelancers get no tax-free allowance. On top come a 55% advance on next year's tax (halved in the first year you earn business income; a cut to 50% from tax year 2027 is in a bill submitted to Parliament in November 2026, not yet law) and, from year four, a minimum presumed income. Details in our [freelancer tax overview](/guides/freelancer-taxes-greece-2026).
 
 **Cyprus** raised its tax-free band with the 2026 reform. Income up to [€22,000 is taxed at 0%](https://www.internationaltaxreview.com/article/2gq2poiivuype846e2yat/itrworldtax/cyprus-tax-reform-comprehensive-update-effective-from-1-january-2026), then 20%, 25%, 30% and 35% above €72,000.
 
@@ -133,4 +133,4 @@ Spain, at 200% of the minimum wage, about €2,849 a month in 2026. Greece and C
 
 No. Article 5C requires a job with a Greek employer or your own business activity in Greece, and the Digital Nomad Visa forbids both. DNV holders who become Greek tax residents are taxed under the normal rules.
 
-*Rules as of October 2026 (Greece: Income Tax Code arts. 5C and 69, Law 5246/2025, A.1197/2026; Cyprus: 2026 tax reform; Portugal: State Budget 2026 and the October 2026 IRS rate cut; Spain: Royal Decree 126/2026 on the 2026 minimum wage). Tax rules in all four countries change often; check the current figures before you act.*
+*Rules as of November 2026 (Greece: Income Tax Code arts. 5C and 69, Law 5246/2025, A.1197/2026; Cyprus: 2026 tax reform; Portugal: State Budget 2026 and the October 2026 IRS rate cut; Spain: Royal Decree 126/2026 on the 2026 minimum wage; tax rules in all four countries change often, so check the current figures before you act).*

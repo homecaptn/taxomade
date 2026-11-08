@@ -2,7 +2,7 @@
 title: "Already Living in Greece Without a Tax Setup? A 2026 Fix-It Checklist"
 description: "Moved to Greece but never sorted out your taxes? Check tax residency, register your work, file late returns and see what the 2026 fines really are."
 pubDate: 2026-10-07
-updatedDate: 2026-11-06
+updatedDate: 2026-11-08
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -61,7 +61,7 @@ Our guide on [setting up as a freelancer in Greece](/guides/freelancer-setup-gre
 
 ## Step 4: File what you missed
 
-You can file missed tax returns late. The fines are fixed amounts per late return, set in [Article 53 of the Greek Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/53) (Law 5104/2024) and imposed by the tax office with a fine notice. What counts is the type of books you keep and whether the late return involves business income ([AADE circular E.2059/2025](https://www.aade.gr/sites/default/files/2025-08/e2059_2025pro.pdf), updated by Law 5301/2026 for VAT returns with nothing to pay):
+You can file missed tax returns late. The fines are fixed amounts per late return, set in [Art. 53 Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53) (the Greek Tax Procedure Code) and imposed by the tax office with a fine notice. What counts is the type of books you keep and whether the late return involves business income (para. 1A, added by Law 5301/2026, covers VAT returns with nothing to pay):
 
 | Who files late | Fine per late return |
 |---|---|
@@ -77,7 +77,7 @@ Late-payment interest of 0.73% per month on the unpaid tax comes on top, and the
 
 If you were only employed, or had no business activity, catching up is usually limited to these fixed fines plus interest, far less than after a tax audit. If you worked as a freelancer without registering, fines for the missing registration, invoices and books can come on top, so get the full picture before you file.
 
-If you also owe tax, budget for the [advance tax and other hidden costs](/guides/hidden-costs-moving-to-greece-advance-tax) that come with a Greek setup. A cut of the advance tax for sole proprietors from 55% to 50% from tax year 2027 is part of a [tax bill](https://www.taxheaven.gr/news/74903/se-dhmosia-diaboyleysh-to-neo-forologiko-nomosxedio-me-ta-metra-ths-deo-poy-efarmozontai-kata-ta-eth-2026-kai-2027) put to public consultation in October 2026 (until 1 November). It is not law yet; until it passes, the 55% applies.
+If you also owe tax, budget for the [advance tax and other hidden costs](/guides/hidden-costs-moving-to-greece-advance-tax) that come with a Greek setup. A bill submitted to Parliament in November 2026 would cut the advance tax for sole proprietors from 55% to 50% from tax year 2027 ([To Vima](https://www.tovima.gr/2026/11/04/politics/vouli-katatethike-to-nomosxedio-gia-eksaggelies-deth-kai-meiosi-fpa-se-proionta-periodou/)). Until it passes, the 55% applies.
 
 ## Step 5: Check the 5C regime before it's too late
 
@@ -115,4 +115,4 @@ Yes. If you are tax resident in Greece and work as a freelancer, you must regist
 
 Possibly, but the application has deadlines and conditions, including that you were not Greek tax resident in five of the last six years. Employees only qualify with a Greek employer or a Greek branch of a foreign company. Applying late can cost you a year of the benefit, so check your eligibility as soon as possible.
 
-*Rules as of November 2026 (Tax Procedure Code, Law 5104/2024, arts. 53 and 57, as amended by Law 5301/2026; VAT Code art. 44a; Income Tax Code art. 4 and 5C; AADE decisions A.1011/2026 and A.1197/2026; the advance-tax cut is a draft bill, not yet law).*
+*Rules as of November 2026 (Tax Procedure Code, Law 5104/2024, arts. 53 and 57, as amended by Law 5301/2026; VAT Code art. 44a; Income Tax Code art. 4 and 5C; AADE decisions A.1011/2026 and A.1197/2026; the advance-tax cut is in a bill submitted to Parliament in November 2026, not yet law).*
