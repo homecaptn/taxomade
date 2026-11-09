@@ -16,7 +16,7 @@ faq:
     answer: "Through AADE's online application with your TAXISnet credentials. The certificate is issued immediately in Greek and English for the current or previous year, with an electronic seal and a QR code. AADE states it needs no apostille; a signed paper version can be requested if a country insists."
 ---
 
-Will you pay tax twice after moving from Germany to Greece? Usually not. The treaty decides which country taxes which income; the other exempts it or gives a credit. For the German exit itself (deregistration, year of departure, social security, exit tax), see our [Germany to Greece moving guide](/guides/moving-to-greece-from-germany-tax-guide).
+Will you pay tax twice after moving from Germany to Greece? Usually not. The treaty decides which country taxes which income; the other exempts it or gives a credit. For the German exit itself (deregistration, year of departure, social security, exit tax), see our [Germany to Greece moving guide](/guides/moving-to-greece-from-germany-tax-guide/).
 
 ## The short answer
 
@@ -33,7 +33,7 @@ Signed in Athens on 18 April 1966 and enacted in Greece as [Law 52/1967](https:/
 
 ## Step 1: which country are you resident in?
 
-Under [Article 4 of the Greek Income Tax Code](https://www.deloitte.com/content/dam/assets-shared/docs/services/tax/2026/dttl-tax-greecehighlights-2026.pdf), you are Greek tax resident if you are physically present for **more than 183 days in any 12-month period**, from your first day here, or if your permanent home or centre of vital interests is in Greece. More in [tax residency in Greece](/guides/tax-residency-greece-183-days).
+Under [Article 4 of the Greek Income Tax Code](https://www.deloitte.com/content/dam/assets-shared/docs/services/tax/2026/dttl-tax-greecehighlights-2026.pdf), you are Greek tax resident if you are physically present for **more than 183 days in any 12-month period**, from your first day here, or if your permanent home or centre of vital interests is in Greece. More in [tax residency in Greece](/guides/tax-residency-greece-183-days/).
 
 If both countries claim you, [Article II(1)(4)](https://datenbank.nwb.de/Dokument/94976_II/) breaks the tie in this order:
 
@@ -51,7 +51,7 @@ A German flat you keep available is the usual problem: it can make you resident 
 
 A developer living in Greece and invoicing German clients is taxed in Greece; having German clients is not a fixed base. With a Berlin office used regularly, Germany can tax the share attributable to it. Performing artists and athletes can be taxed where they perform.
 
-Greek side: [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026) and [VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
+Greek side: [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026/) and [VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
 
 ## Remote employees and the 183-day rule
 
@@ -71,7 +71,7 @@ The treaty counts 183 days in the tax year; Greek domestic law counts any 12-mon
 
 **You live in Germany and work six weeks from Crete.** Under 183 days, German employer, no Greek establishment: the salary stays taxable only in Germany.
 
-To stop German wage tax on Greek workdays, you or the employer can apply to the employer's tax office (Betriebsstättenfinanzamt) for an exemption certificate; see the [BMF letter on wages under tax treaties](https://www.bvl-verband.de/fileadmin/user_upload/2023-12-12-steuerliche-behandlung-arbeitslohn-nach-doppelbesteuerungsabkommen.pdf). Social security follows separate EU rules; see the [Germany guide](/guides/moving-to-greece-from-germany-tax-guide) and [Article 5C for remote workers](/guides/5c-for-eu-remote-workers).
+To stop German wage tax on Greek workdays, you or the employer can apply to the employer's tax office (Betriebsstättenfinanzamt) for an exemption certificate; see the [BMF letter on wages under tax treaties](https://www.bvl-verband.de/fileadmin/user_upload/2023-12-12-steuerliche-behandlung-arbeitslohn-nach-doppelbesteuerungsabkommen.pdf). Social security follows separate EU rules; see the [Germany guide](/guides/moving-to-greece-from-germany-tax-guide/) and [Article 5C for remote workers](/guides/5c-for-eu-remote-workers/).
 
 ## Pensioners
 
@@ -80,7 +80,7 @@ To stop German wage tax on Greek workdays, you or the employer can apply to the 
 - **Statutory pension (Deutsche Rentenversicherung) and company or private pensions:** under Article XII(1), taxed only in the country of residence, so Greece once you live here ([VLH](https://www.vlh.de/krankheit-vorsorge/altersbezuege/rentenzahlungen-ins-und-aus-dem-ausland-steuerliche-konsequenzen.html)).
 - **Pensions paid from German public funds** (federal government, Länder, municipalities), mainly civil servants' pensions (Beamtenpensionen): taxed only in Germany, whatever your nationality. Bundesbank, Bundesbahn and Bundespost pensions too.
 
-The Finanzamt Neubrandenburg handles pensioners abroad and may ask for proof of Greek residence; keep a Greek tax residence certificate ready. Also compare the 7% flat tax: [retiring to Greece](/guides/retiring-to-greece-7-percent-flat-tax).
+The Finanzamt Neubrandenburg handles pensioners abroad and may ask for proof of Greek residence; keep a Greek tax residence certificate ready. Also compare the 7% flat tax: [retiring to Greece](/guides/retiring-to-greece-7-percent-flat-tax/).
 
 ## Rent, dividends and interest
 
@@ -104,7 +104,7 @@ Germany, for its residents, generally exempts Greek income but uses it to set th
 
 ## Getting the Greek side right
 
-At taxomade, we prepare and file your Greek returns, including foreign income and treaty credits, as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping) from **€89/month**, all inclusive, in English or German. Message us on WhatsApp for a free compliance check.
+At taxomade, we prepare and file your Greek returns, including foreign income and treaty credits, as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/) from **€89/month**, all inclusive, in English or German. Message us on WhatsApp for a free compliance check.
 
 ## Frequently asked questions
 

@@ -33,7 +33,7 @@ Freelancers, remote workers, BV owners and retirees moving from the Netherlands 
 
 If you will live abroad for more than 8 months within one year, you [deregister from the Personal Records Database (BRP)](https://www.government.nl/faq/when-should-i-deregister-from-the-personal-records-database), in person at your municipality and **no earlier than 5 days before you leave**. Keeping your Dutch home does not change this.
 
-Your record moves to the **RNI**, the register of non-residents, and the BRP passes your new address to the Belastingdienst and your pension funds. In Greece, residence for tax purposes follows the [183-day rule and your centre of life](/guides/tax-residency-greece-183-days).
+Your record moves to the **RNI**, the register of non-residents, and the BRP passes your new address to the Belastingdienst and your pension funds. In Greece, residence for tax purposes follows the [183-day rule and your centre of life](/guides/tax-residency-greece-183-days/).
 
 Also on the list:
 
@@ -67,25 +67,25 @@ If both countries claim you as resident, your permanent home decides first, then
 
 ## 4. Freelancers and remote workers
 
-As a zzp'er, you register as a sole proprietor in Greece, join EFKA and invoice from your Greek business. Your Dutch clients stay your clients; invoices to Dutch businesses go out under the reverse charge ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients)).
+As a zzp'er, you register as a sole proprietor in Greece, join EFKA and invoice from your Greek business. Your Dutch clients stay your clients; invoices to Dutch businesses go out under the reverse charge ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients/)).
 
-If you [work permanently in another EU country](https://www.svb.nl/nl/id/u-werkt-buiten-nederland/bekijk-of-u-verzekerd-blijft-in-nederland), you are insured there, so with EFKA. New freelancers pay a reduced €150.46 per month plus €10 unemployment contribution; the standard lowest class is €250.77. You register by the 10th of the month after you start ([EFKA guide](/guides/efka-social-security-freelancers-greece)).
+If you [work permanently in another EU country](https://www.svb.nl/nl/id/u-werkt-buiten-nederland/bekijk-of-u-verzekerd-blijft-in-nederland), you are insured there, so with EFKA. New freelancers pay a reduced €150.46 per month plus €10 unemployment contribution; the standard lowest class is €250.77. You register by the 10th of the month after you start ([EFKA guide](/guides/efka-social-security-freelancers-greece/)).
 
-Expect a tax advance on next year's tax (27.5% in the year you first earn business income, then 55%), monthly VAT for 24 months, and e-invoicing from 2 November 2026. The full setup is in [registering as a freelancer in Greece](/guides/freelancer-setup-greece), starting with your [AFM](/guides/what-is-greek-afm-number).
+Expect a tax advance on next year's tax (27.5% in the year you first earn business income, then 55%), monthly VAT for 24 months, and e-invoicing from 2 November 2026. The full setup is in [registering as a freelancer in Greece](/guides/freelancer-setup-greece/), starting with your [AFM](/guides/what-is-greek-afm-number/).
 
-If you were not Greek tax resident in 5 of the last 6 years, [Article 5C](/guides/50-percent-tax-break-article-5c) exempts 50% of your income from Greek income tax for 7 years. Digital Nomad Visa holders are not eligible.
+If you were not Greek tax resident in 5 of the last 6 years, [Article 5C](/guides/50-percent-tax-break-article-5c/) exempts 50% of your income from Greek income tax for 7 years. Digital Nomad Visa holders are not eligible.
 
 ## 5. Employees of a Dutch employer
 
 If you keep your Dutch contract and work from Greece, salary for work done in Greece is taxed in Greece. The treaty's short-stay exemption doesn't cover pay from an employer resident in the Netherlands, so days you physically work there can stay Dutch.
 
-Working permanently from Greece normally puts you under EFKA, and your Dutch employer then pays Greek contributions instead of Dutch premiums. A temporary posting with an A1 certificate can keep you in Dutch social insurance. Article 5C as an employee needs a Greek employer or Greek branch; see [5C for EU remote workers](/guides/5c-for-eu-remote-workers).
+Working permanently from Greece normally puts you under EFKA, and your Dutch employer then pays Greek contributions instead of Dutch premiums. A temporary posting with an A1 certificate can keep you in Dutch social insurance. Article 5C as an employee needs a Greek employer or Greek branch; see [5C for EU remote workers](/guides/5c-for-eu-remote-workers/).
 
 ## 6. BV owners
 
 **Conserverende aanslag.** When you emigrate with a substantial interest (aanmerkelijk belang) in a company, the [Belastingdienst treats your shares as sold](https://www.belastingdienst.nl/wps/wcm/connect/nl/buitenland/content/conserverende-aanslag-bij-emigratie) and issues a protective box 2 assessment. For EU moves, payment is deferred automatically and interest-free. For emigrations since 15 September 2015, the assessment never lapses: it becomes (partly) payable if you sell the shares, receive dividends or the company stops. Moving on to a non-EU country ends the deferral.
 
-**Director's fees and management.** The treaty lets the Netherlands tax board fees from a Dutch company even when you live in Greece. A company's residence follows its place of effective management, so running a BV alone from Greece can move its tax residence; check this before you leave. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs).
+**Director's fees and management.** The treaty lets the Netherlands tax board fees from a Dutch company even when you live in Greece. A company's residence follows its place of effective management, so running a BV alone from Greece can move its tax residence; check this before you leave. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs/).
 
 ## 7. Retirees
 
@@ -95,7 +95,7 @@ Working permanently from Greece normally puts you under EFKA, and your Dutch emp
 
 **Health insurance.** If you receive a Dutch statutory pension and no longer work, you [register with the CAK](https://hetcak.nl/en/health-insurance-abroad/pension-benefit/registering/procedure), up to 5 months ahead. You receive an S1, which you register in Greece to get state healthcare through EOPYY; the CAK deducts a monthly contribution from your pension.
 
-**Greek side.** Pensioners who were not Greek tax resident in 5 of the last 6 years can apply for a 7% flat tax on foreign income for 15 years, by 31 October (A.1192/2026). Otherwise the scale of 9% to 44% applies. Details in [retiring to Greece: the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax).
+**Greek side.** Pensioners who were not Greek tax resident in 5 of the last 6 years can apply for a 7% flat tax on foreign income for 15 years, by 31 October (A.1192/2026). Otherwise the scale of 9% to 44% applies. Details in [retiring to Greece: the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/).
 
 ## 8. AOW, benefits and health cover for working-age movers
 
@@ -107,7 +107,7 @@ Dutch basic health insurance is for people who [live or work in the Netherlands]
 
 ## How we can help
 
-At taxomade, we prepare and file the Greek side: tax residency, business registration, the 5C or 7% application, and [monthly bookkeeping](/greece/ongoing-bookkeeping) from €89/month. The Dutch exit stays with your Dutch adviser; we coordinate with them. Send us a message on WhatsApp or through the form.
+At taxomade, we prepare and file the Greek side: tax residency, business registration, the 5C or 7% application, and [monthly bookkeeping](/greece/ongoing-bookkeeping/) from €89/month. The Dutch exit stays with your Dutch adviser; we coordinate with them. Send us a message on WhatsApp or through the form.
 
 ## Frequently asked questions
 

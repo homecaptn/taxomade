@@ -20,7 +20,7 @@ faq:
 
 If you move to Greece with a Greek spouse or partner, the tax system treats you as a couple from your first return: one joint return, your own AFM, and your freelance income on the same form as your partner's salary or business.
 
-Moving back with Greek roots yourself? See our [Article 5C guide for returning Greeks and the diaspora](/guides/article-5c-returning-greeks-diaspora).
+Moving back with Greek roots yourself? See our [Article 5C guide for returning Greeks and the diaspora](/guides/article-5c-returning-greeks-diaspora/).
 
 ## The short answer
 
@@ -37,13 +37,13 @@ Under [Article 4 of the Income Tax Code](https://www.taxheaven.gr/law/4172/2013/
 
 For couples, the centre of vital interests is the key test. If you moved in with your Greek partner in Athens, plan on being tax resident from the move, whatever your day count.
 
-Residents are taxed on **worldwide income**, with foreign tax credited up to the Greek tax. If your old country still claims you, the tie-breaker in the double tax treaty decides. Details are in our guide on [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days).
+Residents are taxed on **worldwide income**, with foreign tax credited up to the Greek tax. If your old country still claims you, the tie-breaker in the double tax treaty decides. Details are in our guide on [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days/).
 
 ## Your own AFM
 
 Every adult needs their own tax number, spouses included. You need it for the joint return, a lease, a bank account and your business registration.
 
-An AFM issued before the move usually registers you as non-resident. Update your status once you live in Greece. How the number works is explained in [what an AFM is and why you need it](/guides/what-is-greek-afm-number).
+An AFM issued before the move usually registers you as non-resident. Update your status once you live in Greece. How the number works is explained in [what an AFM is and why you need it](/guides/what-is-greek-afm-number/).
 
 ## Joint or separate return?
 
@@ -79,26 +79,26 @@ Partners in a registered cohabitation agreement (σύμφωνο συμβίωση
 
 ## Working as a freelancer
 
-Marriage to a Greek citizen does not change how you register or are taxed as self-employed; see [setting up as a freelancer in Greece](/guides/freelancer-setup-greece).
+Marriage to a Greek citizen does not change how you register or are taxed as self-employed; see [setting up as a freelancer in Greece](/guides/freelancer-setup-greece/).
 
 - **Registration:** start of business activity with AADE, with the right activity codes (KAD).
-- **EFKA:** new freelancers can apply for the reduced class of **€150.46/month** for their first five years ([Article 39, Law 4387/2016](https://www.taxheaven.gr/law/4387/2016/arthro/39)). The lowest regular class is €250.77. See [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
-- **VAT:** usually quarterly returns for freelancers on single-entry books. If your Greek turnover stays at or under **€10,000**, you can opt for the small business exemption (AADE decision A.1011/2026). Foreign clients have their own rules: [VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
-- **Invoicing:** every invoice is reported to [myDATA](/guides/mydata-greece-explained). Since 2 November 2026, [e-invoicing](/guides/e-invoicing-greece-explained) is mandatory for invoices to Greek businesses and to businesses outside the EU, with a transition period until 31 January 2027 only for businesses that declared their invoicing method in time. Invoices to the public sector have been covered since 1 September 2025.
-- **Advance tax:** with each return you pay **55%** of your income tax as an advance on next year, halved in your first year with business income. See [the hidden costs of moving](/guides/hidden-costs-moving-to-greece-advance-tax).
+- **EFKA:** new freelancers can apply for the reduced class of **€150.46/month** for their first five years ([Article 39, Law 4387/2016](https://www.taxheaven.gr/law/4387/2016/arthro/39)). The lowest regular class is €250.77. See [EFKA for freelancers](/guides/efka-social-security-freelancers-greece/).
+- **VAT:** usually quarterly returns for freelancers on single-entry books. If your Greek turnover stays at or under **€10,000**, you can opt for the small business exemption (AADE decision A.1011/2026). Foreign clients have their own rules: [VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
+- **Invoicing:** every invoice is reported to [myDATA](/guides/mydata-greece-explained/). Since 2 November 2026, [e-invoicing](/guides/e-invoicing-greece-explained/) is mandatory for invoices to Greek businesses and to businesses outside the EU, with a transition period until 31 January 2027 only for businesses that declared their invoicing method in time. Invoices to the public sector have been covered since 1 September 2025.
+- **Advance tax:** with each return you pay **55%** of your income tax as an advance on next year, halved in your first year with business income. See [the hidden costs of moving](/guides/hidden-costs-moving-to-greece-advance-tax/).
 - **Penalties:** late or missing filings are fined automatically, with no warning letter first: €100 for a late VAT return with nothing to pay, €250 or €500 (depending on your books) if tax is due ([Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53)).
 
-Rates and brackets: [freelancer taxes in 2026](/guides/freelancer-taxes-greece-2026).
+Rates and brackets: [freelancer taxes in 2026](/guides/freelancer-taxes-greece-2026/).
 
 ## The 50% tax break for the foreign spouse
 
-If you move from an EU/EEA country or a country with a tax cooperation agreement with Greece and were **not Greek tax resident in 5 of the 6 years** before the move, you may qualify for [Article 5C](/guides/50-percent-tax-break-article-5c): 50% of your Greek employment or business income exempt from income tax for seven years. Your spouse's citizenship plays no role; each spouse qualifies in their own right. A Greek partner who has lived in Greece in recent years will usually not qualify, and holders of the Digital Nomad Visa are [not eligible for 5C](/guides/5c-vs-digital-nomad-visa), because the visa is tied to working for employers and clients outside Greece.
+If you move from an EU/EEA country or a country with a tax cooperation agreement with Greece and were **not Greek tax resident in 5 of the 6 years** before the move, you may qualify for [Article 5C](/guides/50-percent-tax-break-article-5c/): 50% of your Greek employment or business income exempt from income tax for seven years. Your spouse's citizenship plays no role; each spouse qualifies in their own right. A Greek partner who has lived in Greece in recent years will usually not qualify, and holders of the Digital Nomad Visa are [not eligible for 5C](/guides/5c-vs-digital-nomad-visa/), because the visa is tied to working for employers and clients outside Greece.
 
 ## One household, one file
 
-A common first-year problem: the Greek partner's accountant files the family return, but your freelance books and foreign income sit elsewhere. The joint return ends up late, or your side is filed on estimates. Decide early who keeps the books and who files. A local accountant typically charges **€30–60 a month**, with extras billed separately; full-service firms for internationals charge **€100–200**. Our [accountant cost guide](/guides/accountant-cost-greece) breaks this down, and [switching accountants](/guides/switching-accountants-greece) takes about a week.
+A common first-year problem: the Greek partner's accountant files the family return, but your freelance books and foreign income sit elsewhere. The joint return ends up late, or your side is filed on estimates. Decide early who keeps the books and who files. A local accountant typically charges **€30–60 a month**, with extras billed separately; full-service firms for internationals charge **€100–200**. Our [accountant cost guide](/guides/accountant-cost-greece/) breaks this down, and [switching accountants](/guides/switching-accountants-greece/) takes about a week.
 
-At taxomade we keep your books and prepare and file your VAT returns and annual return, joint or separate, in English, German or Greek, from €89/month with our [ongoing bookkeeping service](/greece/ongoing-bookkeeping). For a free compliance check, send us a message on [WhatsApp](https://wa.me/491743426818).
+At taxomade we keep your books and prepare and file your VAT returns and annual return, joint or separate, in English, German or Greek, from €89/month with our [ongoing bookkeeping service](/greece/ongoing-bookkeeping/). For a free compliance check, send us a message on [WhatsApp](https://wa.me/491743426818).
 
 ## Frequently asked questions
 

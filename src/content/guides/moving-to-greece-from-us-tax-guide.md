@@ -50,7 +50,7 @@ It has no Social Security article; Article XVIII provides for exchange of inform
 - **FBAR (FinCEN 114):** required if your foreign accounts together exceed $10,000 at any time in the year. Filed with FinCEN, not with your return; due April 15, automatically extended to October 15 ([IRS comparison](https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements)).
 - **Form 8938 (FATCA):** filed with your return. For taxpayers living abroad, the threshold is above $200,000 at year end or $300,000 at any time (single), $400,000 / $600,000 for joint filers.
 
-Under the [Model 1A FATCA agreement](https://www.aade.gr/en/businesses/issues-international-administrative-cooperation/greece-usa-fatca-agreement), Greek banks report US persons' accounts to AADE (the Greek tax authority), which forwards the data to the IRS. Expect US-person questions at account opening; see [opening a bank account in Greece](/guides/open-bank-account-greece). Be careful with Greek and other EU investment funds: for US persons they are usually PFICs, with harsh US tax treatment and an annual [Form 8621](https://www.irs.gov/instructions/i8621).
+Under the [Model 1A FATCA agreement](https://www.aade.gr/en/businesses/issues-international-administrative-cooperation/greece-usa-fatca-agreement), Greek banks report US persons' accounts to AADE (the Greek tax authority), which forwards the data to the IRS. Expect US-person questions at account opening; see [opening a bank account in Greece](/guides/open-bank-account-greece/). Be careful with Greek and other EU investment funds: for US persons they are usually PFICs, with harsh US tax treatment and an annual [Form 8621](https://www.irs.gov/instructions/i8621).
 
 ## 4. Social Security: the totalization agreement
 
@@ -79,26 +79,26 @@ State tax follows residence and domicile, and some states keep taxing you abroad
 
 Beyond 90 days in 180, Americans need a national visa and residence permit. The routes that shape your tax setup:
 
-- **Digital Nomad Visa:** €3,500 net per month, work only for employers and clients outside Greece. **DNV holders cannot use Article 5C** ([5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa), [DNV guide](/guides/ultimate-guide-dnv-greece)).
+- **Digital Nomad Visa:** €3,500 net per month, work only for employers and clients outside Greece. **DNV holders cannot use Article 5C** ([5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa/), [DNV guide](/guides/ultimate-guide-dnv-greece/)).
 - **Financially independent person** permit: €3,500 per month of stable income, no right to work. The usual retiree route.
 - **Golden Visa:** €800,000 in Attica, Thessaloniki, Mykonos, Santorini and larger islands, €400,000 elsewhere, or €250,000 for certain conversions to residential use and listed-building restorations.
 - **Employment or self-employment permits:** the routes into Article 5C.
 
 ## 8. The Greek side
 
-You become [Greek tax resident](/guides/tax-residency-greece-183-days) with your main home or centre of life here, or after 183 days in a 12-month period. Step one is your [AFM](/guides/what-is-greek-afm-number), also needed before buying property ([AFM for buyers](/guides/afm-greece-property-buyers-non-residents)). Income tax runs from 9% to 44%; the return is filed mid-March to 15 July.
+You become [Greek tax resident](/guides/tax-residency-greece-183-days/) with your main home or centre of life here, or after 183 days in a 12-month period. Step one is your [AFM](/guides/what-is-greek-afm-number/), also needed before buying property ([AFM for buyers](/guides/afm-greece-property-buyers-non-residents/)). Income tax runs from 9% to 44%; the return is filed mid-March to 15 July.
 
-**Freelancers** register a business, join EFKA by the 10th of the month after starting (new starters €150.46 per month plus €10 for most freelancers; lowest standard class €250.77), file VAT monthly for the first 24 months and pay a tax advance on next year's tax (55%, halved in the first year with business income). Mandatory B2B e-invoicing is being phased in from 2 November 2026; check with your accountant when it applies to invoices to US clients. Steps: [freelancer setup](/guides/freelancer-setup-greece), [EFKA guide](/guides/efka-social-security-freelancers-greece).
+**Freelancers** register a business, join EFKA by the 10th of the month after starting (new starters €150.46 per month plus €10 for most freelancers; lowest standard class €250.77), file VAT monthly for the first 24 months and pay a tax advance on next year's tax (55%, halved in the first year with business income). Mandatory B2B e-invoicing is being phased in from 2 November 2026; check with your accountant when it applies to invoices to US clients. Steps: [freelancer setup](/guides/freelancer-setup-greece/), [EFKA guide](/guides/efka-social-security-freelancers-greece/).
 
-**Article 5C** exempts 50% of Greek employment or business income for seven years, if you were not Greek tax resident in 5 of the last 6 years and take a Greek job or register a business here ([how 5C works](/guides/50-percent-tax-break-article-5c)). The move must come from a tax cooperation state; for the US that rests on the treaty's information exchange and the FATCA agreement, so confirm it when you apply.
+**Article 5C** exempts 50% of Greek employment or business income for seven years, if you were not Greek tax resident in 5 of the last 6 years and take a Greek job or register a business here ([how 5C works](/guides/50-percent-tax-break-article-5c/)). The move must come from a tax cooperation state; for the US that rests on the treaty's information exchange and the FATCA agreement, so confirm it when you apply.
 
-**Article 5B** taxes retirees' foreign income at 7% for 15 years, if you were not Greek tax resident in 5 of the last 6 years; apply by 31 October of the year you want it to start (A.1192/2026) ([7% flat tax guide](/guides/retiring-to-greece-7-percent-flat-tax)).
+**Article 5B** taxes retirees' foreign income at 7% for 15 years, if you were not Greek tax resident in 5 of the last 6 years; apply by 31 October of the year you want it to start (A.1192/2026) ([7% flat tax guide](/guides/retiring-to-greece-7-percent-flat-tax/)).
 
 **The US catch.** The foreign tax credit only counts Greek tax actually paid. When 5C lowers Greek tax on foreign-source earnings, your US credit falls too, and the US may collect the difference. US-source pensions and Social Security are taxed by the US either way, so 5B mainly removes the Greek top-up. If you plan to own a Greek company (IKE), check the US side first: US owners of foreign companies usually face extra filings (Form 5471) and US tax on company profits.
 
 ## How we can help
 
-At taxomade, we prepare and file the Greek side: tax residency, business registration, the 5C or 7% application, and [monthly bookkeeping](/greece/ongoing-bookkeeping) from €89/month. Your US return, FBAR and state exit stay with your US tax preparer; we can share the Greek figures and documents they need. Send us a message on WhatsApp or through the form.
+At taxomade, we prepare and file the Greek side: tax residency, business registration, the 5C or 7% application, and [monthly bookkeeping](/greece/ongoing-bookkeeping/) from €89/month. Your US return, FBAR and state exit stay with your US tax preparer; we can share the Greek figures and documents they need. Send us a message on WhatsApp or through the form.
 
 ## Frequently asked questions
 

@@ -43,7 +43,7 @@ In the past, many nomads entered as tourists and applied for the digital nomad r
 
 ## 2. The Greece Digital Nomad Visa (DNV)
 
-The DNV is for non-EU citizens who want to live in Greece while working remotely for employers or clients based abroad. The rules sit in [article 68 of the Migration Code (Law 5038/2023)](https://www.taxheaven.gr/law/5038/2023/arthro/68): a stable income of at least **€3,500 net per month** (plus 20% for a spouse or partner and 15% per child), work for employers or clients outside Greece, a declaration that you will not provide work or services to any employer based in Greece, and a €75 visa fee at the consulate. The full process is in our [Digital Nomad Visa guide](/guides/ultimate-guide-dnv-greece).
+The DNV is for non-EU citizens who want to live in Greece while working remotely for employers or clients based abroad. The rules sit in [article 68 of the Migration Code (Law 5038/2023)](https://www.taxheaven.gr/law/5038/2023/arthro/68): a stable income of at least **€3,500 net per month** (plus 20% for a spouse or partner and 15% per child), work for employers or clients outside Greece, a declaration that you will not provide work or services to any employer based in Greece, and a €75 visa fee at the consulate. The full process is in our [Digital Nomad Visa guide](/guides/ultimate-guide-dnv-greece/).
 
 What it gives you:
 
@@ -57,14 +57,14 @@ What it gives you:
 
 A common misconception is that if your employer is in the US or UK, you only owe tax there. That is not how it works.
 
-Greek tax residency is governed by [article 4 of the Income Tax Code](https://aade.gr/omogeneis-katoikoi-exoterikoy/eisodima/forologiki-katoikia-gia-fysika-prosopa-fke). If you are present in Greece for more than **183 days, cumulatively, within any 12-month period**, you become a **Greek tax resident** from your first day of presence and are taxed here on your worldwide income. You can also become resident earlier if Greece becomes your centre of vital interests: home, family and economic ties. Our guide on the [183-day rule](/guides/tax-residency-greece-183-days) walks through the counting.
+Greek tax residency is governed by [article 4 of the Income Tax Code](https://aade.gr/omogeneis-katoikoi-exoterikoy/eisodima/forologiki-katoikia-gia-fysika-prosopa-fke). If you are present in Greece for more than **183 days, cumulatively, within any 12-month period**, you become a **Greek tax resident** from your first day of presence and are taxed here on your worldwide income. You can also become resident earlier if Greece becomes your centre of vital interests: home, family and economic ties. Our guide on the [183-day rule](/guides/tax-residency-greece-183-days/) walks through the counting.
 
 - **Short stay:** a stay within the 90-day limit normally does not make you Greek tax resident. Greek law also excludes stays purely for tourism or medical reasons from the 183-day count, but working while you are here is not a purely tourist purpose.
 - **Digital Nomad Visa:** the DNV is built for living here. Unless you spend close to half the year elsewhere, you will cross 183 days and file a Greek return on your worldwide income. Pay for work physically done in Greece is usually taxed here first; if another country also taxes it, the double tax treaty (where one exists) decides how relief is given.
 
 ### What the DNV does not give you: the 50% tax break
 
-You will read elsewhere that nomads can combine the DNV with Greece's **Article 5C** incentive, which exempts 50% of Greek employment or business income from income tax for seven years. They cannot. [Article 5C](/guides/50-percent-tax-break-article-5c) requires employment with a Greek legal entity (or a Greek branch of a foreign company) or an individual business activity in Greece, on top of not having been Greek tax resident in five of the previous six years. The DNV rules out exactly that. As a DNV holder you pay the normal progressive rates (9% to 44%) once resident. More in [why the DNV rules out the 50% tax break](/guides/5c-vs-digital-nomad-visa).
+You will read elsewhere that nomads can combine the DNV with Greece's **Article 5C** incentive, which exempts 50% of Greek employment or business income from income tax for seven years. They cannot. [Article 5C](/guides/50-percent-tax-break-article-5c/) requires employment with a Greek legal entity (or a Greek branch of a foreign company) or an individual business activity in Greece, on top of not having been Greek tax resident in five of the previous six years. The DNV rules out exactly that. As a DNV holder you pay the normal progressive rates (9% to 44%) once resident. More in [why the DNV rules out the 50% tax break](/guides/5c-vs-digital-nomad-visa/).
 
 ## Summary
 
@@ -96,6 +96,6 @@ No. The DNV does not allow work for Greek employers or clients or business activ
 
 ## Before you pass 183 days
 
-The DNV solves your immigration status, not your tax bill. We prepare and file the Greek returns for DNV holders as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping); send us a message for a free check before you move.
+The DNV solves your immigration status, not your tax bill. We prepare and file the Greek returns for DNV holders as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); send us a message for a free check before you move.
 
 *Rules as of October 2026 (Law 5038/2023 art. 20 and 68, Law 5275/2026, Income Tax Code art. 4).*

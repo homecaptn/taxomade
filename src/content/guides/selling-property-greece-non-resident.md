@@ -19,7 +19,7 @@ faq:
 
 Selling a Greek flat or house from abroad is mostly paperwork. The 15% capital gains tax is suspended, the buyer pays the transfer tax, and your costs are the agent and the certificates.
 
-Inherited it? You cannot sell before the acceptance deed is registered; see [inheriting property in Greece](/guides/inheriting-property-greece-foreigners).
+Inherited it? You cannot sell before the acceptance deed is registered; see [inheriting property in Greece](/guides/inheriting-property-greece-foreigners/).
 
 ## The short answer
 
@@ -68,7 +68,7 @@ This takes most of the time. Start before you accept an offer.
 
 ## Your AFM and the tax representative
 
-You already have an AFM from the purchase or inheritance ([what a Greek AFM is](/guides/what-is-greek-afm-number)). What owners abroad often lack is working Taxisnet access.
+You already have an AFM from the purchase or inheritance ([what a Greek AFM is](/guides/what-is-greek-afm-number/)). What owners abroad often lack is working Taxisnet access.
 
 A tax representative is no longer required. Since 9 September 2024, non-residents can instead accept notices at their registered contact details ([decision A.1069/2024](https://aade.gr/sites/default/files/2024-05/A1069_2024_FEK.pdf)). Keep your email and address in myAADE current.
 
@@ -78,21 +78,21 @@ You do not have to travel: your lawyer can sign under a power of attorney made a
 
 Since 11 December 2023, the price must be paid **exclusively by bank means**: bank transfer or banker's cheque. A deed that records any cash payment is void, and anyone in breach faces a fine of 10% of the price not paid by bank, at least €10,000 ([AADE circular E.2075/2024](https://www.taxheaven.gr/circulars/49031/e-2075-2024)). That includes the deposit.
 
-The money can go to a Greek or foreign account. There are no capital controls, but banks check large transfers, so keep the deed handy ([bank accounts in Greece](/guides/open-bank-account-greece)).
+The money can go to a Greek or foreign account. There are no capital controls, but banks check large transfers, so keep the deed handy ([bank accounts in Greece](/guides/open-bank-account-greece/)).
 
 ## Tax in your country of residence
 
 Greece may tax gains on Greek property, but while its tax is suspended there is nothing to credit. Your home rules decide:
 
-- **UK:** UK residents pay capital gains tax on worldwide gains, currently 18% or 24%. The 1953 UK–Greece convention has no capital gains article ([UK guide](/guides/moving-to-greece-from-uk-tax-guide)).
-- **US:** citizens and residents report the gain; the main-home exclusion ($250,000, or $500,000 for couples) applies only if it was your main home for two of the last five years ([US guide](/guides/moving-to-greece-from-us-tax-guide)).
-- **Germany:** under the 1966 treaty, gains on Greek property are exempt in Germany but taken into account for the rate on your other income ([German treaty guide](/guides/germany-greece-double-tax-treaty)).
+- **UK:** UK residents pay capital gains tax on worldwide gains, currently 18% or 24%. The 1953 UK–Greece convention has no capital gains article ([UK guide](/guides/moving-to-greece-from-uk-tax-guide/)).
+- **US:** citizens and residents report the gain; the main-home exclusion ($250,000, or $500,000 for couples) applies only if it was your main home for two of the last five years ([US guide](/guides/moving-to-greece-from-us-tax-guide/)).
+- **Germany:** under the 1966 treaty, gains on Greek property are exempt in Germany but taken into account for the rate on your other income ([German treaty guide](/guides/germany-greece-double-tax-treaty/)).
 
 ## Golden Visa holders
 
 An investor residence permit is renewed only while the property remains in your ownership and possession ([Ministry of Migration](https://migration.gov.gr/en/gold/)). Sell without a replacement investment and you lose the basis for renewal, likely for family members too. See an immigration lawyer before the preliminary contract.
 
-The 4 November bill would also raise transfer tax for buyers resident outside the EU/EEA to 15% from 1 July 2027 ([AFM guide for buyers](/guides/afm-greece-property-buyers-non-residents)), which may affect demand and timing.
+The 4 November bill would also raise transfer tax for buyers resident outside the EU/EEA to 15% from 1 July 2027 ([AFM guide for buyers](/guides/afm-greece-property-buyers-non-residents/)), which may affect demand and timing.
 
 ## Step by step
 
@@ -106,9 +106,9 @@ The 4 November bill would also raise transfer tax for buyers resident outside th
 
 ## After the sale
 
-myPROPERTY updates your E9 from the deed; check it. ENFIA for the year of sale is still yours (it is assessed on 1 January). Rent up to the sale goes on your last Greek return ([rental income tax for foreign owners](/guides/rental-income-tax-greece-foreign-owners)).
+myPROPERTY updates your E9 from the deed; check it. ENFIA for the year of sale is still yours (it is assessed on 1 January). Rent up to the sale goes on your last Greek return ([rental income tax for foreign owners](/guides/rental-income-tax-greece-foreign-owners/)).
 
-At taxomade we prepare and file your E9 corrections, ENFIA matters and Greek tax returns as part of [ongoing bookkeeping](/greece/ongoing-bookkeeping), in English, German or Greek, from €89/month. For a free compliance check before you sell, send us a message on [WhatsApp](https://wa.me/491743426818) or through our contact form.
+At taxomade we prepare and file your E9 corrections, ENFIA matters and Greek tax returns as part of [ongoing bookkeeping](/greece/ongoing-bookkeeping/), in English, German or Greek, from €89/month. For a free compliance check before you sell, send us a message on [WhatsApp](https://wa.me/491743426818) or through our contact form.
 
 ## Frequently asked questions
 

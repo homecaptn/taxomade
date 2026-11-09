@@ -27,7 +27,7 @@ Here is how the three main options compare in 2026, with numbers where they exis
 - **Athens** has the most of everything: flights, coworking, fibre, people. It is also the most expensive and the least relaxed.
 - **Thessaloniki** is cheaper on rent, walkable, with a strong food and student scene and a metro since late 2024. Winters are real.
 - **Crete** is the only island that works year-round; **Rhodes** is a step quieter. Both get very seasonal.
-- Wherever you choose, Greek tax residency, EFKA, VAT and the [Article 5C tax break](/guides/50-percent-tax-break-article-5c) work exactly the same way.
+- Wherever you choose, Greek tax residency, EFKA, VAT and the [Article 5C tax break](/guides/50-percent-tax-break-article-5c/) work exactly the same way.
 
 ## What rent costs in 2026
 
@@ -44,7 +44,7 @@ Rent is the main difference between the three. The figures below are average ren
 | Mykonos | 12.0 | – |
 | Santorini | 14.0 | – |
 
-Furnished, move-in-ready flats aimed at nomads sit above these averages: expect €600 to €1,000 for a modern one-bedroom in a good neighbourhood in Athens, Thessaloniki or Crete. Our [cost of living guide](/guides/cost-of-living-greece-nomads) has the full monthly budget, and the [renting guide](/guides/renting-apartment-greece-foreigner) covers leases, deposits and what landlords ask for.
+Furnished, move-in-ready flats aimed at nomads sit above these averages: expect €600 to €1,000 for a modern one-bedroom in a good neighbourhood in Athens, Thessaloniki or Crete. Our [cost of living guide](/guides/cost-of-living-greece-nomads/) has the full monthly budget, and the [renting guide](/guides/renting-apartment-greece-foreigner/) covers leases, deposits and what landlords ask for.
 
 ## 1. Athens: the metropolitan hub
 
@@ -82,10 +82,10 @@ If your idea of Greece involves the sea, Crete and Rhodes are the two islands la
 
 People sometimes pick a city on the assumption that one is "better" for tax. There is no local income tax in Greece and no regional variation in the rules:
 
-- You become Greek tax resident after [183 days in the country](/guides/tax-residency-greece-183-days), whether those days are in Athens or on Crete.
-- Income tax, [EFKA](/guides/efka-social-security-freelancers-greece), VAT and myDATA apply nationally. A freelancer in Thessaloniki files the same returns as one in Athens; see [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026).
-- The [Article 5C 50% tax break](/guides/50-percent-tax-break-article-5c) depends on your tax history and on having a Greek job or business, not on your address. [Digital Nomad Visa holders](/guides/5c-vs-digital-nomad-visa) are not eligible for it anywhere in Greece.
-- Everything is filed online through myAADE, so your accountant does not need to be in your city. At taxomade we prepare and file the registration, VAT returns and annual return remotely, from €89/month for [ongoing bookkeeping](/greece/ongoing-bookkeeping), for clients in all three places.
+- You become Greek tax resident after [183 days in the country](/guides/tax-residency-greece-183-days/), whether those days are in Athens or on Crete.
+- Income tax, [EFKA](/guides/efka-social-security-freelancers-greece/), VAT and myDATA apply nationally. A freelancer in Thessaloniki files the same returns as one in Athens; see [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026/).
+- The [Article 5C 50% tax break](/guides/50-percent-tax-break-article-5c/) depends on your tax history and on having a Greek job or business, not on your address. [Digital Nomad Visa holders](/guides/5c-vs-digital-nomad-visa/) are not eligible for it anywhere in Greece.
+- Everything is filed online through myAADE, so your accountant does not need to be in your city. At taxomade we prepare and file the registration, VAT returns and annual return remotely, from €89/month for [ongoing bookkeeping](/greece/ongoing-bookkeeping/), for clients in all three places.
 
 ## Summary
 

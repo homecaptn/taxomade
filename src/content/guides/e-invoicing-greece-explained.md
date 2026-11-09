@@ -66,7 +66,7 @@ Invoices to the public sector (B2G) are not part of the November 2026 phase: for
 
 So a developer who works only for a German company will see little change for now. A consultant with Greek clients, or a designer billing a US agency, needs a compliant setup by November.
 
-For the VAT side of invoicing foreign clients (reverse charge, VIES, monthly filings), see our guide on [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
+For the VAT side of invoicing foreign clients (reverse charge, VIES, monthly filings), see our guide on [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
 
 ## Your two options
 
@@ -117,9 +117,9 @@ At EU level, the "VAT in the Digital Age" (ViDA) reforms are set to extend e-inv
 
 ## What we charge
 
-At taxomade, myDATA and e-invoicing are part of our ongoing bookkeeping from **€89/month**: we set you up on a compliant channel, prepare and file any declaration you need, plus your VAT returns and annual tax return, in English, German or Greek. Not sure whether your current setup is compliant? [See what's included](/greece/ongoing-bookkeeping) and request a free compliance check via WhatsApp or our contact form.
+At taxomade, myDATA and e-invoicing are part of our ongoing bookkeeping from **€89/month**: we set you up on a compliant channel, prepare and file any declaration you need, plus your VAT returns and annual tax return, in English, German or Greek. Not sure whether your current setup is compliant? [See what's included](/greece/ongoing-bookkeeping/) and request a free compliance check via WhatsApp or our contact form.
 
-For general pricing context, see [how much an accountant costs in Greece](/guides/accountant-cost-greece).
+For general pricing context, see [how much an accountant costs in Greece](/guides/accountant-cost-greece/).
 
 ## Frequently asked questions
 

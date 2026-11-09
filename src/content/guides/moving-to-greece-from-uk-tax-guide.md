@@ -60,20 +60,20 @@ UK citizens can stay in the Schengen area for 90 days in any 180-day period with
 
 The routes that matter for tax:
 
-- **Digital Nomad Visa:** €3,500 net per month (plus 20% for a spouse and 15% per child), work only for employers and clients outside Greece. Tax residency still follows the normal rules. See [the DNV guide](/guides/ultimate-guide-dnv-greece) and [5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa).
+- **Digital Nomad Visa:** €3,500 net per month (plus 20% for a spouse and 15% per child), work only for employers and clients outside Greece. Tax residency still follows the normal rules. See [the DNV guide](/guides/ultimate-guide-dnv-greece/) and [5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa/).
 - **Work or self-employment routes** via a Greek employer or your own Greek business, which are also the routes into Article 5C (section 4).
 - **Financially independent person** permit for non-working movers with sufficient stable foreign income.
 - **Golden Visa:** €250,000 to €800,000 property investment depending on location; a residence permit does not by itself make you tax resident.
 
 ## 4. Tax residency and the Greek regimes
 
-You become Greek tax resident with your main home or centre of life here, or once you exceed 183 days in any 12-month period, counted from the first day ([183-day guide](/guides/tax-residency-greece-183-days)).
+You become Greek tax resident with your main home or centre of life here, or once you exceed 183 days in any 12-month period, counted from the first day ([183-day guide](/guides/tax-residency-greece-183-days/)).
 
-**Article 5C, the 50% break.** For seven years, half your Greek employment or business income is exempt from income tax, if you were not Greek tax resident in 5 of the last 6 years, take a job with a Greek entity or register a business here, and move from an EU/EEA state or a state with an administrative cooperation agreement with Greece. **The UK meets that condition**: it is party to the OECD Convention on Mutual Administrative Assistance (in force for the UK since 2008, for Greece since 2013), and Article XV of the 1953 treaty provides for exchange of information. Deadlines and the employee side are in [5C for employees and remote workers](/guides/5c-for-eu-remote-workers), the basics in [how the 50% tax break works](/guides/50-percent-tax-break-article-5c), the numbers in the [5C calculator](/greece/5c-tax-calculator).
+**Article 5C, the 50% break.** For seven years, half your Greek employment or business income is exempt from income tax, if you were not Greek tax resident in 5 of the last 6 years, take a job with a Greek entity or register a business here, and move from an EU/EEA state or a state with an administrative cooperation agreement with Greece. **The UK meets that condition**: it is party to the OECD Convention on Mutual Administrative Assistance (in force for the UK since 2008, for Greece since 2013), and Article XV of the 1953 treaty provides for exchange of information. Deadlines and the employee side are in [5C for employees and remote workers](/guides/5c-for-eu-remote-workers/), the basics in [how the 50% tax break works](/guides/50-percent-tax-break-article-5c/), the numbers in the [5C calculator](/greece/5c-tax-calculator/).
 
-**Article 5B, the 7% retiree rate.** Foreign-source income taxed at a flat 7% for 15 years, for pensioners who were non-resident in 5 of the last 6 years and move from a cooperation state. Since Law 5313/2026 and AADE decision A.1192/2026, you apply by 31 October of the year you want the regime for and pay the 7% once a year by the end of December; details in [retiring to Greece: the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax). Greek-source income is taxed normally.
+**Article 5B, the 7% retiree rate.** Foreign-source income taxed at a flat 7% for 15 years, for pensioners who were non-resident in 5 of the last 6 years and move from a cooperation state. Since Law 5313/2026 and AADE decision A.1192/2026, you apply by 31 October of the year you want the regime for and pay the 7% once a year by the end of December; details in [retiring to Greece: the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/). Greek-source income is taxed normally.
 
-**Article 5A** (€100,000 lump sum on all foreign income, with a €500,000 investment) only matters for high-net-worth movers; see [5C vs the non-dom regime](/guides/article-5c-vs-non-dom-regime).
+**Article 5A** (€100,000 lump sum on all foreign income, with a €500,000 investment) only matters for high-net-worth movers; see [5C vs the non-dom regime](/guides/article-5c-vs-non-dom-regime/).
 
 ## 5. Pensions, ISAs and UK property
 
@@ -85,17 +85,17 @@ You become Greek tax resident with your main home or centre of life here, or onc
 
 **UK property.** Rent stays taxable in the UK, with the personal allowance that British citizens can still claim as non-residents, and is declared again in Greece with credit. If you sell a UK home as a non-resident, [non-resident CGT](https://www.gov.uk/guidance/capital-gains-tax-for-non-residents-calculating-taxable-gain-or-loss) applies on the gain since April 2015, reported and paid within 60 days; treaties do not shelter it.
 
-**Buying in Greece:** you need a Greek tax number before the deed, and a 15% transfer tax for non-EU buyers has been announced from 2027 ([details](/guides/afm-greece-property-buyers-non-residents)).
+**Buying in Greece:** you need a Greek tax number before the deed, and a 15% transfer tax for non-EU buyers has been announced from 2027 ([details](/guides/afm-greece-property-buyers-non-residents/)).
 
 ## 6. Freelancers and remote workers
 
-If you work for clients, the Greek setup is a sole proprietorship: AFM (Greek tax number), business start declaration, EFKA (social security) registration and myDATA (AADE's e-books, where every invoice is reported). The steps are in [how to register as a freelancer in Greece](/guides/freelancer-setup-greece), the taxes in [freelancer taxes 2026](/guides/freelancer-taxes-greece-2026).
+If you work for clients, the Greek setup is a sole proprietorship: AFM (Greek tax number), business start declaration, EFKA (social security) registration and myDATA (AADE's e-books, where every invoice is reported). The steps are in [how to register as a freelancer in Greece](/guides/freelancer-setup-greece/), the taxes in [freelancer taxes 2026](/guides/freelancer-taxes-greece-2026/).
 
 Three UK-specific points:
 
-- **EFKA** for new freelancers is €150.46 per month plus €10 unemployment contribution for the first five years, then from €250.77 ([EFKA guide](/guides/efka-social-security-freelancers-greece)). Your UK National Insurance record stops building unless you pay voluntary Class 3; see section 9.
-- **VAT.** Services to UK businesses are outside Greek VAT; services to EU businesses are reverse-charged. New businesses file VAT monthly for the first 24 months ([VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients)).
-- **E-invoicing.** From 2 November 2026 (transition period to 31 January 2027), invoices to Greek and non-EU businesses, which now includes UK clients, go through an approved channel; AADE's free timologio app counts ([e-invoicing guide](/guides/e-invoicing-greece-explained)).
+- **EFKA** for new freelancers is €150.46 per month plus €10 unemployment contribution for the first five years, then from €250.77 ([EFKA guide](/guides/efka-social-security-freelancers-greece/)). Your UK National Insurance record stops building unless you pay voluntary Class 3; see section 9.
+- **VAT.** Services to UK businesses are outside Greek VAT; services to EU businesses are reverse-charged. New businesses file VAT monthly for the first 24 months ([VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/)).
+- **E-invoicing.** From 2 November 2026 (transition period to 31 January 2027), invoices to Greek and non-EU businesses, which now includes UK clients, go through an approved channel; AADE's free timologio app counts ([e-invoicing guide](/guides/e-invoicing-greece-explained/)).
 
 ## 7. Employees of a UK employer
 
@@ -103,7 +103,7 @@ The case that causes the most trouble. Once you are Greek tax resident, your UK 
 
 - **5C as an employee needs a Greek entity or branch.** A purely UK employer does not qualify; the usual workaround is to become a Greek sole trader and invoice the company, which carries disguised-employment risk if it is your only client.
 - **Social security moves to Greece.** Under the UK–EU Protocol on Social Security Coordination, a UK employer can keep you in UK National Insurance only for a temporary posting of up to 24 months with an A1 certificate (proof you stay in UK National Insurance). A permanent move means EFKA, which your employer must register for or handle through an Employer of Record.
-- **Permanent establishment.** A UK Ltd whose director runs it from a Greek home office risks creating a Greek permanent establishment, with Greek corporate tax on the attributable profit. Directors' pay is employment income in Greece; UK dividends are taxed in Greece at 5%, and the UK normally takes no tax on dividends paid to a non-resident. If the business should live in Greece, see [setting up an IKE](/guides/ike-greece-setup-annual-costs).
+- **Permanent establishment.** A UK Ltd whose director runs it from a Greek home office risks creating a Greek permanent establishment, with Greek corporate tax on the attributable profit. Directors' pay is employment income in Greece; UK dividends are taxed in Greece at 5%, and the UK normally takes no tax on dividends paid to a non-resident. If the business should live in Greece, see [setting up an IKE](/guides/ike-greece-setup-annual-costs/).
 
 ## 8. Retirees
 
@@ -117,11 +117,11 @@ Working-age movers get Greek state healthcare through EFKA once they contribute.
 
 ## Already in Greece without a setup?
 
-Many UK movers arrive on the 90-day rule, stay, and only ask about tax when a bank or landlord asks for an AFM. The longer the gap, the more it costs: [living in Greece without a tax setup](/guides/living-in-greece-without-tax-setup).
+Many UK movers arrive on the 90-day rule, stay, and only ask about tax when a bank or landlord asks for an AFM. The longer the gap, the more it costs: [living in Greece without a tax setup](/guides/living-in-greece-without-tax-setup/).
 
 ## What we charge
 
-taxomade handles the Greek side: we prepare and file your tax residency registration, the 5C or 7% application, the freelancer or company setup, and the monthly bookkeeping from €89 per month with myDATA, VAT returns and the annual tax return included. The UK exit (SRT, split year, DT-Individual) is coordinated with your UK adviser or HMRC directly. Message us on WhatsApp for a free check of your situation, or see [our bookkeeping service](/greece/ongoing-bookkeeping).
+taxomade handles the Greek side: we prepare and file your tax residency registration, the 5C or 7% application, the freelancer or company setup, and the monthly bookkeeping from €89 per month with myDATA, VAT returns and the annual tax return included. The UK exit (SRT, split year, DT-Individual) is coordinated with your UK adviser or HMRC directly. Message us on WhatsApp for a free check of your situation, or see [our bookkeeping service](/greece/ongoing-bookkeeping/).
 
 ## Frequently asked questions
 

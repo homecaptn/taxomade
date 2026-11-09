@@ -39,7 +39,7 @@ The IKE (Ιδιωτική Κεφαλαιουχική Εταιρεία) is the Gr
 
 IKEs are formed [online through the one-stop shop (e-ΥΜΣ)](https://mitos.gov.gr/index.php/ΔΔ:Σύσταση_Ιδιωτικής_Κεφαλαιουχικής_Εταιρείας_μέσω_της_Υπηρεσίας_μίας_Στάσης) via gov.gr, and registered in the business registry (GEMI). The government estimates about three days for the procedure.
 
-1. **AFM for every founder.** Each founder needs an active Greek tax number before the company can be formed. If you don't have one yet, start here: [what the Greek AFM is and how to get it](/guides/what-is-greek-afm-number).
+1. **AFM for every founder.** Each founder needs an active Greek tax number before the company can be formed. If you don't have one yet, start here: [what the Greek AFM is and how to get it](/guides/what-is-greek-afm-number/).
 2. **Articles of association.** With the standard model articles, a private document is enough. A notary is only needed in special cases, for example when real estate is contributed. Articles that don't follow the standard template can't use the fast online route.
 3. **Registration.** The company is registered with GEMI and receives its own tax number. The one-stop shop also registers the company with the chamber and issues its EFKA employer number. The administrator's EFKA insurance, VAT and myDATA setup follow.
 
@@ -63,9 +63,9 @@ Additional costs depend on your case: a notary if your articles need one, transl
 Four points matter here:
 
 - **Trade fee:** sole proprietors, including freelancers, no longer pay it since tax year 2024. Companies still do, from their first year, under [Article 31 of Law 3986/2011](https://www.taxheaven.gr/news/44962/telos-epithdeymatos-egxeiridio-erwtapanthsewn-apo-thn-aade). Some very small villages and islands are exempt. A bill to abolish the fee for companies is pending (see below).
-- **EFKA:** the administrator, and the sole partner of a single-member IKE, are insured as self-employed (ministry circular [Δ.15/Δ'/619/2018](https://www.taxheaven.gr/circulars/28504)). Ordinary partners are not insured just for holding shares. The amounts are the same classes as for freelancers. Whether an administrator can use the reduced class for new insured persons (€150.46) depends on the individual case. See [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
-- **Accounting:** an IKE keeps double-entry books and files VAT returns monthly. Its annual financial statements must be published on GEMI; since 1 January 2026 GEMI fines missing filings automatically. Since 2 November 2026, invoices to Greek and non-EU businesses must also be issued as [e-invoices](/guides/e-invoicing-greece-explained); invoices to public bodies have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies to companies that declared their invoicing method in time. In our experience, ongoing accounting for an IKE costs roughly twice as much as for a sole proprietorship.
-- **Staff:** once the company hires, payroll and employer social security (21.79% on top of gross pay) come on top. See [hiring your first employee in Greece](/guides/hiring-first-employee-greece).
+- **EFKA:** the administrator, and the sole partner of a single-member IKE, are insured as self-employed (ministry circular [Δ.15/Δ'/619/2018](https://www.taxheaven.gr/circulars/28504)). Ordinary partners are not insured just for holding shares. The amounts are the same classes as for freelancers. Whether an administrator can use the reduced class for new insured persons (€150.46) depends on the individual case. See [EFKA for freelancers](/guides/efka-social-security-freelancers-greece/).
+- **Accounting:** an IKE keeps double-entry books and files VAT returns monthly. Its annual financial statements must be published on GEMI; since 1 January 2026 GEMI fines missing filings automatically. Since 2 November 2026, invoices to Greek and non-EU businesses must also be issued as [e-invoices](/guides/e-invoicing-greece-explained/); invoices to public bodies have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies to companies that declared their invoicing method in time. In our experience, ongoing accounting for an IKE costs roughly twice as much as for a sole proprietorship.
+- **Staff:** once the company hires, payroll and employer social security (21.79% on top of gross pay) come on top. See [hiring your first employee in Greece](/guides/hiring-first-employee-greece/).
 
 **Pending bill, not yet law: trade-fee abolition.** In September 2026 the government [announced a phased abolition](https://www.taxheaven.gr/news/74555/h-exeidikeysh-twn-newn-metrwn-ths-deo-video) for companies. The [bill](https://www.e-forologia.gr/cms/viewContents.aspx?id=239678) tabled in Parliament on 4 November 2026 proposes no fee outside Attica (including Thessaloniki) and on the Attica islands from tax year 2026. In the rest of Attica it proposes a 50% cut for tax year 2027 and full abolition from tax year 2028. The details can still change in Parliament. Until it is passed, the current fees apply.
 
@@ -76,7 +76,7 @@ Four points matter here:
 - **Advance tax:** with each return, the company pays an advance of **80%** of the year's corporate tax towards the next year, halved in the first three years. In September 2026 the government announced a cut to 50% in steps of 5 points a year from tax year 2028; it is not law yet.
 - **Return:** for a calendar year, the corporate tax return is filed between 15 March and 15 July of the following year (Law 5162/2024), and the tax can be paid in monthly instalments.
 
-For comparison: a sole proprietor pays personal income tax on profit, from 9% up to 44% (see [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026)).
+For comparison: a sole proprietor pays personal income tax on profit, from 9% up to 44% (see [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026/)).
 
 ## IKE or sole proprietorship?
 
@@ -90,13 +90,13 @@ There is no fixed profit threshold. As a rough guide:
 **A sole proprietorship tends to make sense if:**
 - your profit is small to medium,
 - you want low fixed costs and simple bookkeeping,
-- you want to use the [Article 5C regime](/guides/50-percent-tax-break-article-5c) as a freelancer.
+- you want to use the [Article 5C regime](/guides/50-percent-tax-break-article-5c/) as a freelancer.
 
 One more point: if you close a sole proprietorship and continue the same activity through a single-member company, the [minimum presumptive income rules](https://www.ey.com/content/dam/ey-unified-site/ey-com/el-gr/technical/tax/documents/ey-greek-law-5073_2023-measures-to-limit-tax-evasion-gr.pdf) contain a transitional anti-avoidance provision (covering tax years up to 2026). Plan a switch carefully.
 
 ## What we charge
 
-At taxomade, IKE setup and accounting are priced **on request**, because the effort depends on your activity, number of partners, staff and invoice volume. We prepare and file the formation documents, set up VAT, myDATA and EFKA, and handle the [ongoing bookkeeping](/greece/ongoing-bookkeeping) in English, German or Greek. Send us a message for a free check of whether an IKE makes sense for you.
+At taxomade, IKE setup and accounting are priced **on request**, because the effort depends on your activity, number of partners, staff and invoice volume. We prepare and file the formation documents, set up VAT, myDATA and EFKA, and handle the [ongoing bookkeeping](/greece/ongoing-bookkeeping/) in English, German or Greek. Send us a message for a free check of whether an IKE makes sense for you.
 
 ## Frequently asked questions
 

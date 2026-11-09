@@ -16,9 +16,9 @@ faq:
     answer: "Usually yes, if they physically work in Greece full-time: the EU rule is that you are insured where you work, and Greece has not signed the EU framework agreement on cross-border telework. Exceptions are a formal posting with an A1 certificate (normally up to 24 months) and work in several EU countries with less than 25% of working time in Greece. Non-EU employees fall under bilateral agreements or Greek rules directly."
 ---
 
-When remote workers look at relocating to Greece, they usually focus on the [Article 5C 50% tax break](/guides/50-percent-tax-break-article-5c) (available if you were not a Greek tax resident in 5 of the last 6 years; Digital Nomad Visa holders are not eligible). There is a second cost that most people overlook until they move: social security, **EFKA**.
+When remote workers look at relocating to Greece, they usually focus on the [Article 5C 50% tax break](/guides/50-percent-tax-break-article-5c/) (available if you were not a Greek tax resident in 5 of the last 6 years; Digital Nomad Visa holders are not eligible). There is a second cost that most people overlook until they move: social security, **EFKA**.
 
-If you are a freelancer coming from Germany, France or Spain, social security is a large cost. In Germany, a well-earning self-employed person in statutory insurance pays up to about €1,250 per month in 2026 for health and long-term-care insurance alone, before any pension saving (contribution ceiling of €5,812.50 a month at roughly 21–22%, [vdek](https://www.vdek.com/politik/was-aendert-sich/gesundheitswesen-2026.html)). In Greece, public health cover comes with your EFKA contributions; for private cover on top, see [health insurance in Greece](/greece/health-insurance).
+If you are a freelancer coming from Germany, France or Spain, social security is a large cost. In Germany, a well-earning self-employed person in statutory insurance pays up to about €1,250 per month in 2026 for health and long-term-care insurance alone, before any pension saving (contribution ceiling of €5,812.50 a month at roughly 21–22%, [vdek](https://www.vdek.com/politik/was-aendert-sich/gesundheitswesen-2026.html)). In Greece, public health cover comes with your EFKA contributions; for private cover on top, see [health insurance in Greece](/greece/health-insurance/).
 
 A newly registered freelancer in Greece who applies for the reduced class pays about **€160 per month** (2026: €150.46 plus a €10 unemployment contribution for most freelancers) for public healthcare and pension coverage. Here is how the system works.
 
@@ -32,7 +32,7 @@ A newly registered freelancer in Greece who applies for the reduced class pays a
 
 ## How EFKA works for freelancers
 
-EFKA (e-ΕΦΚΑ) is the unified social security fund in Greece. If you [set up a sole proprietorship](/guides/freelancer-setup-greece) (ατομική επιχείρηση) to work as a freelancer or contractor, you have to register with EFKA and pay monthly contributions by the last working day of the following month (January's contribution by the end of February, and so on).
+EFKA (e-ΕΦΚΑ) is the unified social security fund in Greece. If you [set up a sole proprietorship](/guides/freelancer-setup-greece/) (ατομική επιχείρηση) to work as a freelancer or contractor, you have to register with EFKA and pay monthly contributions by the last working day of the following month (January's contribution by the end of February, and so on).
 
 Unlike in many other European countries, your EFKA contributions in Greece **are not a percentage of your income**. Under [Article 39 of Law 4387/2016](https://www.taxheaven.gr/law/4387/2016/arthro/39), self-employed people pay a fixed amount per insurance class.
 
@@ -64,13 +64,13 @@ If you live in Greece but stay on the payroll of a foreign employer, the answer 
 
 The exceptions are a formal posting (A1 certificate from your home country, normally up to 24 months, Art. 12 of Regulation 883/2004) or working regularly in two or more EU countries with less than 25% of your working time in Greece (Art. 13 of Regulation 883/2004 and Art. 14 of Regulation 987/2009). In those cases your home system keeps covering you, and an S1 form gives you access to Greek public healthcare. Employees from outside the EU (UK, US) fall under bilateral agreements or Greek rules directly.
 
-This is one of the areas where guessing gets expensive. Have it checked before you move; the employment side of the tax regime is in our guide on [5C for employees and remote workers](/guides/5c-for-eu-remote-workers).
+This is one of the areas where guessing gets expensive. Have it checked before you move; the employment side of the tax regime is in our guide on [5C for employees and remote workers](/guides/5c-for-eu-remote-workers/).
 
 ## The bottom line
 
 When calculating your net income in Greece, factor in both income tax and EFKA. With the five-year reduced class, the social security cost for new freelancers is low compared with Germany or France.
 
-If you also qualify for the 50% income tax break, the difference grows. Run the numbers with our [freelancer tax guide](/guides/freelancer-taxes-greece-2026), because advance tax still applies.
+If you also qualify for the 50% income tax break, the difference grows. Run the numbers with our [freelancer tax guide](/guides/freelancer-taxes-greece-2026/), because advance tax still applies.
 
 ## Frequently asked questions
 
@@ -92,6 +92,6 @@ Usually yes, if they physically work in Greece full-time: the EU rule is that yo
 
 ## How we can help
 
-EFKA registration, the application for the reduced class and keeping track of the monthly payment notices are part of taxomade's [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, with myDATA, VAT returns and the annual tax return included: we prepare and file, in English, German or Greek. Late EFKA payments carry surcharges, so it's worth having someone watch the dates. Send us a message via WhatsApp or our contact form for a free compliance check.
+EFKA registration, the application for the reduced class and keeping track of the monthly payment notices are part of taxomade's [ongoing bookkeeping](/greece/ongoing-bookkeeping/), from €89 per month, with myDATA, VAT returns and the annual tax return included: we prepare and file, in English, German or Greek. Late EFKA payments carry surcharges, so it's worth having someone watch the dates. Send us a message via WhatsApp or our contact form for a free compliance check.
 
 *Rules as of November 2026 (Law 4387/2016 art. 39, e-EFKA circular 6/2026, Regulations 883/2004 and 987/2009).*

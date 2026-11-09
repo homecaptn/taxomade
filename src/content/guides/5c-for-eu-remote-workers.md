@@ -20,7 +20,7 @@ faq:
     answer: "A change of employer is notified to AADE and the regime continues for the remaining years. If you lose your job, you keep the status if you sign a new contract within 12 months. If you stop meeting the conditions, the regime ends from that tax year onward; the law provides for this prospective cessation and does not mention a retroactive recovery of earlier years."
 ---
 
-If you move to Greece and take a job here, Article 5C exempts half your salary from Greek income tax for up to seven years. Since 2025 the rules have become simpler for employees, and since May 2026 they also cover the public sector. This guide covers the employee side: who qualifies, how payroll works, deadlines, and what happens when your situation changes. For the overview of the regime itself, see [how the 50% tax break works](/guides/50-percent-tax-break-article-5c).
+If you move to Greece and take a job here, Article 5C exempts half your salary from Greek income tax for up to seven years. Since 2025 the rules have become simpler for employees, and since May 2026 they also cover the public sector. This guide covers the employee side: who qualifies, how payroll works, deadlines, and what happens when your situation changes. For the overview of the regime itself, see [how the 50% tax break works](/guides/50-percent-tax-break-article-5c/).
 
 ## The short answer
 
@@ -54,9 +54,9 @@ This is where most people get it wrong.
 
 **Your employer is purely foreign, no Greek entity.** By the wording of the law, you are not in an employment relationship with a Greek entity or a Greek permanent establishment, so the employment route does not apply. There is no AADE guidance that opens this door for remote work. An Employer of Record that is itself a Greek company and employs you under a Greek contract may meet the wording, but AADE has not published guidance on EoR setups, so check before relying on it. Note also that under EU rules ([Regulation 883/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0883)) someone who lives and works in Greece is normally insured in Greece, so a foreign employer may have to register with EFKA unless an A1 certificate applies.
 
-**Digital Nomad Visa holders** are outside 5C altogether: the visa forbids work for Greek employers and Greek business activity, which is exactly what 5C requires (see [5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa)).
+**Digital Nomad Visa holders** are outside 5C altogether: the visa forbids work for Greek employers and Greek business activity, which is exactly what 5C requires (see [5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa/)).
 
-**The realistic alternative: the self-employed route.** Article 5C also extends the regime to people who move to Greece to run an individual business here. You register as a sole proprietor, invoice your former employer (and ideally other clients) from Greece, and 50% of your business profit is exempt. We cover that setup in [how to register as a freelancer in Greece](/guides/freelancer-setup-greece) and the taxes in [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026).
+**The realistic alternative: the self-employed route.** Article 5C also extends the regime to people who move to Greece to run an individual business here. You register as a sole proprietor, invoice your former employer (and ideally other clients) from Greece, and 50% of your business profit is exempt. We cover that setup in [how to register as a freelancer in Greece](/guides/freelancer-setup-greece/) and the taxes in [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026/).
 
 Two cautions on the self-employed route:
 
@@ -148,6 +148,6 @@ A change of employer is notified to AADE and the regime continues for the remain
 
 ## Getting the application right
 
-If you are moving to Greece with a job offer, or working remotely from here and unsure which route fits, taxomade reviews your situation and prepares and files the application alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping). Message us on WhatsApp for a free check.
+If you are moving to Greece with a job offer, or working remotely from here and unsure which route fits, taxomade reviews your situation and prepares and files the application alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping/). Message us on WhatsApp for a free check.
 
 *Rules as of October 2026 (A.1087/2021 as amended by A.1138/2025 and A.1096/2026).*

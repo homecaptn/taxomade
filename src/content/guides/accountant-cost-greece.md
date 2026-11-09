@@ -15,7 +15,7 @@ faq:
     answer: "For freelancers and companies, yes — accounting fees are a business expense under Article 22 of the Greek Income Tax Code (Law 4172/2013) and reduce your taxable income, as long as they're invoiced and recorded in your books. The fee for a private individual's annual return is not deductible."
 ---
 
-If you're a freelancer, remote worker or small business owner in Greece, an accountant isn't really optional — between myDATA transmission of every invoice, [mandatory B2B e-invoicing](/guides/e-invoicing-greece-explained) for small businesses since November 2, 2026, VAT returns and the [annual return](/guides/freelancer-taxes-greece-2026), the Greek system is built around professional filing. Here's what you'll actually pay in 2026, and what you get for it.
+If you're a freelancer, remote worker or small business owner in Greece, an accountant isn't really optional — between myDATA transmission of every invoice, [mandatory B2B e-invoicing](/guides/e-invoicing-greece-explained/) for small businesses since November 2, 2026, VAT returns and the [annual return](/guides/freelancer-taxes-greece-2026/), the Greek system is built around professional filing. Here's what you'll actually pay in 2026, and what you get for it.
 
 ## The short answer
 
@@ -32,13 +32,13 @@ Most low-cost quotes cover basic ledger keeping only. VAT returns, myDATA transm
 
 VAT alone can mean four returns a year or twelve: quarterly for most established freelancers with simplified books, but [monthly if you started on or after 1 January 2024](https://aade.gr/sites/default/files/2025-07/dt_03.07.2025.pdf), with a quarterly option only after 24 months. Add it up over a year and you often land at the same total as the full-service rate, minus the response times, minus your language, and minus someone actively watching your deadlines.
 
-So when comparing accountants, don't ask "how much per month?" — ask "what exactly is included?" If your current accountant fails that test, [switching accountants](/guides/switching-accountants-greece) takes about a week.
+So when comparing accountants, don't ask "how much per month?" — ask "what exactly is included?" If your current accountant fails that test, [switching accountants](/guides/switching-accountants-greece/) takes about a week.
 
 ## What drives the price?
 
 ### 1. Your legal form
 
-A sole trader (ατομική επιχείρηση) with simplified books is the cheapest to serve. An [IKE](/guides/ike-greece-setup-annual-costs) brings double-entry books, corporate filings and more complexity — expect at least double, often more: local price lists quote IKEs at €180–€280 per month against €30–€60 for a sole trader.
+A sole trader (ατομική επιχείρηση) with simplified books is the cheapest to serve. An [IKE](/guides/ike-greece-setup-annual-costs/) brings double-entry books, corporate filings and more complexity — expect at least double, often more: local price lists quote IKEs at €180–€280 per month against €30–€60 for a sole trader.
 
 ### 2. Invoice volume
 
@@ -54,7 +54,7 @@ Each employee adds roughly €15–€35 per month on Greek price lists, dependi
 
 ## What we charge at taxomade
 
-Full transparency, since that's the point of this article: our [ongoing bookkeeping for freelancers](/greece/ongoing-bookkeeping) is **from €89 per month**, depending on invoice volume, with all core filings included: myDATA handling, VAT declarations and your annual tax return. We prepare and file them, handled by our state-certified Greek accountant, in English, German or Greek. No per-declaration extras. Company bookkeeping is quoted individually based on volume.
+Full transparency, since that's the point of this article: our [ongoing bookkeeping for freelancers](/greece/ongoing-bookkeeping/) is **from €89 per month**, depending on invoice volume, with all core filings included: myDATA handling, VAT declarations and your annual tax return. We prepare and file them, handled by our state-certified Greek accountant, in English, German or Greek. No per-declaration extras. Company bookkeeping is quoted individually based on volume.
 
 ## Frequently asked questions
 

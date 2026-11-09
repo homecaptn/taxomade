@@ -37,7 +37,7 @@ It starts as a national (Type-D) visa of up to 12 months, applied for at a Greek
 
 ## Why it rules out Article 5C
 
-To qualify for [Article 5C](/guides/50-percent-tax-break-article-5c), you must:
+To qualify for [Article 5C](/guides/50-percent-tax-break-article-5c/), you must:
 
 1. transfer your tax residence to Greece from an EU/EEA country or a country with a tax cooperation agreement with Greece;
 2. not have been Greek tax resident in five of the previous six years;
@@ -48,11 +48,11 @@ The fourth condition is exactly what the DNV excludes. That is why DNV holders c
 
 ## How DNV holders are taxed
 
-A residence permit and tax residence are separate questions. You become Greek tax resident when your main home or centre of life is here, or after more than 183 days within any 12 months (see [the 183-day rule](/guides/tax-residency-greece-183-days)). From then on Greece taxes your worldwide income on the normal scale, and the double tax treaty with your home country decides how double taxation is avoided. Keeping a DNV does not change this.
+A residence permit and tax residence are separate questions. You become Greek tax resident when your main home or centre of life is here, or after more than 183 days within any 12 months (see [the 183-day rule](/guides/tax-residency-greece-183-days/)). From then on Greece taxes your worldwide income on the normal scale, and the double tax treaty with your home country decides how double taxation is avoided. Keeping a DNV does not change this.
 
 ## Remote work for a foreign employer
 
-Working from your laptop in Athens for a foreign company does not trigger Article 5C on its own, whatever your nationality. For EU citizens, the usual route is to register as a sole proprietor in Greece and invoice the former employer, ideally alongside other clients, from the Greek business. Non-EU citizens on a DNV cannot do this, because the permit gives no right to business activity in Greece. More in [5C for employees and remote workers](/guides/5c-for-eu-remote-workers).
+Working from your laptop in Athens for a foreign company does not trigger Article 5C on its own, whatever your nationality. For EU citizens, the usual route is to register as a sole proprietor in Greece and invoice the former employer, ideally alongside other clients, from the Greek business. Non-EU citizens on a DNV cannot do this, because the permit gives no right to business activity in Greece. More in [5C for employees and remote workers](/guides/5c-for-eu-remote-workers/).
 
 ## Routes that can qualify for non-EU citizens
 
@@ -60,7 +60,7 @@ Working from your laptop in Athens for a foreign company does not trigger Articl
 
 **Employment with a Greek entity.** A job with a Greek company, or the Greek branch of your employer, meets the employment condition, but you need a work-based permit, such as the EU Blue Card or an employer-initiated work permit under the Migration Code. An Employer of Record that is itself a Greek company and employs you under a Greek contract may also meet the wording, but AADE has not published guidance on such setups, so check before relying on it.
 
-**The Golden Visa.** It gives residence through property investment but generally no right to employment. Holders can be shareholders or board members of a Greek company such as an IKE, but that does not bring 5C: the company's profits are taxed at company level (22% corporate tax plus 5% on dividends). See [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs).
+**The Golden Visa.** It gives residence through property investment but generally no right to employment. Holders can be shareholders or board members of a Greek company such as an IKE, but that does not bring 5C: the company's profits are taxed at company level (22% corporate tax plus 5% on dividends). See [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs/).
 
 ## Frequently asked questions
 
@@ -82,6 +82,6 @@ No. EU citizens can live and work in Greece without a visa and can use Article 5
 
 ## Next steps
 
-If you are an EU citizen, or already hold a status that allows work in Greece, the [Article 5C tax calculator](/greece/5c-tax-calculator) shows what the exemption would save you. We prepare and file the 5C application and the ongoing filings as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping); send us a message for a free check of your situation.
+If you are an EU citizen, or already hold a status that allows work in Greece, the [Article 5C tax calculator](/greece/5c-tax-calculator/) shows what the exemption would save you. We prepare and file the 5C application and the ongoing filings as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); send us a message for a free check of your situation.
 
 *Rules as of October 2026 (Law 5038/2023 art. 68 as amended by Law 5275/2026, Income Tax Code art. 5C).*

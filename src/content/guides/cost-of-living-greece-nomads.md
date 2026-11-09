@@ -38,7 +38,7 @@ Housing is your biggest variable. Unfurnished local leases run roughly €450 to
 
 - In Athens, Crete or Thessaloniki, expect **€600 to €1,000** for a modern, furnished one-bedroom in a good neighbourhood.
 - Tourist hotspots like Mykonos or Santorini demand €1,300 and more and are heavily inflated in summer.
-- Deposits, agent fees and the lease registration are covered in our [renting guide](/guides/renting-apartment-greece-foreigner); for choosing a city, see [Athens vs. Thessaloniki vs. the islands](/guides/athens-vs-thessaloniki-digital-nomads).
+- Deposits, agent fees and the lease registration are covered in our [renting guide](/guides/renting-apartment-greece-foreigner/); for choosing a city, see [Athens vs. Thessaloniki vs. the islands](/guides/athens-vs-thessaloniki-digital-nomads/).
 
 ### 2. Groceries and supermarkets: €200 to €350
 
@@ -75,11 +75,11 @@ To hold a Digital Nomad Visa, you must carry private health insurance valid in G
 
 ### 8. Social security (EFKA) for freelancers: from €160
 
-If you register as a freelancer (sole proprietor) in Greece, whether or not you qualify for the Article 5C tax break, you must pay social security (EFKA). In 2026 the lowest regular class is **€250.77 per month**. New freelancers can apply for a special class of **€150.46 per month** for their first five years. Most freelancers pay a €10 unemployment contribution on top. Details in our [EFKA guide](/guides/efka-social-security-freelancers-greece). Note that Digital Nomad Visa holders are not eligible for 5C; see [5C vs. the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa).
+If you register as a freelancer (sole proprietor) in Greece, whether or not you qualify for the Article 5C tax break, you must pay social security (EFKA). In 2026 the lowest regular class is **€250.77 per month**. New freelancers can apply for a special class of **€150.46 per month** for their first five years. Most freelancers pay a €10 unemployment contribution on top. Details in our [EFKA guide](/guides/efka-social-security-freelancers-greece/). Note that Digital Nomad Visa holders are not eligible for 5C; see [5C vs. the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa/).
 
 ### 9. Income tax: the part most budgets forget
 
-Income tax is not a monthly line, but it is real money. Freelance profit is taxed on a progressive scale from 9% to 44%, and an advance of 55% of next year's tax is collected with every return (27.5% in your first year with business income; a cut to 50% from tax year 2027 is in a bill submitted to Parliament in November 2026, not yet law). If you moved your tax residency to Greece and were not a Greek tax resident in 5 of the last 6 years, [Article 5C](/guides/50-percent-tax-break-article-5c) halves the taxable base. The full picture is in our [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
+Income tax is not a monthly line, but it is real money. Freelance profit is taxed on a progressive scale from 9% to 44%, and an advance of 55% of next year's tax is collected with every return (27.5% in your first year with business income; a cut to 50% from tax year 2027 is in a bill submitted to Parliament in November 2026, not yet law). If you moved your tax residency to Greece and were not a Greek tax resident in 5 of the last 6 years, [Article 5C](/guides/50-percent-tax-break-article-5c/) halves the taxable base. The full picture is in our [freelancer tax guide](/guides/freelancer-taxes-greece-2026/).
 
 ## The reality of seasons
 
@@ -107,6 +107,6 @@ If you register as a freelancer (sole proprietor) in Greece, yes. New freelancer
 
 ## Summary
 
-Greece offers good value, especially outside the tourist islands. Budget around €1,500 a month in Athens or Thessaloniki and you live well, with room for weekend trips. If you are registering a business here, our [ongoing bookkeeping](/greece/ongoing-bookkeeping) costs from €89 per month, with myDATA, VAT returns and the annual tax return included, so the tax side of your budget is a fixed number too.
+Greece offers good value, especially outside the tourist islands. Budget around €1,500 a month in Athens or Thessaloniki and you live well, with room for weekend trips. If you are registering a business here, our [ongoing bookkeeping](/greece/ongoing-bookkeeping/) costs from €89 per month, with myDATA, VAT returns and the annual tax return included, so the tax side of your budget is a fixed number too.
 
 *Rules as of November 2026 (EFKA circular 6/2026, OASA fares, Income Tax Code art. 5C and 69; prices are indicative ranges).*

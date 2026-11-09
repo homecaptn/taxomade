@@ -29,12 +29,12 @@ Why? Strictly speaking, Greek taxes can be paid from any SEPA account ([AADE pub
 
 ## Prerequisite: you need an AFM
 
-Before you approach a bank, get your [Greek tax number (AFM)](/guides/what-is-greek-afm-number). Banks must record a tax number for every customer, and in practice no Greek bank will open an account for a newcomer without one. Buying property? See [AFM for property buyers and non-residents](/guides/afm-greece-property-buyers-non-residents).
+Before you approach a bank, get your [Greek tax number (AFM)](/guides/what-is-greek-afm-number/). Banks must record a tax number for every customer, and in practice no Greek bank will open an account for a newcomer without one. Buying property? See [AFM for property buyers and non-residents](/guides/afm-greece-property-buyers-non-residents/).
 
 Under the Bank of Greece identification rules the bank must verify identity, address, phone number, profession and tax number, so bring:
 
 - Your valid passport (EU citizens: national ID card also works).
-- Recent proof of your home address: a utility bill from your home country, or your [Greek rental contract](/guides/renting-apartment-greece-foreigner) as registered with AADE.
+- Recent proof of your home address: a utility bill from your home country, or your [Greek rental contract](/guides/renting-apartment-greece-foreigner/) as registered with AADE.
 - Proof of income or profession: a recent payslip, employer letter, tax return, or business registration if self-employed.
 - A phone number you can prove is yours (a phone bill). A Greek SIM is not a legal requirement, but it makes app setup easier: Alpha's in-app onboarding, for example, asks for a Greek mobile number.
 
@@ -105,6 +105,6 @@ Greek taxes can be paid from any SEPA account, and refunds can go to a foreign S
 
 ## Next steps
 
-Secure your [AFM](/guides/what-is-greek-afm-number) first, then choose your route: Alpha's remote onboarding or Eurobank's international unit if you need an account before you arrive, a branch visit otherwise. Once your Greek IBAN is open and you start working, taxomade's [ongoing bookkeeping](/greece/ongoing-bookkeeping) starts from €89/month: we prepare and file your myDATA submissions, VAT returns and annual tax return. Send us a message for a free compliance check.
+Secure your [AFM](/guides/what-is-greek-afm-number/) first, then choose your route: Alpha's remote onboarding or Eurobank's international unit if you need an account before you arrive, a branch visit otherwise. Once your Greek IBAN is open and you start working, taxomade's [ongoing bookkeeping](/greece/ongoing-bookkeeping/) starts from €89/month: we prepare and file your myDATA submissions, VAT returns and annual tax return. Send us a message for a free compliance check.
 
 *Rules as of November 2026 (Bank of Greece Banking and Credit Committee decision 281/2009, 2025 bank-fee caps, banks' published onboarding programmes).*

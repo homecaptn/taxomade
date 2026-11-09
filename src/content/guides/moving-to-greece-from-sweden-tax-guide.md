@@ -37,7 +37,7 @@ If you are a Swedish citizen or lived in Sweden for at least ten years, **you ca
 
 If you will live abroad for a year or more, you [report the move](https://www.skatteverket.se/privat/folkbokforing/flyttautomlands.4.18e1b10334ebe8bc80001591.html) no later than one week before you leave, through the e-service or form SKV 7665.
 
-In Greece, you become [tax resident](/guides/tax-residency-greece-183-days) with your main home or centre of life here, or after 183 days in 12 months. Because there is no treaty, **no tie-breaker** settles a dual claim.
+In Greece, you become [tax resident](/guides/tax-residency-greece-183-days/) with your main home or centre of life here, or after 183 days in 12 months. Because there is no treaty, **no tie-breaker** settles a dual claim.
 
 ## 2. The year you leave
 
@@ -58,7 +58,7 @@ Without a treaty, both countries apply their domestic rules:
 - **Dividends:** Swedish kupongskatt of 30% applies in full, with no treaty reduction.
 - **Double taxation:** Greece credits foreign tax up to the Greek tax on the same income. If Sweden still treats you as resident, it credits Greek tax under its own credit act.
 
-Owning an AB with significant influence is itself a factor that can keep your essential connection to Sweden. If you run your AB alone from Greece, it stays fully taxable in Sweden, but Greece may treat it as tax resident because it is managed here, so the company can be taxed in both countries with no treaty to decide. Once you are non-resident, dividends from the AB carry 30% kupongskatt, and a sale or liquidation within ten years of leaving stays taxable in Sweden. Salary for work done in Greece is taxed in Greece and insured with EFKA. Talk to your adviser before you deregister. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs).
+Owning an AB with significant influence is itself a factor that can keep your essential connection to Sweden. If you run your AB alone from Greece, it stays fully taxable in Sweden, but Greece may treat it as tax resident because it is managed here, so the company can be taxed in both countries with no treaty to decide. Once you are non-resident, dividends from the AB carry 30% kupongskatt, and a sale or liquidation within ten years of leaving stays taxable in Sweden. Salary for work done in Greece is taxed in Greece and insured with EFKA. Talk to your adviser before you deregister. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs/).
 
 ## 4. How your income is taxed
 
@@ -77,13 +77,13 @@ Owning an AB with significant influence is itself a factor that can keep your es
 
 You close your enskild firma (F-tax, VAT, NE schedule), register as a sole trader in Greece and invoice from there.
 
-- **Swedish business clients** are invoiced without VAT under the reverse charge, private clients with Greek VAT; the Swedish small-business VAT exemption no longer applies ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients)).
-- **Social security:** under EU Regulation 883/2004 you are insured where you work, so with EFKA, from about €150 per month for new freelancers ([EFKA guide](/guides/efka-social-security-freelancers-greece)), not through Swedish egenavgifter. A Swedish A1 only helps for temporary postings or if you also work substantially in Sweden.
-- **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request, myDATA for every invoice, e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027; invoices to Swedish clients are not covered ([e-invoicing](/guides/e-invoicing-greece-explained)), and a [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax) halved only in your first year with business income.
+- **Swedish business clients** are invoiced without VAT under the reverse charge, private clients with Greek VAT; the Swedish small-business VAT exemption no longer applies ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients/)).
+- **Social security:** under EU Regulation 883/2004 you are insured where you work, so with EFKA, from about €150 per month for new freelancers ([EFKA guide](/guides/efka-social-security-freelancers-greece/)), not through Swedish egenavgifter. A Swedish A1 only helps for temporary postings or if you also work substantially in Sweden.
+- **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request, myDATA for every invoice, e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027; invoices to Swedish clients are not covered ([e-invoicing](/guides/e-invoicing-greece-explained/)), and a [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax/) halved only in your first year with business income.
 
-Steps in order: [AFM](/guides/what-is-greek-afm-number), [freelancer setup](/guides/freelancer-setup-greece), [freelancer taxes 2026](/guides/freelancer-taxes-greece-2026).
+Steps in order: [AFM](/guides/what-is-greek-afm-number/), [freelancer setup](/guides/freelancer-setup-greece/), [freelancer taxes 2026](/guides/freelancer-taxes-greece-2026/).
 
-**Employees** who keep a Swedish contract and work permanently from Greece are taxed in Greece on those workdays and fall under EFKA, so the employer must register in Greece. Many switch to freelancing instead ([5C for EU remote workers](/guides/5c-for-eu-remote-workers)).
+**Employees** who keep a Swedish contract and work permanently from Greece are taxed in Greece on those workdays and fall under EFKA, so the employer must register in Greece. Many switch to freelancing instead ([5C for EU remote workers](/guides/5c-for-eu-remote-workers/)).
 
 ## 6. Retirees
 
@@ -91,17 +91,17 @@ Steps in order: [AFM](/guides/what-is-greek-afm-number), [freelancer setup](/gui
 - **Greek side:** you declare the pension in Greece as well, and Greece credits the Swedish tax up to the Greek tax on it. In practice you pay the higher of the two: SINK, or Greek tax on the pension.
 - **Payment:** income pension, premium pension and supplementary pension are [paid wherever you live](https://www.pensionsmyndigheten.se/for-pensionarer/pensionar-utanfor-sverige/du-som-ar-bosatt-utanfor-sverige); the guarantee pension is not. Send the yearly [life certificate](https://www.pensionsmyndigheten.se/for-pensionarer/pensionar-utanfor-sverige/levnadsintyg) on time.
 - **Health:** with a Swedish public pension, you can keep Swedish health cover and apply for form S1 on Mina sidor at Försäkringskassan to register for Greek care. An occupational pension alone does not qualify.
-- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Apply by 31 October of the year you want it for (A.1192/2026); if you arrive after 2 July, it starts the following year. Sweden still withholds SINK on Swedish pensions. With no treaty, that tax is credited against the Greek 7% up to the 7% (A.1192/2026, art. 5), so no Greek tax remains on those pensions, but the higher SINK is not refunded. 5B pays off mainly when most of your income is not Swedish ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
+- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Apply by 31 October of the year you want it for (A.1192/2026); if you arrive after 2 July, it starts the following year. Sweden still withholds SINK on Swedish pensions. With no treaty, that tax is credited against the Greek 7% up to the 7% (A.1192/2026, art. 5), so no Greek tax remains on those pensions, but the higher SINK is not refunded. 5B pays off mainly when most of your income is not Swedish ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/)).
 
 Barnbidrag [usually ends](https://www.forsakringskassan.se/privatperson/flytta-jobba-studera-eller-fa-vard-utomlands/flytta-utomlands) when the family moves abroad; Försäkringskassan checks each case.
 
 ## 7. Article 5C: the 50% exemption
 
-If you were not Greek tax resident in **5 of the previous 6 years**, [Article 5C](/guides/50-percent-tax-break-article-5c) exempts 50% of Greek employment or business income for **7 years**. You need a Greek employer, a Greek establishment of a foreign employer, or your own sole proprietorship in Greece (an IKE does not count, nor does a salary from your Swedish AB). Start by 2 July and you apply by 31 December of that year; later, by 31 December of the next. AADE allows it alongside 5A or 5B. **Digital Nomad Visa holders are not eligible** ([5C vs DNV](/guides/5c-vs-digital-nomad-visa)).
+If you were not Greek tax resident in **5 of the previous 6 years**, [Article 5C](/guides/50-percent-tax-break-article-5c/) exempts 50% of Greek employment or business income for **7 years**. You need a Greek employer, a Greek establishment of a foreign employer, or your own sole proprietorship in Greece (an IKE does not count, nor does a salary from your Swedish AB). Start by 2 July and you apply by 31 December of that year; later, by 31 December of the next. AADE allows it alongside 5A or 5B. **Digital Nomad Visa holders are not eligible** ([5C vs DNV](/guides/5c-vs-digital-nomad-visa/)).
 
 ## How we can help
 
-We prepare and file the Greek side: tax and business registration, the 5C or 5B application, and your returns as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping). The Swedish exit stays with your Swedish adviser; we share the Greek documents they need. Send us a message for a free check.
+We prepare and file the Greek side: tax and business registration, the 5C or 5B application, and your returns as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/). The Swedish exit stays with your Swedish adviser; we share the Greek documents they need. Send us a message for a free check.
 
 ## Frequently asked questions
 

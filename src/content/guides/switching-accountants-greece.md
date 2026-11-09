@@ -52,7 +52,7 @@ Doing this first makes the rest of the handover much easier, and it gives your n
 
 ## Step 2: Choose your new accountant
 
-Look beyond the monthly price. Ask what is actually included: VAT returns, myDATA, the annual tax return, e-invoicing, and how quickly they reply. Check that they hold a licence from the Economic Chamber of Greece (ΟΕΕ): only a licensed accountant can sign and file your business returns. Our guide on [what an English-speaking accountant in Greece should offer](/guides/english-speaking-accountant-greece) has a checklist, and [what accountants cost in Greece](/guides/accountant-cost-greece) explains typical price ranges.
+Look beyond the monthly price. Ask what is actually included: VAT returns, myDATA, the annual tax return, e-invoicing, and how quickly they reply. Check that they hold a licence from the Economic Chamber of Greece (ΟΕΕ): only a licensed accountant can sign and file your business returns. Our guide on [what an English-speaking accountant in Greece should offer](/guides/english-speaking-accountant-greece/) has a checklist, and [what accountants cost in Greece](/guides/accountant-cost-greece/) explains typical price ranges.
 
 ## Step 3: Give your new accountant access in myAADE
 
@@ -76,7 +76,7 @@ Ask your old accountant, in writing, to hand over:
 | Filed tax and VAT returns with proof of submission | Shows what has been declared and when |
 | Books and ledgers | Your new accountant continues from here |
 | Open obligations and upcoming deadlines | Nothing gets missed during the switch |
-| Payroll and employee records (if any) | Needed for social security and ERGANI; see [hiring your first employee](/guides/hiring-first-employee-greece) |
+| Payroll and employee records (if any) | Needed for social security and ERGANI; see [hiring your first employee](/guides/hiring-first-employee-greece/) |
 | Access details for invoicing software or e-invoicing provider | Your invoicing keeps running without interruption |
 
 Ask for the documents to go straight to your new accountant, and keep a written list of what was handed over and when. Settle any fees you still owe for work already done first: unpaid fees can hold up the handover.
@@ -86,7 +86,7 @@ Ask for the documents to go straight to your new accountant, and keep a written 
 You can switch any day, but some moments are easier than others:
 
 - **End of a month** keeps the accounting periods clean.
-- **Not right before a deadline:** VAT returns, for example, are due by the last working day of the month after the period ends ([VAT Code art. 38](https://www.taxheaven.gr/law/2859/2000/arthro/38)), and the VIES statement for EU clients by the 26th. Switching a few days before that adds unnecessary pressure. See the [Greek tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026).
+- **Not right before a deadline:** VAT returns, for example, are due by the last working day of the month after the period ends ([VAT Code art. 38](https://www.taxheaven.gr/law/2859/2000/arthro/38)), and the VIES statement for EU clients by the 26th. Switching a few days before that adds unnecessary pressure. See the [Greek tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026/).
 - **Before your annual tax return season** (the filing window usually opens in mid-March) is a good moment if you want your new accountant to handle the full year.
 
 ## How long it takes
@@ -95,9 +95,9 @@ In our experience, a clean switch takes **about a week** once your records are a
 
 ## What we charge
 
-At taxomade, ongoing bookkeeping starts **from €89/month**: we prepare and file your VAT returns and annual tax return and handle myDATA, in English, German or Greek. We coordinate the handover with your old accountant. [See what's included](/greece/ongoing-bookkeeping), or send us a message via WhatsApp or our contact form for a free check of your current setup.
+At taxomade, ongoing bookkeeping starts **from €89/month**: we prepare and file your VAT returns and annual tax return and handle myDATA, in English, German or Greek. We coordinate the handover with your old accountant. [See what's included](/greece/ongoing-bookkeeping/), or send us a message via WhatsApp or our contact form for a free check of your current setup.
 
-If you have clients abroad, our guides on [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients) and [e-invoicing in Greece](/guides/e-invoicing-greece-explained) are worth a look before you switch.
+If you have clients abroad, our guides on [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/) and [e-invoicing in Greece](/guides/e-invoicing-greece-explained/) are worth a look before you switch.
 
 ## Frequently asked questions
 

@@ -12,15 +12,15 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 const alternates = entry.data.translationOf
-  ? [{ lang: 'en', href: `/guides/${entry.id}` }, { lang: 'de', href: `/de/ratgeber/${entry.data.translationOf}` }]
+  ? [{ lang: 'en', href: `/guides/${entry.id}/` }, { lang: 'de', href: `/de/ratgeber/${entry.data.translationOf}` }]
   : [];
 
 // Map category to a specific service URL for the back button / CTA
 const serviceUrls = {
-  dnv: '/greece/digital-nomad-visa',
-  afm: '/greece/tax-number-afm',
-  tax: '/greece/50-percent-tax-break',
-  bookkeeping: '/greece/ongoing-bookkeeping',
+  dnv: '/greece/digital-nomad-visa/',
+  afm: '/greece/tax-number-afm/',
+  tax: '/greece/50-percent-tax-break/',
+  bookkeeping: '/greece/ongoing-bookkeeping/',
 };
 const backUrl = serviceUrls[entry.data.category] || '/';
 const asOfDate = entry.data.updatedDate || entry.data.pubDate;

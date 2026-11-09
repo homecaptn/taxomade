@@ -16,7 +16,7 @@ faq:
     answer: "From the fourth year of activity, the tax office assumes you earn at least the annual minimum wage, around €12,000 to €13,000, and taxes you on that even if you declared less. The first three years are exempt, the fourth year is reduced by two thirds and the fifth by one third."
 ---
 
-Moving to Greece as a freelancer comes with two well-advertised benefits: the [50% income tax break under Article 5C](/guides/50-percent-tax-break-article-5c) and the reduced [EFKA starter class of €150.46 per month](/guides/efka-social-security-freelancers-greece) (2026, plus €10 for most freelancers) for new freelancers. It also comes with costs that rarely make it into the relocation pitch. Here they are, with the amounts to budget for in your first years.
+Moving to Greece as a freelancer comes with two well-advertised benefits: the [50% income tax break under Article 5C](/guides/50-percent-tax-break-article-5c/) and the reduced [EFKA starter class of €150.46 per month](/guides/efka-social-security-freelancers-greece/) (2026, plus €10 for most freelancers) for new freelancers. It also comes with costs that rarely make it into the relocation pitch. Here they are, with the amounts to budget for in your first years.
 
 ## The short answer
 
@@ -36,34 +36,34 @@ When you file your annual tax return as a freelancer, you do not just pay the ta
 
 A bill submitted to Parliament in November 2026 would cut the advance for sole proprietors to 50% from tax year 2027. It is not yet law. If you trade through a company (IKE), the advance is 80% of the corporate tax, halved for the first three tax years ([Article 71](https://www.taxheaven.gr/law/4172/2013/arthro/71)).
 
-The following year, the €2,750 is deducted from your new bill. You do not lose the money, but you need it from the end of July, when the first instalment is due. The total can be split into up to eight monthly instalments; filing early and paying in full earns a 4%, 3% or 2% discount (see the [tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026)). The worked example in our [freelancer tax guide](/guides/freelancer-taxes-greece-2026) includes it.
+The following year, the €2,750 is deducted from your new bill. You do not lose the money, but you need it from the end of July, when the first instalment is due. The total can be split into up to eight monthly instalments; filing early and paying in full earns a 4%, 3% or 2% discount (see the [tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026/)). The worked example in our [freelancer tax guide](/guides/freelancer-taxes-greece-2026/) includes it.
 
 ## 2. Certified translations and apostilles
 
-To apply for Article 5C, you prove that you were not a Greek tax resident in 5 of the last 6 years, usually with tax residency certificates or equivalent evidence from your previous country. You cannot hand a [German](/guides/moving-to-greece-from-germany-tax-guide), [British](/guides/moving-to-greece-from-uk-tax-guide) or Spanish document to the Greek tax office as it is.
+To apply for Article 5C, you prove that you were not a Greek tax resident in 5 of the last 6 years, usually with tax residency certificates or equivalent evidence from your previous country. You cannot hand a [German](/guides/moving-to-greece-from-germany-tax-guide/), [British](/guides/moving-to-greece-from-uk-tax-guide/) or Spanish document to the Greek tax office as it is.
 
 - **Apostille stamps:** unless exempt under a bilateral or EU rule, foreign public documents need an apostille. Fees are set by the issuing country, typically up to about €50 per document (the UK charges £45), plus courier fees.
 - **Certified translations:** foreign documents submitted to the Greek state are translated into Greek by a translator from the Ministry of Foreign Affairs' register of certified translators or by a Greek lawyer. Market rates are typically €15 to €30 per page, so budget €20 to €70 per document.
 
 ## 3. GEMI registration and chamber fees
 
-Whether you register with GEMI (the General Commercial Registry) depends on your activity. Under Law 4919/2022, sole proprietors register if they carry out commercial acts as a profession, or supply goods or services with business risk through organised infrastructure or staff. A solo consultant, developer or designer working from a laptop is usually outside the obligation; a trader, e-shop or hospitality business is inside it. Accountants differ in practice, so settle this when you [choose your activity codes](/guides/freelancer-setup-greece), not after the first chamber letter arrives.
+Whether you register with GEMI (the General Commercial Registry) depends on your activity. Under Law 4919/2022, sole proprietors register if they carry out commercial acts as a profession, or supply goods or services with business risk through organised infrastructure or staff. A solo consultant, developer or designer working from a laptop is usually outside the obligation; a trader, e-shop or hospitality business is inside it. Accountants differ in practice, so settle this when you [choose your activity codes](/guides/freelancer-setup-greece/), not after the first chamber letter arrives.
 
 If you do register: the one-off fee is small (tens of euros) and the annual GEMI fee for a sole proprietorship is **€30**. Chamber fees, where they apply, come on top and vary by chamber.
 
 ## 4. The presumptive minimum income after year three
 
-The cost most relocation guides skip entirely. Since tax year 2023, Greek freelancers are taxed on at least a presumptive minimum income (τεκμαρτό εισόδημα) tied to the annual minimum wage, currently around €12,000 to €13,000, even if the declared profit is lower. New businesses are exempt for the first three years; in the fourth year the presumption is reduced by two thirds, in the fifth by one third, and from the sixth year it applies in full. For a part-time freelancer on the 5C break, this can matter more than any apostille fee. Details and the exceptions are in the [freelancer tax guide](/guides/freelancer-taxes-greece-2026).
+The cost most relocation guides skip entirely. Since tax year 2023, Greek freelancers are taxed on at least a presumptive minimum income (τεκμαρτό εισόδημα) tied to the annual minimum wage, currently around €12,000 to €13,000, even if the declared profit is lower. New businesses are exempt for the first three years; in the fourth year the presumption is reduced by two thirds, in the fifth by one third, and from the sixth year it applies in full. For a part-time freelancer on the 5C break, this can matter more than any apostille fee. Details and the exceptions are in the [freelancer tax guide](/guides/freelancer-taxes-greece-2026/).
 
 ## 5. AMKA and KEP visits
 
-If you are a remote employee of a foreign company rather than a freelancer, you do not register a business. You need an AFM (tax number) and an AMKA (social security number). Whether you stay insured at home depends on your setup: a formal posting with an A1 certificate or genuine multi-state work keeps you in your home system; a full-time remote employee living in Greece normally falls under Greek EFKA, which the employer has to arrange. Details in our [EFKA guide](/guides/efka-social-security-freelancers-greece).
+If you are a remote employee of a foreign company rather than a freelancer, you do not register a business. You need an AFM (tax number) and an AMKA (social security number). Whether you stay insured at home depends on your setup: a formal posting with an A1 certificate or genuine multi-state work keeps you in your home system; a full-time remote employee living in Greece normally falls under Greek EFKA, which the employer has to arrange. Details in our [EFKA guide](/guides/efka-social-security-freelancers-greece/).
 
 An accountant can prepare and file your AFM application for you, but AMKA registration is not something accountants usually handle. AMKA is issued once you prove legal residence and becomes fully active once you also prove actual residence, for example with a lease; in practice this still usually means a visit to a KEP (Citizens' Service Centre) or EFKA office. The cost is time rather than money, and it helps to bring a Greek speaker.
 
 ## Plan for the friction
 
-None of this should stop a move. The point is to budget for it: put the advance tax aside from month one, order your foreign tax residency certificates early, check whether GEMI applies to your activity before registering, and know when the presumptive income kicks in. The [5C calculator](/greece/5c-tax-calculator) shows the net effect of the tax break.
+None of this should stop a move. The point is to budget for it: put the advance tax aside from month one, order your foreign tax residency certificates early, check whether GEMI applies to your activity before registering, and know when the presumptive income kicks in. The [5C calculator](/greece/5c-tax-calculator/) shows the net effect of the tax break.
 
 ## Frequently asked questions
 
@@ -85,6 +85,6 @@ From the fourth year of activity, the tax office assumes you earn at least the a
 
 ## How taxomade can help
 
-Budgeting the advance tax, checking the 5C paperwork before you order translations, and keeping EFKA and VAT on schedule are part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping), from €89 per month, with myDATA, VAT returns and the annual tax return included. Send us a message for a free check of your setup.
+Budgeting the advance tax, checking the 5C paperwork before you order translations, and keeping EFKA and VAT on schedule are part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/), from €89 per month, with myDATA, VAT returns and the annual tax return included. Send us a message for a free check of your setup.
 
 *Rules as of November 2026 (Income Tax Code art. 28C, 69 and 71, Law 4919/2022; apostille and translation fees vary by country and provider).*

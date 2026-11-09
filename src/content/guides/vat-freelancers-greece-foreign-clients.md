@@ -50,7 +50,7 @@ For this to be valid, three things must be true:
 
 You can't just start invoicing EU businesses. Before your first intra-Community transaction, your Greek VAT number must be entered in the intra-Community (VIES) register with the tax authority, AADE ([AADE guidance](https://aade.gr/exypiretisi-enimerosi/hristikoi-odigoi/enarxi-epiheirimatikis-drastiriotitas/ti-prepei-na-gnorizete-ean-epithymeite-na)). Without this, your number won't validate when your client checks it — and many EU companies will refuse to pay an invoice from a supplier whose number doesn't validate.
 
-This is a separate step from getting your [AFM](/guides/what-is-greek-afm-number) and starting your business activity. Your accountant should handle it as part of your setup — **before** you sign your first foreign client, not after.
+This is a separate step from getting your [AFM](/guides/what-is-greek-afm-number/) and starting your business activity. Your accountant should handle it as part of your setup — **before** you sign your first foreign client, not after.
 
 ## The monthly filing on top: recapitulative statements
 
@@ -64,7 +64,7 @@ For business clients outside the EU, the same logic applies: for ordinary B2B se
 
 This is the general rule, not a blanket one: specific categories (property-related work, events, and others) follow their own rules, and EU law allows "use and enjoyment" adjustments in certain cases (Article 59a of the Directive). If your work doesn't fit the ordinary-services mould, check first.
 
-Two things still matter: the invoice remains subject to Greek [myDATA reporting](/guides/free-invoicing-greece-aade-timologio) and must be classified correctly — and keep evidence that your client is a business (contract, company details, foreign tax ID). For private individuals outside the EU, treatment depends on the service type; get specific advice if that's a meaningful share of your income.
+Two things still matter: the invoice remains subject to Greek [myDATA reporting](/guides/free-invoicing-greece-aade-timologio/) and must be classified correctly — and keep evidence that your client is a business (contract, company details, foreign tax ID). For private individuals outside the EU, treatment depends on the service type; get specific advice if that's a meaningful share of your income.
 
 ## Private clients in the EU: when 24% applies — and when it doesn't
 
@@ -95,15 +95,15 @@ Freelancers whose Greek turnover stays at or under **€10,000** in both the cur
 
 Greece has made e-invoicing mandatory on top of myDATA — and the two are not the same thing. myDATA is the reporting layer (your invoice data reaches AADE); the e-invoicing mandate is about **how the invoice is issued**: through a certified e-invoicing provider or AADE's free tools (timologio or myDATAapp).
 
-The rollout is phased: businesses with revenue above €1 million came first on March 2, 2026, and all other businesses — freelancers included — must comply from **November 2, 2026** (originally October 1, 2026, then postponed by [AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). A transition period runs until January 31, 2027, but only for businesses that declared their invoicing method in time. From February 1, 2027, invoices in scope can only be issued through the approved channels. The mandate covers B2B invoices to Greek businesses and invoices to non-EU businesses; invoices to the Greek public sector have had to be e-invoices since September 1, 2025. For invoices to EU-based businesses, e-invoicing remains optional. If you're setting up now, choose a compliant invoicing channel from the start — one migration you can simply skip. For a plain-English explanation, see our guide on [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
+The rollout is phased: businesses with revenue above €1 million came first on March 2, 2026, and all other businesses — freelancers included — must comply from **November 2, 2026** (originally October 1, 2026, then postponed by [AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). A transition period runs until January 31, 2027, but only for businesses that declared their invoicing method in time. From February 1, 2027, invoices in scope can only be issued through the approved channels. The mandate covers B2B invoices to Greek businesses and invoices to non-EU businesses; invoices to the Greek public sector have had to be e-invoices since September 1, 2025. For invoices to EU-based businesses, e-invoicing remains optional. If you're setting up now, choose a compliant invoicing channel from the start — one migration you can simply skip. For a plain-English explanation, see our guide on [e-invoicing in Greece](/guides/e-invoicing-greece-explained/).
 
 ## What we charge at taxomade
 
 Ongoing bookkeeping for freelancers is **from €89 per month** (all-in, depending on volume), and cross-border invoicing is exactly what it's built for: myDATA transmission, VAT returns (monthly or quarterly), VIES registration and recapitulative statements, and your annual income tax return — we prepare and file all of it, in English, German or Greek.
 
-If you're setting up now, or your current accountant hasn't mentioned half the obligations on this page, see what's included in our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) or [send us a message](https://wa.me/491743426818) for a free check.
+If you're setting up now, or your current accountant hasn't mentioned half the obligations on this page, see what's included in our [ongoing bookkeeping service](/greece/ongoing-bookkeeping/) or [send us a message](https://wa.me/491743426818) for a free check.
 
-For context on pricing, see our guide on [accountant prices in Greece](/guides/accountant-cost-greece), and if you're comparing providers, [what to look for in an English-speaking accountant](/guides/english-speaking-accountant-greece).
+For context on pricing, see our guide on [accountant prices in Greece](/guides/accountant-cost-greece/), and if you're comparing providers, [what to look for in an English-speaking accountant](/guides/english-speaking-accountant-greece/).
 
 ## Frequently asked questions
 

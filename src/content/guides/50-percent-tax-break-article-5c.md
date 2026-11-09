@@ -53,7 +53,7 @@ You must meet *all* of the following conditions:
 
 If you are a remote worker employed by a foreign company (for example in the US or UK), simply moving to Greece and working from your laptop does **not** give you the 5C tax break.
 
-Digital Nomad Visa holders are **not eligible**. The DNV does not allow work for Greek employers or Greek business activity, so its holders cannot meet the employment or business condition. See [5C vs Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa).
+Digital Nomad Visa holders are **not eligible**. The DNV does not allow work for Greek employers or Greek business activity, so its holders cannot meet the employment or business condition. See [5C vs Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa/).
 
 For EU citizens, and non-EU citizens with a permit that allows self-employment, the usual route is:
 
@@ -61,7 +61,7 @@ For EU citizens, and non-EU citizens with a permit that allows self-employment, 
 2. Invoice your foreign employer, who becomes your client, through your Greek business.
 3. Apply for 5C as a new Greek freelancer.
 
-One caution: if your former employer becomes your only client under the same working conditions, the arrangement can be challenged as disguised employment, in Greece or in your client's country. The alternative for employees is a job with a Greek company or the Greek branch of a foreign company. See [5C for EU remote workers](/guides/5c-for-eu-remote-workers).
+One caution: if your former employer becomes your only client under the same working conditions, the arrangement can be challenged as disguised employment, in Greece or in your client's country. The alternative for employees is a job with a Greek company or the Greek branch of a foreign company. See [5C for EU remote workers](/guides/5c-for-eu-remote-workers/).
 
 ## Deadlines and how to apply
 
@@ -76,7 +76,7 @@ If you started by 2 July, a late application within the following year shifts th
 
 The procedure follows decision A.1087/2021 as rewritten by [A.1138/2025](https://www.taxheaven.gr/circulars/51291/a-1138-2025). For employees, the system checks your employment automatically against the ERGANI register; if everything matches, the decision is immediate. Otherwise you upload documents, typically including a tax residence certificate from your previous country, and the tax office decides, with 30 days to supply anything missing (A.1138/2025). 5C can run alongside Article 5A or 5B if you meet the conditions of each ([AADE 5C FAQ](https://www.aade.gr/sites/default/files/2025-10/FAQS_5G_KFE.pdf)). Once approved, employers withhold tax on only the taxable half, and the exemption also appears in your annual return.
 
-To estimate what 5C saves in your case, use the [5C tax calculator](/greece/5c-tax-calculator); for help with the application, see our [50% tax break service](/greece/50-percent-tax-break).
+To estimate what 5C saves in your case, use the [5C tax calculator](/greece/5c-tax-calculator/); for help with the application, see our [50% tax break service](/greece/50-percent-tax-break/).
 
 ## Common mistakes
 
@@ -85,7 +85,7 @@ To estimate what 5C saves in your case, use the [5C tax calculator](/greece/5c-t
 - Expecting the exemption to cover EFKA.
 - Setting up through a company instead of an individual business.
 
-More in the [most common 5C mistakes](/guides/top-5-mistakes-article-5c).
+More in the [most common 5C mistakes](/guides/top-5-mistakes-article-5c/).
 
 ## Frequently asked questions
 
@@ -111,6 +111,6 @@ No. The 50% exemption applies to income tax only. EFKA contributions are paid in
 
 ## After the application
 
-5C only pays off if the books behind it are right every year: the exemption appears in each annual return, and self-employed people still file VAT and myDATA. We prepare and file the 5C application and the ongoing filings as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping); send us a message for a free check of your setup.
+5C only pays off if the books behind it are right every year: the exemption appears in each annual return, and self-employed people still file VAT and myDATA. We prepare and file the 5C application and the ongoing filings as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); send us a message for a free check of your setup.
 
 *Rules as of October 2026 (A.1138/2025, A.1096/2026).*

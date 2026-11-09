@@ -2,6 +2,7 @@
 title: "Rental Income Tax in Greece for Foreign Property Owners (2026)"
 description: "How Greece taxes rent from long-term leases and Airbnb in 2026: the 15–45% scale, form E2, ENFIA, short-term rental rules and tax credit at home."
 pubDate: 2026-11-05
+updatedDate: 2026-11-09
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -19,7 +20,7 @@ faq:
 
 Rent from a Greek property is taxed in Greece, whether you live in Athens, London or Munich: a separate scale from 15% to 45%, almost no deductions, and an annual return with form E2. What changes the picture is long-term versus Airbnb, and how many properties you have.
 
-Still buying? Start with [the AFM guide for property buyers](/guides/afm-greece-property-buyers-non-residents).
+Still buying? Start with [the AFM guide for property buyers](/guides/afm-greece-property-buyers-non-residents/).
 
 ## The short answer
 
@@ -50,7 +51,7 @@ Individual landlords cannot deduct actual costs. Under [art. 39(3)](https://www.
 
 ### Co-owners and couples
 
-Each co-owner is taxed on their share, on their own scale: a flat owned 50/50 splits €18,000 into two times €9,000, all at 15%. This also applies to spouses filing jointly; see our [guide for couples](/guides/moving-to-greece-greek-spouse-partner-tax).
+Each co-owner is taxed on their share, on their own scale: a flat owned 50/50 splits €18,000 into two times €9,000, all at 15%. This also applies to spouses filing jointly; see our [guide for couples](/guides/moving-to-greece-greek-spouse-partner-tax/).
 
 ### Unpaid rent
 
@@ -66,7 +67,7 @@ The landlord declares every lease to AADE through TAXISnet by the end of the mon
 
 The E2 is the schedule of rental income attached to your annual return: each property, its property ID (ATAK), the lease and the rent received. AADE pre-fills it from the lease declarations and the short-term rental register. Check co-ownership shares, vacant months and leases that ended early; that is where pre-filled data goes wrong.
 
-The return is filed from mid-March to 15 July of the following year. Late filing is fined automatically, with no warning letter first.
+The return is filed from mid-March to 15 July of the following year. Late filing is fined automatically, with no warning letter first: a late original income tax return showing tax of €100 or less is not fined; otherwise the fine is €100 for an owner with no business income ([Tax Procedure Code art. 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53)). Landlords taxed as a business face €250 (simple books) or €500 (double-entry books) per late return covering business income with more than €100 of tax.
 
 ### Stamp duty
 
@@ -74,7 +75,7 @@ Residential leases carry no stamp duty. Commercial leases pay a 3.6% digital tra
 
 ### The three-year exemption for empty homes
 
-Homes of up to 120 m² that were empty (or used only for short-term rental) and are let on a lease of at least three years can have the rent fully exempt for 36 months. The lease must be signed by **31 December 2026**. A draft bill would extend this to leases signed in 2027, but it is not law yet. If the home goes back on Airbnb within the three years, the exemption is lost retroactively.
+Homes of up to 120 m² that were empty (or used only for short-term rental) and are let on a lease of at least three years can have the rent fully exempt for 36 months. The lease must be signed by **31 December 2026**. An extension to leases signed by 31 December 2027 is in a bill tabled in Parliament on 4 November 2026, not yet law. If the home goes back on Airbnb within the three years, the exemption is lost retroactively.
 
 ## Short-term rentals (Airbnb, Booking)
 
@@ -84,33 +85,34 @@ A short-term rental is a furnished let of up to 59 days per booking, with no ser
 - **Declaration per stay:** by the 20th of the month after the guest leaves.
 - **Climate resilience fee:** €8 per night from April to October and €2 from November to March; €15 and €4 for detached houses over 80 m² ([Law 5162/2024](https://www.taxheaven.gr/law/5162/2024/arthro/24)). It is charged to the guest and is not part of your rental income.
 - **Up to two properties:** taxed as rental income on the scale above, no VAT.
-- **Three properties or more:** all your short-term lets become a business. You register a business activity, charge 13% VAT on all of them, keep books, report every invoice to [myDATA](/guides/mydata-greece-explained) and are taxed as business income.
+- **Three properties or more:** all your short-term lets become a business. You register a business activity, charge 13% VAT on all of them, keep books, report every invoice to [myDATA](/guides/mydata-greece-explained/) and are taxed as business income.
 - **Services beyond linen** (cleaning during the stay, breakfast) make it tourist accommodation, a business from the first property.
+- **Golden Visa properties** may not be let short-term at all ([Law 5100/2024](https://www.taxheaven.gr/law/5100/2024)); a breach is fined €50,000 and the residence permit is revoked.
 
-New AMA registrations are suspended in the 1st, 2nd and 3rd municipal districts of Athens (the city centre) until 31 December 2026. An extension into 2027 has been announced but is not yet in force.
+New AMA registrations are suspended in the 1st, 2nd and 3rd municipal districts of Athens (the city centre) and, since 1 July 2026, in the 1st municipal community of Thessaloniki, until 31 December 2026 ([housing ministry](https://stegasi.gov.gr/programs/prosorinoi-periorismoi-stis-vrachychronies-misthoseis/)). Breaches are fined 50% of the rental income, at least €20,000. The government has announced that the freeze will run to 31 December 2027; the extension is made by ministerial decision and had not been issued as of early November 2026.
 
 ## ENFIA comes on top
 
-ENFIA, the annual property tax, is assessed on every property you own on 1 January, let or not, and is payable in up to 12 monthly instalments. The calculation is explained in the [property buyers' guide](/guides/afm-greece-property-buyers-non-residents).
+ENFIA, the annual property tax, is assessed on every property you own on 1 January, let or not, and is payable in up to 12 monthly instalments. The calculation is explained in the [property buyers' guide](/guides/afm-greece-property-buyers-non-residents/).
 
 ## Residents vs non-residents
 
-The rent is taxed the same way. **Non-residents** need an [AFM](/guides/what-is-greek-afm-number) and file a Greek return only because of the rent; a tax representative is optional if your contact details in myAADE are up to date, but AADE's notices arrive in Greek and on short deadlines. **Greek tax residents** file one return for all their income, including foreign rent, with credit for foreign tax paid. Who counts as resident: [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days).
+The rent is taxed the same way. **Non-residents** need an [AFM](/guides/what-is-greek-afm-number/) and file a Greek return only because of the rent; a tax representative is optional if your contact details in myAADE are up to date, but AADE's notices arrive in Greek and on short deadlines. **Greek tax residents** file one return for all their income, including foreign rent, with credit for foreign tax paid. Who counts as resident: [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days/).
 
 ## Tax credit at home
 
 Greece taxes rent from Greek property first. Your country of residence then either:
 
-- **exempts it:** Germany, which still uses it to set the rate on your other income ([Germany–Greece treaty](/guides/germany-greece-double-tax-treaty)); or
-- **credits the Greek tax:** the UK and the US, up to their own tax on the same income ([UK](/guides/moving-to-greece-from-uk-tax-guide), [US](/guides/moving-to-greece-from-us-tax-guide)).
+- **exempts it:** Germany, which still uses it to set the rate on your other income ([Germany–Greece treaty](/guides/germany-greece-double-tax-treaty/)); or
+- **credits the Greek tax:** the UK and the US, up to their own tax on the same income ([UK](/guides/moving-to-greece-from-uk-tax-guide/), [US](/guides/moving-to-greece-from-us-tax-guide/)).
 
 Keep the Greek assessment notice (ekkatharistiko) and proof of payment for your home tax office.
 
 ## Do you need an accountant?
 
-With one long-term lease, many owners file the E2 themselves in myAADE. It gets harder with short-term lets, co-ownership, a return in Greek as a non-resident, or a third Airbnb that turns into a business. A local accountant typically charges **€30–60 a month**, with extras billed separately; full-service firms for internationals charge **€100–200**. See our [accountant cost guide](/guides/accountant-cost-greece).
+With one long-term lease, many owners file the E2 themselves in myAADE. It gets harder with short-term lets, co-ownership, a return in Greek as a non-resident, or a third Airbnb that turns into a business. A local accountant typically charges **€30–60 a month**, with extras billed separately; full-service firms for internationals charge **€100–200**. See our [accountant cost guide](/guides/accountant-cost-greece/).
 
-At taxomade we prepare and file your E2 and annual return, short-term stay declarations and, for short-term rental businesses, books and VAT returns, in English, German or Greek, from €89/month with our [ongoing bookkeeping service](/greece/ongoing-bookkeeping). For a free compliance check, send us a message on [WhatsApp](https://wa.me/491743426818).
+At taxomade we prepare and file your E2 and annual return, short-term stay declarations and, for short-term rental businesses, books and VAT returns, in English, German or Greek, from €89/month with our [ongoing bookkeeping service](/greece/ongoing-bookkeeping/). For a free compliance check, send us a message on [WhatsApp](https://wa.me/491743426818).
 
 ## Frequently asked questions
 
@@ -134,4 +136,4 @@ Usually yes. Greece taxes the rent first; your country of residence then exempts
 
 Not if you take legal action in time: by the filing deadline, a payment or eviction order must have been issued against the tenant, or you must have sued for eviction or the rent. You declare it under a special code and pay tax when you collect it.
 
-*Rules as of November 2026 (Income Tax Code arts. 39 and 40, Law 4172/2013, as amended by Law 5246/2025; AADE FAQ on short-term rentals; climate resilience fee: Law 5162/2024; Germany–Greece treaty art. XVII; the 2027 extensions of the empty-home exemption and the Athens freeze are announced, not yet law).*
+*Rules as of November 2026 (Income Tax Code arts. 39 and 40, Law 4172/2013, as amended by Law 5246/2025; Tax Procedure Code art. 53, Law 5104/2024; AADE FAQ on short-term rentals; climate resilience fee: Law 5162/2024; Golden Visa short-let ban: Law 5100/2024; Germany–Greece treaty art. XVII; the empty-home extension is in a bill tabled on 4 November 2026, not yet law; the 2027 Athens and Thessaloniki freeze is announced, not yet issued).*

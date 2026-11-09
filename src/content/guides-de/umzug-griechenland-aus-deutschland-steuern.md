@@ -67,12 +67,12 @@ Sehen beide Staaten Sie als ansässig, entscheidet die Kollisionsregel des Abkom
 
 Als Freiberufler melden Sie in Griechenland ein Einzelunternehmen an, versichern sich bei EFKA und stellen Ihre Rechnungen aus dem griechischen Unternehmen. Ihre deutschen Kunden bleiben Ihre Kunden:
 
-- **Rechnungen an deutsche Unternehmen** stellen Sie ohne Umsatzsteuer im Reverse-Charge-Verfahren, mit beiden USt-IdNrn.; Ihre griechische Nummer muss im VIES eingetragen sein. Siehe [Umsatzsteuer für Freelancer mit ausländischen Kunden](/guides/vat-freelancers-greece-foreign-clients) (Englisch).
+- **Rechnungen an deutsche Unternehmen** stellen Sie ohne Umsatzsteuer im Reverse-Charge-Verfahren, mit beiden USt-IdNrn.; Ihre griechische Nummer muss im VIES eingetragen sein. Siehe [Umsatzsteuer für Freelancer mit ausländischen Kunden](/guides/vat-freelancers-greece-foreign-clients/) (Englisch).
 - **Die deutsche Kleinunternehmerregelung** gilt nicht mehr, weil Sie nicht mehr in Deutschland ansässig sind. Für Geschäftskunden spielt das ohnehin keine Rolle, weil das Reverse-Charge-Verfahren greift.
 - **Sozialversicherung:** Nach der [EU-Verordnung 883/2004](https://www.ihk.de/blueprint/servlet/resource/blob/4699626/f8b52df710e52ed806f2565e825f693b/ihk-merkblatt-zur-a1-bescheinigung-data.pdf) sind Sie dort versichert, wo Sie arbeiten, also bei EFKA. Eine A1-Bescheinigung aus Deutschland deckt nur vorübergehende Entsendungen bis 24 Monate ab, keinen dauerhaften Umzug.
-- **Artikel 5C:** Waren Sie in fünf der letzten sechs Jahre nicht in Griechenland steuerlich ansässig, können 50 % Ihrer griechischen Einkünfte aus selbstständiger Tätigkeit sieben Jahre lang von der Einkommensteuer befreit sein. Siehe [So funktioniert der 50-%-Steuervorteil](/guides/50-percent-tax-break-article-5c) (Englisch).
+- **Artikel 5C:** Waren Sie in fünf der letzten sechs Jahre nicht in Griechenland steuerlich ansässig, können 50 % Ihrer griechischen Einkünfte aus selbstständiger Tätigkeit sieben Jahre lang von der Einkommensteuer befreit sein. Siehe [So funktioniert der 50-%-Steuervorteil](/guides/50-percent-tax-break-article-5c/) (Englisch).
 
-So sieht die griechische Anmeldung aus: [Als Freelancer in Griechenland starten](/guides/freelancer-setup-greece) und [Steuern für Freelancer in Griechenland 2026](/guides/freelancer-taxes-greece-2026) (beide Englisch).
+So sieht die griechische Anmeldung aus: [Als Freelancer in Griechenland starten](/guides/freelancer-setup-greece/) und [Steuern für Freelancer in Griechenland 2026](/guides/freelancer-taxes-greece-2026/) (beide Englisch).
 
 ## 5. Angestellte eines deutschen Arbeitgebers
 
@@ -81,7 +81,7 @@ Wenn Sie Ihren deutschen Arbeitsvertrag behalten und aus Griechenland arbeiten, 
 - **Steuern:** Arbeitslohn für Tätigkeiten, die Sie physisch in Griechenland ausüben, ist in Griechenland steuerpflichtig. Arbeitstage in Deutschland bleiben deutsch.
 - **Sozialversicherung:** Wer dauerhaft aus Griechenland arbeitet, unterliegt der griechischen Sozialversicherung (EU-Verordnung 883/2004). Die [EU-Rahmenvereinbarung zur grenzüberschreitenden Telearbeit](https://socialsecurity.belgium.be/en/internationally-active/cross-border-telework-eu-eea-and-switzerland) hilft hier nicht: Sie gilt nur für Telearbeit unter 50 % der Arbeitszeit, und Griechenland hat sie nicht unterzeichnet. Im deutschen System zu bleiben, ginge nur über eine Ausnahmevereinbarung (Art. 16), die selten erteilt wird. Sonst muss sich Ihr Arbeitgeber für griechische Beiträge registrieren, was viele deutsche Arbeitgeber ablehnen.
 
-Deshalb wechseln die meisten deutschen Remote-Angestellten, die hierherziehen, in die Selbstständigkeit und stellen ihrem bisherigen Arbeitgeber Rechnungen. Artikel 5C als Angestellter setzt einen griechischen Arbeitgeber oder eine griechische Niederlassung des deutschen Unternehmens voraus. Details und Risiken in [5C für EU-Remote-Worker](/guides/5c-for-eu-remote-workers) (Englisch).
+Deshalb wechseln die meisten deutschen Remote-Angestellten, die hierherziehen, in die Selbstständigkeit und stellen ihrem bisherigen Arbeitgeber Rechnungen. Artikel 5C als Angestellter setzt einen griechischen Arbeitgeber oder eine griechische Niederlassung des deutschen Unternehmens voraus. Details und Risiken in [5C für EU-Remote-Worker](/guides/5c-for-eu-remote-workers/) (Englisch).
 
 ## 6. GmbH-Gesellschafter und Gründer
 
@@ -93,7 +93,7 @@ Zwei deutsche Regeln sind vor dem Umzug wichtig:
 
 **Ort der Geschäftsleitung (§10 AO).** Führt der alleinige Geschäftsführer die GmbH aus Griechenland, kann der Ort der Geschäftsleitung mit ihm wandern. Die Gesellschaft kann dann nach dem Abkommen in Griechenland ansässig werden. Sprechen Sie vor der Abmeldung mit Ihrem deutschen Steuerberater, nicht danach.
 
-Für eine neue Gesellschaft in Griechenland: [IKE gründen in Griechenland](/guides/ike-greece-setup-annual-costs) (Englisch).
+Für eine neue Gesellschaft in Griechenland: [IKE gründen in Griechenland](/guides/ike-greece-setup-annual-costs/) (Englisch).
 
 ## 7. Rentner
 
@@ -116,11 +116,11 @@ Sind Sie Grieche und haben in Deutschland gelebt, gilt alles oben Gesagte auch f
 
 ## Schon in Griechenland, aber ohne Anmeldung?
 
-Wenn Sie vor Monaten umgezogen sind und weder den deutschen Wegzug noch die griechische Anmeldung geregelt haben, beginnen Sie mit unserer [Checkliste zum Nachholen](/guides/living-in-greece-without-tax-setup) (Englisch). Spät ist besser als nie, und meist günstiger als gedacht.
+Wenn Sie vor Monaten umgezogen sind und weder den deutschen Wegzug noch die griechische Anmeldung geregelt haben, beginnen Sie mit unserer [Checkliste zum Nachholen](/guides/living-in-greece-without-tax-setup/) (Englisch). Spät ist besser als nie, und meist günstiger als gedacht.
 
 ## Was wir berechnen
 
-Bei taxomade übernehmen wir die griechische Seite auf Deutsch: Verlegung der steuerlichen Ansässigkeit, Anmeldung der Tätigkeit, Antrag nach Artikel 5C und die laufende Buchhaltung ab **89 € im Monat**, inklusive myDATA, Umsatzsteuererklärungen und Jahressteuererklärung. Ihren deutschen Steuerberater ersetzen wir beim Wegzug nicht, aber wir stimmen uns mit ihm ab. [Was enthalten ist](/greece/ongoing-bookkeeping) (Englisch), oder schreiben Sie uns für einen kostenlosen Check.
+Bei taxomade übernehmen wir die griechische Seite auf Deutsch: Verlegung der steuerlichen Ansässigkeit, Anmeldung der Tätigkeit, Antrag nach Artikel 5C und die laufende Buchhaltung ab **89 € im Monat**, inklusive myDATA, Umsatzsteuererklärungen und Jahressteuererklärung. Ihren deutschen Steuerberater ersetzen wir beim Wegzug nicht, aber wir stimmen uns mit ihm ab. [Was enthalten ist](/greece/ongoing-bookkeeping/) (Englisch), oder schreiben Sie uns für einen kostenlosen Check.
 
 ## Häufige Fragen
 

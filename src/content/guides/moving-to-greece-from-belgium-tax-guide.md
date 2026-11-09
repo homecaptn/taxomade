@@ -34,7 +34,7 @@ You are Belgian resident while your **domicile** (where your household lives) or
 
 You [declare your departure at your commune](https://diplomatie.belgium.be/nl/voor-belgen-het-buitenland/inschrijving-bij-een-belgisch-beroepsconsulaat/voor-uw-vertrek) no later than the day before you leave and receive proof of removal from the population register.
 
-If both countries treat you as resident, the [Belgium–Greece treaty](https://www.aade.gr/dl_assets/dos/Greece-Belgium.pdf) (signed in Athens on 25 May 2004, ratified in Greece by Law 3407/2005, replacing the 1968 convention) decides: permanent home, then centre of vital interests, then habitual abode, then nationality. In Greece, you become [tax resident](/guides/tax-residency-greece-183-days) with your main home or centre of life here, or after 183 days in 12 months.
+If both countries treat you as resident, the [Belgium–Greece treaty](https://www.aade.gr/dl_assets/dos/Greece-Belgium.pdf) (signed in Athens on 25 May 2004, ratified in Greece by Law 3407/2005, replacing the 1968 convention) decides: permanent home, then centre of vital interests, then habitual abode, then nationality. In Greece, you become [tax resident](/guides/tax-residency-greece-183-days/) with your main home or centre of life here, or after 183 days in 12 months.
 
 ## 2. The year you leave
 
@@ -52,7 +52,7 @@ For a move to Greece, the relief is automatic:
 - **The tax lapses** after 24 months if you have not sold or pledged the assets, or moved on outside the EU/EEA, in that time. You confirm your residence and holdings on a certificate due by the end of the 14th and 26th month after departure.
 - **You still report** the latent gains, even though nothing is paid.
 
-If you run a BV/SRL alone from Greece, its place of effective management, and with it its tax residence, can move as well. Belgium treats that like a liquidation: corporate tax on the company's hidden reserves and, since 2025, a deemed dividend taxed in your hands as shareholder. As a director working from Greece you are insured with EFKA. Talk to your Belgian accountant before you deregister. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs).
+If you run a BV/SRL alone from Greece, its place of effective management, and with it its tax residence, can move as well. Belgium treats that like a liquidation: corporate tax on the company's hidden reserves and, since 2025, a deemed dividend taxed in your hands as shareholder. As a director working from Greece you are insured with EFKA. Talk to your Belgian accountant before you deregister. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs/).
 
 ## 4. The double tax treaty
 
@@ -74,30 +74,30 @@ Belgian property stays in the non-resident return; a home let to private tenants
 
 You stop your Belgian self-employed activity (enterprise counter, VAT, your social insurance fund), register as a sole trader in Greece and invoice from there.
 
-- **Belgian business clients** are invoiced without VAT under the reverse charge, private clients with Greek VAT; the Belgian small-business exemption no longer applies ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients)).
-- **Social security:** under EU Regulation 883/2004 you are insured where you work, so with EFKA, from about €150 per month for new freelancers ([EFKA guide](/guides/efka-social-security-freelancers-greece)), not with INASTI/RSVZ. A Belgian A1 only helps for temporary postings or if you also work substantially in Belgium.
-- **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request, myDATA for every invoice, e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027; invoices to Belgian clients are not covered ([e-invoicing](/guides/e-invoicing-greece-explained)), and a [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax) halved only in your first year with business income.
+- **Belgian business clients** are invoiced without VAT under the reverse charge, private clients with Greek VAT; the Belgian small-business exemption no longer applies ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients/)).
+- **Social security:** under EU Regulation 883/2004 you are insured where you work, so with EFKA, from about €150 per month for new freelancers ([EFKA guide](/guides/efka-social-security-freelancers-greece/)), not with INASTI/RSVZ. A Belgian A1 only helps for temporary postings or if you also work substantially in Belgium.
+- **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request, myDATA for every invoice, e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027; invoices to Belgian clients are not covered ([e-invoicing](/guides/e-invoicing-greece-explained/)), and a [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax/) halved only in your first year with business income.
 
-Steps in order: [AFM](/guides/what-is-greek-afm-number), [freelancer setup](/guides/freelancer-setup-greece), [freelancer taxes 2026](/guides/freelancer-taxes-greece-2026).
+Steps in order: [AFM](/guides/what-is-greek-afm-number/), [freelancer setup](/guides/freelancer-setup-greece/), [freelancer taxes 2026](/guides/freelancer-taxes-greece-2026/).
 
-**Employees** who keep a Belgian contract and work permanently from Greece are taxed in Greece on those workdays and fall under EFKA, so the employer must register in Greece. Many switch to freelancing instead ([5C for EU remote workers](/guides/5c-for-eu-remote-workers)).
+**Employees** who keep a Belgian contract and work permanently from Greece are taxed in Greece on those workdays and fall under EFKA, so the employer must register in Greece. Many switch to freelancing instead ([5C for EU remote workers](/guides/5c-for-eu-remote-workers/)).
 
 ## 6. Retirees
 
 - **Tax:** under treaty Article 18(2), pensions paid under Belgian social security legislation are taxed in Belgium. You declare them in Greece as well, and Greece credits the Belgian tax up to the Greek tax on them. Private and company pensions are taxed only in Greece.
 - **Payment:** the Federal Pensions Service [pays employee, self-employed and civil service pensions abroad](https://diplomatie.belgium.be/en/belgians-abroad/your-belgian-pension-abroad). Return the yearly certificate of life on time.
 - **Health:** with only a Belgian pension, you stay insured through Belgium and [register for Greek care with form S1](https://www.caami-hziv.fgov.be/system/files/documents/europa-F.pdf) from your Belgian health insurance fund.
-- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Apply by 31 October of the year you want it for (A.1192/2026). Belgium keeps taxing statutory pensions; that Belgian tax is credited against the 7% up to the Greek tax on that income where the treaty lets the source country tax it (or there is no treaty), and any excess is not refunded (A.1192/2026, art. 5), so on those pensions 5B rarely saves anything and mainly pays off for private pensions and other foreign income ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
+- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Apply by 31 October of the year you want it for (A.1192/2026). Belgium keeps taxing statutory pensions; that Belgian tax is credited against the 7% up to the Greek tax on that income where the treaty lets the source country tax it (or there is no treaty), and any excess is not refunded (A.1192/2026, art. 5), so on those pensions 5B rarely saves anything and mainly pays off for private pensions and other foreign income ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/)).
 
 Child benefit is regional. In Flanders, the [Groeipakket usually ends](https://www.vlaanderen.be/vlaams-groeipakket/je-gezin-heeft-banden-buiten-vlaanderen) at the end of the month you move abroad, unless a parent keeps working in Flanders or receives a Belgian benefit; the other regions have their own funds.
 
 ## 7. Article 5C: the 50% exemption
 
-If you were not Greek tax resident in **5 of the previous 6 years**, [Article 5C](/guides/50-percent-tax-break-article-5c) exempts 50% of Greek employment or business income for **7 years**. You need a Greek employer, a Greek establishment of a foreign employer, or your own sole proprietorship in Greece (an IKE does not count, nor does a salary from your Belgian BV/SRL). Start by 2 July and you apply by 31 December of that year; later, by 31 December of the next. AADE allows it alongside 5A or 5B. **Digital Nomad Visa holders are not eligible** ([5C vs DNV](/guides/5c-vs-digital-nomad-visa)).
+If you were not Greek tax resident in **5 of the previous 6 years**, [Article 5C](/guides/50-percent-tax-break-article-5c/) exempts 50% of Greek employment or business income for **7 years**. You need a Greek employer, a Greek establishment of a foreign employer, or your own sole proprietorship in Greece (an IKE does not count, nor does a salary from your Belgian BV/SRL). Start by 2 July and you apply by 31 December of that year; later, by 31 December of the next. AADE allows it alongside 5A or 5B. **Digital Nomad Visa holders are not eligible** ([5C vs DNV](/guides/5c-vs-digital-nomad-visa/)).
 
 ## How we can help
 
-We prepare and file the Greek side: tax and business registration, the 5C or 5B application, and your returns as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping). The Belgian exit stays with your Belgian accountant; we share the Greek documents they need. Send us a message for a free check.
+We prepare and file the Greek side: tax and business registration, the 5C or 5B application, and your returns as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/). The Belgian exit stays with your Belgian accountant; we share the Greek documents they need. Send us a message for a free check.
 
 ## Frequently asked questions
 

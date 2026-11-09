@@ -36,10 +36,10 @@ The AFM (Αριθμός Φορολογικού Μητρώου) is the Greek tax 
 
 You cannot function in Greece long-term without an AFM. You will be asked for it when:
 
-- **Renting an apartment:** a long-term lease is registered by the landlord on TAXISnet (the tax authority's online portal), and you accept it with your AFM. See [renting an apartment in Greece](/guides/renting-apartment-greece-foreigner).
-- **Opening a bank account:** Greek banks will not open an account without one. See [opening a bank account in Greece](/guides/open-bank-account-greece).
+- **Renting an apartment:** a long-term lease is registered by the landlord on TAXISnet (the tax authority's online portal), and you accept it with your AFM. See [renting an apartment in Greece](/guides/renting-apartment-greece-foreigner/).
+- **Opening a bank account:** Greek banks will not open an account without one. See [opening a bank account in Greece](/guides/open-bank-account-greece/).
 - **Setting up utilities:** internet and electricity contracts in your name usually ask for an AFM.
-- **Buying property or cars:** any significant purchase requires tax registration. See [AFM for property buyers and non-residents](/guides/afm-greece-property-buyers-non-residents).
+- **Buying property or cars:** any significant purchase requires tax registration. See [AFM for property buyers and non-residents](/guides/afm-greece-property-buyers-non-residents/).
 - **Taxes:** filing a Greek tax return or registering a business requires this number.
 
 ## Does getting an AFM make you a tax resident?
@@ -48,7 +48,7 @@ You cannot function in Greece long-term without an AFM. You will be asked for it
 
 An AFM does not make you a Greek tax resident, nor does it subject your worldwide income to Greek tax. Tourists, foreign investors with summer homes and short-term exchange students all hold AFMs without being tax residents.
 
-You become tax resident if Greece is your permanent or main home, your habitual abode or the centre of your vital interests, or if you spend more than 183 days in Greece within any 12-month period. More in our guide on [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days). Moving from the UK? Our [UK-to-Greece tax guide](/guides/moving-to-greece-from-uk-tax-guide) covers the switch step by step. Coming to work as a freelancer? See [freelancer setup in Greece](/guides/freelancer-setup-greece).
+You become tax resident if Greece is your permanent or main home, your habitual abode or the centre of your vital interests, or if you spend more than 183 days in Greece within any 12-month period. More in our guide on [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days/). Moving from the UK? Our [UK-to-Greece tax guide](/guides/moving-to-greece-from-uk-tax-guide/) covers the switch step by step. Coming to work as a freelancer? See [freelancer setup in Greece](/guides/freelancer-setup-greece/).
 
 ## How to get an AFM
 
@@ -99,6 +99,6 @@ No. Since 9 September 2024 a tax representative is optional for individuals unde
 
 ## Need help with your AFM and what comes after?
 
-If you are moving to Greece, [we prepare and file your application](/greece/tax-number-afm) for you. Once you start working, taxomade takes over your [ongoing bookkeeping](/greece/ongoing-bookkeeping) from €89/month, with myDATA, VAT returns and your annual tax return included. Send us a message for a free check.
+If you are moving to Greece, [we prepare and file your application](/greece/tax-number-afm/) for you. Once you start working, taxomade takes over your [ongoing bookkeeping](/greece/ongoing-bookkeeping/) from €89/month, with myDATA, VAT returns and your annual tax return included. Send us a message for a free check.
 
 *Rules as of November 2026 (AADE decisions A.1185/2023 and A.1069/2024).*

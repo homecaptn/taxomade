@@ -31,7 +31,7 @@ Greek tax life happens in deadlines:
 
 - **myDATA:** every invoice is transmitted to the tax authority.
 - **VAT returns:** quarterly for most established freelancers. If you started on or after 1 January 2024, [monthly for the first 24 months](https://aade.gr/sites/default/files/2025-07/dt_03.07.2025.pdf), then quarterly on request. With turnover up to €10,000 you may qualify for the [small-business VAT exemption](https://www.taxheaven.gr/circulars/51970/a-1011-2026).
-- **EFKA:** monthly [social security contributions](/guides/efka-social-security-freelancers-greece), from [€250.77 plus a €10 unemployment levy in 2026](https://www.forin.gr/articles/article/88941/efka-egk-6-2026). Only new freelancers in their first five years can apply for the reduced class of €150.46 plus €10.
+- **EFKA:** monthly [social security contributions](/guides/efka-social-security-freelancers-greece/), from [€250.77 plus a €10 unemployment levy in 2026](https://www.forin.gr/articles/article/88941/efka-egk-6-2026). Only new freelancers in their first five years can apply for the reduced class of €150.46 plus €10.
 - **Annual return:** due in July.
 
 When something goes wrong, it goes wrong in writing: a notice from AADE (the Greek tax authority), a mismatch flag, or a fixed fine ([€250 or €500 per late return with tax due](https://www.taxheaven.gr/news/71451/prostima-diadikastikwn-parabasewn-kfd-dieykriniseis-kai-paradeigmata), depending on your bookkeeping category; €100 for a late VAT return with nothing to pay or a late VIES statement). Fines are imposed automatically, without warning.
@@ -66,8 +66,8 @@ Foreign clients, foreign platforms (Upwork, Stripe, PayPal), double taxation tre
 
 - **"Don't worry" as an answer to specific questions.** Greek bureaucracy punishes vagueness. You want details, deadlines and document lists.
 - **Cash only, no engagement letter, no invoices for their own fees.** An accountant who doesn't invoice properly will not defend your books convincingly either.
-- **No mention of myDATA.** Every business has to [transmit its invoices to myDATA](https://www.mondaq.com/accounting-standards/1099108/mydata-implementation-timeline-for-mandatory-data-transmission-revised), and [mandatory B2B e-invoicing](/guides/e-invoicing-greece-explained) has applied to freelancers and small businesses since November 2, 2026. myDATA is the center of Greek bookkeeping. If it doesn't come up in your first conversation, run.
-- **Prices far below market without a scope list.** Local offices often quote €30–60 a month with extras billed separately, while full-service firms for internationals usually charge €100–200. A rock-bottom monthly fee sounds great until every declaration costs extra — see our [price guide](/guides/accountant-cost-greece) for what things really cost in 2026.
+- **No mention of myDATA.** Every business has to [transmit its invoices to myDATA](https://www.mondaq.com/accounting-standards/1099108/mydata-implementation-timeline-for-mandatory-data-transmission-revised), and [mandatory B2B e-invoicing](/guides/e-invoicing-greece-explained/) has applied to freelancers and small businesses since November 2, 2026. myDATA is the center of Greek bookkeeping. If it doesn't come up in your first conversation, run.
+- **Prices far below market without a scope list.** Local offices often quote €30–60 a month with extras billed separately, while full-service firms for internationals usually charge €100–200. A rock-bottom monthly fee sounds great until every declaration costs extra — see our [price guide](/guides/accountant-cost-greece/) for what things really cost in 2026.
 - **They're unreachable in the months that matter.** July (the annual tax-return deadline — [24 July in 2026](https://www.aade.gr/sites/default/files/2026-07/dt_10.07.2026.pdf) after this year's extension) and January (year-opening) are exactly when you'll need them most.
 
 ## Questions to ask before you sign
@@ -78,7 +78,7 @@ Foreign clients, foreign platforms (Upwork, Stripe, PayPal), double taxation tre
 4. What's your typical response time — including in summer?
 5. Have you worked with clients who invoice foreign companies?
 
-If the answers are specific, you've probably found the right partner. If they're vague, keep looking — in Greece, your accountant isn't a once-a-year service. They're the person standing between you and the fine. And if you already have one who fails this test, [switching takes about a week](/guides/switching-accountants-greece).
+If the answers are specific, you've probably found the right partner. If they're vague, keep looking — in Greece, your accountant isn't a once-a-year service. They're the person standing between you and the fine. And if you already have one who fails this test, [switching takes about a week](/guides/switching-accountants-greece/).
 
 ## Frequently asked questions
 
@@ -101,6 +101,6 @@ Usually about a week. The new accountant takes over your TAXISnet authorisations
 ## How we can help
 
 **Looking for an accountant who ticks every box above?**
-Our [ongoing bookkeeping service](/greece/ongoing-bookkeeping) covers myDATA, VAT declarations and your annual tax return at one fixed monthly rate, from €89 per month, in English, German or Greek, with written confirmations as standard.
+Our [ongoing bookkeeping service](/greece/ongoing-bookkeeping/) covers myDATA, VAT declarations and your annual tax return at one fixed monthly rate, from €89 per month, in English, German or Greek, with written confirmations as standard.
 
 *Rules as of November 2026 (Tax Procedure Code art. 53, Law 5104/2024; AADE decisions A.1049/2025, A.1140/2026 and A.1011/2026; EFKA circular 6/2026).*

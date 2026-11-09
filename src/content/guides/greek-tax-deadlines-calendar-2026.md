@@ -34,7 +34,7 @@ Most tax trouble in Greece doesn't come from high rates. It comes from dates. A 
 
 ### EFKA contributions
 
-Freelancers pay their EFKA contribution every month, whether they earned anything or not. The contribution for a month is due by the **last working day of the following month**, so September's is due by the end of October ([EFKA circular 2/2017](https://www.taxheaven.gr/circulars/25488), based on Law 4387/2016). Late payments carry surcharges. For classes and amounts, see [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
+Freelancers pay their EFKA contribution every month, whether they earned anything or not. The contribution for a month is due by the **last working day of the following month**, so September's is due by the end of October ([EFKA circular 2/2017](https://www.taxheaven.gr/circulars/25488), based on Law 4387/2016). Late payments carry surcharges. For classes and amounts, see [EFKA for freelancers](/guides/efka-social-security-freelancers-greece/).
 
 ### VAT returns: monthly or quarterly
 
@@ -50,7 +50,7 @@ A late VAT return is fined even if it shows nothing to pay (€100), so a zero r
 
 ### VIES recapitulative statement
 
-If you invoice businesses in other EU countries, you also file a recapitulative statement (VIES) for each month in which you made such supplies. It is due by the **26th of the following month** ([AADE decision A.1222/2020](https://www.taxheaven.gr/circulars/34379/a-1222-2020), art. 2). How this interacts with reverse charge and your VAT return is covered in [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
+If you invoice businesses in other EU countries, you also file a recapitulative statement (VIES) for each month in which you made such supplies. It is due by the **26th of the following month** ([AADE decision A.1222/2020](https://www.taxheaven.gr/circulars/34379/a-1222-2020), art. 2). How this interacts with reverse charge and your VAT return is covered in [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
 
 ### myDATA
 
@@ -84,7 +84,7 @@ If you don't pay in full, the tax is paid in **8 equal monthly instalments**. Th
 
 The income tax assessment includes an advance on next year's tax. For freelancers and sole traders it is [55% of the tax on business income](https://www.taxheaven.gr/law/4172/2013/arthro/69), minus tax withheld by Greek clients, and halved in the year you first earn business income. It is part of the same bill, so it follows the same instalment dates. For IKEs, the advance is [80% of the tax, halved in the first three tax years](https://www.taxheaven.gr/law/4172/2013/arthro/71).
 
-A bill submitted to Parliament in November 2026 would cut the rate for sole proprietorships from 55% to 50% from tax year 2027 ([To Vima](https://www.tovima.gr/2026/11/04/politics/vouli-katatethike-to-nomosxedio-gia-eksaggelies-deth-kai-meiosi-fpa-se-proionta-periodou/)). It is not yet law. Why the advance hits newcomers hard: [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax).
+A bill submitted to Parliament in November 2026 would cut the rate for sole proprietorships from 55% to 50% from tax year 2027 ([To Vima](https://www.tovima.gr/2026/11/04/politics/vouli-katatethike-to-nomosxedio-gia-eksaggelies-deth-kai-meiosi-fpa-se-proionta-periodou/)). It is not yet law. Why the advance hits newcomers hard: [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax/).
 
 ## ENFIA: the property tax
 
@@ -94,7 +94,7 @@ If you own property in Greece, AADE assesses ENFIA every year. The 2026 assessme
 
 ### Article 5C (50% exemption)
 
-The [Article 5C](/guides/50-percent-tax-break-article-5c) deadline depends on when your job or business starts ([AADE](https://www.aade.gr/psifiakes-ypiresies/eisodima/ypoboli-aitisis-ypagogis-se-eidiko-tropo-forologisis-arthro-5g-toy-kfe)):
+The [Article 5C](/guides/50-percent-tax-break-article-5c/) deadline depends on when your job or business starts ([AADE](https://www.aade.gr/psifiakes-ypiresies/eisodima/ypoboli-aitisis-ypagogis-se-eidiko-tropo-forologisis-arthro-5g-toy-kfe)):
 
 - **Start on or before 2 July:** apply by the end of that same year.
 - **Start after 2 July:** apply by the end of the following year.
@@ -103,7 +103,7 @@ You need to have been non-resident for tax purposes in Greece for 5 of the previ
 
 ### Article 5B (7% for foreign pensioners)
 
-For [Article 5B](/guides/retiring-to-greece-7-percent-flat-tax), the cut-off is also 2 July, but the deadline is **31 October** ([AADE press release, 25 September 2026](https://www.aade.gr/sites/default/files/2026-09/d.t._25.09.2026.pdf); [A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf)):
+For [Article 5B](/guides/retiring-to-greece-7-percent-flat-tax/), the cut-off is also 2 July, but the deadline is **31 October** ([AADE press release, 25 September 2026](https://www.aade.gr/sites/default/files/2026-09/d.t._25.09.2026.pdf); [A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf)):
 
 - **Move by 2 July:** choose that year or the next. For that year, apply by 31 October of that year. For the next year, apply by 31 October of the next year, and the regime starts then.
 - **Move later:** the regime starts the following year, and you apply by 31 October of that year.
@@ -112,7 +112,7 @@ For [Article 5B](/guides/retiring-to-greece-7-percent-flat-tax), the cut-off is 
 
 Since 2 March 2026, large businesses have had to issue B2B invoices electronically. Everyone else, freelancers included, follows from **2 November 2026** ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). It covers invoices to Greek businesses and to businesses outside the EU. Invoices to the public sector (B2G) have had to be electronic since 1 September 2025, under separate rules.
 
-A transition period runs until **31 January 2027**, but only if you filed a declaration in time, with a start date no later than 2 November 2026. From 1 February 2027, invoices in scope can only be issued through an approved provider or AADE's free apps. Details: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
+A transition period runs until **31 January 2027**, but only if you filed a declaration in time, with a start date no later than 2 November 2026. From 1 February 2027, invoices in scope can only be issued through an approved provider or AADE's free apps. Details: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained/).
 
 ## The calendar at a glance
 
@@ -139,11 +139,11 @@ Fines for late returns are fixed amounts per return, set by [Article 53 of the T
 - **Late income tax return** showing €100 of tax or less: no fine. Above that: **€250** or **€500** with business income, otherwise **€100**.
 - **Late information return** (for example the VIES recapitulative statement): **€100**, whatever books you keep.
 
-Late payment adds interest on top. If you've already missed something, filing as soon as possible usually keeps the damage small. More on the costs in [freelancer taxes in Greece](/guides/freelancer-taxes-greece-2026).
+Late payment adds interest on top. If you've already missed something, filing as soon as possible usually keeps the damage small. More on the costs in [freelancer taxes in Greece](/guides/freelancer-taxes-greece-2026/).
 
 ## Keeping track
 
-None of these deadlines is hard on its own. The difficulty is that they overlap: a monthly VAT filer with EU clients and a property has four or five payments and filings due in some months. At taxomade, all of these are part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping) from **€89/month**: we prepare and file your VAT returns, VIES statements and annual return and keep track of EFKA and instalment dates, in English, German or Greek. Send us a message via WhatsApp or our contact form for a free compliance check. For market prices, see [how much an accountant costs in Greece](/guides/accountant-cost-greece).
+None of these deadlines is hard on its own. The difficulty is that they overlap: a monthly VAT filer with EU clients and a property has four or five payments and filings due in some months. At taxomade, all of these are part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/) from **€89/month**: we prepare and file your VAT returns, VIES statements and annual return and keep track of EFKA and instalment dates, in English, German or Greek. Send us a message via WhatsApp or our contact form for a free compliance check. For market prices, see [how much an accountant costs in Greece](/guides/accountant-cost-greece/).
 
 ## Frequently asked questions
 

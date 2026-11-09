@@ -31,7 +31,7 @@ Here is how renting actually works, in the order you will encounter it.
 
 Before a lease can exist on paper, you need a Greek Tax Number. The landlord is obliged to declare your lease electronically to AADE, and your **AFM is the identifier AADE expects** for the tenant. Strictly speaking, [AADE's published FAQ on lease declarations](https://aade.gr/sites/default/files/2020-09/Συχνές%20Ερωτήσεις%20Απαντήσεις%20(ενημερωμένο%20με%201192_2020).pdf) allows a foreign tenant without an AFM to be recorded by passport number — but in practice landlords and agents treat the AFM as a precondition, and you need your TAXISnet credentials (which come with the AFM) to accept the declaration from your side.
 
-This creates a sequencing problem for new arrivals, and the practical answer is almost always the same: get the AFM first, bridge the gap with a short-term rental, then sign a long lease once the number is in hand. Our guide on [what an AFM is and how to get one](/guides/what-is-greek-afm-number) covers that process — and it does not require a Greek address, so you can obtain one using a foreign address or a tax representative.
+This creates a sequencing problem for new arrivals, and the practical answer is almost always the same: get the AFM first, bridge the gap with a short-term rental, then sign a long lease once the number is in hand. Our guide on [what an AFM is and how to get one](/guides/what-is-greek-afm-number/) covers that process — and it does not require a Greek address, so you can obtain one using a foreign address or a tax representative.
 
 ## 2. Budget for the Move-In Cost, Not the Rent
 
@@ -67,8 +67,8 @@ Your landlord must submit a **Declaration of Lease Information** (*Δήλωση 
 
 Do not treat this as paperwork between the landlord and the tax office. The registered lease is what gives you:
 
-- **Proof of address** for a residence permit or [Digital Nomad Visa](/guides/ultimate-guide-dnv-greece) application.
-- Supporting documentation when [opening a Greek bank account](/guides/open-bank-account-greece).
+- **Proof of address** for a residence permit or [Digital Nomad Visa](/guides/ultimate-guide-dnv-greece/) application.
+- Supporting documentation when [opening a Greek bank account](/guides/open-bank-account-greece/).
 - A verifiable record if a deposit dispute ever arises.
 - Access to the annual **rent refund** (*επιστροφή ενοικίου*): if the flat is your main residence, you declare the rent in your Greek tax return, have an IBAN registered in myAADE and stay within the income limits (€25,000 single, €35,000 for couples, plus €5,000 per child) and the property limit (€120,000 in ENFIA value, plus €20,000 per additional family member), AADE pays back one month's rent (one twelfth of the year's rent), capped at €800, €850 with one child and €900 with two, at the end of November, [automatically and only for leases that match the electronic declaration](https://www.odigostoupoliti.eu/epistrofi-enoikiou-2026-pote-ginetai-pliromi-kai-poia-einai-ta-posa/).
 
@@ -80,12 +80,12 @@ The market moves quickly enough that scams find willing victims every season. Wa
 
 - **Any request to wire a deposit before viewing.** The "I'm currently abroad, I'll post the keys" message is the single most common fraud aimed at foreigners.
 - **A landlord who refuses to register the lease.** This usually signals undeclared rental income — and it leaves you with no proof of address at all.
-- **Rent quoted well below the area average.** Compare against our [cost of living breakdown](/guides/cost-of-living-greece-nomads) before assuming you have found a bargain.
+- **Rent quoted well below the area average.** Compare against our [cost of living breakdown](/guides/cost-of-living-greece-nomads/) before assuming you have found a bargain.
 - **Holiday lets dressed as long-term rentals.** A furnished flat offered at a suspiciously round monthly rate is often a short-let owner filling the winter, who will want it back in April.
 
 ## Summary
 
-Secure your AFM first, budget two to four months' rent for move-in, read the contract for *koinochrista*, heating and an exit clause before you read it for the rent, pay by bank transfer, and treat the AADE lease registration as non-negotiable. If you are still deciding where to base yourself, our comparison of [Athens, Thessaloniki and the islands](/guides/athens-vs-thessaloniki-digital-nomads) is the place to start.
+Secure your AFM first, budget two to four months' rent for move-in, read the contract for *koinochrista*, heating and an exit clause before you read it for the rent, pay by bank transfer, and treat the AADE lease registration as non-negotiable. If you are still deciding where to base yourself, our comparison of [Athens, Thessaloniki and the islands](/guides/athens-vs-thessaloniki-digital-nomads/) is the place to start.
 
 ## Frequently asked questions
 
@@ -107,6 +107,6 @@ Only once it is registered with AADE. The registered declaration — not the pap
 
 ## Getting your Greek tax side in order
 
-Renting is usually the first step; tax registration, rent refunds and, if you work for yourself, monthly filings follow. If you want that handled in English, see our [ongoing bookkeeping](/greece/ongoing-bookkeeping) and send us a message for a free check.
+Renting is usually the first step; tax registration, rent refunds and, if you work for yourself, monthly filings follow. If you want that handled in English, see our [ongoing bookkeeping](/greece/ongoing-bookkeeping/) and send us a message for a free check.
 
 *Rules as of October 2026 (Law 1703/1987 art. 2, AADE A.1068/2025 and A.1187/2026, Law 5217/2025 art. 70; rents from RE/MAX transaction data and the Spitogatos Q2 2026 index).*

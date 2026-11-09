@@ -42,16 +42,16 @@ Article 5C is for professionals, executives and freelancers who come to Greece t
 - You work for a Greek entity or Greek permanent establishment, or run an individual business in Greece. The "new job position" requirement was removed in July 2025 (Law 5222/2025), and since May 2026 public-sector jobs qualify too.
 - You declare that you will stay at least two years.
 
-**Deadline:** if the job or business starts on or before 2 July, apply by 31 December of the same year; if it starts after 2 July, by 31 December of the following year ([AADE](https://www.aade.gr/psifiakes-ypiresies/eisodima/ypoboli-aitisis-ypagogis-se-eidiko-tropo-forologisis-arthro-5g-toy-kfe)). Applying later usually shifts the first year of the regime rather than killing it. Full details in [how the 50% tax break works](/guides/50-percent-tax-break-article-5c).
+**Deadline:** if the job or business starts on or before 2 July, apply by 31 December of the same year; if it starts after 2 July, by 31 December of the following year ([AADE](https://www.aade.gr/psifiakes-ypiresies/eisodima/ypoboli-aitisis-ypagogis-se-eidiko-tropo-forologisis-arthro-5g-toy-kfe)). Applying later usually shifts the first year of the regime rather than killing it. Full details in [how the 50% tax break works](/guides/50-percent-tax-break-article-5c/).
 
 **Who it's for:**
-- Remote workers who set up as freelancers in Greece and invoice foreign clients, including a former employer (EU citizens do this without a visa; see [5C for EU remote workers](/guides/5c-for-eu-remote-workers)).
+- Remote workers who set up as freelancers in Greece and invoice foreign clients, including a former employer (EU citizens do this without a visa; see [5C for EU remote workers](/guides/5c-for-eu-remote-workers/)).
 - Employees transferring to a Greek company or a Greek branch of a multinational.
 - Founders whose income comes from working, as salaried director of a Greek company or sole proprietor (IKE profits themselves are not covered), not from a portfolio.
 
-**Who it's not for:** [Digital Nomad Visa holders](/guides/5c-vs-digital-nomad-visa). The visa forbids work for Greek employers and Greek business activity, so the core condition of 5C cannot be met.
+**Who it's not for:** [Digital Nomad Visa holders](/guides/5c-vs-digital-nomad-visa/). The visa forbids work for Greek employers and Greek business activity, so the core condition of 5C cannot be met.
 
-**The math:** Greek income tax runs on a [progressive scale](https://taxsummaries.pwc.com/greece/individual/taxes-on-personal-income) of 9% to 44% (from 2026: 9% up to €10,000, 20% to €20,000, 26% to €30,000, 34% to €40,000, 39% to €60,000, 44% above). Under 5C, €100,000 of income is taxed as if it were €50,000: roughly €12,800 instead of €34,300, a saving of about €21,500 a year, before EFKA. Because the exempt half comes off the top brackets, the saving is more than half the tax. Run your own numbers with the [Article 5C calculator](/greece/5c-tax-calculator).
+**The math:** Greek income tax runs on a [progressive scale](https://taxsummaries.pwc.com/greece/individual/taxes-on-personal-income) of 9% to 44% (from 2026: 9% up to €10,000, 20% to €20,000, 26% to €30,000, 34% to €40,000, 39% to €60,000, 44% above). Under 5C, €100,000 of income is taxed as if it were €50,000: roughly €12,800 instead of €34,300, a saving of about €21,500 a year, before EFKA. Because the exempt half comes off the top brackets, the saving is more than half the tax. Run your own numbers with the [Article 5C calculator](/greece/5c-tax-calculator/).
 
 ## The Article 5A Regime (the non-dom flat tax)
 
@@ -101,7 +101,7 @@ This is where most online comparisons go wrong. The non-dom regime is not "10% o
 
 So for a pure dividend investor, Article 5A is often the more expensive choice unless the amounts are very large or the reporting exemption matters more than the tax. For someone with €400,000 a year of foreign consulting profits or director fees, the flat tax saves well over €60,000 a year.
 
-Article 5C needs no break-even. It only ever reduces tax on income you would otherwise pay full rates on, and it costs nothing to hold. The one thing to check is that you qualify at all: a qualifying job or business in Greece, the 5-of-6-years test and the right application year. The [common 5C mistakes](/guides/top-5-mistakes-article-5c) are almost all about those three points.
+Article 5C needs no break-even. It only ever reduces tax on income you would otherwise pay full rates on, and it costs nothing to hold. The one thing to check is that you qualify at all: a qualifying job or business in Greece, the 5-of-6-years test and the right application year. The [common 5C mistakes](/guides/top-5-mistakes-article-5c/) are almost all about those three points.
 
 ## Which one is right for you?
 
@@ -109,9 +109,9 @@ Article 5C needs no break-even. It only ever reduces tax on income you would oth
 
 **Run the numbers on Article 5A if** you have large foreign-source income that Greece would tax on the full scale, or very large capital gains, and you can commit €500,000 to Greek investments. Model it with your actual income mix and foreign withholding before deciding; the answer is often "not worth it" below a few hundred thousand euros of foreign income.
 
-**Look at Article 5B instead if** you are retired and your income is a foreign pension: 7% flat on all foreign income for 15 years, with no investment requirement. See [retiring to Greece and the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax).
+**Look at Article 5B instead if** you are retired and your income is a foreign pension: 7% flat on all foreign income for 15 years, with no investment requirement. See [retiring to Greece and the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/).
 
-Whichever regime fits, the move itself has to be done properly: Greek [tax residency](/guides/tax-residency-greece-183-days), an AFM, and for 5C a registered job or business before the deadline. At taxomade we advise on Article 5C and prepare and file the application together with the freelancer registration and [ongoing bookkeeping](/greece/ongoing-bookkeeping), so the start date, the regime year and the first [tax return](/guides/freelancer-taxes-greece-2026) line up.
+Whichever regime fits, the move itself has to be done properly: Greek [tax residency](/guides/tax-residency-greece-183-days/), an AFM, and for 5C a registered job or business before the deadline. At taxomade we advise on Article 5C and prepare and file the application together with the freelancer registration and [ongoing bookkeeping](/greece/ongoing-bookkeeping/), so the start date, the regime year and the first [tax return](/guides/freelancer-taxes-greece-2026/) line up.
 
 ## Frequently asked questions
 

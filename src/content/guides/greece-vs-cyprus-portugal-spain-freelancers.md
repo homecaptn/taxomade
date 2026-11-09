@@ -40,7 +40,7 @@ Greece, Cyprus, Portugal and Spain all pitch themselves to remote workers. For a
 
 ## Income tax
 
-**Greece** taxes income from 2026 at [9%, 20%, 26%, 34%, 39% and 44%](https://www.taxheaven.gr/law/5246/2025/arthro/3), with the top rate from €60,000. Freelancers get no tax-free allowance. On top come a 55% advance on next year's tax (halved in the first year you earn business income; a cut to 50% from tax year 2027 is in a bill submitted to Parliament in November 2026, not yet law) and, from year four, a minimum presumed income. Details in our [freelancer tax overview](/guides/freelancer-taxes-greece-2026).
+**Greece** taxes income from 2026 at [9%, 20%, 26%, 34%, 39% and 44%](https://www.taxheaven.gr/law/5246/2025/arthro/3), with the top rate from €60,000. Freelancers get no tax-free allowance. On top come a 55% advance on next year's tax (halved in the first year you earn business income; a cut to 50% from tax year 2027 is in a bill submitted to Parliament in November 2026, not yet law) and, from year four, a minimum presumed income. Details in our [freelancer tax overview](/guides/freelancer-taxes-greece-2026/).
 
 **Cyprus** raised its tax-free band with the 2026 reform. Income up to [€22,000 is taxed at 0%](https://www.internationaltaxreview.com/article/2gq2poiivuype846e2yat/itrworldtax/cyprus-tax-reform-comprehensive-update-effective-from-1-january-2026), then 20%, 25%, 30% and 35% above €72,000.
 
@@ -63,7 +63,7 @@ In Portugal, €50,000 of taxable income under the simplified regime corresponds
 
 ## Social security
 
-**Greece** charges a fixed amount, whatever you earn. In 2026 the [lowest regular EFKA class](https://www.forin.gr/articles/article/88941/efka-egk-6-2026) is €250.77 a month, and new freelancers can apply for €150.46 for their first five years. Most freelancers add €10. That is about €1,925 to €3,130 a year, and contributions are deductible. More in [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
+**Greece** charges a fixed amount, whatever you earn. In 2026 the [lowest regular EFKA class](https://www.forin.gr/articles/article/88941/efka-egk-6-2026) is €250.77 a month, and new freelancers can apply for €150.46 for their first five years. Most freelancers add €10. That is about €1,925 to €3,130 a year, and contributions are deductible. More in [EFKA for freelancers](/guides/efka-social-security-freelancers-greece/).
 
 **Cyprus** charges self-employed people [16.6% for social insurance](https://cy.andersen.com/news/cyprus-news-cyprus-tax-reform-updates-effective-from-2026-2/) on insurable income, capped at €68,904 in 2026, plus [4% for GESY](https://rightax.com.cy/cyprus-gesy-contributions-guide/), the health system. The [basis is a minimum income set by occupation](https://www.businessincyprus.gov.cy/social-insurance-registration-and-contributions/), or your actual income on request.
 
@@ -75,7 +75,7 @@ In Portugal, €50,000 of taxable income under the simplified regime corresponds
 
 Most comparisons skip the key point: the headline regimes rarely fit a standard freelancer.
 
-**Greece: Article 5C.** If you were not Greek tax resident in 5 of the previous 6 years, move from an EU/EEA country or one with a tax cooperation agreement, and start a job or business in Greece, [50% of that income is exempt](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ) for seven years. Freelancing for foreign clients qualifies. EFKA is not reduced. Digital Nomad Visa holders are excluded. See [how the 50% break works](/guides/50-percent-tax-break-article-5c). Greece also has the [€100,000 non-dom regime](/guides/article-5c-vs-non-dom-regime) for foreign income, which requires a €500,000 investment and can run in parallel with 5C.
+**Greece: Article 5C.** If you were not Greek tax resident in 5 of the previous 6 years, move from an EU/EEA country or one with a tax cooperation agreement, and start a job or business in Greece, [50% of that income is exempt](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ) for seven years. Freelancing for foreign clients qualifies. EFKA is not reduced. Digital Nomad Visa holders are excluded. See [how the 50% break works](/guides/50-percent-tax-break-article-5c/). Greece also has the [€100,000 non-dom regime](/guides/article-5c-vs-non-dom-regime/) for foreign income, which requires a €500,000 investment and can run in parallel with 5C.
 
 **Cyprus: built for employees and investors.** The [50% exemption](https://taxsummaries.pwc.com/Cyprus/Individual/Income-determination) (pay above €55,000, 17 years) and the 20% exemption (capped at €8,550, 7 years) apply to employment income. A [25% exemption](https://kpmg.com/cy/en/insights/tax-alerts/income-tax-exemption-for-repatriation-to-cyprus.html) (capped at €25,000 a year, 7 years) that does cover business profits targets returning former residents. The non-dom status exempts dividends and interest from Special Defence Contribution for 17 years, which matters for investors more than for freelancers.
 
@@ -87,16 +87,16 @@ Most comparisons skip the key point: the headline regimes rarely fit a standard 
 
 All four offer a visa for non-EU remote workers. Thresholds in 2026:
 
-- **Greece:** [€3,500 a month net](https://www.taxheaven.gr/law/5038/2023/arthro/68). No Greek clients or employer allowed, and therefore [no Article 5C](/guides/5c-vs-digital-nomad-visa).
+- **Greece:** [€3,500 a month net](https://www.taxheaven.gr/law/5038/2023/arthro/68). No Greek clients or employer allowed, and therefore [no Article 5C](/guides/5c-vs-digital-nomad-visa/).
 - **Cyprus:** [€3,500 a month after tax](https://cy.andersen.com/news/the-digital-nomad-visa-scheme-in-cyprus/), with work for employers or clients abroad.
 - **Portugal:** [four times the minimum wage](https://www.idealista.pt/news/node/54662), so €3,680 a month with the [2026 minimum wage of €920](https://apcmc.pt/legislacao/salario-minimo-nacional-para-2026-fixado-em-e-920/).
 - **Spain:** [200% of the minimum wage](https://www.costaluzlawyers.com/es/visado-nomada-digital-espana-guia-completa-2026/), about €2,849 a month. Remote employees on this visa can apply for the Beckham law; self-employed holders mostly cannot.
 
-EU citizens need none of this. They register as freelancers directly, which in Greece also opens the door to 5C. See [freelancer setup in Greece](/guides/freelancer-setup-greece).
+EU citizens need none of this. They register as freelancers directly, which in Greece also opens the door to 5C. See [freelancer setup in Greece](/guides/freelancer-setup-greece/).
 
 ## VAT
 
-Standard rates are 24% in Greece, 19% in Cyprus, 23% in Portugal and 21% in Spain. Business clients in other EU countries are usually invoiced without local VAT in all four. Small-business exemptions differ: [€10,000 in Greece](/guides/vat-freelancers-greece-foreign-clients), [€15,600 in Cyprus](https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/88A7B920B681122AC22582510035432D), [€15,000 in Portugal](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/artigo-53-o-do-civa.aspx). Spain has [no general exemption](https://en.ara.cat/economy/brussels-takes-spain-to-european-court-for-not-exempting-smes-and-the-self-employed-from-declaring-vat_1_5674905.html), which the European Commission has challenged in court. Greece also adds strict reporting: every invoice goes to myDATA, businesses with simple books that started on or after 1 January 2024 file VAT monthly (quarterly only on request after 24 months), and from 2 November 2026 invoices to Greek and non-EU businesses must be [e-invoices](/guides/e-invoicing-greece-explained).
+Standard rates are 24% in Greece, 19% in Cyprus, 23% in Portugal and 21% in Spain. Business clients in other EU countries are usually invoiced without local VAT in all four. Small-business exemptions differ: [€10,000 in Greece](/guides/vat-freelancers-greece-foreign-clients/), [€15,600 in Cyprus](https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/88A7B920B681122AC22582510035432D), [€15,000 in Portugal](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/artigo-53-o-do-civa.aspx). Spain has [no general exemption](https://en.ara.cat/economy/brussels-takes-spain-to-european-court-for-not-exempting-smes-and-the-self-employed-from-declaring-vat_1_5674905.html), which the European Commission has challenged in court. Greece also adds strict reporting: every invoice goes to myDATA, businesses with simple books that started on or after 1 January 2024 file VAT monthly (quarterly only on request after 24 months), and from 2 November 2026 invoices to Greek and non-EU businesses must be [e-invoices](/guides/e-invoicing-greece-explained/).
 
 ## Which one fits you?
 
@@ -105,11 +105,11 @@ Standard rates are 24% in Greece, 19% in Cyprus, 23% in Portugal and 21% in Spai
 - **Research, startup or highly qualified roles:** Portugal's IFICI and Spain's Beckham law are worth checking.
 - **Non-EU, lower income:** Spain's visa threshold is the lowest; check the tax side separately.
 
-Cost of living, healthcare and language matter as much as tax. For Greece, see our [cost of living guide](/guides/cost-of-living-greece-nomads).
+Cost of living, healthcare and language matter as much as tax. For Greece, see our [cost of living guide](/guides/cost-of-living-greece-nomads/).
 
 ## If you choose Greece
 
-At taxomade we prepare and file the freelancer registration, Article 5C application, VAT returns and annual return, with [ongoing bookkeeping from €89/month](/greece/ongoing-bookkeeping).
+At taxomade we prepare and file the freelancer registration, Article 5C application, VAT returns and annual return, with [ongoing bookkeeping from €89/month](/greece/ongoing-bookkeeping/).
 
 ## Frequently asked questions
 

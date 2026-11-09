@@ -17,7 +17,7 @@ faq:
     answer: "ENFIA, the annual property tax, assessed on what you own on 1 January, and the municipal property fee (TAP), charged through the electricity bill. If you let the property long-term, the rent is taxed at 15% to 45% and you file an E1 return with form E2."
 ---
 
-The Golden Visa starts a tax routine. It is light, but a missed ENFIA instalment or an Airbnb listing costs far more than the paperwork. Buying and the AFM are covered in [our guide for property buyers](/guides/afm-greece-property-buyers-non-residents).
+The Golden Visa starts a tax routine. It is light, but a missed ENFIA instalment or an Airbnb listing costs far more than the paperwork. Buying and the AFM are covered in [our guide for property buyers](/guides/afm-greece-property-buyers-non-residents/).
 
 ## The short answer
 
@@ -32,17 +32,17 @@ The Golden Visa starts a tax routine. It is light, but a missed ENFIA instalment
 
 The Golden Visa is a five-year investor residence permit under [article 100 of the Migration Code](https://www.taxheaven.gr/law/5038/2023/arthro/100) (Law 5038/2023). Your tax status is a separate question, decided by [article 4 of the Income Tax Code](https://aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc): more than 183 days in Greece in any 12-month period, or your permanent home or centre of vital interests here.
 
-Many holders spend a few weeks a year here and stay tax resident at home. Spend more than half the year in Greece, or move your family, and Greece taxes your worldwide income. Details: [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days).
+Many holders spend a few weeks a year here and stay tax resident at home. Spend more than half the year in Greece, or move your family, and Greece taxes your worldwide income. Details: [tax residency and the 183-day rule](/guides/tax-residency-greece-183-days/).
 
 ## No work on a Golden Visa
 
 The investor permit "does not establish a right of access to any form of employment" (art. 100(9)). Family members (spouse, children under 21, parents) receive a family reunification permit that expires with yours (art. 95(2), as amended in 2026). The Code gives them no express right to work either, so check with an immigration lawyer before anyone takes a job.
 
-You can hold shares in a Greek [IKE](/guides/ike-greece-setup-annual-costs), but a job or self-employment needs a different permit, which is why the Golden Visa alone does not lead to the [50% Article 5C exemption](/guides/50-percent-tax-break-article-5c).
+You can hold shares in a Greek [IKE](/guides/ike-greece-setup-annual-costs/), but a job or self-employment needs a different permit, which is why the Golden Visa alone does not lead to the [50% Article 5C exemption](/guides/50-percent-tax-break-article-5c/).
 
 ## Your AFM stays
 
-You needed a [Greek AFM](/guides/what-is-greek-afm-number) to buy, and it stays for life. What matters now is working myAADE access and current contact details: notices arrive there, in Greek. A tax representative has been optional since 9 September 2024 ([decision A.1069/2024](https://aade.gr/sites/default/files/2024-05/A1069_2024_FEK.pdf)); without one, notices are served at the foreign address and email you declare.
+You needed a [Greek AFM](/guides/what-is-greek-afm-number/) to buy, and it stays for life. What matters now is working myAADE access and current contact details: notices arrive there, in Greek. A tax representative has been optional since 9 September 2024 ([decision A.1069/2024](https://aade.gr/sites/default/files/2024-05/A1069_2024_FEK.pdf)); without one, notices are served at the foreign address and email you declare.
 
 ## Annual obligations as a non-resident
 
@@ -56,7 +56,7 @@ Municipalities charge a property fee (TAP) of 0.025% to 0.035% of the zone value
 
 ### Income tax return: only with Greek income
 
-Non-residents file an E1 only with Greek-source income ([AADE FAQ for non-residents](https://aade.gr/sites/default/files/2025-11/FAQs_omogeneis_gr_0.pdf), Q28). A home you use yourself means no return. Let it long-term and you file an E1 with form E2 every year, from mid-March to 15 July. Rent is taxed at 15% up to €12,000, then 25%, 35% and 45%, with only a flat 5% deduction; see [rental income tax for foreign owners](/guides/rental-income-tax-greece-foreign-owners) and [filing the E1 step by step](/guides/greek-tax-return-e1-foreigners).
+Non-residents file an E1 only with Greek-source income ([AADE FAQ for non-residents](https://aade.gr/sites/default/files/2025-11/FAQs_omogeneis_gr_0.pdf), Q28). A home you use yourself means no return. Let it long-term and you file an E1 with form E2 every year, from mid-March to 15 July. Rent is taxed at 15% up to €12,000, then 25%, 35% and 45%, with only a flat 5% deduction; see [rental income tax for foreign owners](/guides/rental-income-tax-greece-foreign-owners/) and [filing the E1 step by step](/guides/greek-tax-return-e1-foreigners/).
 
 ### Presumptive income: does it apply?
 
@@ -70,7 +70,7 @@ Long-term leases are allowed, but subletting is banned too: put a no-sublet clau
 
 ## Renewal: keep the property
 
-The permit is renewed for five years at a time while the property "remains in your ownership and possession" (art. 100(4)). Selling without a replacement investment ends the basis for renewal; see [selling property as a non-resident](/guides/selling-property-greece-non-resident). If the property passes to heirs, see [inheriting property in Greece](/guides/inheriting-property-greece-foreigners).
+The permit is renewed for five years at a time while the property "remains in your ownership and possession" (art. 100(4)). Selling without a replacement investment ends the basis for renewal; see [selling property as a non-resident](/guides/selling-property-greece-non-resident/). If the property passes to heirs, see [inheriting property in Greece](/guides/inheriting-property-greece-foreigners/).
 
 The 2026 thresholds: €800,000 in Attica, Thessaloniki, Mykonos, Santorini and islands over 3,100 residents; €400,000 elsewhere, in both cases for a single home of at least 120 m²; €250,000 for conversions and listed buildings.
 
@@ -80,8 +80,8 @@ A bill tabled in Parliament on 4 November 2026, not yet law, would raise transfe
 
 Tax residence can pay off through a special regime:
 
-- **Article 5A (non-dom):** a flat €100,000 a year on all foreign income, for up to 15 years. Conditions: not Greek tax resident in 7 of the last 8 years, and €500,000 invested in Greece, for example in real estate. You can apply up to three years after completing the investment, so a recent Golden Visa purchase may count; have it checked before you rely on it ([A.1147/2026](https://www.taxheaven.gr/circulars/54567/a-1147-2026); [comparison](/guides/article-5c-vs-non-dom-regime)).
-- **Article 5B (pensioners):** 7% on all foreign income for 15 years, for foreign pensioners not Greek tax resident in 5 of the last 6 years; see [the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax).
+- **Article 5A (non-dom):** a flat €100,000 a year on all foreign income, for up to 15 years. Conditions: not Greek tax resident in 7 of the last 8 years, and €500,000 invested in Greece, for example in real estate. You can apply up to three years after completing the investment, so a recent Golden Visa purchase may count; have it checked before you rely on it ([A.1147/2026](https://www.taxheaven.gr/circulars/54567/a-1147-2026); [comparison](/guides/article-5c-vs-non-dom-regime/)).
+- **Article 5B (pensioners):** 7% on all foreign income for 15 years, for foreign pensioners not Greek tax resident in 5 of the last 6 years; see [the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/).
 - **Article 5C:** 50% off Greek work income (same 5-of-6 test), only with a permit allowing work. Digital Nomad Visa holders are excluded.
 
 ## Your annual checklist
@@ -92,9 +92,9 @@ Tax residence can pay off through a special regime:
 4. **All year:** count your days in Greece.
 5. **Before year five:** documents ready for renewal.
 
-All dates: [Greek tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026).
+All dates: [Greek tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026/).
 
-At taxomade we prepare and file your E9 updates, ENFIA checks and Greek tax returns as part of [ongoing bookkeeping](/greece/ongoing-bookkeeping), in English, German or Greek, from €89/month. For a free compliance check, send us a message on [WhatsApp](https://wa.me/491743426818) or through our contact form.
+At taxomade we prepare and file your E9 updates, ENFIA checks and Greek tax returns as part of [ongoing bookkeeping](/greece/ongoing-bookkeeping/), in English, German or Greek, from €89/month. For a free compliance check, send us a message on [WhatsApp](https://wa.me/491743426818) or through our contact form.
 
 ## Frequently asked questions
 

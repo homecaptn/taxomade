@@ -67,12 +67,12 @@ If both countries see you as resident, the treaty's tie-breaker decides: permane
 
 As a freelancer, you register a sole proprietorship in Greece, join EFKA and invoice from your Greek business. Your German clients are still your clients:
 
-- **Invoices to German businesses** are issued without VAT under the reverse charge, with both VAT numbers; your Greek number has to be registered in VIES. See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
+- **Invoices to German businesses** are issued without VAT under the reverse charge, with both VAT numbers; your Greek number has to be registered in VIES. See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
 - **The German Kleinunternehmerregelung** no longer applies, because you are no longer established in Germany. For business clients it doesn't matter anyway, because the reverse charge applies.
 - **Social security:** under [EU Regulation 883/2004](https://www.ihk.de/blueprint/servlet/resource/blob/4699626/f8b52df710e52ed806f2565e825f693b/ihk-merkblatt-zur-a1-bescheinigung-data.pdf), you are insured where you work, so with EFKA. An A1 certificate from Germany only covers temporary postings of up to 24 months, not a permanent move.
-- **Article 5C:** if you were not Greek tax resident in five of the last six years, 50% of your Greek business income can be exempt from income tax for seven years. See [how the 50% tax break works](/guides/50-percent-tax-break-article-5c).
+- **Article 5C:** if you were not Greek tax resident in five of the last six years, 50% of your Greek business income can be exempt from income tax for seven years. See [how the 50% tax break works](/guides/50-percent-tax-break-article-5c/).
 
-What the Greek setup looks like: [setting up as a freelancer in Greece](/guides/freelancer-setup-greece) and [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026).
+What the Greek setup looks like: [setting up as a freelancer in Greece](/guides/freelancer-setup-greece/) and [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026/).
 
 ## 5. Employees of a German employer
 
@@ -81,7 +81,7 @@ If you keep your German employment contract and work from Greece, two things cha
 - **Tax:** income for work physically performed in Greece is taxable in Greece. Days worked in Germany remain German.
 - **Social security:** working permanently from Greece puts you under Greek social security (EU Regulation 883/2004). The [EU framework agreement on cross-border telework](https://socialsecurity.belgium.be/en/internationally-active/cross-border-telework-eu-eea-and-switzerland) does not help here: it only covers telework below 50% of working time, and Greece has not signed it. Staying in the German system would need an individual exception agreement (Art. 16), which is rarely granted. Otherwise your employer has to register for Greek contributions, which many German employers decline.
 
-This is why most German remote employees who move here switch to the self-employed route and invoice their former employer. Article 5C as an employee requires a Greek employer or a Greek branch of the German company. Details and risks in [5C for EU remote workers](/guides/5c-for-eu-remote-workers).
+This is why most German remote employees who move here switch to the self-employed route and invoice their former employer. Article 5C as an employee requires a Greek employer or a Greek branch of the German company. Details and risks in [5C for EU remote workers](/guides/5c-for-eu-remote-workers/).
 
 ## 6. GmbH owners and founders
 
@@ -93,18 +93,18 @@ Two German rules matter before you move:
 
 **Place of management (§10 AO). If the sole managing director runs the GmbH from Greece, its place of effective management may move with them. The company can then become tax resident in Greece under the treaty. Talk to a German Steuerberater before the Abmeldung, not after.
 
-For a new company in Greece, see [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs).
+For a new company in Greece, see [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs/).
 
 ## 7. Retirees
 
 - **Your pension follows you.** The Deutsche Rentenversicherung pays to a Greek account; [once a year you confirm you are alive](https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260602-rente-im-ausland) (Lebensnachweis).
 - **Tax:** statutory and private pensions are taxed in Greece only; German civil service pensions stay in Germany. The [Finanzamt Neubrandenburg](https://www.vlh.de/krankheit-vorsorge/altersbezuege/diese-steuerregeln-gelten-auch-fuer-rentner-im-ausland.html) is responsible for pensioners abroad and may still request a return.
 - **Health insurance:** if you receive only a German pension and were compulsorily insured in Germany, you stay in the German pensioners' scheme after an EU move ([EU rules](https://europa.eu/youreurope/citizens/health/when-living-abroad/health-insurance-cover/faq/index_en.htm)). Ask your Krankenkasse for the **S1 form**; it registers you with the Greek system (EOPYY), while Germany bears the cost.
-- **Greek side:** you file an annual Greek tax return. Greece also offers a flat-tax regime for foreign pensioners who move their residency here (Article 5B, 7% on foreign income, application by 31 October); whether it beats normal taxation depends on your income. Details in [retiring to Greece and the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax).
+- **Greek side:** you file an annual Greek tax return. Greece also offers a flat-tax regime for foreign pensioners who move their residency here (Article 5B, 7% on foreign income, application by 31 October); whether it beats normal taxation depends on your income. Details in [retiring to Greece and the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/).
 
 ## 8. Health insurance for working-age movers
 
-Your German statutory insurance (GKV) ends when you gain cover in Greece through work, which is the case once you register with EFKA ([Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/krankenversicherung-was-gilt-bei-langzeitaufenthalten-im-ausland-63338)). The European Health Insurance Card is for temporary stays only. A private German policy (PKV) continues within the EU. If you don't rule out returning, ask your private insurer about an Anwartschaftsversicherung, which preserves your right to re-enter the policy without a new health check. For private cover while living in Greece, see [health insurance in Greece](/greece/health-insurance).
+Your German statutory insurance (GKV) ends when you gain cover in Greece through work, which is the case once you register with EFKA ([Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/krankenversicherung-was-gilt-bei-langzeitaufenthalten-im-ausland-63338)). The European Health Insurance Card is for temporary stays only. A private German policy (PKV) continues within the EU. If you don't rule out returning, ask your private insurer about an Anwartschaftsversicherung, which preserves your right to re-enter the policy without a new health check. For private cover while living in Greece, see [health insurance in Greece](/greece/health-insurance/).
 
 **Kindergeld** usually stops once your unlimited German tax liability ends; Greek family benefits then come first, and Germany pays at most a top-up if a parent still works or is insured in Germany. **German pension rights** you have built up are kept and later combined with Greek periods under EU rules; a refund of German contributions is not possible within the EU.
 
@@ -118,11 +118,11 @@ If you are Greek and lived in Germany, everything above applies to you as well. 
 
 ## Already in Greece without a setup?
 
-If you moved months ago and never sorted out the German exit or the Greek registration, start with our [fix-it checklist](/guides/living-in-greece-without-tax-setup). Late is better than never.
+If you moved months ago and never sorted out the German exit or the Greek registration, start with our [fix-it checklist](/guides/living-in-greece-without-tax-setup/). Late is better than never.
 
 ## What we charge
 
-At taxomade, we handle the Greek side in German: tax residency transfer, business registration, Article 5C application, and ongoing bookkeeping from **€89/month** with myDATA, VAT returns and your annual tax return included. We don't replace your German Steuerberater for the exit, but we coordinate with them. [See what's included](/greece/ongoing-bookkeeping), or send us a message for a free check.
+At taxomade, we handle the Greek side in German: tax residency transfer, business registration, Article 5C application, and ongoing bookkeeping from **€89/month** with myDATA, VAT returns and your annual tax return included. We don't replace your German Steuerberater for the exit, but we coordinate with them. [See what's included](/greece/ongoing-bookkeeping/), or send us a message for a free check.
 
 ## Frequently asked questions
 

@@ -2,7 +2,7 @@
 title: "Retiring to Greece: the 7% Flat Tax (Article 5B) and What Else to Plan (2026)"
 description: "Greece's 7% flat tax for foreign pensioners: who qualifies, the new 31 October deadline, a worked example, treaty pitfalls, residence and healthcare."
 pubDate: 2026-10-16
-updatedDate: 2026-10-20
+updatedDate: 2026-11-09
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -34,7 +34,7 @@ Article 5B is open to individuals who:
 2. **Were not Greek tax resident in 5 of the previous 6 years**;
 3. **Move their tax residence to Greece** from a state with which Greece has an administrative cooperation agreement on tax.
 
-The law sets no nationality requirement and no minimum pension amount. The 5-of-6-years test is the same one used for the [50% tax break under Article 5C](/guides/50-percent-tax-break-article-5c), which is for people who come to work. There is no family add-on: a spouse with their own foreign pension must qualify in their own right, and a spouse without one does not qualify; any foreign income they have is taxed under the normal rules.
+The law sets no nationality requirement and no minimum pension amount. The 5-of-6-years test is the same one used for the [50% tax break under Article 5C](/guides/50-percent-tax-break-article-5c/), which is for people who come to work. There is no family add-on: a spouse with their own foreign pension must qualify in their own right, and a spouse without one does not qualify; any foreign income they have is taxed under the normal rules.
 
 ## What the 7% covers and what it does not
 
@@ -46,7 +46,7 @@ What stays outside:
 - **Income a tax treaty exempts or taxes differently** follows the treaty. The common case is government pensions; see below.
 - **Inheritance and gift tax** are not affected.
 
-Note that the 7% applies even where income would otherwise be taxed lower. Foreign dividends, normally taxed at 5% in Greece, fall under the 7% too. If you still work or have large investment income, compare the other regimes in [Article 5C vs the non-dom regime](/guides/article-5c-vs-non-dom-regime).
+Note that the 7% applies even where income would otherwise be taxed lower. Foreign dividends, normally taxed at 5% in Greece, fall under the 7% too. If you still work or have large investment income, compare the other regimes in [Article 5C vs the non-dom regime](/guides/article-5c-vs-non-dom-regime/).
 
 ## What it saves: a worked example
 
@@ -62,7 +62,7 @@ That is about **€3,000 a year**, or roughly €45,000 over 15 years at a const
 
 ## The 2026 changes: deadlines and payment
 
-Law 5313/2026 and [AADE](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf) (the Greek tax authority) decision A.1192/2026 reworked the procedure. Older pages online still show a 31 March deadline; that no longer applies.
+Article 94 of Law 5313/2026 and [AADE](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf) (the Greek tax authority) decision A.1192/2026 reworked the procedure.
 
 - **Application:** by **31 October** of the tax year you want the regime for, through myAADE (AADE's online portal, under "My Requests"), by post or in person at the competent tax office.
 - **Which year:** if you moved your tax residence to Greece **on or before 2 July**, you can choose that year (apply by 31 October of that year) or the following year. If you moved **after 2 July**, only the following year.
@@ -75,8 +75,8 @@ Law 5313/2026 and [AADE](https://www.aade.gr/sites/default/files/2026-09/a1192_2
 
 The 7% only bites on income Greece is allowed to tax. Each country's treaty with Greece decides that:
 
-- **UK:** private and occupational pensions are taxed in Greece, and the UK State Pension is generally treated the same way; you claim UK exemption with HMRC's DT-Individual form (a 'No Tax' code stops UK deductions). **UK government pensions** (civil service, armed forces) stay taxable in the UK. More in our [UK guide](/guides/moving-to-greece-from-uk-tax-guide).
-- **Germany:** the statutory pension (gesetzliche Rente) is taxed only in Greece; **civil servant pensions** (Beamtenpensionen) stay taxable in Germany. More in our [Germany guide](/guides/moving-to-greece-from-germany-tax-guide).
+- **UK:** private and occupational pensions are taxed in Greece, and the UK State Pension is generally treated the same way; you claim UK exemption with HMRC's DT-Individual form (a 'No Tax' code stops UK deductions). **UK government pensions** (civil service, armed forces) stay taxable in the UK. More in our [UK guide](/guides/moving-to-greece-from-uk-tax-guide/).
+- **Germany:** the statutory pension (gesetzliche Rente) is taxed only in Greece; **civil servant pensions** (Beamtenpensionen) stay taxable in Germany. More in our [Germany guide](/guides/moving-to-greece-from-germany-tax-guide/).
 - **United States:** the treaty's saving clause lets the US keep taxing its citizens, who file in both countries; where Greece credits US tax, the credit is capped at the 7%, and whether US tax on your pension qualifies depends on the type of pension, so check before you apply. Non-US citizens receiving US Social Security face US withholding, since Greece is not on the US list of treaty exemptions.
 - **Canada:** Canada may also tax private pensions at source, capped at 15% of the gross payment once annual payments exceed CAD 15,000; check how CPP and OAS are treated. Anything above the Greek 7% is not credited.
 - **Australia:** there is no tax treaty with Greece, so double taxation is a real risk and the credit is capped at the Greek 7%.
@@ -86,19 +86,19 @@ The 7% only bites on income Greece is allowed to tax. Each country's treaty with
 
 **EU citizens** need no visa; staying longer than three months without working requires sufficient funds and health insurance, and you register with the police aliens department.
 
-**Non-EU citizens, including the British**, need a national (type D) visa first and then a residence permit. The usual route for retirees is the **financially independent person** permit: at least **€3,500 a month** in stable income, plus 20% for a spouse and 15% per child (€4,200 for a couple), full health insurance, no right to work, valid three years and renewable. The Golden Visa (€800,000 in high-demand areas, €400,000 elsewhere, €250,000 for conversions) is the investment alternative. A residence permit does not by itself make you tax resident; see [the 183-day rule](/guides/tax-residency-greece-183-days).
+**Non-EU citizens, including the British**, need a national (type D) visa first and then a residence permit. The usual route for retirees is the **financially independent person** permit: at least **€3,500 a month** in stable income, plus 20% for a spouse and 15% per child (€4,200 for a couple), full health insurance, no right to work, valid three years and renewable. The Golden Visa (€800,000 in high-demand areas, €400,000 elsewhere, €250,000 for conversions) is the investment alternative. A residence permit does not by itself make you tax resident; see [the 183-day rule](/guides/tax-residency-greece-183-days/).
 
-**Healthcare:** UK and EU state pensioners can usually request an **S1** form from their home country, get an AMKA (Greek social security number) and register the S1 with the Greek public health system (EOPYY; in practice often through your local EFKA office); the home country then pays for Greek public healthcare. The S1 can only be registered once you live here, so non-EU retirees usually bridge the first months with private cover, which the visa requires anyway. Pensioners with only a private pension, and those from the US, Canada, Australia and others, need private insurance (see [health insurance in Greece](/greece/health-insurance)).
+**Healthcare:** UK and EU state pensioners can usually request an **S1** form from their home country, get an AMKA (Greek social security number) and register the S1 with the Greek public health system (EOPYY; in practice often through your local EFKA office); the home country then pays for Greek public healthcare. The S1 can only be registered once you live here, so non-EU retirees usually bridge the first months with private cover, which the visa requires anyway. Pensioners with only a private pension, and those from the US, Canada, Australia and others, need private insurance (see [health insurance in Greece](/greece/health-insurance/)).
 
 ## Your first-year checklist
 
-1. **AFM** (Greek tax number), online via myAADE; see [what the AFM is](/guides/what-is-greek-afm-number).
+1. **AFM** (Greek tax number), online via myAADE; see [what the AFM is](/guides/what-is-greek-afm-number/).
 2. **Residence permit or EU registration**, and the move of your tax residence to Greece.
 3. **AMKA and S1 registration** (if eligible), or private health insurance.
-4. **Greek bank account**; see [opening a bank account](/guides/open-bank-account-greece).
+4. **Greek bank account**; see [opening a bank account](/guides/open-bank-account-greece/).
 5. **Article 5B application** by 31 October, with the residence certificate and pension proof.
 6. **DT-Individual or equivalent** in your home country, so the pension is not taxed twice.
-7. **If you buy a home:** E9 (property register declaration) and ENFIA (the annual property tax); see [AFM for property buyers](/guides/afm-greece-property-buyers-non-residents).
+7. **If you buy a home:** E9 (property register declaration) and ENFIA (the annual property tax); see [AFM for property buyers](/guides/afm-greece-property-buyers-non-residents/).
 8. **Every year:** E1 return, usually mid-March to 15 July; 7% payment by the end of December.
 
 ## Common mistakes
@@ -128,6 +128,6 @@ Once a year, in one payment, by the last working day of December. No instalments
 
 ## How taxomade can help
 
-We check whether the 7% regime pays off in your case, prepare and file the Article 5B application and your annual Greek tax return, and handle the Greek side of the treaty paperwork, such as having your DT-Individual form certified by the Greek tax office. If you also earn income in Greece, see our [ongoing bookkeeping](/greece/ongoing-bookkeeping). Send us a message with your pension details for a free check.
+We check whether the 7% regime pays off in your case, prepare and file the Article 5B application and your annual Greek tax return, and handle the Greek side of the treaty paperwork, such as having your DT-Individual form certified by the Greek tax office. If you also earn income in Greece, see our [ongoing bookkeeping](/greece/ongoing-bookkeeping/). Send us a message with your pension details for a free check.
 
-*Rules as of October 2026 (Income Tax Code art. 5B and 9, AADE decision A.1192/2026).*
+*Rules as of November 2026 (Income Tax Code arts. 5B and 9, as amended by Law 5313/2026, art. 94; AADE decision A.1192/2026).*

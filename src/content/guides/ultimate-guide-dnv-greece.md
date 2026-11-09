@@ -56,7 +56,7 @@ The main documents are:
 
 - **Passport:** valid beyond the visa period; consulates usually ask for at least three months beyond your planned departure, two blank pages, and a passport issued within the last ten years.
 - **Proof of income:** employment contract, recent payslips, bank statements, or freelance contracts and invoices showing the €3,500 a month.
-- **Health insurance:** covering medical care and hospital treatment in Greece for the whole period. Basic travel policies are often not accepted; check your consulate's wording. More on [health insurance in Greece](/greece/health-insurance).
+- **Health insurance:** covering medical care and hospital treatment in Greece for the whole period. Basic travel policies are often not accepted; check your consulate's wording. More on [health insurance in Greece](/greece/health-insurance/).
 - **Criminal record certificate:** from your country of residence, usually with an apostille and a certified Greek translation.
 - **Proof of accommodation:** often requested at the visa stage; a registered lease or purchase contract is needed for the permit.
 - **Declaration:** that you will work only for employers or clients based outside Greece.
@@ -74,9 +74,9 @@ The main documents are:
 
 ## What the DNV means for your taxes
 
-A residence permit and tax residence are separate questions. You become Greek tax resident when your main home or centre of life is in Greece, or after more than 183 days within any 12 months (see [the 183-day rule](/guides/tax-residency-greece-183-days)). From then on you need a Greek tax number ([AFM](/guides/what-is-greek-afm-number)), file an annual Greek return on your worldwide income on the normal scale of 9% to 44%, and rely on the tax treaty with your home country to avoid double taxation. Social security depends on your situation and your home country's agreements with Greece.
+A residence permit and tax residence are separate questions. You become Greek tax resident when your main home or centre of life is in Greece, or after more than 183 days within any 12 months (see [the 183-day rule](/guides/tax-residency-greece-183-days/)). From then on you need a Greek tax number ([AFM](/guides/what-is-greek-afm-number/)), file an annual Greek return on your worldwide income on the normal scale of 9% to 44%, and rely on the tax treaty with your home country to avoid double taxation. Social security depends on your situation and your home country's agreements with Greece.
 
-**Article 5C is not available.** The 50% exemption requires employment with a Greek employer or your own business in Greece, which the DNV rules out. More in [why the DNV rules out Article 5C](/guides/5c-vs-digital-nomad-visa), and for comparison with a short stay, [DNV vs tourist visa](/guides/dnv-vs-tourist-visa).
+**Article 5C is not available.** The 50% exemption requires employment with a Greek employer or your own business in Greece, which the DNV rules out. More in [why the DNV rules out Article 5C](/guides/5c-vs-digital-nomad-visa/), and for comparison with a short stay, [DNV vs tourist visa](/guides/dnv-vs-tourist-visa/).
 
 ## Frequently asked questions
 
@@ -102,6 +102,6 @@ No. The DNV does not allow work for Greek employers or clients or business activ
 
 ## Once you are here
 
-As a resident digital nomad you file a Greek return every year, and your foreign income has to be declared correctly against the treaty with your home country. We prepare and file the Greek return and the related registrations as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping); for the visa itself, see our [Digital Nomad Visa service](/greece/digital-nomad-visa). Send us a message for a free check.
+As a resident digital nomad you file a Greek return every year, and your foreign income has to be declared correctly against the treaty with your home country. We prepare and file the Greek return and the related registrations as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); for the visa itself, see our [Digital Nomad Visa service](/greece/digital-nomad-visa/). Send us a message for a free check.
 
 *Rules as of October 2026 (Law 5038/2023 art. 68, Law 5275/2026).*

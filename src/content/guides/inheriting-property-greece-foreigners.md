@@ -22,7 +22,7 @@ faq:
 
 Inherit a flat on Crete or a share of a family house in Athens and you owe Greek inheritance tax on it, wherever you live. Close family usually pays little or nothing. The real work is paperwork: an AFM, a tax return within nine months or one year, a notarial deed and Cadastre registration.
 
-Buying rather than inheriting? See [the AFM guide for property buyers](/guides/afm-greece-property-buyers-non-residents).
+Buying rather than inheriting? See [the AFM guide for property buyers](/guides/afm-greece-property-buyers-non-residents/).
 
 ## The short answer
 
@@ -74,7 +74,7 @@ You can pay in up to **12 equal bimonthly instalments** of at least €500 (24 f
 
 ## Your AFM
 
-Every heir needs a Greek tax number: the return is filed under it and the notary cannot draft the deed without it. Non-residents apply online through myAADE with a video identification call, or through an accountant or lawyer under a power of attorney ([what a Greek AFM is](/guides/what-is-greek-afm-number)). An AFM does not make you a Greek tax resident.
+Every heir needs a Greek tax number: the return is filed under it and the notary cannot draft the deed without it. Non-residents apply online through myAADE with a video identification call, or through an accountant or lawyer under a power of attorney ([what a Greek AFM is](/guides/what-is-greek-afm-number/)). An AFM does not make you a Greek tax resident.
 
 ## Accepting the inheritance
 
@@ -101,7 +101,7 @@ Miss it and the inheritance counts as accepted, debts included.
 ## After acceptance
 
 - **ENFIA:** heirs owe the annual property tax from the year after the death ([AADE circular E.2060/2022](https://www.taxheaven.gr/circulars/40472/e-2060-2022)). Check your share on the E9.
-- **Renting:** rent is taxed at 15–45% with an annual return; see [rental income tax for foreign owners](/guides/rental-income-tax-greece-foreign-owners).
+- **Renting:** rent is taxed at 15–45% with an annual return; see [rental income tax for foreign owners](/guides/rental-income-tax-greece-foreign-owners/).
 - **Selling:** the 15% capital gains tax on property sales by individuals is suspended until 31 December 2026. A bill tabled in Parliament on 4 November 2026 extends this to the end of 2027; it had not been voted on as of 8 November 2026.
 
 ## Double taxation
@@ -118,7 +118,7 @@ Greece has inheritance tax treaties with very few countries; AADE lists the **Un
 
 ## Getting help
 
-The deed is for a notary and often a lawyer. The tax side keeps going: myAADE notices in Greek, ENFIA, and a [tax return](/guides/greek-tax-return-e1-foreigners) if you let the property. At taxomade we prepare and file the inheritance tax return, E9 corrections and your annual returns as part of [ongoing bookkeeping](/greece/ongoing-bookkeeping), in English, German or Greek, from €89/month. For a free compliance check, send us a message on [WhatsApp](https://wa.me/491743426818) or through our contact form.
+The deed is for a notary and often a lawyer. The tax side keeps going: myAADE notices in Greek, ENFIA, and a [tax return](/guides/greek-tax-return-e1-foreigners/) if you let the property. At taxomade we prepare and file the inheritance tax return, E9 corrections and your annual returns as part of [ongoing bookkeeping](/greece/ongoing-bookkeeping/), in English, German or Greek, from €89/month. For a free compliance check, send us a message on [WhatsApp](https://wa.me/491743426818) or through our contact form.
 
 ## Frequently asked questions
 

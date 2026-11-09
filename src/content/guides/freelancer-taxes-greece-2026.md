@@ -75,21 +75,21 @@ Unless you are still covered by another EU country's system with an A1 certifica
 
 For most freelancers, an unemployment contribution of €10 per month comes on top. If you don't choose a class, you are placed in class 1, so €250.77 is the realistic minimum for most people.
 
-The reduced special class (Article 39 of Law 4387/2016) is only open to new freelancers in their first five years, has to be applied for and can only be used once. Paid contributions are deductible from your business income. More details: [EFKA for freelancers](/guides/efka-social-security-freelancers-greece).
+The reduced special class (Article 39 of Law 4387/2016) is only open to new freelancers in their first five years, has to be applied for and can only be used once. Paid contributions are deductible from your business income. More details: [EFKA for freelancers](/guides/efka-social-security-freelancers-greece/).
 
 ## 4. VAT
 
-The standard VAT rate is 24%. Whether you charge it depends on your clients. Business clients abroad are usually invoiced without Greek VAT, but the invoices still go into your returns. See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
+The standard VAT rate is 24%. Whether you charge it depends on your clients. Business clients abroad are usually invoiced without Greek VAT, but the invoices still go into your returns. See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
 
 - **Small business exemption:** with turnover up to **€10,000** ([AADE decision A.1011/2026](https://www.taxheaven.gr/circulars/51970/a-1011-2026)), you can opt not to charge Greek VAT. With business clients in other EU countries, some filings still apply.
 - **Monthly or quarterly:** most established freelancers with simple books file **quarterly**. Under [AADE decision A.1049/2025](https://aade.gr/sites/default/files/2025-04/a1049_2025.pdf), those who started on or after 1 January 2024 file **monthly**; after 24 months of activity, they can switch to quarterly on request.
 - **Deadline:** last working day of the month after the period ends.
 
-Since 2 November 2026, invoices to Greek businesses and to businesses outside the EU have to be issued as e-invoices; invoices to public bodies (B2G) have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies to businesses that declared their invoicing method in time. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained).
+Since 2 November 2026, invoices to Greek businesses and to businesses outside the EU have to be issued as e-invoices; invoices to public bodies (B2G) have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies to businesses that declared their invoicing method in time. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained/).
 
 ## 5. Advance tax
 
-With your annual return, you pay a [55% advance](https://www.taxheaven.gr/law/4172/2013/arthro/69) on next year's tax, calculated on this year's tax on business income, minus tax already withheld by Greek clients. In the year you first earn business income, the advance is halved to 27.5%. Companies such as an IKE pay 80%. The advance is credited against the following year's bill, so it isn't lost, but it hurts cash flow. More on this in [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax).
+With your annual return, you pay a [55% advance](https://www.taxheaven.gr/law/4172/2013/arthro/69) on next year's tax, calculated on this year's tax on business income, minus tax already withheld by Greek clients. In the year you first earn business income, the advance is halved to 27.5%. Companies such as an IKE pay 80%. The advance is credited against the following year's bill, so it isn't lost, but it hurts cash flow. More on this in [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax/).
 
 ## A worked example
 
@@ -101,14 +101,14 @@ A freelancer, age 35, no children, only foreign clients, earns **€30,000 taxab
 | Income tax | €5,500 | €1,900 |
 | Advance tax (55%) | €3,025 | €1,045 |
 
-Without 5C, the tax is €900 + €2,000 + €2,600 = €5,500. Under the [Article 5C regime](/guides/50-percent-tax-break-article-5c), once approved, 50% of the income is exempt. In your first year of business income, the advance would be half the amount shown.
+Without 5C, the tax is €900 + €2,000 + €2,600 = €5,500. Under the [Article 5C regime](/guides/50-percent-tax-break-article-5c/), once approved, 50% of the income is exempt. In your first year of business income, the advance would be half the amount shown.
 
 ## Other rules to know
 
 - **20% withholding:** Greek business clients withhold 20% income tax on invoices above €300. You offset it against your annual tax. Foreign clients don't withhold Greek tax.
 - **Late filings:** fines are fixed under Article 53 of the Tax Procedure Code (Law 5104/2024). A late annual income tax return is not fined if it shows €100 of tax or less; above that, the fine is €250 (simple books) or €500 (double-entry books) where business income is concerned, otherwise €100. A late VAT return costs €100 if it shows nothing to pay and €250 or €500 if tax is due, and a late VIES recapitulative statement €100. Fines are imposed automatically, without a warning.
 - **Card spending rule:** you have to spend 30% of your income (up to €20,000) by card or electronic payment. The shortfall is taxed at 22%.
-- **5C regime:** if you weren't Greek tax resident in five of the last six years, 50% of your freelance income can be tax-exempt for seven years. Digital Nomad Visa holders are not eligible. See [5C vs Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa).
+- **5C regime:** if you weren't Greek tax resident in five of the last six years, 50% of your freelance income can be tax-exempt for seven years. Digital Nomad Visa holders are not eligible. See [5C vs Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa/).
 
 ## Key dates
 
@@ -121,7 +121,7 @@ Without 5C, the tax is €900 + €2,000 + €2,600 = €5,500. Under the [Artic
 
 ## What we charge
 
-At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT returns and your annual tax return included, in English, German or Greek. We keep track of your EFKA class, VAT periods and the advance tax, so none of it surprises you. [See what's included](/greece/ongoing-bookkeeping), or send us a message for a free check of your setup.
+At taxomade, ongoing bookkeeping starts **from €89/month**, with myDATA, VAT returns and your annual tax return included, in English, German or Greek. We keep track of your EFKA class, VAT periods and the advance tax, so none of it surprises you. [See what's included](/greece/ongoing-bookkeeping/), or send us a message for a free check of your setup.
 
 ## Frequently asked questions
 

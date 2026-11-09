@@ -47,7 +47,7 @@ Every invoice or receipt you issue has to reach myDATA. This includes:
 - invoices to clients outside the EU,
 - receipts to private customers.
 
-The client's location matters for VAT and for e-invoicing, but not for myDATA. A developer billing only a German company still reports every invoice. How the VAT side works is covered in [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients).
+The client's location matters for VAT and for e-invoicing, but not for myDATA. A developer billing only a German company still reports every invoice. How the VAT side works is covered in [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
 
 ### Your expenses: classification
 
@@ -61,7 +61,7 @@ The main ways to get data into myDATA ([AADE](https://www.aade.gr/epiheiriseis/m
 
 1. **Certified e-invoicing provider.** A private company approved by AADE. Your invoice is transmitted as it is issued.
 2. **ERP or accounting software** connected to myDATA.
-3. **AADE's free timologio app** (web) or **myDATAapp** (mobile). For a freelancer with a few invoices a month this is usually enough. See our [guide to timologio](/guides/free-invoicing-greece-aade-timologio).
+3. **AADE's free timologio app** (web) or **myDATAapp** (mobile). For a freelancer with a few invoices a month this is usually enough. See our [guide to timologio](/guides/free-invoicing-greece-aade-timologio/).
 4. **The special registration form** on the myDATA site, open only to small businesses within set limits on revenue and number of invoices.
 5. **Cash registers (fiscal devices)** for retail businesses, which report receipts automatically.
 
@@ -90,7 +90,7 @@ Under A.1138/2020 as currently in force ([taxheaven overview](https://www.taxhea
 
 </div>
 
-myDATA has no single annual deadline. It runs alongside your VAT return cycle, monthly or quarterly. For all dates in one place, see the [Greek tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026).
+myDATA has no single annual deadline. It runs alongside your VAT return cycle, monthly or quarterly. For all dates in one place, see the [Greek tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026/).
 
 ## myDATA and e-invoicing: how they fit together
 
@@ -98,7 +98,7 @@ myDATA is where invoice data ends up. E-invoicing regulates **how** certain invo
 
 From **2 November 2026**, freelancers and businesses with revenue up to €1 million (per their 2023 tax return) must issue invoices to Greek businesses and businesses outside the EU through an approved provider or timologio/myDATAapp ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). Invoices to the public sector (B2G) have had to be electronic since 1 September 2025 under separate rules ([Lawspot](https://www.lawspot.gr/nomika-nea/enarxi-ypohreotikis-ilektronikis-timologisis-b2g-gia-dapanes-foreon-tis-genikis/)). Until 31 January 2027, a transition period lets you keep using other channels alongside. It only applies if you declared your e-invoicing method (provider or timologio) in time, with a start date no later than 2 November 2026. Invoices to EU businesses and private customers are outside the mandate but still go to myDATA.
 
-Who is in scope, declarations and penalties: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained).
+Who is in scope, declarations and penalties: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained/).
 
 ## Common mistakes
 
@@ -120,9 +120,9 @@ The less visible cost is the gap itself: income AADE counts and expenses it won'
 
 ## Getting it under control
 
-For most freelancers, myDATA takes little effort once the setup is right: one invoicing channel that transmits everything, an accountant who classifies expenses before each VAT return, and a regular check that myDATA matches your books. If your current accountant doesn't do that, [switching takes about a week](/guides/switching-accountants-greece).
+For most freelancers, myDATA takes little effort once the setup is right: one invoicing channel that transmits everything, an accountant who classifies expenses before each VAT return, and a regular check that myDATA matches your books. If your current accountant doesn't do that, [switching takes about a week](/guides/switching-accountants-greece/).
 
-At taxomade, myDATA is part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping) from **€89/month**, all inclusive: we classify your expenses, prepare and file your VAT returns and annual return, and check that myDATA matches your books. Message us on WhatsApp for a free compliance check. For the bigger tax picture, see [freelancer taxes in Greece](/guides/freelancer-taxes-greece-2026).
+At taxomade, myDATA is part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/) from **€89/month**, all inclusive: we classify your expenses, prepare and file your VAT returns and annual return, and check that myDATA matches your books. Message us on WhatsApp for a free compliance check. For the bigger tax picture, see [freelancer taxes in Greece](/guides/freelancer-taxes-greece-2026/).
 
 ## Frequently asked questions
 

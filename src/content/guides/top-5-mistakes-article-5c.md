@@ -20,7 +20,7 @@ faq:
     answer: "No. The 50% exemption applies to income tax only. EFKA contributions are paid in full."
 ---
 
-Greece's **[Article 5C](/guides/50-percent-tax-break-article-5c)** exempts 50% of your Greek employment or business income from income tax for seven years if you move your tax residence here. For higher earners the saving can reach tens of thousands of euros a year.
+Greece's **[Article 5C](/guides/50-percent-tax-break-article-5c/)** exempts 50% of your Greek employment or business income from income tax for seven years if you move your tax residence here. For higher earners the saving can reach tens of thousands of euros a year.
 
 The rules are strict, but more forgiving than their reputation: a late application usually shifts your first year, and missing documents can often be supplied later. The expensive mistakes are made before you apply, in how and when you set up. Here are the five most common.
 
@@ -53,17 +53,17 @@ Treaty residence forms are accepted without an apostille; other foreign document
 
 The business route covers an **individual business**: a sole proprietorship (ατομική επιχείρηση) registered with the tax office. A company such as an IKE does not count as your own business for 5C. A salary from a Greek company, including one you own, falls under the employment route instead, with its own conditions.
 
-Remote employment for a foreign company with no Greek entity or branch doesn't qualify either. If you want an IKE later, see [IKE setup and annual costs](/guides/ike-greece-setup-annual-costs), but get the 5C structure right first.
+Remote employment for a foreign company with no Greek entity or branch doesn't qualify either. If you want an IKE later, see [IKE setup and annual costs](/guides/ike-greece-setup-annual-costs/), but get the 5C structure right first.
 
 ## 4. Applying while on a Digital Nomad Visa
 
 Article 5C requires a job with a Greek employer or your own business in Greece. Under the Digital Nomad Visa you declare that you will not work for an employer based in Greece, and the permit gives no right to business activity here. You therefore cannot meet the 5C condition, and the application fails.
 
-You need a residence status that permits Greek employment or self-employment. EU citizens need no visa at all. More in [why the DNV rules out Article 5C](/guides/5c-vs-digital-nomad-visa).
+You need a residence status that permits Greek employment or self-employment. EU citizens need no visa at all. More in [why the DNV rules out Article 5C](/guides/5c-vs-digital-nomad-visa/).
 
 ## 5. Billing your former employer without thinking it through
 
-Many EU remote workers claim 5C by leaving their foreign job, registering a Greek sole proprietorship and invoicing their old employer as a client (see [5C for EU remote workers](/guides/5c-for-eu-remote-workers)). It works, but two things go wrong.
+Many EU remote workers claim 5C by leaving their foreign job, registering a Greek sole proprietorship and invoicing their old employer as a client (see [5C for EU remote workers](/guides/5c-for-eu-remote-workers/)). It works, but two things go wrong.
 
 If your former employer stays your only client under the same working conditions, the arrangement can be challenged as disguised employment, in Greece or in the client's country. And the 50% applies to income tax only: EFKA contributions are paid in full, and VAT returns, myDATA invoicing and the annual return still apply.
 
@@ -99,6 +99,6 @@ No. The 50% exemption applies to income tax only. EFKA contributions are paid in
 
 ## Get the setup right first
 
-Most 5C problems start before the application: the wrong start date, the wrong vehicle, or missing proof. The [5C tax calculator](/greece/5c-tax-calculator) shows what is at stake. We prepare and file the 5C application and the ongoing VAT, myDATA and annual returns as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping); send us a message for a free check of your setup.
+Most 5C problems start before the application: the wrong start date, the wrong vehicle, or missing proof. The [5C tax calculator](/greece/5c-tax-calculator/) shows what is at stake. We prepare and file the 5C application and the ongoing VAT, myDATA and annual returns as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); send us a message for a free check of your setup.
 
 *Rules as of October 2026 (Income Tax Code art. 5C, A.1087/2021 as amended by A.1138/2025).*

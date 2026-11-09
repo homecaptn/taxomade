@@ -41,7 +41,7 @@ Spouses are assessed individually, so one can become non-resident while the othe
 
 [Before you leave](https://www.service-public.gouv.fr/particuliers/vosdroits/F31442), tell the tax office your new address, ideally through the secure messaging in your impots.gouv.fr account. From then on, the Service des impôts des particuliers non-résidents in Noisy-le-Grand is your point of contact; paper returns for the departure year still go to your former tax office.
 
-In Greece, you become [tax resident](/guides/tax-residency-greece-183-days) with your main home or centre of life here, or after 183 days in 12 months. If both countries claim you, Article 4 of the treaty decides along OECD lines: permanent home first, then centre of vital interests, habitual abode and nationality.
+In Greece, you become [tax resident](/guides/tax-residency-greece-183-days/) with your main home or centre of life here, or after 183 days in 12 months. If both countries claim you, Article 4 of the treaty decides along OECD lines: permanent home first, then centre of vital interests, habitual abode and nationality.
 
 ## 2. The year you leave and the exit tax
 
@@ -51,7 +51,7 @@ In the spring of your departure year, you file the usual return for the previous
 
 If you close a micro-entreprise, you [declare the cessation](https://entreprendre.service-public.gouv.fr/vosdroits/F20678?lang=en) on the business formalities portal within 30 days, file your last turnover with URSSAF and report the turnover up to the closing date to the tax office within 60 days.
 
-If you run a French SASU alone from Greece, Greece may treat it as resident because it is managed here; for companies, the treaty decides a dual claim by the place of effective management. Dividends from the SASU remain subject to French withholding within the treaty cap. Agree the structure with your French adviser before you leave. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs).
+If you run a French SASU alone from Greece, Greece may treat it as resident because it is managed here; for companies, the treaty decides a dual claim by the place of effective management. Dividends from the SASU remain subject to French withholding within the treaty cap. Agree the structure with your French adviser before you leave. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs/).
 
 ## 3. The 2022 tax treaty
 
@@ -82,27 +82,27 @@ Greece relieves double taxation under Article 21 by crediting French tax, capped
 
 You close your micro-entreprise or entreprise individuelle, register as a sole trader in Greece and invoice from there.
 
-- **French business clients** are invoiced without VAT under the reverse charge, private clients with Greek VAT; the French franchise en base no longer applies ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients)).
-- **Social security:** under EU Regulation 883/2004 you are insured where you work, so with EFKA, from about €150 per month for new freelancers ([EFKA guide](/guides/efka-social-security-freelancers-greece)). An [A1](https://www.cleiss.fr/reglements/a1.html) from the URSSAF international mobility service only covers temporary work abroad of up to 24 months, or work in several EU countries.
-- **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request, myDATA for every invoice, e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027; invoices to French clients are not covered ([e-invoicing](/guides/e-invoicing-greece-explained)), and a [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax) halved only in your first year with business income.
+- **French business clients** are invoiced without VAT under the reverse charge, private clients with Greek VAT; the French franchise en base no longer applies ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients/)).
+- **Social security:** under EU Regulation 883/2004 you are insured where you work, so with EFKA, from about €150 per month for new freelancers ([EFKA guide](/guides/efka-social-security-freelancers-greece/)). An [A1](https://www.cleiss.fr/reglements/a1.html) from the URSSAF international mobility service only covers temporary work abroad of up to 24 months, or work in several EU countries.
+- **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request, myDATA for every invoice, e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027; invoices to French clients are not covered ([e-invoicing](/guides/e-invoicing-greece-explained/)), and a [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax/) halved only in your first year with business income.
 
-Steps in order: [AFM](/guides/what-is-greek-afm-number), [freelancer setup](/guides/freelancer-setup-greece), [freelancer taxes 2026](/guides/freelancer-taxes-greece-2026).
+Steps in order: [AFM](/guides/what-is-greek-afm-number/), [freelancer setup](/guides/freelancer-setup-greece/), [freelancer taxes 2026](/guides/freelancer-taxes-greece-2026/).
 
-**Employees** who keep a French contract and work permanently from Greece are taxed in Greece on those workdays and fall under EFKA, so the employer must register in Greece. Many switch to freelancing instead ([5C for EU remote workers](/guides/5c-for-eu-remote-workers)).
+**Employees** who keep a French contract and work permanently from Greece are taxed in Greece on those workdays and fall under EFKA, so the employer must register in Greece. Many switch to freelancing instead ([5C for EU remote workers](/guides/5c-for-eu-remote-workers/)).
 
 ## 6. Retirees
 
 - **Tax:** your CNAV state pension and private-sector pensions are taxed only in Greece. A civil servant's pension stays taxed only in France if you are a French national. The French tax office advises asking each pension body [which type of pension it pays](https://www.impots.gouv.fr/international-particulier/questions/comment-declarer-mes-traitements-salaires-et-pensions-et-comment) (private, social security or public) before applying the treaty.
 - **Health:** you request [form S1](https://www.cleiss.fr/particuliers/partir/retraite/ue-eee-suisse_4.html) from your basic pension fund (CNAV, CARSAT, MSA) or, for state civil and military pensions, from the Centre de gestion des retraites, ideally before you leave, and register it with EFKA for Greek care. With a French S1 and tax residence abroad, France deducts a health contribution of 3.2% on basic pensions and 4.2% on supplementary pensions (7.1% on self-employed pensions).
-- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Move by 2 July and you can apply by 31 October of that year; move later and it starts the following year (A.1192/2026). Your CNAV and private-sector pensions are taxed only in Greece, so they fall fully under the 7%, with no French tax to credit. Income the treaty leaves to France alone, such as a French national's public-service pension, falls outside the 7%. Where both countries may tax, such as French rent or dividends, French tax is credited against the 7% up to the Greek tax on that income, and any excess is not refunded (A.1192/2026, art. 5). 5B pays off most for private-sector retirees ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax)).
+- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years. Move by 2 July and you can apply by 31 October of that year; move later and it starts the following year (A.1192/2026). Your CNAV and private-sector pensions are taxed only in Greece, so they fall fully under the 7%, with no French tax to credit. Income the treaty leaves to France alone, such as a French national's public-service pension, falls outside the 7%. Where both countries may tax, such as French rent or dividends, French tax is credited against the 7% up to the Greek tax on that income, and any excess is not refunded (A.1192/2026, art. 5). 5B pays off most for private-sector retirees ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/)).
 
 ## 7. Article 5C: the 50% exemption
 
-If you were not Greek tax resident in **5 of the previous 6 years**, [Article 5C](/guides/50-percent-tax-break-article-5c) exempts 50% of Greek employment or business income for **7 years**. You need a Greek employer, a Greek establishment of a foreign employer, or your own sole proprietorship in Greece (an IKE does not count, nor does a salary from your French SASU). Start by 2 July and you apply by 31 December of that year; later, by 31 December of the next. AADE allows it alongside 5A or 5B. **Digital Nomad Visa holders are not eligible** ([5C vs DNV](/guides/5c-vs-digital-nomad-visa)).
+If you were not Greek tax resident in **5 of the previous 6 years**, [Article 5C](/guides/50-percent-tax-break-article-5c/) exempts 50% of Greek employment or business income for **7 years**. You need a Greek employer, a Greek establishment of a foreign employer, or your own sole proprietorship in Greece (an IKE does not count, nor does a salary from your French SASU). Start by 2 July and you apply by 31 December of that year; later, by 31 December of the next. AADE allows it alongside 5A or 5B. **Digital Nomad Visa holders are not eligible** ([5C vs DNV](/guides/5c-vs-digital-nomad-visa/)).
 
 ## How we can help
 
-We prepare and file the Greek side: tax and business registration, the 5C or 5B application, and your returns as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping). The French exit stays with your French adviser; we share the Greek documents they need. Send us a message for a free check.
+We prepare and file the Greek side: tax and business registration, the 5C or 5B application, and your returns as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/). The French exit stays with your French adviser; we share the Greek documents they need. Send us a message for a free check.
 
 ## Frequently asked questions
 

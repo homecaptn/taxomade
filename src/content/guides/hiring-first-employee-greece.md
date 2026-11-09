@@ -29,9 +29,9 @@ Your first hire in Greece is a bigger step than it looks from abroad. The salary
 
 ## 1. Register as an employer
 
-**Sole proprietor:** you register yourself as an employer on e-EFKA through gov.gr and receive an employer number (AME, ΑΜΕ). It is online only, free, and asks for each employee's AFM (tax number), AMKA (social security number), specialty and start date. You need to be registered with AADE and insured with [EFKA](/guides/efka-social-security-freelancers-greece) yourself first. Details on the setup are in [how to register as a freelancer in Greece](/guides/freelancer-setup-greece).
+**Sole proprietor:** you register yourself as an employer on e-EFKA through gov.gr and receive an employer number (AME, ΑΜΕ). It is online only, free, and asks for each employee's AFM (tax number), AMKA (social security number), specialty and start date. You need to be registered with AADE and insured with [EFKA](/guides/efka-social-security-freelancers-greece/) yourself first. Details on the setup are in [how to register as a freelancer in Greece](/guides/freelancer-setup-greece/).
 
-**IKE:** a company formed through the GEMI one-stop-shop gets its employer number automatically at incorporation. Note that the IKE's administrator is insured as self-employed, not as an employee; your first hire is usually the first person on the company's payroll. The company side is covered in [setting up an IKE](/guides/ike-greece-setup-annual-costs).
+**IKE:** a company formed through the GEMI one-stop-shop gets its employer number automatically at incorporation. Note that the IKE's administrator is insured as self-employed, not as an employee; your first hire is usually the first person on the company's payroll. The company side is covered in [setting up an IKE](/guides/ike-greece-setup-annual-costs/).
 
 ## 2. ERGANI II: file before the first working hour
 
@@ -88,7 +88,7 @@ Employee aged 31 or over, no children, 2026 rates, simplified to 14 equal paymen
 | Income tax withheld | ≈ €1,885 | ≈ €135 |
 | **Employee net pay** | **≈ €16,300** | **≈ €1,165** |
 
-Rule of thumb: **total cost ≈ 17 × monthly gross**, net pay ≈ 78% of gross. An employee aged 25 or under pays no income tax on the first €20,000 and takes home about €1,300 per payment on the same salary. Not included: overtime, occupational-risk surcharges, work-card equipment and the accountant's payroll fee ([what accountants charge in Greece](/guides/accountant-cost-greece)).
+Rule of thumb: **total cost ≈ 17 × monthly gross**, net pay ≈ 78% of gross. An employee aged 25 or under pays no income tax on the first €20,000 and takes home about €1,300 per payment on the same salary. Not included: overtime, occupational-risk surcharges, work-card equipment and the accountant's payroll fee ([what accountants charge in Greece](/guides/accountant-cost-greece/)).
 
 ## 6. Probation and dismissal
 
@@ -98,12 +98,12 @@ A probation period of **up to six months** can be agreed. During the **first 12 
 
 - **EU citizens** need no work permit, only an AFM and AMKA.
 - **Non-EU citizens** need a residence permit with the right to work, or an employer-led invitation procedure. Since Law 5275/2026 the minimum contract for invited workers is six months (previously 12), and single residence-and-work permit applications must be decided within 90 days.
-- **Digital Nomad Visa holders** cannot work for a Greek employer; the visa only covers work for employers and clients outside Greece. They are also not eligible for Article 5C ([5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa)).
+- **Digital Nomad Visa holders** cannot work for a Greek employer; the visa only covers work for employers and clients outside Greece. They are also not eligible for Article 5C ([5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa/)).
 - **Someone living in another country** generally falls under that country's employment and social security rules; for one or two people abroad, an Employer of Record is often simpler.
 
 ### Hiring someone under Article 5C
 
-If your new employee moves to Greece and qualifies for [Article 5C](/guides/50-percent-tax-break-article-5c) (not Greek tax resident in 5 of the last 6 years), they give you a copy of their AADE approval decision, and payroll then withholds income tax on only 50% of their salary. EFKA stays on the full gross. That is a real recruiting argument, but only with the approval in hand; the employee side is explained in [5C for employees and remote workers](/guides/5c-for-eu-remote-workers).
+If your new employee moves to Greece and qualifies for [Article 5C](/guides/50-percent-tax-break-article-5c/) (not Greek tax resident in 5 of the last 6 years), they give you a copy of their AADE approval decision, and payroll then withholds income tax on only 50% of their salary. EFKA stays on the full gross. That is a real recruiting argument, but only with the approval in hand; the employee side is explained in [5C for employees and remote workers](/guides/5c-for-eu-remote-workers/).
 
 ## Common mistakes
 
@@ -133,6 +133,6 @@ During the first 12 months of an open-ended contract, the employer can terminate
 
 ## How taxomade can help
 
-We prepare and file the employer registration where needed, the ERGANI II declarations, monthly payroll, the APD and withholding returns, alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping). Bookkeeping for a sole proprietor starts from €89/month; IKE bookkeeping and payroll are priced separately, depending on your setup and number of employees. Send us a message before your first hire, not after it.
+We prepare and file the employer registration where needed, the ERGANI II declarations, monthly payroll, the APD and withholding returns, alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping/). Bookkeeping for a sole proprietor starts from €89/month; IKE bookkeeping and payroll are priced separately, depending on your setup and number of employees. Send us a message before your first hire, not after it.
 
 *Rules as of November 2026 (Law 5053/2023, Law 5239/2025, Law 5246/2025, Law 5275/2026, e-EFKA circular 4/2026; the 2027 contribution cut is not yet law, the 2027 minimum wage not yet set, and the worked example is simplified).*

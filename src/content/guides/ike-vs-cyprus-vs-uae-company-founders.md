@@ -42,13 +42,13 @@ Founders comparing a Greek IKE, a Cyprus Ltd and a UAE company usually start wit
 
 The IKE is taxed at [22% corporate income tax](https://www.taxheaven.gr/law/4172/2013/arthro/58). When profit is paid out, [5% dividend tax](https://www.aade.gr/sites/default/files/2020-02/e2012_2020pro.pdf) is withheld. Profit left in the company carries 22% only.
 
-Formation takes a few days. The ongoing costs are what count: trade fee, EFKA for the administrator, double-entry books and monthly VAT returns, all covered in our [IKE setup and annual costs guide](/guides/ike-greece-setup-annual-costs). A statutory audit applies only above [size thresholds](https://www.eea.gr/wp-content/uploads/2018/11/elteereyna-gia-ta-oria-ypagogis-ton-oikonomikon-katastaseon-se-elegxo-1.pdf) that a typical founder company stays well below.
+Formation takes a few days. The ongoing costs are what count: trade fee, EFKA for the administrator, double-entry books and monthly VAT returns, all covered in our [IKE setup and annual costs guide](/guides/ike-greece-setup-annual-costs/). A statutory audit applies only above [size thresholds](https://www.eea.gr/wp-content/uploads/2018/11/elteereyna-gia-ta-oria-ypagogis-ton-oikonomikon-katastaseon-se-elegxo-1.pdf) that a typical founder company stays well below.
 
 ## Cyprus Ltd
 
 From tax year 2026, Cyprus taxes company profits at 15%, up from 12.5%, under the tax reform laws published in the Official Gazette on 31 December 2025. The reform also abolished deemed dividend distribution for profits earned after 31 December 2025 and added an incorporation test to company residence.
 
-Cyprus generally does not withhold tax on dividends paid to non-resident individuals. Annual financial statements go through a statutory audit by a licensed auditor; small companies below the size thresholds can now opt for a lighter review by the auditor instead. [VAT is 19%](https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/6F2D9F654287FF02C2258251002C8130), with registration above [€15,600](https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/88A7B920B681122AC22582510035432D) of taxable supplies. Official sources: the [Cyprus Tax Department](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) and the [Registrar of Companies](https://www.companies.gov.cy/en/about). For personal tax in Cyprus, see [Greece vs Cyprus, Portugal and Spain for freelancers](/guides/greece-vs-cyprus-portugal-spain-freelancers).
+Cyprus generally does not withhold tax on dividends paid to non-resident individuals. Annual financial statements go through a statutory audit by a licensed auditor; small companies below the size thresholds can now opt for a lighter review by the auditor instead. [VAT is 19%](https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/6F2D9F654287FF02C2258251002C8130), with registration above [€15,600](https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/88A7B920B681122AC22582510035432D) of taxable supplies. Official sources: the [Cyprus Tax Department](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) and the [Registrar of Companies](https://www.companies.gov.cy/en/about). For personal tax in Cyprus, see [Greece vs Cyprus, Portugal and Spain for freelancers](/guides/greece-vs-cyprus-portugal-spain-freelancers/).
 
 ## UAE company
 
@@ -62,7 +62,7 @@ The default UAE withholding tax rate is 0%. [VAT](https://mof.gov.ae/en/public-f
 
 ### 1. You are taxed on worldwide income
 
-If you are a Greek tax resident, [AADE taxes your worldwide income](https://www.aade.gr/en/node/11055). Dividends from a Cyprus or UAE company are taxed at 5% in Greece, as from an IKE. Foreign tax on that income is credited up to the Greek tax on it. See [tax residency in Greece](/guides/tax-residency-greece-183-days).
+If you are a Greek tax resident, [AADE taxes your worldwide income](https://www.aade.gr/en/node/11055). Dividends from a Cyprus or UAE company are taxed at 5% in Greece, as from an IKE. Foreign tax on that income is credited up to the Greek tax on it. See [tax residency in Greece](/guides/tax-residency-greece-183-days/).
 
 ### 2. The company can become Greek tax resident
 
@@ -90,13 +90,13 @@ Income from active services is not on the passive list. For such businesses, the
 
 ## Which one fits?
 
-- **You live in Greece and run the business from here:** a Greek IKE often matches reality. Compare it with a sole proprietorship and, if you qualify, the 50% exemption under [Article 5C](/guides/50-percent-tax-break-article-5c).
+- **You live in Greece and run the business from here:** a Greek IKE often matches reality. Compare it with a sole proprietorship and, if you qualify, the 50% exemption under [Article 5C](/guides/50-percent-tax-break-article-5c/).
 - **You plan to live in Cyprus or the UAE:** personal residence and real substance there decide, not the headline rate.
 - **You already own a Cyprus or UAE company and are moving to Greece:** check where it will be managed before you move, with your adviser in that country.
 
 ## Get a free check
 
-At taxomade we prepare and file accounts, VAT returns and tax returns for Greek IKEs and sole proprietors; we don't set up Cyprus or UAE companies. Living in Greece and weighing a structure? Send us a message on [WhatsApp](https://wa.me/491743426818) for a free check, or see our [ongoing bookkeeping service](/greece/ongoing-bookkeeping).
+At taxomade we prepare and file accounts, VAT returns and tax returns for Greek IKEs and sole proprietors; we don't set up Cyprus or UAE companies. Living in Greece and weighing a structure? Send us a message on [WhatsApp](https://wa.me/491743426818) for a free check, or see our [ongoing bookkeeping service](/greece/ongoing-bookkeeping/).
 
 ## Frequently asked questions
 
