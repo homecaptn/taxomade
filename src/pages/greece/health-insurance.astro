@@ -2,13 +2,15 @@
 import Layout from '../../layouts/Layout.astro';
 import RelatedGuides from '../../components/RelatedGuides.astro';
 
-// Placeholder until BDAE sends the Greece landing page link
-const BDAE_URL = 'https://www.bdae.com/';
-const BDAE_LINK_IS_PLACEHOLDER = true;
+// BDAE partner links (Orga-Nr. T258845, tracking code M258845)
+const BDAE_INFINITY_URL = 'https://oapp.bdae.com/en/agent/expat-infinity-basepricefinder?m=2&mid=M258845';
+const BDAE_SMART_URL = 'https://oapp.bdae.com/en/expat-smart-pricefinder?m=2&mid=M258845';
+const BDAE_ENTITLEMENT_URL = 'https://oapp.bdae.com/en/entitlement-pricefinder?m=2&mid=M258845';
+const BDAE_LIABILITY_URL = 'https://oapp.bdae.com/de/expat-haftpflicht-preisermittlung?m=2&mid=M258845';
 const faqSchema = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do I need private health insurance in Greece?", "acceptedAnswer": {"@type": "Answer", "text": "Not if you are covered through EFKA as an employee or self-employed person in Greece; your contributions include public health cover. You usually need private insurance for a visa or residence permit, before your Greek registration is complete, or if you want private hospitals and worldwide cover."}}, {"@type": "Question", "name": "Does EFKA include health insurance?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. EFKA social security contributions include public health cover through EOPYY, the national health service provider, for you and usually your dependants."}}, {"@type": "Question", "name": "Is private health insurance required for the Greek Digital Nomad Visa?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The Digital Nomad Visa, the financially independent person permit and the Golden Visa all require proof of health insurance that covers you in Greece. Check the exact requirements with your consulate."}}, {"@type": "Question", "name": "Can taxomade recommend a health insurance plan?", "acceptedAnswer": {"@type": "Answer", "text": "No. We work with BDAE as a partner, but advice and applications are handled directly by BDAE. We don't compare plans or quote prices."}}]};
 ---
 
-<Layout title="Health Insurance in Greece for Expats: EFKA vs Private Cover | taxomade" description="Health insurance in Greece for expats: what EFKA covers, when you need private cover (visas, gaps, worldwide protection) and our partner BDAE.">
+<Layout title="Health Insurance in Greece for Expats: EFKA vs Private Cover | taxomade" description="Health insurance in Greece for expats: what EFKA covers, when you need private cover (visas, gaps, worldwide protection), liability and accident cover, and our partner BDAE.">
   <main class="pt-32 pb-24 md:pt-40 bg-white">
     <article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
       <p class="text-sm font-bold uppercase tracking-wider text-blue-800 mb-4">Health insurance</p>
@@ -35,7 +37,7 @@ const faqSchema = {"@context": "https://schema.org", "@type": "FAQPage", "mainEn
 
         <h2>Our own experience</h2>
         <p>
-          We, Manoli and Leonard, have both been insured with BDAE for years. We have also travelled a lot over the past years, and it is good to know we are covered in other countries too. That is our personal experience; what is covered depends on the plan you choose with BDAE.
+          We, Manoli and Leonard, have both been insured with BDAE for years, with international health insurance as well as liability and accident insurance. We have also travelled a lot over the past years, and it is good to know we are covered in other countries too. That is our personal experience; what is covered depends on the plan you choose with BDAE.
         </p>
       </div>
 
@@ -48,17 +50,32 @@ const faqSchema = {"@context": "https://schema.org", "@type": "FAQPage", "mainEn
             <p class="text-slate-600">BDAE (Hamburg) specialises in health insurance for people living abroad. Advice and applications are handled directly by BDAE. We don't compare plans, quote prices or help with applications.</p>
           </div>
         </div>
-        <div class="mt-6">
-          <a href={BDAE_URL} target="_blank" rel="sponsored noopener" data-cta="bdae-health-insurance" class="inline-flex items-center justify-center px-6 py-3 text-base font-bold rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors">
-            Visit BDAE
-            <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+        <div class="mt-6 grid gap-3 sm:grid-cols-2">
+          <a href={BDAE_INFINITY_URL} target="_blank" rel="sponsored noopener" data-cta="bdae-infinity" class="flex flex-col justify-center px-6 py-4 rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors">
+            <span class="text-base font-bold">Expat Infinity</span>
+            <span class="text-sm text-slate-300">Long-term cover, no time limit</span>
           </a>
-          {BDAE_LINK_IS_PLACEHOLDER && (
-            <p class="mt-3 text-sm text-slate-600">Please mention <strong>taxomade</strong> when contacting BDAE.</p>
-          )}
+          <a href={BDAE_SMART_URL} target="_blank" rel="sponsored noopener" data-cta="bdae-smart" class="flex flex-col justify-center px-6 py-4 rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors">
+            <span class="text-base font-bold">Expat Smart</span>
+            <span class="text-sm text-slate-300">Cover for up to 5 years</span>
+          </a>
         </div>
+        <p class="mt-3 text-sm text-slate-600">Which plan fits you is something to clarify directly with BDAE.</p>
         <p class="mt-6 text-xs text-slate-500">We may receive a commission from our partners. This does not affect the price you pay.</p>
       </section>
+
+      <div class="prose prose-slate prose-lg max-w-none mt-12">
+        <h2>Other cover worth considering</h2>
+        <p>
+          Health insurance is the most important one, but it is not the only gap when you move abroad. BDAE also offers:
+        </p>
+        <ul>
+          <li><strong>Prospective entitlement.</strong> If you are not sure yet whether you will stay abroad long term, you can lock in your current state of health and switch to full international cover later without a new health check. Useful, for example, before leaving statutory health insurance in Germany. <a href={BDAE_ENTITLEMENT_URL} target="_blank" rel="sponsored noopener" data-cta="bdae-entitlement">See prospective entitlement</a></li>
+          <li><strong>Personal liability insurance.</strong> Covers damage you cause to others, valid worldwide. BDAE's Expat Haftpflicht is available to German citizens. <a href={BDAE_LIABILITY_URL} target="_blank" rel="sponsored noopener" data-cta="bdae-liability">See liability insurance (German)</a></li>
+          <li><strong>Accident insurance.</strong> Pays out after an accident that leads to permanent disability, regardless of where in the world it happens. Ask BDAE directly about Expat Accident.</li>
+        </ul>
+        <p class="text-sm">Advice and applications for all products are handled directly by BDAE.</p>
+      </div>
 
       <section class="mt-12 rounded-2xl border border-emerald-100 bg-emerald-50/60 p-6 md:p-8">
         <h2 class="text-2xl font-bold text-slate-900 mb-3">Health insurance is one part of your setup</h2>
