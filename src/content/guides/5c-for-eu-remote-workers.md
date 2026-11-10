@@ -2,7 +2,7 @@
 title: "Article 5C for Employees and Remote Workers in Greece (2026 Guide)"
 description: "Article 5C for employees in Greece: who qualifies, Greek vs foreign employers, payroll withholding, deadlines and what happens if you change jobs."
 pubDate: 2026-07-02
-updatedDate: 2026-10-20
+updatedDate: 2026-11-10
 category: "tax"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -61,7 +61,7 @@ This is where most people get it wrong.
 Two cautions on the self-employed route:
 
 - If your former employer is your only client, on the same terms as before, the arrangement can be challenged as disguised employment, in Greece or in the client's country. A broader client base and genuinely changed terms reduce that risk.
-- Where 20% withholding applies to your fees, it is calculated on the full fee, not on half. The exemption is applied when your annual return is assessed ([E.2224/2021](https://www.taxheaven.gr/circulars/38210/e-2224-2021), para. 18–20).
+- Where 20% withholding applies to your fees, it is calculated on the full fee, not on half. The exemption is applied when your annual return is assessed ([E.2224/2021](https://www.taxheaven.gr/circulars/38210/e-2224-2021), para. 17–18).
 
 ## Public-sector employees: included since May 2026
 
@@ -98,7 +98,7 @@ The application is filed online in myAADE (Applications → Tax services → Inc
 - **Start on or before 2 July:** apply by 31 December of the same year and the regime applies from that year. You may also file in the following year, but then the regime only starts in that following year and your start-year salary is taxed in full.
 - **Start after 2 July:** apply by 31 December of the following year. The regime starts in that following year.
 
-The tax office decides within 60 days. If AADE's records cannot confirm your prior non-residence, you upload proof, typically a tax residency certificate from your previous country. If an application is rejected for missing documents, it is re-examined if you file them by 31 March of the following year. Your foreign tax ID and your last foreign address are mandatory fields.
+If ERGANI confirms your employment automatically, the decision is issued at once; otherwise the tax office decides within 60 days and gives you 30 days to supply anything missing. If AADE's records cannot confirm your prior non-residence, you upload proof for each missing year: a tax residence certificate from your previous country, a copy of your tax return there, or a certificate from another competent authority. If an application is rejected for missing documents, it is re-examined if you file them by 31 March of the following year. Your foreign tax ID and your last foreign address are mandatory fields.
 
 Separate decisions are issued per income category and per employer. If you later add a second job or switch from employment to self-employment, you file a new request and the new decision covers the remaining years.
 
@@ -150,4 +150,4 @@ A change of employer is notified to AADE and the regime continues for the remain
 
 If you are moving to Greece with a job offer, or working remotely from here and unsure which route fits, taxomade reviews your situation and prepares and files the application alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping/). Message us on WhatsApp for a free check.
 
-*Rules as of October 2026 (A.1087/2021 as amended by A.1138/2025 and A.1096/2026).*
+*Rules as of November 2026 (sources: Income Tax Code art. 5C; AADE decision A.1087/2021 as amended by A.1138/2025 and A.1096/2026; AADE 5C FAQ of 2 October 2025; circular E.2224/2021).*

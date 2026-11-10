@@ -2,7 +2,7 @@
 title: "Why the Digital Nomad Visa Rules Out the 50% Tax Break (Article 5C)"
 description: "Why Digital Nomad Visa holders cannot use Greece's 50% Article 5C tax break, how DNV income is taxed, and the routes that do qualify."
 pubDate: 2026-06-25
-updatedDate: 2026-10-20
+updatedDate: 2026-11-10
 category: "tax"
 image: "/images/guides/dnv_mistakes_hero.png"
 faq:
@@ -60,7 +60,7 @@ Working from your laptop in Athens for a foreign company does not trigger Articl
 
 **Employment with a Greek entity.** A job with a Greek company, or the Greek branch of your employer, meets the employment condition, but you need a work-based permit, such as the EU Blue Card or an employer-initiated work permit under the Migration Code. An Employer of Record that is itself a Greek company and employs you under a Greek contract may also meet the wording, but AADE has not published guidance on such setups, so check before relying on it.
 
-**The Golden Visa.** It gives residence through property investment but generally no right to employment. Holders can be shareholders or board members of a Greek company such as an IKE, but that does not bring 5C: the company's profits are taxed at company level (22% corporate tax plus 5% on dividends). See [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs/).
+**The Golden Visa.** It gives residence through property investment but generally no right to employment. Holders can be shareholders of a Greek company such as an IKE, but dividends and company profits do not bring 5C: profits are taxed at company level (22% corporate tax plus 5% on dividends). Paid director or manager fees count as employment income for 5C ([E.2224/2021](https://www.aade.gr/sites/default/files/2021-12/e_2224_2021ada.pdf)), but only if your permit allows that role; check before relying on it. See [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs/).
 
 ## Frequently asked questions
 
@@ -84,4 +84,4 @@ No. EU citizens can live and work in Greece without a visa and can use Article 5
 
 If you are an EU citizen, or already hold a status that allows work in Greece, the [Article 5C tax calculator](/greece/5c-tax-calculator/) shows what the exemption would save you. We prepare and file the 5C application and the ongoing filings as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); send us a message for a free check of your situation.
 
-*Rules as of October 2026 (Law 5038/2023 art. 68 as amended by Law 5275/2026, Income Tax Code art. 5C).*
+*Rules as of November 2026 (sources: Law 5038/2023 art. 68 as amended by Law 5275/2026; Income Tax Code art. 5C; AADE 5C FAQ of 2 October 2025).*

@@ -2,14 +2,14 @@
 title: "How the 50% Tax Break Works (Article 5C)"
 description: "Greece's Article 5C: 50% income tax exemption for 7 years if you move your tax residence here. Conditions, deadlines and how to apply in 2026."
 pubDate: 2026-06-27
-updatedDate: 2026-10-19
+updatedDate: 2026-11-10
 category: "tax"
 image: "/images/guides/tax_break_hero.png"
 faq:
   - question: "Who qualifies for the 50% tax break in Greece?"
     answer: "People who move their tax residence to Greece from an EU/EEA country or a country with a tax cooperation agreement, were not Greek tax resident in 5 of the previous 6 years, take up employment with a Greek employer (or the Greek branch of a foreign company) or start an individual business in Greece, and declare they will stay at least two years."
   - question: "What is the deadline to apply for Article 5C?"
-    answer: "If your job or business starts on or before 2 July, apply by 31 December of the same year. If it starts after 2 July, apply by 31 December of the following year. A later application usually shifts the first year of the regime rather than losing it."
+    answer: "If your job or business starts on or before 2 July, apply by 31 December of the same year. If it starts after 2 July, apply by 31 December of the following year. If you started by 2 July and miss that year's deadline, you can still apply in the following year, but the regime then starts in that year."
   - question: "Can remote workers for foreign companies get 5C?"
     answer: "Not as employees of a foreign company without a Greek presence. The usual route is to register as self-employed in Greece and invoice the foreign company as a client, or to work for a Greek employer or the Greek branch of a foreign company."
   - question: "Can Digital Nomad Visa holders apply for 5C?"
@@ -44,7 +44,7 @@ You must meet *all* of the following conditions:
 
 1. **Previous non-resident status:** you were not a Greek tax resident in at least 5 of the 6 years before the move.
 2. **Where you come from:** you transfer your tax residency from an EU or EEA member state, or from a country with which Greece has an administrative cooperation agreement on tax matters.
-3. **Activity in Greece:** you take up employment with a Greek legal entity or the Greek permanent establishment of a foreign company, **or** you register an individual business (sole proprietorship, ατομική επιχείρηση) in Greece. Profits from a company such as an IKE are not covered: only salary from a Greek employer or income from your own sole proprietorship.
+3. **Activity in Greece:** you take up employment with a Greek legal entity or the Greek permanent establishment of a foreign company, **or** you register an individual business (sole proprietorship, ατομική επιχείρηση) in Greece. Profits from a company such as an IKE are not covered: only salary from a Greek employer or income from your own sole proprietorship. Fees paid to a director or managing partner of a Greek company count as employment income ([AADE circular E.2224/2021](https://www.aade.gr/sites/default/files/2021-12/e_2224_2021ada.pdf)); dividends and company profits do not.
 4. **Intent to stay:** you declare that you will remain in Greece for at least two years, counted from 1 January of the first year of the regime.
 
 [Law 5222/2025](https://taxblock.gr/forologikos-odigos-template/katargisi-tis-par-6-tou-arthrou-5g-kfe-ti-allazei-me-ton-n-5222-2025/) removed the condition that a job had to be a "newly created position", effective 28 July 2025. And since [decision A.1096/2026](https://www.taxheaven.gr/circulars/52732/a-1096-2026) (spring 2026), people moving to work in the Greek public sector can also apply, including for applications filed from 28 July 2025.
@@ -74,9 +74,13 @@ The deadline depends on when your job or business starts ([AADE](https://www.aad
 
 If you started by 2 July, a late application within the following year shifts the regime to that year; after that, the window is gone.
 
-The procedure follows decision A.1087/2021 as rewritten by [A.1138/2025](https://www.taxheaven.gr/circulars/51291/a-1138-2025). For employees, the system checks your employment automatically against the ERGANI register; if everything matches, the decision is immediate. Otherwise you upload documents, typically including a tax residence certificate from your previous country, and the tax office decides, with 30 days to supply anything missing (A.1138/2025). 5C can run alongside Article 5A or 5B if you meet the conditions of each ([AADE 5C FAQ](https://www.aade.gr/sites/default/files/2025-10/FAQS_5G_KFE.pdf)). Once approved, employers withhold tax on only the taxable half, and the exemption also appears in your annual return.
+The procedure follows decision A.1087/2021 as rewritten by [A.1138/2025](https://www.taxheaven.gr/circulars/51291/a-1138-2025). For employees, the system checks your employment automatically against the ERGANI register; if everything matches, the decision is immediate. Otherwise you upload documents, typically a tax residence certificate from your previous country, and the tax office decides within 60 days, with 30 days to supply anything missing (A.1138/2025). 5C can run alongside Article 5A or 5B if you meet the conditions of each ([AADE 5C FAQ](https://www.aade.gr/sites/default/files/2025-10/FAQS_5G_KFE.pdf)). Once approved, employers withhold tax on only the taxable half, and the exemption also appears in your annual return.
 
 To estimate what 5C saves in your case, use the [5C tax calculator](/greece/5c-tax-calculator/); for help with the application, see our [50% tax break service](/greece/50-percent-tax-break/).
+
+## A 2026 addition: carried interest
+
+Since 2026, [Law 5313/2026](https://www.ey.com/en_gr/technical/tax/tax-alerts/new-tax-provisions-on-individuals-transferring-tax-residency-in-greece-and-alternative-investment-funds) taxes carried interest at 5% instead of 15% for 5C employees of a Greek entity that services investment fund managers and spends at least €3 million a year in Greece. It runs for up to seven years. It is a niche rule for the fund industry; the core 50% exemption and its conditions did not change.
 
 ## Common mistakes
 
@@ -95,7 +99,7 @@ People who move their tax residence to Greece from an EU/EEA country or a countr
 
 ### What is the deadline to apply for Article 5C?
 
-If your job or business starts on or before 2 July, apply by 31 December of the same year. If it starts after 2 July, apply by 31 December of the following year. A later application usually shifts the first year of the regime rather than losing it.
+If your job or business starts on or before 2 July, apply by 31 December of the same year. If it starts after 2 July, apply by 31 December of the following year. If you started by 2 July and miss that year's deadline, you can still apply in the following year, but the regime then starts in that year.
 
 ### Can remote workers for foreign companies get 5C?
 
@@ -113,4 +117,4 @@ No. The 50% exemption applies to income tax only. EFKA contributions are paid in
 
 5C only pays off if the books behind it are right every year: the exemption appears in each annual return, and self-employed people still file VAT and myDATA. We prepare and file the 5C application and the ongoing filings as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); send us a message for a free check of your setup.
 
-*Rules as of October 2026 (A.1138/2025, A.1096/2026).*
+*Rules as of November 2026 (sources: Income Tax Code art. 5C; AADE decisions A.1138/2025 and A.1096/2026; AADE 5C FAQ of 2 October 2025; Law 5313/2026).*

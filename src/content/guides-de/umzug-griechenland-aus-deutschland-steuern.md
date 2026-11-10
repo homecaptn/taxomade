@@ -2,7 +2,7 @@
 title: "Auswandern nach Griechenland: Steuern und Anmeldung für Deutsche (2026)"
 description: "Abmeldung, Wegzugsjahr, DBA 1966, Rente, Krankenversicherung und Wegzugsteuer: Was sich steuerlich ändert, wenn Sie von Deutschland nach Griechenland ziehen."
 pubDate: 2026-10-10
-updatedDate: 2026-11-02
+updatedDate: 2026-11-10
 category: "tax"
 translationOf: "moving-to-greece-from-germany-tax-guide"
 faq:
@@ -15,10 +15,10 @@ faq:
   - question: "Was ist die Wegzugsteuer, und betrifft sie mich?"
     answer: "Die Wegzugsteuer (§6 AStG) greift, wenn Sie mindestens 1 % an einer Kapitalgesellschaft wie einer GmbH halten und in mindestens 7 der letzten 12 Jahre in Deutschland unbeschränkt steuerpflichtig waren. Beim Wegzug besteuert Deutschland den Wertzuwachs Ihrer Anteile so, als hätten Sie sie verkauft. Bis 2021 wurde die Steuer bei Umzügen innerhalb der EU unbefristet und zinslos gestundet; bei Wegzügen seit 2022 wird sie fällig, auf Antrag in sieben Jahresraten, meist gegen Sicherheit."
   - question: "Kann ich als Deutscher den griechischen 50-%-Steuervorteil (Artikel 5C) nutzen?"
-    answer: "Ja, wenn Sie in fünf der letzten sechs Jahre nicht in Griechenland steuerlich ansässig waren und entweder ein Gewerbe oder eine freiberufliche Tätigkeit in Griechenland anmelden oder bei einem griechischen Arbeitgeber anfangen. Deutschland ist EU-Land, die Herkunftsbedingung ist damit erfüllt. Remote-Angestellte eines rein deutschen Arbeitgebers qualifizieren sich als Angestellte nicht; der übliche Weg ist die Selbstständigkeit."
+    answer: "Ja, wenn Sie in fünf der letzten sechs Jahre nicht in Griechenland steuerlich ansässig waren, entweder ein Einzelunternehmen (Gewerbe oder freiberufliche Tätigkeit) in Griechenland anmelden oder bei einem griechischen Arbeitgeber bzw. der griechischen Niederlassung eines ausländischen Unternehmens anfangen und erklären, mindestens zwei Jahre zu bleiben. Deutschland ist EU-Land, die Herkunftsbedingung ist damit erfüllt. Remote-Angestellte eines rein deutschen Arbeitgebers qualifizieren sich als Angestellte nicht; der übliche Weg ist die Selbstständigkeit."
 ---
 
-Der Umzug von Deutschland nach Griechenland ist einer der häufigsten Fälle, die wir sehen: Freiberufler und Remote-Worker, Gründer mit GmbH und Rentner. Die griechische Seite ist für alle gleich, die hierherziehen; was sich je nach Land unterscheidet, ist der Wegzug. Dieser Ratgeber erklärt die deutsche Seite und zeigt Ihnen die passende Anmeldung in Griechenland. Stand: Oktober 2026.
+Der Umzug von Deutschland nach Griechenland ist einer der häufigsten Fälle, die wir sehen: Freiberufler und Remote-Worker, Gründer mit GmbH und Rentner. Die griechische Seite ist für alle gleich, die hierherziehen; was sich je nach Land unterscheidet, ist der Wegzug. Dieser Ratgeber erklärt die deutsche Seite und zeigt Ihnen die passende Anmeldung in Griechenland. Stand: November 2026.
 
 ## Die Kurzfassung
 
@@ -142,4 +142,4 @@ Die Wegzugsteuer (§6 AStG) greift, wenn Sie mindestens 1 % an einer Kapitalgese
 
 ### Kann ich als Deutscher den griechischen 50-%-Steuervorteil (Artikel 5C) nutzen?
 
-Ja, wenn Sie in fünf der letzten sechs Jahre nicht in Griechenland steuerlich ansässig waren und entweder ein Gewerbe oder eine freiberufliche Tätigkeit in Griechenland anmelden oder bei einem griechischen Arbeitgeber anfangen. Deutschland ist EU-Land, die Herkunftsbedingung ist damit erfüllt. Remote-Angestellte eines rein deutschen Arbeitgebers qualifizieren sich als Angestellte nicht; der übliche Weg ist die Selbstständigkeit.
+Ja, wenn Sie in fünf der letzten sechs Jahre nicht in Griechenland steuerlich ansässig waren, entweder ein Einzelunternehmen (Gewerbe oder freiberufliche Tätigkeit) in Griechenland anmelden oder bei einem griechischen Arbeitgeber bzw. der griechischen Niederlassung eines ausländischen Unternehmens anfangen und erklären, mindestens zwei Jahre zu bleiben. Deutschland ist EU-Land, die Herkunftsbedingung ist damit erfüllt. Remote-Angestellte eines rein deutschen Arbeitgebers qualifizieren sich als Angestellte nicht; der übliche Weg ist die Selbstständigkeit.
