@@ -24,7 +24,7 @@ const asOfDate = entry.data.updatedDate || entry.data.pubDate;
 const asOf = asOfDate.toLocaleDateString('de-DE', { month: 'long', year: 'numeric' });
 const checkUrl = `https://wa.me/491743426818?text=${encodeURIComponent(`Hallo taxomade, ich habe Ihren Ratgeber "${entry.data.title}" gelesen und hätte gern einen kostenlosen Check meiner Situation.`)}`;
 const alternates = entry.data.translationOf
-  ? [{ lang: 'en', href: `/guides/${entry.data.translationOf}/` }, { lang: 'de', href: `/de/ratgeber/${entry.id}` }]
+  ? [{ lang: 'en', href: `/guides/${entry.data.translationOf}/` }, { lang: 'de', href: `/de/ratgeber/${entry.id}/` }]
   : [];
 
 const articleSchema = {
