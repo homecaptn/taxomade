@@ -2,7 +2,7 @@
 title: "Greek Social Security (EFKA) for Freelancers in 2026: From About €160/Month"
 description: "EFKA for freelancers in Greece in 2026: €250.77/month regular class, the €150.46 reduced class for new freelancers, what it covers, remote employees."
 pubDate: 2026-07-14
-updatedDate: 2026-11-08
+updatedDate: 2026-11-11
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -32,7 +32,7 @@ A newly registered freelancer in Greece who applies for the reduced class pays a
 
 ## How EFKA works for freelancers
 
-EFKA (e-ΕΦΚΑ) is the unified social security fund in Greece. If you [set up a sole proprietorship](/guides/freelancer-setup-greece/) (ατομική επιχείρηση) to work as a freelancer or contractor, you have to register with EFKA and pay monthly contributions by the last working day of the following month (January's contribution by the end of February, and so on).
+EFKA (e-ΕΦΚΑ) is the unified social security fund in Greece. If you [set up a sole proprietorship](/guides/freelancer-setup-greece/) (ατομική επιχείρηση) to work as a freelancer or contractor, you have to register with EFKA by the 10th of the month after your business start, and pay monthly contributions by the last working day of the following month (January's contribution by the end of February, and so on). If you don't register, EFKA registers you itself based on your tax data, normally in class 1 ([e-EFKA circular 14/2022](https://www.taxheaven.gr/circulars/39210/egkyklios-e-efka-14-2022)).
 
 Unlike in many other European countries, your EFKA contributions in Greece **are not a percentage of your income**. Under [Article 39 of Law 4387/2016](https://www.taxheaven.gr/law/4387/2016/arthro/39), self-employed people pay a fixed amount per insurance class.
 
@@ -94,4 +94,4 @@ Usually yes, if they physically work in Greece full-time: the EU rule is that yo
 
 EFKA registration, the application for the reduced class and keeping track of the monthly payment notices are part of taxomade's [ongoing bookkeeping](/greece/ongoing-bookkeeping/), from €89 per month, with myDATA, VAT returns and the annual tax return included: we prepare and file, in English, German or Greek. Late EFKA payments carry surcharges, so it's worth having someone watch the dates. Send us a message via WhatsApp or our contact form for a free compliance check.
 
-*Rules as of November 2026 (Law 4387/2016 art. 39, e-EFKA circular 6/2026, Regulations 883/2004 and 987/2009).*
+*Rules as of November 2026 (sources: Law 4387/2016 art. 39, e-EFKA circulars 6/2026 and 14/2022, Regulations 883/2004 and 987/2009).*

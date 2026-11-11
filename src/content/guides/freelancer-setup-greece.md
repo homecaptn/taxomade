@@ -2,7 +2,7 @@
 title: "Setting up as a Freelancer in Greece: The Complete Guide"
 description: "What a new freelancer in Greece must set up: AFM and business start, EFKA from €150.46/month, myDATA invoicing, VAT and income tax rates for 2026."
 pubDate: 2026-05-14
-updatedDate: 2026-11-07
+updatedDate: 2026-11-11
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -52,7 +52,7 @@ Greece reports every invoice electronically through **myDATA**, the tax authorit
 
 ## Taxes: VAT and income tax
 
-**VAT:** the standard rate is **24%**. Invoices to clients outside the EU, and to business clients in other EU countries under the reverse charge, are usually issued without Greek VAT, but they still go into your returns. Double-entry books, and simple books for businesses started on or after 1 January 2024, file monthly (simple books can switch to quarterly on request after 24 months). Older businesses with simple books file quarterly. If your Greek turnover stays at or below €10,000, you can opt for the small-business VAT exemption (VAT Code art. 44a). See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
+**VAT:** the standard rate is **24%**. Invoices to clients outside the EU, and to business clients in other EU countries under the reverse charge, are usually issued without Greek VAT, but they still go into your returns. Double-entry books, and simple books for businesses started on or after 1 January 2024, file monthly (simple books can switch to quarterly on request after 24 months). Older businesses with simple books file quarterly. If your Greek turnover stays at or below €10,000 in both the current and the previous year, you can opt for the small-business VAT exemption ([VAT Code art. 44a](https://www.taxheaven.gr/law/5144/2024/arthro/44α), AADE decision A.1011/2026). See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
 
 **Income tax** for sole proprietors is progressive. For income from 2026:
 
@@ -97,4 +97,4 @@ For most freelancers, a sole proprietorship is simpler and cheaper. An IKE pays 
 
 The [timeline for moving to Greece as a freelancer](/guides/moving-to-greece-as-freelancer-timeline-payments/) shows what is due when. At taxomade, we prepare and file your business start, VAT returns and annual tax return as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/), from €89 per month, with myDATA included. Send us a message for a free check of your setup.
 
-*Rules as of November 2026 (Income Tax Code art. 5C, 29 and 69, VAT Code art. 44a, Tax Procedure Code art. 53 as amended by Law 5301/2026, Law 4387/2016 art. 39, EFKA circular 6/2026, AADE decisions A.1049/2025 and A.1197/2026; the advance-tax cut is a bill, not yet law).*
+*Rules as of November 2026 (sources: Income Tax Code art. 5C, 29 and 69, VAT Code art. 44a, Tax Procedure Code art. 53 as amended by Law 5301/2026, Law 4387/2016 art. 39, e-EFKA circulars 6/2026 and 14/2022, AADE decisions A.1011/2026, A.1049/2025 and A.1197/2026; the advance-tax cut is a bill, not yet law).*
