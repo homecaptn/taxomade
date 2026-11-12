@@ -2,7 +2,7 @@
 title: "Greek Tax Deadlines Calendar 2026–2027 for Freelancers and Small Businesses"
 description: "Greek tax deadlines 2026–2027: income tax return and instalments, VAT, VIES, EFKA, ENFIA, 5C/5B applications, e-invoicing and late-filing fines."
 pubDate: 2026-10-30
-updatedDate: 2026-11-08
+updatedDate: 2026-11-12
 category: "tax"
 faq:
   - question: "When is the deadline for tax returns in Greece in 2026?"
@@ -38,10 +38,10 @@ Freelancers pay their EFKA contribution every month, whether they earned anythin
 
 ### VAT returns: monthly or quarterly
 
-Whether you file monthly or quarterly depends on your books and your start date ([VAT Code art. 38](https://www.taxheaven.gr/law/2859/2000/arthro/38)):
+Whether you file monthly or quarterly depends on your books and your start date ([VAT Code art. 43, Law 5144/2024](https://www.taxheaven.gr/law/5144/2024/arthro/43)):
 
 - **Double-entry books** (this includes every IKE): monthly.
-- **Simple books, started on or after 1 January 2024:** monthly, under [AADE decision A.1049/2025](https://www.taxheaven.gr/circulars/50029/a-1049-2025). After 24 months of activity you can switch to quarterly on request, by the penultimate working day of January, April, July or October.
+- **Simple books, started on or after 1 January 2024:** monthly, under [AADE decision A.1049/2025](https://www.taxheaven.gr/circulars/50029/a-1049-2025): from the start for businesses that began on or after 1 April 2025, and since the July 2025 period for those that began between January 2024 and March 2025. After 24 months of activity you can switch to quarterly on request, by the penultimate working day of January, April, July or October.
 - **Simple books, started before 2024:** quarterly.
 
 The return is due by the **last working day of the month after the period ends**. A monthly filer files September by the end of October. A quarterly filer files July–September by the end of October. Payment is due by the same date. If you file on time and owe more than €100, you can split the payment into two equal instalments, the second due by the last working day of the following month.
@@ -50,7 +50,7 @@ A late VAT return is fined even if it shows nothing to pay (€100), so a zero r
 
 ### VIES recapitulative statement
 
-If you invoice businesses in other EU countries, you also file a recapitulative statement (VIES) for each month in which you made such supplies. It is due by the **26th of the following month** ([AADE decision A.1222/2020](https://www.taxheaven.gr/circulars/34379/a-1222-2020), art. 2). How this interacts with reverse charge and your VAT return is covered in [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
+If you invoice businesses in other EU countries, you also file a recapitulative statement (VIES) for each month in which you made such supplies. It is due by the **26th of the following month**, or the next working day if the 26th is a holiday ([AADE decision A.1222/2020](https://www.taxheaven.gr/circulars/34379/a-1222-2020), art. 2; [AADE guidance](https://aade.gr/exypiretisi-enimerosi/hristikoi-odigoi/enarxi-epiheirimatikis-drastiriotitas/ti-prepei-na-gnorizete-ean-epithymeite-na)). How this interacts with reverse charge and your VAT return is covered in [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
 
 ### myDATA
 
@@ -63,6 +63,8 @@ myDATA isn't a monthly deadline but a continuous one: every invoice you issue ha
 Individuals file their income tax return (form E1, with the E3 business statement for freelancers) between **15 March and 15 July** of the following year ([Income Tax Code art. 67](https://www.taxheaven.gr/law/4172/2013/arthro/67), par. 3).
 
 For tax year 2025, [AADE decision A.1140/2026](https://www.taxheaven.gr/circulars/54406/a-1140-2026) extended the deadline to **24 July 2026**. The same decision extended it to 24 July 2026 for companies, IKEs included, whose tax year ended on 31 December 2025.
+
+Companies, IKEs included, with a calendar tax year file in the same window, 15 March to 15 July of the following year; a company with a different year-end files by the last working day of the sixth month after it ([Income Tax Code art. 68](https://www.taxheaven.gr/law/4172/2013/arthro/68), par. 2).
 
 For tax year 2026, the return is filed in 2027. The legal window is again 15 March to 15 July 2027. AADE sets the exact opening of the platform and any extension each year, and has not published 2027 dates yet.
 
@@ -84,7 +86,7 @@ If you don't pay in full, the tax is paid in **8 equal monthly instalments**. Th
 
 The income tax assessment includes an advance on next year's tax. For freelancers and sole traders it is [55% of the tax on business income](https://www.taxheaven.gr/law/4172/2013/arthro/69), minus tax withheld by Greek clients, and halved in the year you first earn business income. It is part of the same bill, so it follows the same instalment dates. For IKEs, the advance is [80% of the tax, halved in the first three tax years](https://www.taxheaven.gr/law/4172/2013/arthro/71).
 
-A bill submitted to Parliament in November 2026 would cut the rate for sole proprietorships from 55% to 50% from tax year 2027 ([To Vima](https://www.tovima.gr/2026/11/04/politics/vouli-katatethike-to-nomosxedio-gia-eksaggelies-deth-kai-meiosi-fpa-se-proionta-periodou/)). It is not yet law. Why the advance hits newcomers hard: [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax/).
+A bill tabled in Parliament on 4 November 2026 would cut the rate for sole proprietorships from 55% to 50% from tax year 2027 ([To Vima](https://www.tovima.gr/2026/11/04/politics/vouli-katatethike-to-nomosxedio-gia-eksaggelies-deth-kai-meiosi-fpa-se-proionta-periodou/)). It went to the plenary on 12 November 2026 ([To Vima](https://www.tovima.gr/2026/11/12/politics/sti-vouli-to-paketo-metron-tis-deth-ti-allazei-se-forous-syntakseis-misthous-kai-epidomata/)) and is not yet law. Why the advance hits newcomers hard: [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax/).
 
 ## ENFIA: the property tax
 
@@ -125,7 +127,7 @@ A transition period runs until **31 January 2027**, but only if you filed a decl
 | April | Q1 VAT return |
 | May | 15 May: last day for the 4% early-filing discount |
 | June | 15 June: last day for the 3% discount |
-| July | 2 July: 5C/5B cut-off for start or move dates; 15 July: filing deadline and 2% discount (2026: 24 July); Q2 VAT return; first income tax instalment (last working day) |
+| July | 2 July: 5C/5B cut-off for start or move dates; 15 July: filing deadline for individuals and calendar-year IKEs, and 2% discount (2026: 24 July); Q2 VAT return; first income tax instalment (last working day) |
 | August–December | Income tax and ENFIA instalments (last working day) |
 | October | Q3 VAT return; 31 October: Article 5B application |
 | November | 2 November 2026: mandatory e-invoicing for small businesses |
@@ -171,4 +173,4 @@ AADE issued the 2026 ENFIA assessments in March. You can pay in one go or in up 
 
 It depends on the return. A late VAT return costs €100 if it shows nothing to pay, and €250 (simple books) or €500 (double-entry books) if tax is due. A late income tax return showing €100 of tax or less is not fined; above that, the fine is €250 or €500 with business income, otherwise €100. A late VIES recapitulative statement costs €100. The fine is issued when you file late.
 
-*Rules as of November 2026 (Income Tax Code art. 67, 69 and 71, Law 5297/2026 art. 249, A.1140/2026, VAT Code art. 38, A.1049/2025, A.1222/2020, Law 4223/2013 art. 8, A.1192/2026, A.1197/2026, Art. 53 Law 5104/2024).*
+*Rules as of November 2026 (sources: Income Tax Code art. 67, 68, 69 and 71, Law 5297/2026 art. 249, A.1140/2026, VAT Code (Law 5144/2024) art. 43, A.1049/2025, A.1222/2020, Law 4223/2013 art. 8, A.1192/2026, A.1197/2026, Art. 53 Law 5104/2024).*

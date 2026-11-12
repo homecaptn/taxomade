@@ -2,7 +2,7 @@
 title: "Switching Accountants in Greece: A Step-by-Step Guide (2026)"
 description: "How to switch accountants in Greece without gaps: myAADE authorizations, what your old accountant must hand over, best timing and how long it takes."
 pubDate: 2026-10-07
-updatedDate: 2026-11-08
+updatedDate: 2026-11-12
 category: "bookkeeping"
 faq:
   - question: "Can I change my accountant in Greece in the middle of the year?"
@@ -86,7 +86,7 @@ Ask for the documents to go straight to your new accountant, and keep a written 
 You can switch any day, but some moments are easier than others:
 
 - **End of a month** keeps the accounting periods clean.
-- **Not right before a deadline:** VAT returns, for example, are due by the last working day of the month after the period ends ([VAT Code art. 38](https://www.taxheaven.gr/law/2859/2000/arthro/38)), and the VIES statement for EU clients by the 26th. Switching a few days before that adds unnecessary pressure. See the [Greek tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026/).
+- **Not right before a deadline:** VAT returns, for example, are due by the last working day of the month after the period ends ([VAT Code art. 43, Law 5144/2024](https://www.taxheaven.gr/law/5144/2024/arthro/43)), and the VIES statement for EU clients by the 26th. Switching a few days before that adds unnecessary pressure. See the [Greek tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026/).
 - **Before your annual tax return season** (the filing window usually opens in mid-March) is a good moment if you want your new accountant to handle the full year.
 
 ## How long it takes
@@ -121,4 +121,4 @@ Copies of all filed tax and VAT returns with proof of submission, your books and
 
 In our experience, a clean handover usually takes about a week once your records are available. It can take longer if your old accountant is slow to send documents or if past filings need correcting.
 
-*Rules as of November 2026 (Art. 53 Law 5104/2024; VAT Code art. 38; myAADE menu names can change).*
+*Rules as of November 2026 (sources: Art. 53 Law 5104/2024; VAT Code (Law 5144/2024) art. 43; myAADE menu names can change).*
