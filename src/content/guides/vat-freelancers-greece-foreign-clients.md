@@ -89,7 +89,7 @@ A late VAT return is fined even when it shows nothing to pay: **€100** per ret
 
 ### What about the small business VAT exemption?
 
-Freelancers whose Greek turnover stays at or under **€10,000** in both the current and the previous year can opt for the [small business exemption](https://www.taxheaven.gr/circulars/51970/a-1011-2026) ([Art. 44a of the VAT Code](https://www.taxheaven.gr/law/5144/2024/arthro/44%CE%B1), AADE decision A.1011/2026): no Greek VAT on your domestic invoices, but also no deduction of VAT on your own costs. New businesses choose it in their registration declaration; existing ones apply through "My Requests" in myAADE, and it applies from approval. Cross the limit during the year and you move to the normal VAT regime immediately, starting with the invoice that takes you over it. Whether it pays off depends on your client mix and costs, so check it before you register.
+Freelancers whose Greek turnover stays at or under **€10,000** in both the current and the previous year can opt for the [small business exemption](/guides/vat-small-business-exemption-greece/) ([Art. 44a of the VAT Code](https://www.taxheaven.gr/law/5144/2024/arthro/44%CE%B1), AADE decision A.1011/2026): no Greek VAT on your domestic invoices, but also no deduction of VAT on your own costs. New businesses choose it in their registration declaration; existing ones apply through "My Requests" in myAADE, and it applies from approval. Cross the limit during the year and you move to the normal VAT regime immediately, starting with the invoice that takes you over it. Whether it pays off depends on your client mix and costs, so check it before you register.
 
 ## E-invoicing: what changes in November 2026
 

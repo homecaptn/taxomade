@@ -52,7 +52,7 @@ Greece reports every invoice electronically through **myDATA**, the tax authorit
 
 ## Taxes: VAT and income tax
 
-**VAT:** the standard rate is **24%**. Invoices to clients outside the EU, and to business clients in other EU countries under the reverse charge, are usually issued without Greek VAT, but they still go into your returns. Double-entry books, and simple books for businesses started on or after 1 January 2024, file monthly (simple books can switch to quarterly on request after 24 months). Older businesses with simple books file quarterly. If your Greek turnover stays at or below €10,000 in both the current and the previous year, you can opt for the small-business VAT exemption ([VAT Code art. 44a](https://www.taxheaven.gr/law/5144/2024/arthro/44α), AADE decision A.1011/2026). See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
+**VAT:** the standard rate is **24%**. Invoices to clients outside the EU, and to business clients in other EU countries under the reverse charge, are usually issued without Greek VAT, but they still go into your returns. Double-entry books, and simple books for businesses started on or after 1 January 2024, file monthly (simple books can switch to quarterly on request after 24 months). Older businesses with simple books file quarterly. If your Greek turnover stays at or below €10,000 in both the current and the previous year, you can opt for the [small-business VAT exemption](/guides/vat-small-business-exemption-greece/) (VAT Code art. 44a, AADE decision A.1011/2026). See [VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
 
 **Income tax** for sole proprietors is progressive. For income from 2026:
 
