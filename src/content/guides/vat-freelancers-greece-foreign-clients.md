@@ -46,6 +46,8 @@ For this to be valid, three things must be true:
 2. **Your invoice shows both VAT numbers** — yours (EL + your AFM) and your client's.
 3. **Your invoice carries the reverse charge wording.** A clean formulation: *"Reverse charge — Articles 44 and 196 of Council Directive 2006/112/EC. VAT to be accounted for by the recipient."*
 
+The other mandatory fields and the myDATA invoice types to use are covered in [invoicing foreign clients from Greece](/guides/invoicing-foreign-clients-greece/).
+
 ## The step almost everyone misses: VIES registration
 
 You can't just start invoicing EU businesses. Before your first intra-Community transaction, your Greek VAT number must be entered in the intra-Community (VIES) register with the tax authority, AADE ([AADE guidance](https://aade.gr/exypiretisi-enimerosi/hristikoi-odigoi/enarxi-epiheirimatikis-drastiriotitas/ti-prepei-na-gnorizete-ean-epithymeite-na)). Without this, your number won't validate when your client checks it — and many EU companies will refuse to pay an invoice from a supplier whose number doesn't validate.
