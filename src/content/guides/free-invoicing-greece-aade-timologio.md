@@ -2,7 +2,7 @@
 title: "How to Invoice Clients as a Greek Freelancer (Free AADE timologio Guide)"
 description: "Invoicing as a freelancer in Greece with AADE's free timologio app: myDATA, MARK, VAT codes for foreign clients and the November 2026 e-invoicing rules."
 pubDate: 2026-07-07
-updatedDate: 2026-11-07
+updatedDate: 2026-11-13
 category: "bookkeeping"
 image: "/images/guides/timologio_hero.png"
 faq:
@@ -47,8 +47,8 @@ timologio is a free, web-based application provided directly by AADE, designed f
 1. **It is free.** No subscription fees, no setup costs.
 2. **Direct myDATA integration.** The moment you click "Issue", the invoice is transmitted to the tax authority and the MARK number and QR code are added to the PDF.
 3. **Greek interface, English invoices.** The app itself is in Greek, but once your templates are set up the workflow is a few clicks, and since the [April 2026 update](https://aade.gr/sites/default/files/2026-04/dt_21.04.2026.pdf) (version 2.0, live from 22 April) the invoice document itself can be issued in English for foreign clients.
-4. **Handles cross-border VAT.** For business clients abroad you select the "no VAT, Article 14 VAT Code" exemption (place of supply outside Greece). For EU clients, this is the reverse-charge case: you need a VIES registration, the client's valid VAT ID on the invoice and a monthly recapitulative statement. For US or UK clients the service is outside Greek VAT scope: same code, no reverse-charge wording. Details in our [VAT guide for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
-5. **Works with the small-business VAT exemption.** If your Greek turnover stays at or below €10,000 in both the current and the previous year, you can opt for the [small-business exemption](https://www.taxheaven.gr/circulars/51970/a-1011-2026) (Article 44a VAT Code, AADE decision A.1011/2026) and invoice Greek clients without VAT, citing that exemption. New freelancers choose it in their registration declaration; existing ones apply through "My Requests" (Τα Αιτήματά μου) in myAADE with form Δ211.
+4. **Handles cross-border VAT.** You pick the myDATA invoice type that matches the client: 2.1 for Greek clients, 2.2 for services to EU businesses, 2.3 for services to clients outside the EU. For business clients abroad you select the "no VAT, Article 18 VAT Code" exemption (place of supply of services outside Greece; Article 14 under the old VAT Code, now Law 5144/2024). For EU clients, this is the reverse-charge case: you need a VIES registration, the client's valid VAT ID on the invoice and a monthly recapitulative statement. For US or UK clients the service is outside Greek VAT scope: same code, no reverse-charge wording. Details in our [VAT guide for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/).
+5. **Works with the small-business VAT exemption.** If your Greek turnover stays at or below €10,000 in both the current and the previous year, you can opt for the [small-business exemption](https://www.taxheaven.gr/circulars/51970/a-1011-2026) (Article 44a VAT Code, Law 5144/2024; joint decision A.1011/2026) and invoice Greek clients without VAT, citing that exemption. New freelancers choose it in their Δ211 registration declaration; existing ones file an application through "My Requests" (Τα Αιτήματά μου) in myAADE together with a Δ211 change declaration.
 
 ### What timologio is not
 
@@ -56,15 +56,15 @@ timologio is *only* an invoicing tool, not accounting software. It does not calc
 
 ## November 2026: timologio becomes your compliance channel
 
-From **2 November 2026**, invoices to Greek businesses and businesses outside the EU (US, UK, Switzerland) have to be issued through an approved e-invoicing channel: a licensed provider, or AADE's free apps. Invoices to the public sector have had to be electronic since 1 September 2025. Invoices to EU businesses and to private individuals are not covered yet, but still go to myDATA as before. A transition period until 31 January 2027 applies to businesses that declared their invoicing method in time.
+From **2 November 2026**, invoices to Greek businesses and businesses outside the EU (US, UK, Switzerland) have to be issued through an approved e-invoicing channel: an AADE-certified provider, or AADE's free apps. Invoices to the public sector have had to be electronic since 1 September 2025. Invoices to EU businesses and to private individuals are not covered yet, but still go to myDATA as before. A transition period until 31 January 2027 applies to businesses that declared their invoicing method in time.
 
-If you issue all in-scope invoices through timologio or myDATAapp, you do not need to file a declaration. If you want to keep your current invoicing method in parallel during the transition, you need a declaration of use for timologio (or a provider's declaration) with a start date no later than 2 November 2026 ([A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). An in-scope invoice not issued through an approved channel is treated as a missing invoice under [Article 57 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/57): 50% of the VAT with a minimum of €250 (simple books) or €500 (double-entry) for a first offence, rising for repeat offences, or a fixed €500 or €1,000 per audit if the invoice carries no VAT. Full details, deadlines and penalties are in our [e-invoicing guide](/guides/e-invoicing-greece-explained/).
+If you issue all in-scope invoices through timologio or myDATAapp, you do not need to file a declaration. If you want to keep your current invoicing method in parallel during the transition, you need a declaration of use for timologio (or a provider's declaration) with a start date no later than 2 November 2026 ([A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)), filed in time (generally read as by 12 November 2026). Missed it? Then every in-scope invoice must go through timologio or a provider from now on. An in-scope invoice issued any other way counts as a missing invoice under [Article 57 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/57): from 50% of the VAT (minimum €250 with single-entry books, €500 with double-entry), or a fixed €500 or €1,000 per audit if the invoice carries no VAT. Full details, deadlines and penalties are in our [e-invoicing guide](/guides/e-invoicing-greece-explained/).
 
 ## How to set it up
 
-To use timologio, you need your Greek TAXISnet credentials, the login details for the tax portal that you receive with your [AFM number](/guides/what-is-greek-afm-number/).
+To use timologio, you need your Greek TAXISnet credentials, the login details for the tax portal that you receive with your AFM (Greek tax number).
 
-1. **Log in** to the timologio portal via the official AADE website.
+1. **Log in** to timologio via the official AADE website.
 2. **Configure your profile.** Upload your logo, set your business details and define your standard services. Your accountant should help you set up the correct VAT exemption codes for your client base.
 3. **Add clients.** Enter the VAT numbers and addresses of your foreign clients.
 4. **Issue.** Create a new invoice, select the client, enter the amount and hit issue. The PDF is generated, registered with the state and ready to email.
@@ -97,4 +97,4 @@ MARK (Μοναδικός Αριθμός Καταχώρησης) is the unique re
 
 timologio is free, but the first invoice is where the mistakes happen: wrong activity code (KAD), wrong VAT exemption reason, missing VIES check. In our [ongoing bookkeeping](/greece/ongoing-bookkeeping/), from €89 per month, we set up your timologio profile and exemption codes with you and handle the myDATA and VAT side from there.
 
-*Rules as of November 2026 (joint decision A.1128/2025 as amended by A.1197/2026, A.1129/2025, VAT Code arts. 14 and 44a, Tax Procedure Code art. 57).*
+*Rules as of November 2026 (sources: joint decision A.1128/2025 as amended by A.1197/2026, A.1129/2025, A.1011/2026, AADE circular E.2004/2026, VAT Code (Law 5144/2024) arts. 18 and 44a, Tax Procedure Code (Law 5104/2024) art. 57, AADE announcement of 21.04.2026 on timologio 2.0).*
