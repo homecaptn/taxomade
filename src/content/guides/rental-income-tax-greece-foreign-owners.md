@@ -2,7 +2,7 @@
 title: "Rental Income Tax in Greece for Foreign Property Owners (2026)"
 description: "How Greece taxes rent from long-term leases and Airbnb in 2026: the 15–45% scale, form E2, ENFIA, short-term rental rules and tax credit at home."
 pubDate: 2026-11-05
-updatedDate: 2026-11-09
+updatedDate: 2026-11-14
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -75,7 +75,7 @@ Residential leases carry no stamp duty. Commercial leases pay a 3.6% digital tra
 
 ### The three-year exemption for empty homes
 
-Homes of up to 120 m² that were empty (or used only for short-term rental) and are let on a lease of at least three years can have the rent fully exempt for 36 months. The lease must be signed by **31 December 2026**. An extension to leases signed by 31 December 2027 is in a bill tabled in Parliament on 4 November 2026, not yet law. If the home goes back on Airbnb within the three years, the exemption is lost retroactively.
+Homes of up to 120 m² that were empty (or used only for short-term rental) and are let on a lease of at least three years can have the rent fully exempt for 36 months. The lease must be signed by **31 December 2027** (article 72(91) of the Income Tax Code, extended from the end of 2026 by article 13 of [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026)). If the home goes back on Airbnb within the three years, the exemption is lost retroactively.
 
 ## Short-term rentals (Airbnb, Booking)
 
@@ -136,4 +136,4 @@ Usually yes. Greece taxes the rent first; your country of residence then exempts
 
 Not if you take legal action in time: by the filing deadline, a payment or eviction order must have been issued against the tenant, or you must have sued for eviction or the rent. You declare it under a special code and pay tax when you collect it.
 
-*Rules as of November 2026 (Income Tax Code arts. 39 and 40, Law 4172/2013, as amended by Law 5246/2025; Tax Procedure Code art. 53, Law 5104/2024; AADE FAQ on short-term rentals; climate resilience fee: Law 5162/2024; Golden Visa short-let ban: Law 5100/2024; Germany–Greece treaty art. XVII; the empty-home extension is in a bill tabled on 4 November 2026, not yet law; the 2027 Athens and Thessaloniki freeze is announced, not yet issued).*
+*Rules as of November 2026 (sources: Income Tax Code arts. 39 and 40, Law 4172/2013, as amended by Law 5246/2025; Tax Procedure Code art. 53, Law 5104/2024; AADE FAQ on short-term rentals; climate resilience fee: Law 5162/2024; Golden Visa short-let ban: Law 5100/2024; Germany–Greece treaty art. XVII; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 13; the 2027 Athens and Thessaloniki freeze is announced, not yet issued).*

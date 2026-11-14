@@ -2,6 +2,7 @@
 title: "Golden Visa Greece 2026: Tax Obligations After You Get the Permit"
 description: "What Golden Visa holders owe Greece each year: tax residence, E1 and E2 returns, ENFIA, the Airbnb ban, work limits and the €100,000 and 7% regimes."
 pubDate: 2026-11-09
+updatedDate: 2026-11-14
 category: "tax"
 image: "/images/guides/afm_hero.png"
 faq:
@@ -74,7 +75,7 @@ The permit is renewed for five years at a time while the property "remains in yo
 
 The 2026 thresholds: €800,000 in Attica, Thessaloniki, Mykonos, Santorini and islands over 3,100 residents; €400,000 elsewhere, in both cases for a single home of at least 120 m²; €250,000 for conversions and listed buildings.
 
-A bill tabled in Parliament on 4 November 2026, not yet law, would raise transfer tax on residential purchases to 15% (15.45% with the municipal surcharge) for buyers tax resident outside the EU/EEA, on final contracts from 1 July 2027. The test is tax residence, not nationality. Buyers who settle in Greece and qualify for the first-home exemption would be exempt; a Golden Visa purchase alone would not. It matters if you swap properties, not for what you own.
+Article 16 of [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) raises transfer tax on homes bought by individuals tax resident outside the EU/EEA to 15% instead of 3% (15.45% instead of 3.09% with the municipal surcharge), on final contracts from 1 July 2027. The test is tax residence, not nationality. Buyers entitled to the first-home exemption (article 42 of the Property Tax Code) are exempt; a Golden Visa purchase alone does not qualify. It matters if you swap properties, not for what you own.
 
 ## If you move to Greece for real
 
@@ -118,4 +119,4 @@ Not on the Golden Visa. The investor permit gives no right to any form of employ
 
 ENFIA, the annual property tax, assessed on what you own on 1 January, and the municipal property fee (TAP), charged through the electricity bill. If you let the property long-term, the rent is taxed at 15% to 45% and you file an E1 return with form E2.
 
-*Rules as of November 2026 (sources: Migration Code (Law 5038/2023) arts. 95 and 100, as amended by Law 5100/2024, art. 64, and Law 5275/2026, art. 29; Law 4446/2016, art. 111; Circular 1/2026 of the Ministry of Migration and Asylum; Income Tax Code arts. 4, 5A, 5B, 5C and 33; AADE FAQ for non-residents (November 2025); AADE decisions A.1069/2024 and A.1147/2026; Law 2130/1993, art. 24; the 15% transfer tax is in a bill tabled in Parliament on 4 November 2026, not yet voted).*
+*Rules as of November 2026 (sources: Migration Code (Law 5038/2023) arts. 95 and 100, as amended by Law 5100/2024, art. 64, and Law 5275/2026, art. 29; Law 4446/2016, art. 111; Circular 1/2026 of the Ministry of Migration and Asylum; Income Tax Code arts. 4, 5A, 5B, 5C and 33; AADE FAQ for non-residents (November 2025); AADE decisions A.1069/2024 and A.1147/2026; Law 2130/1993, art. 24; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 16).*

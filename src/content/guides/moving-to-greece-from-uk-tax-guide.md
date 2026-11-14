@@ -2,7 +2,7 @@
 title: "Moving to Greece from the UK: Tax, Residency and Setup Guide (2026)"
 description: "Moving from the UK to Greece: UK tax exit, the 1953 treaty, pensions, ISAs, National Insurance, visas and the Greek setup for freelancers and retirees."
 pubDate: 2026-10-14
-updatedDate: 2026-10-16
+updatedDate: 2026-11-14
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -85,7 +85,7 @@ You become Greek tax resident with your main home or centre of life here, or onc
 
 **UK property.** Rent stays taxable in the UK, with the personal allowance that British citizens can still claim as non-residents, and is declared again in Greece with credit. If you sell a UK home as a non-resident, [non-resident CGT](https://www.gov.uk/guidance/capital-gains-tax-for-non-residents-calculating-taxable-gain-or-loss) applies on the gain since April 2015, reported and paid within 60 days; treaties do not shelter it.
 
-**Buying in Greece:** you need a Greek tax number before the deed, and a 15% transfer tax for non-EU buyers has been announced from 2027 ([details](/guides/afm-greece-property-buyers-non-residents/)).
+**Buying in Greece:** you need a Greek tax number before the deed, and under [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) (art. 16), homes bought by individuals tax resident outside the EU/EEA, which includes UK residents, pay 15% transfer tax instead of 3% (15.45% instead of 3.09% with the municipal surcharge) on final contracts from 1 July 2027, unless the article 42 first-home exemption applies ([details](/guides/afm-greece-property-buyers-non-residents/)).
 
 ## 6. Freelancers and remote workers
 
@@ -149,4 +149,4 @@ You can keep it but you cannot pay in while you are non-UK resident, and you mus
 
 From 6 April 2026, voluntary Class 2 contributions for periods abroad are no longer available to new applicants. Class 3 is possible if you have ten years of UK residence or contributions, at a higher rate. Existing Class 3 payers continue unchanged; if you were already paying Class 2 from abroad, you can apply to move to Class 3 under the old eligibility rules until 6 April 2027.
 
-*Rules reflect UK and Greek law as of October 2026. The 15% transfer tax for non-EU buyers is an announced measure, not legislation.*
+*Rules as of November 2026 (sources: UK and Greek law as reviewed in October 2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 16).*

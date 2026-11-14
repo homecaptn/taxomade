@@ -2,6 +2,7 @@
 title: "Moving to Greece from the US: Tax and Setup Guide (2026)"
 description: "Moving from the US to Greece: US filing abroad, FEIE vs foreign tax credit, FBAR, the 1950 treaty, Social Security, state tax and the Greek setup."
 pubDate: 2026-10-20
+updatedDate: 2026-11-14
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -86,9 +87,9 @@ Beyond 90 days in 180, Americans need a national visa and residence permit. The 
 
 ## 8. The Greek side
 
-You become [Greek tax resident](/guides/tax-residency-greece-183-days/) with your main home or centre of life here, or after 183 days in a 12-month period. Step one is your [AFM](/guides/what-is-greek-afm-number/), also needed before buying property ([AFM for buyers](/guides/afm-greece-property-buyers-non-residents/)). Income tax runs from 9% to 44%; the return is filed mid-March to 15 July.
+You become [Greek tax resident](/guides/tax-residency-greece-183-days/) with your main home or centre of life here, or after 183 days in a 12-month period. Step one is your [AFM](/guides/what-is-greek-afm-number/), also needed before buying property ([AFM for buyers](/guides/afm-greece-property-buyers-non-residents/)). Buy a home while still US tax resident and, on final contracts from 1 July 2027, transfer tax is 15% instead of 3% (15.45% instead of 3.09% with the municipal surcharge), unless the article 42 first-home exemption applies ([Law 5355/2026](https://www.taxheaven.gr/law/5355/2026), art. 16). Income tax runs from 9% to 44%; the return is filed mid-March to 15 July.
 
-**Freelancers** register a business, join EFKA by the 10th of the month after starting (new starters €150.46 per month plus €10 for most freelancers; lowest standard class €250.77), file VAT monthly for the first 24 months and pay a tax advance on next year's tax (55%, halved in the first year with business income). Mandatory B2B e-invoicing is being phased in from 2 November 2026; check with your accountant when it applies to invoices to US clients. Steps: [freelancer setup](/guides/freelancer-setup-greece/), [EFKA guide](/guides/efka-social-security-freelancers-greece/).
+**Freelancers** register a business, join EFKA by the 10th of the month after starting (new starters €150.46 per month plus €10 for most freelancers; lowest standard class €250.77), file VAT monthly for the first 24 months and pay a tax advance on next year's tax (55%, halved in the first year with business income; cut to 50% from the advance assessed with the 2027 tax return under article 12 of Law 5355/2026). Mandatory B2B e-invoicing is being phased in from 2 November 2026; check with your accountant when it applies to invoices to US clients. Steps: [freelancer setup](/guides/freelancer-setup-greece/), [EFKA guide](/guides/efka-social-security-freelancers-greece/).
 
 **Article 5C** exempts 50% of Greek employment or business income for seven years, if you were not Greek tax resident in 5 of the last 6 years and take a Greek job or register a business here ([how 5C works](/guides/50-percent-tax-break-article-5c/)). The move must come from a tax cooperation state; for the US that rests on the treaty's information exchange and the FATCA agreement, so confirm it when you apply.
 
@@ -122,4 +123,4 @@ Generally yes, if you were not Greek tax resident in 5 of the last 6 years, take
 
 The 1950 treaty has no Social Security article. US citizens stay subject to US tax on up to 85% of benefits, and as a Greek tax resident you also declare them in Greece, which generally credits US tax on US-source income. How this works with the 7% retiree regime needs an individual check.
 
-*Rules as of October 2026. US and Greek rules change; check the current figures before you act.*
+*Rules as of November 2026 (sources: US and Greek rules as reviewed in October 2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), arts. 12 and 16).*
