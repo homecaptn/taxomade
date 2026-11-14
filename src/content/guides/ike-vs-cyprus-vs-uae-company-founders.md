@@ -2,6 +2,7 @@
 title: "Greek IKE vs Cyprus Ltd vs UAE Company for Founders (2026): Tax, Substance, Costs"
 description: "Greek IKE, Cyprus Ltd or UAE company in 2026? Corporate tax, dividends, substance, audit and VAT compared, and why living in Greece changes the answer."
 pubDate: 2026-11-03
+updatedDate: 2026-11-14
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -42,7 +43,7 @@ Founders comparing a Greek IKE, a Cyprus Ltd and a UAE company usually start wit
 
 The IKE is taxed at [22% corporate income tax](https://www.taxheaven.gr/law/4172/2013/arthro/58). When profit is paid out, [5% dividend tax](https://www.aade.gr/sites/default/files/2020-02/e2012_2020pro.pdf) is withheld. Profit left in the company carries 22% only.
 
-Formation takes a few days. The ongoing costs are what count: trade fee, EFKA for the administrator, double-entry books and monthly VAT returns, all covered in our [IKE setup and annual costs guide](/guides/ike-greece-setup-annual-costs/). A statutory audit applies only above [size thresholds](https://www.eea.gr/wp-content/uploads/2018/11/elteereyna-gia-ta-oria-ypagogis-ton-oikonomikon-katastaseon-se-elegxo-1.pdf) that a typical founder company stays well below.
+Formation takes a few days. The ongoing costs are what count: EFKA for the administrator, the trade fee for premises in Attica (none outside Attica or on the Attica islands from tax year 2026, half for tax year 2027, abolished from tax year 2028 under Law 5355/2026, arts. 14 and 31), double-entry books and monthly VAT returns, all covered in our [IKE setup and annual costs guide](/guides/ike-greece-setup-annual-costs/). A statutory audit applies only above [size thresholds](https://www.eea.gr/wp-content/uploads/2018/11/elteereyna-gia-ta-oria-ypagogis-ton-oikonomikon-katastaseon-se-elegxo-1.pdf) that a typical founder company stays well below.
 
 ## Cyprus Ltd
 
@@ -120,4 +121,4 @@ Not automatically. A Qualifying Free Zone Person pays 0% corporate tax on qualif
 
 15%. The Cyprus tax reform raised the rate from 12.5% for tax year 2026 and abolished the deemed dividend distribution rules for profits earned after 31 December 2025.
 
-*Rules as of November 2026 (Greece: Income Tax Code arts. 4, 40, 58, 64 and 66, Law 4172/2013; Cyprus: 2026 tax reform; UAE: Federal Decree-Law No. 47 of 2022 as amended, Cabinet Decision No. 100 of 2023, Ministerial Decision No. 84 of 2025).*
+*Rules as of November 2026 (sources: Greece: Income Tax Code arts. 4, 40, 58, 64 and 66, Law 4172/2013, Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) arts. 14 and 31; Cyprus: 2026 tax reform; UAE: Federal Decree-Law No. 47 of 2022 as amended, Cabinet Decision No. 100 of 2023, Ministerial Decision No. 84 of 2025).*

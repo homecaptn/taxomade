@@ -2,7 +2,7 @@
 title: "Already Living in Greece Without a Tax Setup? A 2026 Fix-It Checklist"
 description: "Moved to Greece but never sorted out your taxes? Check tax residency, register your work, file late returns and see what the 2026 fines really are."
 pubDate: 2026-10-07
-updatedDate: 2026-11-08
+updatedDate: 2026-11-14
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -77,7 +77,7 @@ Late-payment interest of 0.73% per month on the unpaid tax comes on top, and the
 
 If you were only employed, or had no business activity, catching up is usually limited to these fixed fines plus interest, far less than after a tax audit. If you worked as a freelancer without registering, fines for the missing registration, invoices and books can come on top, so get the full picture before you file.
 
-If you also owe tax, budget for the [advance tax and other hidden costs](/guides/hidden-costs-moving-to-greece-advance-tax/) that come with a Greek setup. A bill submitted to Parliament in November 2026 would cut the advance tax for sole proprietors from 55% to 50% from tax year 2027 ([To Vima](https://www.tovima.gr/2026/11/04/politics/vouli-katatethike-to-nomosxedio-gia-eksaggelies-deth-kai-meiosi-fpa-se-proionta-periodou/)). Until it passes, the 55% applies.
+If you also owe tax, budget for the [advance tax and other hidden costs](/guides/hidden-costs-moving-to-greece-advance-tax/) that come with a Greek setup. [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) (art. 12) cuts the advance for individuals with business income from 55% to 50%, starting with the advance assessed on the tax year 2027 return, filed in 2028. The return for tax year 2026, filed in 2027, still carries 55%.
 
 ## Step 5: Check the 5C regime before it's too late
 
@@ -115,4 +115,4 @@ Yes. If you are tax resident in Greece and work as a freelancer, you must regist
 
 Possibly, but the application has deadlines and conditions, including that you were not Greek tax resident in five of the last six years. Employees only qualify with a Greek employer or a Greek branch of a foreign company. Applying late can cost you a year of the benefit, so check your eligibility as soon as possible.
 
-*Rules as of November 2026 (Tax Procedure Code, Law 5104/2024, arts. 53 and 57, as amended by Law 5301/2026; VAT Code art. 44a; Income Tax Code art. 4 and 5C; AADE decisions A.1011/2026 and A.1197/2026; the advance-tax cut is in a bill submitted to Parliament in November 2026, not yet law).*
+*Rules as of November 2026 (sources: Tax Procedure Code, Law 5104/2024, arts. 53 and 57, as amended by Law 5301/2026; VAT Code art. 44a; Income Tax Code art. 4 and 5C; AADE decisions A.1011/2026 and A.1197/2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 12).*

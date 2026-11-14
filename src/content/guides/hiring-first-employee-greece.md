@@ -2,7 +2,7 @@
 title: "Hiring Your First Employee in Greece: Costs, ERGANI & EFKA (2026)"
 description: "What it really costs to hire your first employee in Greece in 2026: employer EFKA, 14 salaries, ERGANI II, the digital work card and a worked example."
 pubDate: 2026-10-15
-updatedDate: 2026-11-05
+updatedDate: 2026-11-14
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -59,7 +59,7 @@ The digital work card records each employee's actual start and end of work in re
 | Employee (withheld from pay) | 13.37% |
 | Total | 35.16% |
 
-Contributions are calculated on gross pay up to €7,761.94 a month. The payroll declaration (APD, ΑΠΔ) and payment are due by the last working day of the following month; when the declaration deadline is extended, the payment deadline is not. A 0.5-point cut on the employee side (unemployment contribution, from 1.20% to 0.70%) from 1 April 2027 is in a bill tabled in Parliament on 4 November 2026; it is not law yet.
+Contributions are calculated on gross pay up to €7,761.94 a month. The payroll declaration (APD, ΑΠΔ) and payment are due by the last working day of the following month; when the declaration deadline is extended, the payment deadline is not. From 1 April 2027, [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) (art. 21) cuts the employee's unemployment contribution by 0.5 points, from 1.20% to 0.70% (total employee rate 13.37% to 12.87%); the employer's 1.20% stays. Until then, the rates above apply.
 
 **Income tax withholding** follows the 2026 scale (9% to 44%, [Law 5246/2025](https://www.taxheaven.gr/law/5246/2025/arthro/3)), with lower rates for employees under 30 and for parents. Payroll works out the annual tax, deducts the employee tax credit and withholds one fourteenth each month.
 
@@ -135,4 +135,4 @@ During the first 12 months of an open-ended contract, the employer can terminate
 
 We prepare and file the employer registration where needed, the ERGANI II declarations, monthly payroll, the APD and withholding returns, alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping/). Bookkeeping for a sole proprietor starts from €89/month; IKE bookkeeping and payroll are priced separately, depending on your setup and number of employees. Send us a message before your first hire, not after it.
 
-*Rules as of November 2026 (Law 5053/2023, Law 5239/2025, Law 5246/2025, Law 5275/2026, e-EFKA circular 4/2026; the 2027 contribution cut is not yet law, the 2027 minimum wage not yet set, and the worked example is simplified).*
+*Rules as of November 2026 (sources: Law 5053/2023, Law 5239/2025, Law 5246/2025, Law 5275/2026, e-EFKA circular 4/2026, Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 21; the 2027 minimum wage is not yet set, and the worked example is simplified).*

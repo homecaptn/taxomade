@@ -2,7 +2,7 @@
 title: "Greek Tax Return (E1) for Foreigners: Step by Step (2026)"
 description: "How to file the Greek E1 tax return as a foreigner: who must file, E1/E2/E3, myAADE access, deadlines, the 4/3/2% discount, foreign income and fines."
 pubDate: 2026-11-06
-updatedDate: 2026-11-08
+updatedDate: 2026-11-14
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -82,7 +82,7 @@ A common problem: the regime is approved, but the income goes under the regular 
 
 On submission, myAADE issues the assessment (ekkatharistiko): tax due, refund or zero.
 
-For freelancers the assessment also includes **advance tax** on next year's income: 55% of the tax on business income, halved in the first year with business income ([art. 69](https://www.taxheaven.gr/law/4172/2013/arthro/69)). A cut to 50% from tax year 2027 is in a bill submitted to Parliament in November 2026; it is **not yet law**. See [the advance tax trap](/guides/hidden-costs-moving-to-greece-advance-tax/).
+For freelancers the assessment also includes **advance tax** on next year's income: 55% of the tax on business income, halved in the first year with business income ([art. 69](https://www.taxheaven.gr/law/4172/2013/arthro/69)). [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) (art. 12) cuts it to **50%** from the return for tax year 2027, filed in 2028; the return for tax year 2026, filed in 2027, still carries 55%. See [the advance tax trap](/guides/hidden-costs-moving-to-greece-advance-tax/).
 
 ### Discount for early filing
 
@@ -153,4 +153,4 @@ As a Greek tax resident, you declare your foreign income in the E1 together with
 
 Up to €100 of tax, including zero or a refund, there is no fine. Above that, the fine is €100, or €250 (simple books) or €500 (double-entry books) if the return covers business income. It is issued automatically when you file.
 
-*Rules as of November 2026 (Income Tax Code arts. 9, 67 and 69; Law 5297/2026 art. 249; AADE decision A.1140/2026; Art. 53 Law 5104/2024; AADE guidance for non-residents and press release of 16 March 2026; the cut in advance tax to 50% is in a bill submitted to Parliament in November 2026, not yet law).*
+*Rules as of November 2026 (sources: Income Tax Code arts. 9, 67 and 69; Law 5297/2026 art. 249; AADE decision A.1140/2026; Art. 53 Law 5104/2024; AADE guidance for non-residents and press release of 16 March 2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 12).*

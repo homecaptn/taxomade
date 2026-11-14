@@ -2,7 +2,7 @@
 title: "Greek Tax Deadlines Calendar 2026–2027 for Freelancers and Small Businesses"
 description: "Greek tax deadlines 2026–2027: income tax return and instalments, VAT, VIES, EFKA, ENFIA, 5C/5B applications, e-invoicing and late-filing fines."
 pubDate: 2026-10-30
-updatedDate: 2026-11-12
+updatedDate: 2026-11-14
 category: "tax"
 faq:
   - question: "When is the deadline for tax returns in Greece in 2026?"
@@ -86,7 +86,7 @@ If you don't pay in full, the tax is paid in **8 equal monthly instalments**. Th
 
 The income tax assessment includes an advance on next year's tax. For freelancers and sole traders it is [55% of the tax on business income](https://www.taxheaven.gr/law/4172/2013/arthro/69), minus tax withheld by Greek clients, and halved in the year you first earn business income. It is part of the same bill, so it follows the same instalment dates. For IKEs, the advance is [80% of the tax, halved in the first three tax years](https://www.taxheaven.gr/law/4172/2013/arthro/71).
 
-A bill tabled in Parliament on 4 November 2026 would cut the rate for sole proprietorships from 55% to 50% from tax year 2027 ([To Vima](https://www.tovima.gr/2026/11/04/politics/vouli-katatethike-to-nomosxedio-gia-eksaggelies-deth-kai-meiosi-fpa-se-proionta-periodou/)). It went to the plenary on 12 November 2026 ([To Vima](https://www.tovima.gr/2026/11/12/politics/sti-vouli-to-paketo-metron-tis-deth-ti-allazei-se-forous-syntakseis-misthous-kai-epidomata/)) and is not yet law. Why the advance hits newcomers hard: [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax/).
+[Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) (art. 12) cuts the rate for individuals with business income from 55% to 50%, starting with the advance assessed on the tax year 2027 return, filed in 2028. The return for tax year 2026, filed in 2027, still carries 55%. Why the advance hits newcomers hard: [hidden costs of moving to Greece](/guides/hidden-costs-moving-to-greece-advance-tax/).
 
 ## ENFIA: the property tax
 
@@ -173,4 +173,4 @@ AADE issued the 2026 ENFIA assessments in March. You can pay in one go or in up 
 
 It depends on the return. A late VAT return costs €100 if it shows nothing to pay, and €250 (simple books) or €500 (double-entry books) if tax is due. A late income tax return showing €100 of tax or less is not fined; above that, the fine is €250 or €500 with business income, otherwise €100. A late VIES recapitulative statement costs €100. The fine is issued when you file late.
 
-*Rules as of November 2026 (sources: Income Tax Code art. 67, 68, 69 and 71, Law 5297/2026 art. 249, A.1140/2026, VAT Code (Law 5144/2024) art. 43, A.1049/2025, A.1222/2020, Law 4223/2013 art. 8, A.1192/2026, A.1197/2026, Art. 53 Law 5104/2024).*
+*Rules as of November 2026 (sources: Income Tax Code art. 67, 68, 69 and 71, Law 5297/2026 art. 249, A.1140/2026, VAT Code (Law 5144/2024) art. 43, A.1049/2025, A.1222/2020, Law 4223/2013 art. 8, A.1192/2026, A.1197/2026, Art. 53 Law 5104/2024, Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 12).*

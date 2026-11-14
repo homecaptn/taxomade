@@ -2,12 +2,12 @@
 title: "The Hidden Costs of Moving to Greece: Translations, Apostilles, and the 55% Advance Tax"
 description: "The 55% advance tax, apostilles, certified translations, GEMI fees and presumptive income: what moving to Greece as a freelancer really costs in 2026."
 pubDate: 2026-06-20
-updatedDate: 2026-11-08
+updatedDate: 2026-11-14
 category: "tax"
 image: "/images/guides/tax_break_hero.png"
 faq:
   - question: "What is the advance tax (prokatavoli forou) for freelancers in Greece?"
-    answer: "When you file your annual return, you pay an advance of 55% of your income tax on business income towards next year, on top of the tax actually due. It is halved to 27.5% in the year you first earn business income and is credited against the following year's bill, so it is a cash-flow cost, not a lost cost."
+    answer: "When you file your annual return, you pay an advance of 55% of your income tax on business income towards next year, on top of the tax actually due. It is halved to 27.5% in the year you first earn business income and is credited against the following year's bill, so it is a cash-flow cost, not a lost cost. Law 5355/2026 (art. 12) lowers the rate to 50% from the return for tax year 2027, filed in 2028."
   - question: "Do I need an apostille and a certified translation for the Article 5C application?"
     answer: "Usually yes. Foreign documents such as tax residency certificates need an apostille (typically up to about €50 per document, depending on the issuing country) and a certified Greek translation by a translator from the Ministry of Foreign Affairs' register or by a Greek lawyer, typically €15 to €30 per page."
   - question: "Do freelancers in Greece have to register with GEMI and pay chamber fees?"
@@ -20,7 +20,7 @@ Moving to Greece as a freelancer comes with two well-advertised benefits: the [5
 
 ## The short answer
 
-- **Advance tax:** with each annual return you also pay an advance on next year: 27.5% of your income tax on the first return with business income, 55% from then on. Credited later, but it has to be in the bank.
+- **Advance tax:** with each annual return you also pay an advance on next year: 27.5% of your income tax on the first return with business income, 55% from then on (50% from the return for tax year 2027, filed in 2028). Credited later, but it has to be in the bank.
 - **Documents:** apostilles (typically up to about €50 each) and certified translations (roughly €15 to €30 per page) for the 5C application.
 - **GEMI and chamber fees:** only for commercial activities; €30 per year if they apply.
 - **Presumptive minimum income:** from year four, you are taxed on at least the minimum wage, whatever you declared.
@@ -34,7 +34,7 @@ When you file your annual tax return as a freelancer, you do not just pay the ta
 
 **How the maths looks:** your final income tax bill for the year, after the 50% tax break, is €5,000. You pay that €5,000 plus €2,750 (55%) as an advance for next year: €7,750 in total. In your first year of business income the advance is €1,375.
 
-A bill submitted to Parliament in November 2026 would cut the advance for sole proprietors to 50% from tax year 2027. It is not yet law. If you trade through a company (IKE), the advance is 80% of the corporate tax, halved for the first three tax years ([Article 71](https://www.taxheaven.gr/law/4172/2013/arthro/71)).
+[Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) (art. 12) cuts the advance for individuals with business income to 50%, starting with the advance assessed on the tax year 2027 return, filed in 2028. The return for tax year 2026, filed in 2027, still carries 55%, so the example above holds for it. If you trade through a company (IKE), the advance is 80% of the corporate tax, halved for the first three tax years ([Article 71](https://www.taxheaven.gr/law/4172/2013/arthro/71)).
 
 The following year, the €2,750 is deducted from your new bill. You do not lose the money, but you need it from the end of July, when the first instalment is due. The total can be split into up to eight monthly instalments; filing early and paying in full earns a 4%, 3% or 2% discount (see the [tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026/)). The worked example in our [freelancer tax guide](/guides/freelancer-taxes-greece-2026/) includes it.
 
@@ -69,7 +69,7 @@ None of this should stop a move. The point is to budget for it: put the advance 
 
 ### What is the advance tax (prokatavoli forou) for freelancers in Greece?
 
-When you file your annual return, you pay an advance of 55% of your income tax on business income towards next year, on top of the tax actually due. It is halved to 27.5% in the year you first earn business income and is credited against the following year's bill, so it is a cash-flow cost, not a lost cost.
+When you file your annual return, you pay an advance of 55% of your income tax on business income towards next year, on top of the tax actually due. It is halved to 27.5% in the year you first earn business income and is credited against the following year's bill, so it is a cash-flow cost, not a lost cost. Law 5355/2026 (art. 12) lowers the rate to 50% from the return for tax year 2027, filed in 2028.
 
 ### Do I need an apostille and a certified translation for the Article 5C application?
 
@@ -87,4 +87,4 @@ From the fourth year of activity, the tax office assumes you earn at least the a
 
 Budgeting the advance tax, checking the 5C paperwork before you order translations, and keeping EFKA and VAT on schedule are part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/), from €89 per month, with myDATA, VAT returns and the annual tax return included. Send us a message for a free check of your setup.
 
-*Rules as of November 2026 (Income Tax Code art. 28C, 69 and 71, Law 4919/2022; apostille and translation fees vary by country and provider).*
+*Rules as of November 2026 (sources: Income Tax Code art. 28C, 69 and 71, Law 4919/2022, Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 12; apostille and translation fees vary by country and provider).*
