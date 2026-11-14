@@ -71,7 +71,7 @@ As a zzp'er, you register as a sole proprietor in Greece, join EFKA and invoice 
 
 If you [work permanently in another EU country](https://www.svb.nl/nl/id/u-werkt-buiten-nederland/bekijk-of-u-verzekerd-blijft-in-nederland), you are insured there, so with EFKA. New freelancers pay a reduced €150.46 per month plus €10 unemployment contribution; the standard lowest class is €250.77. You register by the 10th of the month after you start ([EFKA guide](/guides/efka-social-security-freelancers-greece/)).
 
-Expect a tax advance on next year's tax (27.5% in the year you first earn business income, then 55%), monthly VAT for 24 months, and e-invoicing from 2 November 2026. The full setup is in [registering as a freelancer in Greece](/guides/freelancer-setup-greece/), starting with your [AFM](/guides/what-is-greek-afm-number/).
+Expect a tax advance on next year's tax (27.5% in the year you first earn business income, then 55%; cut to 50% from the tax year 2027 return under Law 5355/2026, art. 12), monthly VAT for 24 months, and e-invoicing from 2 November 2026. The full setup is in [registering as a freelancer in Greece](/guides/freelancer-setup-greece/), starting with your [AFM](/guides/what-is-greek-afm-number/).
 
 If you were not Greek tax resident in 5 of the last 6 years, [Article 5C](/guides/50-percent-tax-break-article-5c/) exempts 50% of your income from Greek income tax for 7 years. Digital Nomad Visa holders are not eligible.
 
