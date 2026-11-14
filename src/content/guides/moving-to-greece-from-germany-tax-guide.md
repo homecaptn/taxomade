@@ -48,6 +48,8 @@ German income tax is an annual tax. In the year you leave, you file **one German
 
 From the following year, Germany only taxes German-source income, such as rent from a German property, as a non-resident. Non-residents get no basic allowance (Grundfreibetrag). If at least 90% of your income remains taxable in Germany, or your non-German income stays below the basic allowance, you can apply to be treated as a resident taxpayer ([§1 (3) EStG](https://dejure.org/gesetze/EStG/1.html)).
 
+How both countries split the move year, and where income ends up taxed twice (a German flat you keep, late invoices, bonuses, GmbH shares), is covered in [avoiding double tax in the year you move](/guides/germany-greece-double-tax-year-of-move/).
+
 ## 3. The double tax treaty
 
 Germany and Greece use the [treaty of 1966](https://rechtsanwalt-griechenland.de/wp-content/uploads/2026/07/Doppelbesteuerungsabkommen_Deutschland_Griechenland.pdf); no newer treaty is in force. What it means in practice:
