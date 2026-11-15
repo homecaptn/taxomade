@@ -13,7 +13,7 @@ faq:
   - question: "What happens if Germany and Greece both treat me as tax resident?"
     answer: "The tie-breaker in Article II decides: permanent home; if you have one in both countries, centre of vital interests; then habitual abode; then nationality. Failing that, the two tax authorities agree between themselves."
   - question: "How do I get a Greek tax residence certificate?"
-    answer: "Through AADE's online application with your TAXISnet credentials. The certificate is issued immediately in Greek and English for the current or previous year, with an electronic seal and a QR code. AADE states it needs no apostille; a signed paper version can be requested if a country insists."
+    answer: "Through AADE's online application with your TAXISnet credentials. The certificate is issued immediately in Greek and English for the current year or any earlier year back to 2014 for which you filed as a Greek resident, with an electronic seal and a QR code. AADE states it needs no apostille; a signed paper version can be requested if a country insists."
 ---
 
 Will you pay tax twice after moving from Germany to Greece? Usually not. The treaty decides which country taxes which income; the other exempts it or gives a credit. For the German exit itself (deregistration, year of departure, social security, exit tax), see our [Germany to Greece moving guide](/guides/moving-to-greece-from-germany-tax-guide/).
@@ -126,6 +126,6 @@ The tie-breaker in Article II decides: permanent home; if you have one in both c
 
 ### How do I get a Greek tax residence certificate?
 
-Through AADE's online application with your TAXISnet credentials. The certificate is issued immediately in Greek and English for the current or previous year, with an electronic seal and a QR code. AADE states it needs no apostille; a signed paper version can be requested if a country insists.
+Through AADE's online application with your TAXISnet credentials. The certificate is issued immediately in Greek and English for the current year or any earlier year back to 2014 for which you filed as a Greek resident, with an electronic seal and a QR code. AADE states it needs no apostille; a signed paper version can be requested if a country insists. Details in our [guide to the Greek tax residency certificate](/guides/greek-tax-residency-certificate/).
 
 *Rules as of November 2026 (Germany–Greece tax treaty of 18 April 1966, Arts. II, VI, VII, XI, XII, XIII, XVII, XX, as modified by the MLI from 2025; Greek Income Tax Code arts. 4 and 9; AADE; BMF letter of 12 December 2023).*

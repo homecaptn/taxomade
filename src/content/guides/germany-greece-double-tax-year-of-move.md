@@ -95,7 +95,7 @@ Greece's normal rates aren't low under the German test. But a preferential regim
 1. **German deregistration certificate** (Abmeldebescheinigung), dated to match your arrival in Greece.
 2. **Greek registration** as a resident with your Greek address in the tax register, plus your business or employment start.
 3. **German certificate of residence** for earlier years from your Finanzamt. AADE may ask for it in a 5C application to confirm you weren't Greek resident before.
-4. **Greek certificate of tax residence**, issued online by [AADE](https://aade.gr/en/node/9902) in Greek and English for the current or previous year. German banks and tax offices may ask for it.
+4. **Greek certificate of tax residence**, issued online by AADE in Greek and English for the current year or earlier years you filed as a resident (see [how to get the Greek tax residency certificate](/guides/greek-tax-residency-certificate/)). German banks and tax offices may ask for it.
 5. **German tax assessment and wage tax statement** for the move year. These are your proof for every Greek credit.
 
 If both countries still tax the same income, Article XX lets you ask your residence country's tax authority to settle it with the other.
