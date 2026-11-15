@@ -56,7 +56,7 @@ If you become Greek tax resident, will both Greece and your home country tax you
 
 There is **no comprehensive treaty with Australia**, only an [airline-profits agreement](https://www.ato.gov.au/forms-and-instructions/foreign-income-tax-offset-rules-guide-2026/attachment-a-countries-and-jurisdictions-that-have-a-tax-treaty-with-australia). Negotiations on one were still ongoing in 2026, but nothing has been signed.
 
-Under these treaties, tax paid in Greece is usually credited in your home country, or vice versa, or the income is exempt in one of the two countries, so in most cases you do not pay full tax twice. If both countries claim you as resident, the treaty tie-breaker decides: permanent home, then centre of vital interests, then habitual abode, then nationality.
+Under these treaties, tax paid in Greece is usually credited in your home country, or vice versa, or the income is exempt in one of the two countries, so in most cases you do not pay full tax twice. Abroad, you prove Greek residence with a [Greek tax residence certificate](/guides/greek-tax-residency-certificate/), issued online by AADE. If both countries claim you as resident, the treaty tie-breaker decides: permanent home, then centre of vital interests, then habitual abode, then nationality.
 
 ### The US exception
 
