@@ -2,7 +2,7 @@
 title: "Rental Income Tax in Greece for Foreign Property Owners (2026)"
 description: "How Greece taxes rent from long-term leases and Airbnb in 2026: the 15–45% scale, form E2, ENFIA, short-term rental rules and tax credit at home."
 pubDate: 2026-11-05
-updatedDate: 2026-11-14
+updatedDate: 2026-11-15
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -47,6 +47,8 @@ The 25% band is new for 2026; until 2025, income from €12,000 to €35,000 was
 
 Individual landlords cannot deduct actual costs. Under [art. 39(3)](https://www.taxheaven.gr/law/4172/2013/arthro/39), 5% of gross rent is deducted for repairs, maintenance and renovation, whatever you really spent. Mortgage interest, ENFIA, management fees and furniture do not reduce the tax.
 
+From **1 July 2027**, tenants must pay rent into a bank account of the landlord declared to AADE, unless the rent is a business expense for the tenant. Rent paid any other way loses the 5% deduction ([art. 39(5)](https://www.taxheaven.gr/law/4172/2013/arthro/39); start date postponed by [AADE decision A.1187/2026](https://www.taxheaven.gr/circulars/55383/a-1187-2026)).
+
 **Example:** a flat let for €1,500 a month brings €18,000 a year. Minus 5%, the taxable amount is €17,100. Tax: €1,800 on the first €12,000 plus €1,275 on the remaining €5,100, so **€3,075**, about 17% of the gross rent.
 
 ### Co-owners and couples
@@ -87,9 +89,10 @@ A short-term rental is a furnished let of up to 59 days per booking, with no ser
 - **Up to two properties:** taxed as rental income on the scale above, no VAT.
 - **Three properties or more:** all your short-term lets become a business. You register a business activity, charge 13% VAT on all of them, keep books, report every invoice to [myDATA](/guides/mydata-greece-explained/) and are taxed as business income.
 - **Services beyond linen** (cleaning during the stay, breakfast) make it tourist accommodation, a business from the first property.
+- **Companies** letting short-term charge 13% VAT and are taxed as a business from the first property.
 - **Golden Visa properties** may not be let short-term at all ([Law 5100/2024](https://www.taxheaven.gr/law/5100/2024)); a breach is fined €50,000 and the residence permit is revoked.
 
-New AMA registrations are suspended in the 1st, 2nd and 3rd municipal districts of Athens (the city centre) and, since 1 July 2026, in the 1st municipal community of Thessaloniki, until 31 December 2026 ([housing ministry](https://stegasi.gov.gr/programs/prosorinoi-periorismoi-stis-vrachychronies-misthoseis/)). Breaches are fined 50% of the rental income, at least €20,000. The government has announced that the freeze will run to 31 December 2027; the extension is made by ministerial decision and had not been issued as of early November 2026.
+New AMA registrations are suspended in the 1st, 2nd and 3rd municipal districts of Athens (the city centre) and, since 1 July 2026, in the 1st municipal community of Thessaloniki, until 31 December 2026 ([housing ministry](https://stegasi.gov.gr/programs/prosorinoi-periorismoi-stis-vrachychronies-misthoseis/); [Law 5313/2026, art. 5](https://www.taxheaven.gr/law/5313/2026/arthro/5)). Breaches are fined 50% of the rental income, at least €20,000 (at least €40,000 for a repeat in the same year). If you sell or gift a registered property in these zones, its AMA is deleted and the new owner cannot register it while the freeze lasts. The government announced in September 2026 an extension to 31 December 2027; the joint ministerial decision had not been issued as of mid-November 2026.
 
 ## ENFIA comes on top
 
@@ -136,4 +139,4 @@ Usually yes. Greece taxes the rent first; your country of residence then exempts
 
 Not if you take legal action in time: by the filing deadline, a payment or eviction order must have been issued against the tenant, or you must have sued for eviction or the rent. You declare it under a special code and pay tax when you collect it.
 
-*Rules as of November 2026 (sources: Income Tax Code arts. 39 and 40, Law 4172/2013, as amended by Law 5246/2025; Tax Procedure Code art. 53, Law 5104/2024; AADE FAQ on short-term rentals; climate resilience fee: Law 5162/2024; Golden Visa short-let ban: Law 5100/2024; Germany–Greece treaty art. XVII; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 13; the 2027 Athens and Thessaloniki freeze is announced, not yet issued).*
+*Rules as of November 2026 (sources: Income Tax Code arts. 39 and 40, Law 4172/2013, as amended by Law 5246/2025; AADE decision A.1187/2026 (bank payment of rent); Tax Procedure Code art. 53, Law 5104/2024; AADE FAQ on short-term rentals; climate resilience fee: Law 5162/2024; Law 4446/2016 art. 111 as amended by Law 5313/2026, art. 5; Golden Visa short-let ban: Law 5100/2024; Germany–Greece treaty art. XVII; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 13; the 2027 Athens and Thessaloniki freeze is announced, not yet issued).*

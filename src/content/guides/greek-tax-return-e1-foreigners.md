@@ -2,7 +2,7 @@
 title: "Greek Tax Return (E1) for Foreigners: Step by Step (2026)"
 description: "How to file the Greek E1 tax return as a foreigner: who must file, E1/E2/E3, myAADE access, deadlines, the 4/3/2% discount, foreign income and fines."
 pubDate: 2026-11-06
-updatedDate: 2026-11-14
+updatedDate: 2026-11-15
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -57,7 +57,7 @@ The E2 and E3 feed into the E1. For rent, see [rental income tax for foreign own
 
 ## Step 4: Check the pre-filled data
 
-AADE pre-fills much of the return from employers, banks, lease declarations and [myDATA](/guides/mydata-greece-explained/). For tax year 2025, around 1.36 million fully pre-filled returns, mostly of employees and pensioners, were submitted automatically on 16 April 2026 unless the taxpayer acted ([AADE, 16 March 2026](https://www.aade.gr/sites/default/files/2026-03/dt_16.3.2026._0.pdf)).
+AADE pre-fills much of the return from employers, banks, lease declarations and [myDATA](/guides/mydata-greece-explained/). For tax year 2025, AADE fully pre-filled around 1.36 million returns, mostly of employees and pensioners ([AADE, 16 March 2026](https://www.aade.gr/sites/default/files/2026-03/dt_16.3.2026._0.pdf)). Those not filed or corrected by 16 April 2026 were submitted automatically: about 889,000.
 
 Pre-filled does not mean correct. AADE usually does not know your foreign income, tax paid abroad or recent family changes.
 
@@ -86,7 +86,7 @@ For freelancers the assessment also includes **advance tax** on next year's inco
 
 ### Discount for early filing
 
-From tax year 2025, individuals who pay in full by the first instalment date get a discount ([Law 5297/2026, art. 249](https://www.taxheaven.gr/law/5297/2026/arthro/249)):
+Individuals who file by the dates below and pay in full by the first instalment date get a discount (Income Tax Code art. 67(6), as amended from tax year 2025 by [Law 5297/2026, art. 249](https://www.taxheaven.gr/law/5297/2026/arthro/249)):
 
 | Filed by | Discount |
 |---|---|
@@ -94,7 +94,7 @@ From tax year 2025, individuals who pay in full by the first instalment date get
 | 15 June | 3% |
 | 15 July | 2% |
 
-For tax year 2025, [AADE decision A.1140/2026](https://www.taxheaven.gr/circulars/54406/a-1140-2026) kept the 2% for returns filed by 24 July 2026.
+For tax year 2025, [AADE decision A.1140/2026](https://www.taxheaven.gr/circulars/54406/a-1140-2026) kept the 2% for returns filed by 24 July 2026. For tax year 2026, the dates are 15 May, 15 June and 15 July 2027. Partners in entities that keep simple books, such as most general and limited partnerships (OE, EE), may file until the last working day of July and keep the 2% until then.
 
 ### Instalments
 
@@ -153,4 +153,4 @@ As a Greek tax resident, you declare your foreign income in the E1 together with
 
 Up to €100 of tax, including zero or a refund, there is no fine. Above that, the fine is €100, or €250 (simple books) or €500 (double-entry books) if the return covers business income. It is issued automatically when you file.
 
-*Rules as of November 2026 (sources: Income Tax Code arts. 9, 67 and 69; Law 5297/2026 art. 249; AADE decision A.1140/2026; Art. 53 Law 5104/2024; AADE guidance for non-residents and press release of 16 March 2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 12).*
+*Rules as of November 2026 (sources: Income Tax Code arts. 9, 67(3) and (6) and 69; Law 5297/2026 art. 249; AADE decision A.1140/2026; Art. 53 Law 5104/2024; AADE guidance and FAQ for non-residents (November 2025); AADE press release of 16 March 2026 and auto-submission figures of April 2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 12).*

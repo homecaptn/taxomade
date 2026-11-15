@@ -2,7 +2,7 @@
 title: "Golden Visa Greece 2026: Tax Obligations After You Get the Permit"
 description: "What Golden Visa holders owe Greece each year: tax residence, E1 and E2 returns, ENFIA, the Airbnb ban, work limits and the €100,000 and 7% regimes."
 pubDate: 2026-11-09
-updatedDate: 2026-11-14
+updatedDate: 2026-11-15
 category: "tax"
 image: "/images/guides/afm_hero.png"
 faq:
@@ -15,7 +15,7 @@ faq:
   - question: "Can Golden Visa holders work in Greece?"
     answer: "Not on the Golden Visa. The investor permit gives no right to any form of employment. You can hold shares in a Greek company, but a job or self-employment needs a different permit."
   - question: "What taxes do I pay every year on a Golden Visa property?"
-    answer: "ENFIA, the annual property tax, assessed on what you own on 1 January, and the municipal property fee (TAP), charged through the electricity bill. If you let the property long-term, the rent is taxed at 15% to 45% and you file an E1 return with form E2."
+    answer: "ENFIA, the annual property tax, assessed on what you own on 1 January, and the municipal property fee charged through the electricity bill: TAP until 2026, the Local Development Fee (TTA) from 2027. If you let the property long-term, the rent is taxed at 15% to 45% and you file an E1 return with form E2."
 ---
 
 The Golden Visa starts a tax routine. It is light, but a missed ENFIA instalment or an Airbnb listing costs far more than the paperwork. Buying and the AFM are covered in [our guide for property buyers](/guides/afm-greece-property-buyers-non-residents/).
@@ -24,7 +24,7 @@ The Golden Visa starts a tax routine. It is light, but a missed ENFIA instalment
 
 - **Tax residence:** the permit does not make you tax resident; the 183-day rule and your centre of vital interests do.
 - **No work:** the investor permit gives no right to any employment.
-- **Every year:** ENFIA on your property, the municipal TAP fee through the electricity bill, and an up-to-date E9.
+- **Every year:** ENFIA on your property, the municipal property fee through the electricity bill (TAP, from 2027 the TTA), and an up-to-date E9.
 - **Income tax return:** only if you have Greek income (rent), or once you become tax resident.
 - **No short-term letting:** properties bought under the 2024 rules may not go on Airbnb (penalty: loss of permit plus €50,000).
 - **Renewal:** every five years while you own the property.
@@ -51,9 +51,9 @@ You needed a [Greek AFM](/guides/what-is-greek-afm-number/) to buy, and it stays
 
 ENFIA, the annual property tax, is assessed on what you own on 1 January and posted in March; pay in one go or up to 12 monthly instalments, the first due end of March. AADE calculates it from your E9 property declaration, so update the E9 after any purchase, sale or renovation by 31 January of the next year.
 
-### The municipal TAP fee
+### The municipal property fee (TAP, from 2027 TTA)
 
-Municipalities charge a property fee (TAP) of 0.025% to 0.035% of the zone value a year through the electricity bill ([Law 2130/1993, art. 24](https://www.taxheaven.gr/law/2130/1993/arthro/24)). You need a TAP certificate when you sell.
+Until the end of 2026, municipalities charge a property fee (TAP) of 0.025% to 0.035% of the property value a year through the electricity bill ([Law 2130/1993, art. 24](https://www.taxheaven.gr/law/2130/1993/arthro/24)). From 1 January 2027, the Local Development Fee (TTA) replaces TAP: each municipality sets a rate of 0.030% to 0.070%, still collected through the electricity bill ([Law 5314/2026, arts. 392–396 and 448](https://www.taxheaven.gr/law/5314/2026/arthro/392)). A sale in 2026 still needs a TAP certificate; under the TTA, the Land Registry notifies the municipality and the seller owes the fee up to the date of the transfer.
 
 ### Income tax return: only with Greek income
 
@@ -65,7 +65,7 @@ Greece taxes residents on at least a presumed living expense based on their home
 
 ## The short-term rental ban
 
-Since [Law 5100/2024](https://www.taxheaven.gr/law/5100/2024/arthro/64), properties acquired for an investor permit may not be let short-term or sublet (art. 100(7A)). Circular 1/2026 defines short-term as under 60 days. The penalty is **revocation of the permit and a €50,000 fine**. Properties bought under the old rules or in the transitional period (ended early 2025) are outside the ban.
+Since [Law 5100/2024](https://www.taxheaven.gr/law/5100/2024/arthro/64), properties acquired for an investor permit may not be let short-term or sublet (art. 100(7A)). Circular 1/2026 of the Ministry of Migration (April 2026) defines short-term as a let or sublet under 60 days with no services beyond accommodation and bed linen, advertised online or not. The penalty is **revocation of the permit and a €50,000 fine**. Properties bought under the old thresholds or in the transitional period, now closed, are outside the ban.
 
 Long-term leases are allowed, but subletting is banned too: put a no-sublet clause in the lease.
 
@@ -117,6 +117,6 @@ Not on the Golden Visa. The investor permit gives no right to any form of employ
 
 ### What taxes do I pay every year on a Golden Visa property?
 
-ENFIA, the annual property tax, assessed on what you own on 1 January, and the municipal property fee (TAP), charged through the electricity bill. If you let the property long-term, the rent is taxed at 15% to 45% and you file an E1 return with form E2.
+ENFIA, the annual property tax, assessed on what you own on 1 January, and the municipal property fee charged through the electricity bill: TAP until 2026, the Local Development Fee (TTA) from 2027. If you let the property long-term, the rent is taxed at 15% to 45% and you file an E1 return with form E2.
 
-*Rules as of November 2026 (sources: Migration Code (Law 5038/2023) arts. 95 and 100, as amended by Law 5100/2024, art. 64, and Law 5275/2026, art. 29; Law 4446/2016, art. 111; Circular 1/2026 of the Ministry of Migration and Asylum; Income Tax Code arts. 4, 5A, 5B, 5C and 33; AADE FAQ for non-residents (November 2025); AADE decisions A.1069/2024 and A.1147/2026; Law 2130/1993, art. 24; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 16).*
+*Rules as of November 2026 (sources: Migration Code (Law 5038/2023) arts. 95 and 100, as amended by Law 5100/2024, art. 64, and Law 5275/2026, art. 29; Law 4446/2016, art. 111; Circular 1/2026 of the Ministry of Migration and Asylum; Income Tax Code arts. 4, 5A, 5B, 5C and 33; AADE FAQ for non-residents (November 2025); AADE decisions A.1069/2024 and A.1147/2026; Law 2130/1993, art. 24; Law 5314/2026 (Local Government Code), arts. 392–396 and 448; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 16).*
