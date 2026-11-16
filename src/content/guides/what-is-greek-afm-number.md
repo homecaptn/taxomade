@@ -71,7 +71,7 @@ You can authorise a lawyer or accountant to prepare and file the application for
 - **Living abroad:** a valid passport, plus your full foreign address, your foreign tax number and an email address.
 - **Living in Greece:** a passport plus proof of legal stay, such as a residence permit.
 
-Since 9 September 2024 a tax representative is optional for non-residents ([AADE decision A.1069/2024](https://www.aade.gr/sites/default/files/2024-05/a1069_2024.pdf)), provided you declare your full foreign address, your foreign tax number and an email address, and accept that AADE notices are sent to those contact details.
+Since 9 September 2024 a tax representative is optional for non-residents ([AADE decision A.1069/2024](https://www.aade.gr/sites/default/files/2024-05/a1069_2024.pdf)), provided you declare your full foreign address, your foreign tax number and an email address, and accept that AADE notices are sent to those contact details. How appointing or removing one works: [fiscal representation in Greece](/guides/fiscal-representation-greece/).
 
 ## TAXISnet: your digital key
 

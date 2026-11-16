@@ -54,7 +54,7 @@ The application can also be filed by an authorised third party with their own AF
 
 Until 2024, non-residents had to appoint a tax representative in Greece. [Decision A.1069/2024](https://www.aade.gr/sites/default/files/2024-05/a1069_2024.pdf), in force since 9 September 2024, made this optional for individuals. If you decline, you declare your foreign address, foreign tax identification number and an email address, and accept in writing that the tax office serves notices there.
 
-Our advice is still to appoint one. ENFIA assessments, E9 corrections and queries from the tax office arrive in Greek, on short deadlines, and penalties are applied automatically. The appointment is a sworn statement via gov.gr or a citizens' service centre (KEP), plus the representative's acceptance.
+Our advice is still to appoint one. ENFIA assessments, E9 corrections and queries from the tax office arrive in Greek, on short deadlines, and penalties are applied automatically. The appointment is a sworn statement via gov.gr or a citizens' service centre (KEP), plus the representative's acceptance; the full procedure is in our guide to [fiscal representation in Greece](/guides/fiscal-representation-greece/).
 
 ## What you must file after the purchase
 
