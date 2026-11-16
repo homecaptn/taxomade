@@ -2,16 +2,16 @@
 title: "Selling Property in Greece as a Non-Resident: Taxes and Costs (2026)"
 description: "Selling Greek property from abroad: the 15% capital gains tax suspended to end-2027, seller costs, certificates, getting paid and tax in your home country."
 pubDate: 2026-11-08
-updatedDate: 2026-11-14
+updatedDate: 2026-11-16
 category: "tax"
 image: "/images/guides/afm_hero.png"
 faq:
   - question: "Do non-residents pay capital gains tax when selling property in Greece?"
     answer: "Not at the moment. The 15% tax on gains from property sales by individuals is suspended, for residents and non-residents alike. Law 5355/2026 (article 13) extended the suspension to sales signed until 31 December 2027."
   - question: "Who pays the transfer tax when selling property in Greece?"
-    answer: "The buyer. The transfer tax is 3% plus a 3% municipal surcharge on the tax, so 3.09%, and the buyer also pays the notary and the Cadastre registration. The seller pays the estate agent's share, their own lawyer and the certificates needed for the deed."
+    answer: "The buyer. The transfer tax is 3% plus a 3% municipal surcharge on the tax, so 3.09% (15.45% from 1 July 2027 for home buyers tax resident outside the EU/EEA, unless the first-home exemption applies). The buyer also pays the notary and the Cadastre registration. The seller pays the estate agent's share, their own lawyer and the certificates needed for the deed."
   - question: "What documents does a seller need to sell a property in Greece?"
-    answer: "An ENFIA certificate, a tax clearance certificate for the transfer, an engineer's certificate on unauthorised works, an energy performance certificate, a municipal TAP certificate, the title deed and the Cadastre certificates. Your E9 property declaration must match the property, or the ENFIA certificate cannot be issued."
+    answer: "An ENFIA certificate, a tax clearance certificate for the transfer, an engineer's certificate on unauthorised works, an energy performance certificate, the title deed and the Cadastre certificates. A municipal TAP certificate has not been required since December 2023. Your E9 property declaration must match the property, or the ENFIA certificate cannot be issued."
   - question: "Can I sell my property in Greece without travelling there?"
     answer: "Yes. You can sign through an attorney-in-fact, usually your lawyer, under a power of attorney signed at a Greek consulate or before a local notary with an apostille. Most certificates are issued online through myAADE or by the professionals you hire."
   - question: "Will my home country tax the gain on my Greek property?"
@@ -45,7 +45,7 @@ The suspension covers private individuals, not companies or property traders.
 - **Estate agent:** commission is not fixed by law and is negotiable; 2% to 3% of the price plus 24% VAT is a common asking rate, and agents often charge both sides. Agree it in writing.
 - **Lawyer:** not mandatory, but useful from abroad. Agree a written fee.
 - **Certificates** (below), usually a few hundred euros each.
-- **Unpaid ENFIA and municipal fees**, settled before signing.
+- **Unpaid ENFIA**, settled before signing, and any unpaid municipal property fee (TAP), which the municipality claims from you after the Cadastre notifies it of the sale.
 
 ## The certificates you need
 
@@ -62,7 +62,7 @@ This takes most of the time. Start before you accept an offer.
 - **Engineer's certificate on unauthorised works** (βεβαίωση μηχανικού). Required for every sale since November 2017, originally under Law 4495/2017 and now [article 368 of the Urban Planning Code](https://www.taxheaven.gr/law/5306/2026/arthro/368) (Law 5306/2026). It confirms there are no unauthorised works, or that they were legalised, and is valid for two months. Undeclared extensions and enclosed balconies are where sales stall.
 - **Energy performance certificate** (ΠΕΑ), issued by a registered energy inspector after a site visit.
 - **Cadastre certificates** from the Hellenic Cadastre, plus your title deed.
-- **TAP certificate** from the municipality, confirming the municipal property fee is paid.
+- **No TAP certificate.** The municipal certificate for the property fee (TAP) was abolished on 13 December 2023 (article 33 of Law 5076/2023); the Cadastre now notifies the municipality of the transfer. From 1 January 2027, TAP itself is replaced by the Local Development Fee (ΤΤΑ) under Law 5314/2026, charged to whoever owns the property on 1 January.
 - **Building permit and plans.**
 
 ## Your AFM and the tax representative
@@ -91,14 +91,14 @@ Greece may tax gains on Greek property, but while its tax is suspended there is 
 
 An investor residence permit is renewed only while the property remains in your ownership and possession ([Ministry of Migration](https://migration.gov.gr/en/gold/)). Sell without a replacement investment and you lose the basis for renewal, likely for family members too. See an immigration lawyer before the preliminary contract.
 
-Law 5355/2026 also raises transfer tax on homes bought by individuals tax resident outside the EU/EEA to 15% instead of 3% (15.45% instead of 3.09% with the municipal surcharge), for final contracts from 1 July 2027, unless the article 42 first-home exemption applies ([AFM guide for buyers](/guides/afm-greece-property-buyers-non-residents/)), which may affect demand and timing.
+A related change for buyers: from 1 July 2027, Law 5355/2026 raises the transfer tax on homes bought by individuals tax resident outside the EU/EEA from 3% to 15% (15.45% instead of 3.09% with the municipal surcharge), unless the article 42 first-home exemption applies. If your likely buyer is tax resident outside the EU/EEA, completing before that date saves them a lot, which can help on price ([AFM guide for buyers](/guides/afm-greece-property-buyers-non-residents/)).
 
 ## Step by step
 
 1. Check Taxisnet access, your E9 and unpaid ENFIA.
 2. Instruct an engineer and energy inspector.
 3. Agree terms; deposit by bank.
-4. Collect ENFIA, tax clearance, TAP and Cadastre certificates.
+4. Collect ENFIA, tax clearance and Cadastre certificates.
 5. File the transfer tax return with the buyer; the buyer pays.
 6. Sign in person or by power of attorney; get paid by bank.
 7. Declare the gain at home.
@@ -117,11 +117,11 @@ Not at the moment. The 15% tax on gains from property sales by individuals is su
 
 ### Who pays the transfer tax when selling property in Greece?
 
-The buyer. The transfer tax is 3% plus a 3% municipal surcharge on the tax, so 3.09%, and the buyer also pays the notary and the Cadastre registration. The seller pays the estate agent's share, their own lawyer and the certificates needed for the deed.
+The buyer. The transfer tax is 3% plus a 3% municipal surcharge on the tax, so 3.09% (15.45% from 1 July 2027 for home buyers tax resident outside the EU/EEA, unless the first-home exemption applies). The buyer also pays the notary and the Cadastre registration. The seller pays the estate agent's share, their own lawyer and the certificates needed for the deed.
 
 ### What documents does a seller need to sell a property in Greece?
 
-An ENFIA certificate, a tax clearance certificate for the transfer, an engineer's certificate on unauthorised works, an energy performance certificate, a municipal TAP certificate, the title deed and the Cadastre certificates. Your E9 property declaration must match the property, or the ENFIA certificate cannot be issued.
+An ENFIA certificate, a tax clearance certificate for the transfer, an engineer's certificate on unauthorised works, an energy performance certificate, the title deed and the Cadastre certificates. A municipal TAP certificate has not been required since December 2023. Your E9 property declaration must match the property, or the ENFIA certificate cannot be issued.
 
 ### Can I sell my property in Greece without travelling there?
 
@@ -131,4 +131,4 @@ Yes. You can sign through an attorney-in-fact, usually your lawyer, under a powe
 
 Often, yes. Greece keeps the right to tax the gain, but while its tax is suspended there is no Greek tax to credit. UK and US residents usually pay their own capital gains tax on the full gain. Germany exempts gains from Greek property under the treaty, but they can raise the rate on your other German income.
 
-*Rules as of November 2026 (sources: Income Tax Code arts. 41 and 72(33); Law 5162/2024, art. 90; AADE guidance on transfer tax; AADE decisions A.1114/2024, A.1162/2023 (as amended by A.1072/2025) and A.1069/2024; circular E.2075/2024; Law 5306/2026, art. 368; Germany–Greece treaty 1966, arts. XIII and XVII; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), arts. 13, 16 and 51).*
+*Rules as of November 2026 (sources: Income Tax Code arts. 41 and 72(33); Law 5162/2024, art. 90; AADE guidance on transfer tax; AADE decisions A.1114/2024, A.1162/2023 (as amended by A.1072/2025) and A.1069/2024; circular E.2075/2024; Law 5306/2026, art. 368; Law 5076/2023, art. 33; Law 5314/2026, arts. 392–396 and 448; Germany–Greece treaty 1966, arts. XIII and XVII; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), arts. 13, 16 and 51).*

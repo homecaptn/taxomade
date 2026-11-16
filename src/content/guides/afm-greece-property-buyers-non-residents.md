@@ -1,8 +1,8 @@
 ---
 title: "AFM for Non-Resident Property Buyers in Greece (UK & US Guide, 2026)"
-description: "How UK and US buyers get a Greek AFM remotely, what to file after buying (E9, ENFIA, rent), and the 15% transfer tax for non-EU buyers from July 2027."
+description: "How UK and US buyers get a Greek AFM remotely, what to file after buying (E9, ENFIA, rent), and the 15% transfer tax for non-EU tax residents from July 2027."
 pubDate: 2026-10-13
-updatedDate: 2026-11-14
+updatedDate: 2026-11-16
 category: "afm"
 image: "/images/guides/afm_hero.png"
 faq:
@@ -83,15 +83,15 @@ The bands are progressive (each slice at its own rate), there is no tax-free amo
 
 ### Short-term letting
 
-If the plan is Airbnb: every short-term let (up to 59 days) needs a registry number (AMA) from AADE, a declaration per stay by the 20th of the following month, and a climate resilience fee (€8 per night April to October, €2 November to March; €15 / €4 for villas over 80 m²) collected from guests. Up to two properties are taxed as rental income; from the third, it is a business with VAT. New registrations are banned in central Athens and, since 1 July 2026, central Thessaloniki through 2026 (an extension to the end of 2027 has been announced; the ministerial decision has not been issued yet), fines start at €20,000, and Golden Visa properties may not be short-term let at all (Law 5100/2024). More in [rental income tax for foreign owners](/guides/rental-income-tax-greece-foreign-owners/).
+If the plan is Airbnb: every short-term let (up to 59 days) needs a registry number (AMA) from AADE, a declaration per stay by the 20th of the following month, and a climate resilience fee (€8 per night April to October, €2 November to March; €15 / €4 for villas over 80 m²) collected from guests. Up to two properties are taxed as rental income; from the third, it is a business with VAT. New registrations are frozen in the 1st, 2nd and 3rd municipal districts of Athens and, since 1 July 2026, in the 1st municipal community of central Thessaloniki, both until 31 December 2026. An extension to the end of 2027 was announced in September 2026, but no decision had been published by mid-November 2026. Under article 5 of Law 5313/2026, a property in these areas that changes hands during the owner's lifetime, by sale or by gift, is deleted from the registry and cannot be re-registered while the freeze lasts: the seller's AMA does not pass to you. Fines start at €20,000, and Golden Visa properties may not be short-term let at all (Law 5100/2024). More in [rental income tax for foreign owners](/guides/rental-income-tax-greece-foreign-owners/).
 
 ## Transfer tax, VAT and the 2027 change
 
-**Today:** the buyer pays transfer tax of 3% plus a 3% municipal surcharge on the tax, so 3.09% of the higher of the price and the objective value. The 24% VAT on new builds sold by developers is suspended until 31 December 2027 (extended by article 17 of [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026)), so buyers of new property currently pay the 3.09% transfer tax instead. From 1 July 2027 that transfer tax is 15% (15.45% with the surcharge) for individuals tax resident outside the EU/EEA, new builds included, unless the article 42 first-home exemption applies.
+**Today:** the buyer pays transfer tax of 3% plus a 3% municipal surcharge on the tax, so 3.09% of the higher of the price and the objective value. The 24% VAT on new builds sold by developers is suspended until 31 December 2027 (extended by article 17 of [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026)), so buyers of new property currently pay the 3.09% transfer tax instead.
 
-**From July 2027:** under article 16 of [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) (ΦΕΚ Α' 188/13.11.2026), which adds paragraph 1A to article 27 of the Property Tax Code, the transfer tax on **homes** rises to **15%** (15.45% with the surcharge) for individuals who are **tax residents of a country outside the EU/EEA**, on final contracts signed from **1 July 2027**. The test is where you are taxed, not your passport: a UK or US tax resident is caught, whatever their nationality. Exempt are buyers entitled to the first-home exemption under article 42 of the Property Tax Code (among them Greek and EU citizens and long-term residents who settle in Greece). A Golden Visa purchase does not, by itself, qualify for the exemption. Company purchases, commercial premises and plots are outside the rule.
+**From July 2027:** under article 16 of [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) (ΦΕΚ Α' 188/13.11.2026), which adds paragraph 1A to article 27 of the Property Tax Code, the transfer tax on **homes** rises to **15%** (15.45% with the surcharge) for individuals who are **tax residents of a country outside the EU/EEA**, on final contracts signed from **1 July 2027**. The test is where you are taxed, not your passport: a UK or US tax resident is caught, whatever their nationality, and residence is judged when the tax falls due, at the final contract. Exempt are buyers entitled to the first-home exemption under article 42 of the Property Tax Code: among them Greek and EU citizens and long-term residents who settle in Greece and do not already own a suitable home, within that exemption's usual limits. A Golden Visa purchase does not, by itself, qualify. The rule applies only to individuals buying a home; purchases through a company, commercial premises and plots are not caught.
 
-For a UK or US buyer this is the single biggest number in the calculation: on a €400,000 house, €12,360 versus €61,800. If you are already in negotiations, a final contract signed before 1 July 2027 still pays 3.09%; plan the completion date accordingly.
+For a UK or US buyer this is the single biggest number in the calculation: on a €400,000 house, €12,360 versus €61,800. If you are already in negotiations, a final contract signed before 1 July 2027 still pays 3.09%. A preliminary contract signed earlier does not lock in the old rate, so plan the completion date accordingly.
 
 ## Reporting at home
 
@@ -103,6 +103,7 @@ For a UK or US buyer this is the single biggest number in the calculation: on a 
 
 - **Applying for the AFM after the price is agreed.** Start before the preliminary contract; the identification appointment is what takes time.
 - **Forgetting the E9.** The notary registers the deed; the E9 is your filing, and the ENFIA is calculated from it.
+- **Buying in central Athens or Thessaloniki for Airbnb income.** An existing AMA is deleted on the sale and the property cannot be re-registered while the freeze lasts; price the property as a long-term let.
 - **No one receiving the post.** Without a representative, a missed ENFIA instalment accrues interest silently.
 
 ## Frequently asked questions
@@ -135,4 +136,4 @@ Yes, it is now law. Under article 16 of Law 5355/2026, individuals who are tax r
 
 taxomade prepares and files the annual obligations for non-resident owners: the E9 declaration, the ENFIA review, the income tax return where there is rental income, and, under a power of attorney, the AFM application and tax representative appointment. The service is quoted individually, based on the number of properties and whether they are let. Message us on WhatsApp with the property details for a quote, or use the contact form. If you also work from Greece, see [our monthly bookkeeping](/greece/ongoing-bookkeeping/).
 
-*Rules as of November 2026 (sources: AADE decisions A.1185/2023 and A.1069/2024, Law 5246/2025, Law 5100/2024, Income Tax Code art. 33; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), arts. 16 and 17).*
+*Rules as of November 2026 (sources: AADE decisions A.1185/2023 and A.1069/2024, Law 5246/2025, Law 5100/2024, Income Tax Code art. 33; Law 4446/2016, art. 111, as amended by Law 5313/2026 (ΦΕΚ Α' 102/25.6.2026), art. 5; joint ministerial decision 225563 ΕΞ 2025; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), arts. 16 and 17).*
