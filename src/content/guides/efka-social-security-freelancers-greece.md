@@ -64,7 +64,7 @@ If you live in Greece but stay on the payroll of a foreign employer, the answer 
 
 The exceptions are a formal posting (A1 certificate from your home country, normally up to 24 months, Art. 12 of Regulation 883/2004) or working regularly in two or more EU countries with less than 25% of your working time in Greece (Art. 13 of Regulation 883/2004 and Art. 14 of Regulation 987/2009). In those cases your home system keeps covering you, and an S1 form gives you access to Greek public healthcare. Employees from outside the EU (UK, US) fall under bilateral agreements or Greek rules directly.
 
-This is one of the areas where guessing gets expensive. Have it checked before you move; the employment side of the tax regime is in our guide on [5C for employees and remote workers](/guides/5c-for-eu-remote-workers/).
+This is one of the areas where guessing gets expensive. Have it checked before you move. How payroll, income tax and EFKA fit together for remote employees is covered in [working in Greece for a foreign employer](/guides/remote-employee-foreign-employer-greece/); the employment side of the tax regime is in our guide on [5C for employees and remote workers](/guides/5c-for-eu-remote-workers/).
 
 ## The bottom line
 
