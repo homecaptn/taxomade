@@ -4,6 +4,7 @@ description: "Greece's Article 5C: 50% income tax exemption for 7 years if you m
 pubDate: 2026-06-27
 updatedDate: 2026-11-17
 category: "tax"
+translationOf: "steuervorteil-50-prozent-griechenland-artikel-5c"
 image: "/images/guides/tax_break_hero.png"
 faq:
   - question: "Who qualifies for the 50% tax break in Greece?"
