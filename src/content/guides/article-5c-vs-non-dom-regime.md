@@ -101,7 +101,7 @@ This is where most online comparisons go wrong. The non-dom regime is not "10% o
 
 So for a pure dividend investor, Article 5A is often the more expensive choice unless the amounts are very large or the reporting exemption matters more than the tax. For someone with €400,000 a year of foreign consulting profits or director fees, the flat tax saves well over €60,000 a year.
 
-Article 5C needs no break-even. It only ever reduces tax on income you would otherwise pay full rates on, and it costs nothing to hold. The one thing to check is that you qualify at all: a qualifying job or business in Greece, the 5-of-6-years test and the right application year. The [common 5C mistakes](/guides/top-5-mistakes-article-5c/) are almost all about those three points.
+Article 5C needs no break-even. It only ever reduces tax on income you would otherwise pay full rates on, and it costs nothing to hold. The one thing to check is that you qualify at all: a qualifying job or business in Greece, the 5-of-6-years test and the right application year. The [common 5C mistakes](/guides/50-percent-tax-break-article-5c/#the-five-most-common-mistakes) are almost all about those three points.
 
 ## Which one is right for you?
 

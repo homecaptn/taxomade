@@ -20,6 +20,11 @@
         "source": "/guides/reality-check-germany-vs-greece-5c",
         "destination": "/guides/moving-to-greece-from-germany-tax-guide/",
         "type": 301
+      },
+      {
+        "source": "/guides/top-5-mistakes-article-5c{,/**}",
+        "destination": "/guides/50-percent-tax-break-article-5c/",
+        "type": 301
       }
     ]
   },

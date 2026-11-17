@@ -80,7 +80,7 @@ The application also asks for your **foreign tax identification number** and for
 
 ## Which income qualifies
 
-The income has to come from a Greek job or your own Greek sole proprietorship. A remote job for a foreign employer with no Greek entity does not fit the employment route; the common alternative is registering as self-employed here (see [5C for employees and remote workers](/guides/5c-for-eu-remote-workers/)). A company such as an IKE does not count as your individual business, one of the [most common 5C mistakes](/guides/top-5-mistakes-article-5c/).
+The income has to come from a Greek job or your own Greek sole proprietorship. A remote job for a foreign employer with no Greek entity does not fit the employment route; the common alternative is registering as self-employed here (see [5C for employees and remote workers](/guides/5c-for-eu-remote-workers/)). A company such as an IKE does not count as your individual business, one of the [most common 5C mistakes](/guides/50-percent-tax-break-article-5c/#the-five-most-common-mistakes).
 
 If you hold only a non-EU passport, check which residence permit lets you work or run a business in Greece. The Digital Nomad Visa does not: its holders cannot meet the employment or business condition (see [5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa/)).
 
