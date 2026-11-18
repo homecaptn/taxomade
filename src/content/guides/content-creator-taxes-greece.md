@@ -11,7 +11,7 @@ faq:
   - question: "What VAT applies to sponsorships with Greek brands?"
     answer: "Greek VAT at 24%, unless you use the small business exemption for turnover up to €10,000 a year. A sponsorship with a brand in another EU country is invoiced without Greek VAT under the reverse charge, and one with a business outside the EU without Greek VAT as well."
   - question: "Does YouTube withhold US tax from creators living in Greece?"
-    answer: "Only on earnings from US viewers, and only if you don't claim the treaty. Under the Greece–US treaty, the rate on copyright royalties, the category Google uses for YouTube Partner Program income, is 0%. Without tax info, Google may deduct up to 24% of your worldwide earnings, so submit a W-8BEN with your Greek tax number."
+    answer: "With a W-8BEN on file, only earnings from US viewers are subject to US withholding, and under the Greece–US treaty the rate on \"other copyright royalties\", the category Google uses for YouTube Partner Program income, is 0%. Without tax info, Google may deduct up to 24% of your worldwide earnings."
   - question: "Can content creators get the Greek 50% tax break (Article 5C)?"
     answer: "Yes, if they move their tax residence to Greece, were not Greek tax resident in 5 of the previous 6 years and run their activity as a Greek sole proprietorship. Profits from a company such as an IKE are not covered, and Digital Nomad Visa holders are not eligible."
   - question: "Are gifted products taxable for influencers in Greece?"
@@ -32,7 +32,7 @@ YouTube pays from Ireland, Twitch and Patreon from the US, and a Greek brand pay
 
 ## Is creator income business income?
 
-Yes, as soon as you create content systematically to earn money. AADE's position, as [reported in 2024](https://en.protothema.gr/2024/10/03/aade-how-to-declare-youtube-income), is that a YouTuber with significant income carries on a business activity: register, keep books, issue invoices or receipts, pay EFKA. Smaller, occasional income still goes on your annual tax return.
+Yes, as soon as you create content systematically to earn money. The tax authorities' position, confirmed in a [2026 dispute decision](https://www.taxheaven.gr/circulars/54075/ded-1966-2026), is that systematic paid promotion is a business activity: register, keep books, issue invoices or receipts, pay EFKA. Smaller, occasional income still goes on your annual tax return.
 
 In 2026 the tax authorities are actively checking. According to [Oikonomikos Tachydromos](https://www.ot.gr/2026/07/07/forologia/forologia-eidiseis/influencers-sarotikoi-elegxoi-gia-adilota-eisodimata-poies-einai-oi-ypoxreoseis-tous), audit teams monitor posts, hashtags and brand tags and cross-check them with bank accounts and contracts.
 
@@ -44,7 +44,7 @@ You register a business activity (έναρξη εργασιών) for a sole prop
 - **VAT regime.** Normal VAT or the small business exemption (see below).
 - **VIES registration.** Required before your first payout from Google Ireland or any other EU business.
 
-If you live in Greece but stay insured in another EU country with an A1 certificate (the EU form confirming which country's social security covers you), EFKA does not apply. Everyone else registers with EFKA as self-employed.
+Only if you hold an A1 certificate (the EU form confirming another country's social security covers you, e.g. during a temporary posting or when working in several EU countries) does EFKA not apply. Everyone else registers with EFKA as self-employed.
 
 ## VAT on platform payouts
 
@@ -52,7 +52,7 @@ VAT depends on who pays you, not where your viewers are. The details are in our 
 
 ### YouTube and AdSense: EU reverse charge
 
-Google [states](https://support.google.com/adsense/answer/142362) that all AdSense and YouTube payments are made by Google Ireland, and that the services are subject to the reverse charge under Article 196 of the EU VAT Directive. Google Ireland accounts for the VAT. You charge no Greek VAT, but you need:
+YouTube earnings are paid out through AdSense, and Google [states](https://support.google.com/adsense/answer/142362) that all AdSense payments are made by Google Ireland and that the services are subject to the reverse charge under Article 196 of the EU VAT Directive. Google Ireland accounts for the VAT. You charge no Greek VAT, but you need:
 
 - a VAT number registered in VIES,
 - the income in your VAT return,
@@ -80,7 +80,7 @@ Platforms pay automatically, but in Greece every business receipt is documented 
 
 Issue each invoice by the 15th of the month after the payout period at the latest. Details on fields and wording: [invoicing foreign clients from Greece](/guides/invoicing-foreign-clients-greece/).
 
-Expect the platforms to report you as well. Twitch and Patreon both collect data from EU creators under **DAC7**, the EU rules that make digital platforms report sellers' income to tax authorities.
+Expect platforms to report you as well. Patreon, for example, [collects data from EU creators](https://support.patreon.com/hc/en-us/articles/21712170817293-Introduction-to-DAC7) under **DAC7**, the EU rules that make digital platforms report sellers' income to tax authorities.
 
 ## US tax: W-8BEN and YouTube
 
@@ -109,13 +109,13 @@ Your profit is taxed like any [freelancer's](/guides/freelancer-taxes-greece-202
 
 ## Gifts, donations and merch
 
-- **Gifted products and trips:** if a brand gives you something in exchange for promotion, the tax authorities treat it as payment. According to the [2026 reporting](https://www.ot.gr/2026/07/07/forologia/forologia-eidiseis/influencers-sarotikoi-elegxoi-gia-adilota-eisodimata-poies-einai-oi-ypoxreoseis-tous), it has to be invoiced and declared.
+- **Gifted products and trips:** if a brand gives you something in exchange for promotion, the tax authorities treat it as payment. A 2026 decision of AADE's Dispute Resolution Directorate ([ΔΕΔ 1966/2026](https://www.taxheaven.gr/circulars/54075/ded-1966-2026)) treats such barter as payment that has to be invoiced and declared.
 - **Memberships, Super Chats, Bits and subscriptions:** they arrive as part of the platform payout and are business income.
 - **Merch:** selling goods is a separate activity with its own KAD and VAT rules. Add it to your registration before you sell.
 
 ## Equipment and other deductions
 
-Business expenses with a proper invoice reduce your taxable profit: cameras, microphones, lighting, editing software, studio rent, ads, and the business share of phone and internet. Under [Article 24 of the Income Tax Code](https://www.taxheaven.gr/law/4172/2013/arthro/24), an asset worth less than **€1,500** can be written off in full in the year you buy it. More expensive computers and software are depreciated at 20% a year, other equipment over several years.
+Business expenses with a proper invoice reduce your taxable profit: cameras, microphones, lighting, editing software, studio rent, ads, and the business share of phone and internet. Under [Article 24 of the Income Tax Code](https://www.taxheaven.gr/law/4172/2013/arthro/24), an asset costing up to **€1,500** can be written off in full in the year you buy it. More expensive computers and software are depreciated at 20% a year, other equipment over several years.
 
 ## Moving to Greece as a creator: Article 5C
 
@@ -148,7 +148,7 @@ Greek VAT at 24%, unless you use the small business exemption for turnover up to
 
 ### Does YouTube withhold US tax from creators living in Greece?
 
-Only on earnings from US viewers, and only if you don't claim the treaty. Under the Greece–US treaty, the rate on copyright royalties, the category Google uses for YouTube Partner Program income, is 0%. Without tax info, Google may deduct up to 24% of your worldwide earnings, so submit a W-8BEN with your Greek tax number.
+With a W-8BEN on file, only earnings from US viewers are subject to US withholding, and under the Greece–US treaty the rate on "other copyright royalties", the category Google uses for YouTube Partner Program income, is 0%. Without tax info, Google may deduct up to 24% of your worldwide earnings.
 
 ### Can content creators get the Greek 50% tax break (Article 5C)?
 
@@ -158,4 +158,4 @@ Yes, if they move their tax residence to Greece, were not Greek tax resident in 
 
 Products, trips or services given in exchange for promotion have an economic value. According to the Greek tax authorities, they have to be invoiced and declared like a cash fee. Items you buy yourself for your channel are a business expense instead.
 
-*Rules as of November 2026 (sources: Income Tax Code (Law 4172/2013) arts. 5C and 24; Law 5246/2025; Law 5162/2024 art. 3; Law 5355/2026 art. 12; VAT Code (Law 5144/2024) arts. 18 and 44a; Council Directive 2006/112/EC arts. 44 and 196; AADE decisions A.1003/2026, A.1004/2026, A.1222/2020 and A.1011/2026; EFKA circular 6/2026; Google AdSense and YouTube Help; Patreon Help; IRS Tax Treaty Table 1).*
+*Rules as of November 2026 (sources: Income Tax Code (Law 4172/2013) arts. 5C and 24; Law 5246/2025; Dispute Resolution Directorate decision 1966/2026; Law 5162/2024 art. 3; Law 5355/2026 art. 12; VAT Code (Law 5144/2024) arts. 18 and 44a; Council Directive 2006/112/EC arts. 44 and 196; AADE decisions A.1003/2026, A.1004/2026, A.1222/2020 and A.1011/2026; EFKA circular 6/2026; Google AdSense and YouTube Help; Patreon Help; IRS Tax Treaty Table 1).*
