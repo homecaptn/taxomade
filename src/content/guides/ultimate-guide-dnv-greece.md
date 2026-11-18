@@ -50,7 +50,7 @@ With family the threshold rises by **20%** for a spouse or partner (€4,200 in 
 
 ## The 2026 change: apply at the consulate
 
-Law 5275/2026 (Government Gazette A' 17, 6 February 2026) changed immigration procedures. In practice, the earlier route of entering on a 90-day Schengen stay and applying for the digital nomad permit inside Greece is no longer available. Applications now start with a national Type-D visa at the Greek consulate or embassy in your country of residence, before you travel. Confirm the current procedure with your consulate, as practice can vary.
+[Law 5275/2026](https://www.taxheaven.gr/law/5275/2026) (Government Gazette A' 17, 6 February 2026) changed immigration procedures. In practice, the earlier route of entering on a 90-day Schengen stay and applying for the digital nomad permit inside Greece is no longer available. Applications now start with a national Type-D visa at the Greek consulate or embassy in your country of residence, before you travel. Confirm the current procedure with your consulate, as practice can vary.
 
 Once you hold the Type-D visa, you enter Greece and apply for the residence permit before the visa expires.
 
@@ -78,7 +78,7 @@ The main documents are:
 
 ## What the DNV means for your taxes
 
-A residence permit and tax residence are separate questions. You become Greek tax resident when your main home or centre of life is in Greece, or after more than 183 days within any 12 months (see [the 183-day rule](/guides/tax-residency-greece-183-days/)). From then on you need a Greek tax number ([AFM](/guides/what-is-greek-afm-number/)), file an annual Greek return on your worldwide income on the normal scale of 9% to 44%, and rely on the tax treaty with your home country to avoid double taxation. Social security depends on your situation and your home country's agreements with Greece.
+A residence permit and tax residence are separate questions. You become Greek tax resident when your main home or centre of life is in Greece, or after more than 183 days within any 12 months, in which case residence counts from your first day in the country (see [the 183-day rule](/guides/tax-residency-greece-183-days/)). From then on you need a Greek tax number ([AFM](/guides/what-is-greek-afm-number/)), file an annual Greek return on your worldwide income on the normal scale of 9% to 44%, and rely on the tax treaty with your home country to avoid double taxation. Social security depends on your situation and your home country's agreements with Greece.
 
 **Article 5C is not available.** The 50% exemption requires employment with a Greek employer or your own business in Greece, which the DNV rules out. More in [why the DNV rules out Article 5C](/guides/5c-vs-digital-nomad-visa/), and for comparison with a short stay, [DNV vs tourist visa](/guides/dnv-vs-tourist-visa/).
 
@@ -92,7 +92,7 @@ The €3,500 is **net**, not gross. If your gross is €4,000 but your take-home
 
 ### Insurance and paperwork the consulate rejects
 
-A policy limited to travel emergencies is usually not enough. What is accepted differs between consulates, so read your consulate's wording before you buy, and bring the full policy document, not just a certificate. Official documents such as criminal record and civil registry certificates need an apostille and a Greek translation by a translator from Greece's register of certified translators, a Greek lawyer or the consulate itself; an uncertified translation is not accepted.
+A policy limited to travel emergencies is usually not enough. What is accepted differs between consulates, so read your consulate's wording before you buy, and bring the full policy document, not just a certificate. Official documents such as criminal record and civil registry certificates need an apostille (or consular legalisation if your country is not part of the Hague Convention) and a Greek translation by a translator from Greece's register of certified translators, a Greek lawyer or the consulate itself; an uncertified translation is not accepted.
 
 ### Taking on Greek clients or a local job
 
@@ -100,7 +100,7 @@ You sign a declaration that you won't work for an employer based in Greece, and 
 
 ### Treating the DNV as tax-free
 
-The DNV is a residence permit, not a tax status. The 183-day exception for stays purely for tourism or medical treatment does not apply to people living and working here, and residence usually counts from your first day in Greece. Pay for work you physically do in Greece is usually taxed here first; the treaty with your home country, where one exists, decides how that country gives relief. Penalties for missed Greek filings come automatically, without a warning letter.
+The DNV is a residence permit, not a tax status. The 183-day exception for stays purely for tourism or medical treatment does not apply to people living and working here. Pay for work you physically do in Greece is usually taxed here first; if another country also taxes it, the double tax treaty (where one exists) decides how relief is given. Penalties for missed Greek filings come automatically, without a warning letter.
 
 ## Frequently asked questions
 
