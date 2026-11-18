@@ -5,7 +5,7 @@ import { writeFileSync, readFileSync } from 'node:fs';
 
 const KEY = process.env.GOOGLE_PLACES_API_KEY;
 const OUT = new URL('../src/data/google-reviews.json', import.meta.url);
-let placeId = process.env.GOOGLE_PLACE_ID || '';
+let placeId = process.env.GOOGLE_PLACE_ID || 'ChIJo49bvYmDPiUR59Jbta_gexc'; // taxomade Google Business Profile
 
 async function main() {
   if (!KEY) { console.log('[reviews] no GOOGLE_PLACES_API_KEY – keeping existing data'); return; }
