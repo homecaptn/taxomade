@@ -14,7 +14,7 @@ async function main() {
     const r = await fetch('https://places.googleapis.com/v1/places:searchText', {
       method: 'POST',
       headers: { ...headers, 'X-Goog-FieldMask': 'places.id,places.displayName,places.formattedAddress' },
-      body: JSON.stringify({ textQuery: 'taxomade', languageCode: 'en' }),
+      body: JSON.stringify({ textQuery: 'taxomade', languageCode: 'en', includePureServiceAreaBusinesses: true }),
     });
     const j = await r.json();
     if (!r.ok) throw new Error('searchText ' + r.status + ' ' + JSON.stringify(j).slice(0, 300));
