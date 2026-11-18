@@ -25,6 +25,11 @@
         "source": "/guides/top-5-mistakes-article-5c{,/**}",
         "destination": "/guides/50-percent-tax-break-article-5c/",
         "type": 301
+      },
+      {
+        "source": "/guides/top-5-mistakes-dnv{,/**}",
+        "destination": "/guides/ultimate-guide-dnv-greece/",
+        "type": 301
       }
     ]
   },
