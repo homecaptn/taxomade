@@ -4,6 +4,7 @@ description: "Greek freelancer taxes 2026: new income tax scale, EFKA from €25
 pubDate: 2026-10-08
 updatedDate: 2026-11-14
 category: "tax"
+translationOf: "steuern-selbststaendige-griechenland-2026"
 faq:
   - question: "How much tax does a freelancer pay in Greece in 2026?"
     answer: "Income from 2026 is taxed on a progressive scale: 9% up to €10,000, 20% from €10,000 to €20,000, 26% up to €30,000, 34% up to €40,000, 39% up to €60,000 and 44% above €60,000. On €30,000 of taxable profit, that is €5,500 in income tax before any special regime. EFKA contributions and, in most cases, VAT come on top."
