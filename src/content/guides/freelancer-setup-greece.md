@@ -2,7 +2,7 @@
 title: "Setting up as a Freelancer in Greece: The Complete Guide"
 description: "What a new freelancer in Greece must set up: AFM and business start, EFKA from €150.46/month, myDATA invoicing, VAT and income tax rates for 2026."
 pubDate: 2026-05-14
-updatedDate: 2026-11-14
+updatedDate: 2026-11-19
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -12,6 +12,10 @@ faq:
     answer: "The fixed monthly cost is EFKA. For your first five years of insurance as a self-employed person you can apply for a reduced class of €150.46 per month; the lowest regular class is €250.77. For most freelancers a €10 unemployment contribution comes on top. Bookkeeping comes on top of that."
   - question: "Do freelancers in Greece have to charge VAT?"
     answer: "The standard rate is 24%. Invoices to business clients in other EU countries (reverse charge) and to clients outside the EU are usually issued without Greek VAT, but they still go into your VAT returns. Freelancers with simple books who started on or after 1 January 2024 file monthly and can switch to quarterly on request after 24 months."
+  - question: "When is EFKA due for freelancers in Greece?"
+    answer: "By the last working day of the month following the contribution month. January's contribution is due by the end of February. You pay by bank transfer using the RF payment code on your EFKA notice. Late payments accrue interest automatically."
+  - question: "When is the annual income tax return due in Greece?"
+    answer: "The filing window for the E1 and E3 forms runs from 15 March to 15 July. Tax is paid in full by the end of July, with a 2 to 4 percent discount for early filing, or in eight monthly instalments from July to February of the following year."
   - question: "Should I open an IKE or register as a sole proprietor in Greece?"
     answer: "For most freelancers, a sole proprietorship is simpler and cheaper. An IKE pays 22% corporate tax plus 5% on distributed profits, needs double-entry bookkeeping and monthly VAT returns, and ongoing accounting typically costs about twice as much."
 ---
@@ -75,6 +79,23 @@ Many expats read about the 5% dividend tax and assume they should open a company
 
 An IKE also carries higher fixed costs: the annual trade fee (under Law 5355/2026, arts. 14 and 31, companies pay none for premises outside Attica or on the Attica islands from tax year 2026, premises in the rest of Attica pay half for tax year 2027, and it is abolished from tax year 2028), double-entry bookkeeping and monthly VAT returns. In our experience, ongoing accounting for an IKE costs about twice as much as for a sole proprietorship. For most freelancers, a sole proprietorship, combined with 5C where available, is simpler and cheaper. Details in [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs/).
 
+## Your yearly calendar
+
+Once you are registered, the year runs on three clocks: monthly, monthly or quarterly, and annual. There is no reminder before a deadline.
+
+**Every month**
+
+- **myDATA:** every invoice is transmitted when issued (by the next day at the latest); your accountant classifies your expenses before each VAT return.
+- **EFKA:** due by the **last working day of the following month**, paid by bank transfer with the RF code on your EFKA notice. Late payments accrue interest automatically.
+- **Recapitulative statement:** only if you invoice VAT-registered businesses in other EU countries, by the **26th of the following month**, even in months without a VAT return.
+
+**VAT returns** are due by the last working day of the month after the period. For quarterly filers: Q1 by 30 April, Q2 by 31 July, Q3 by 31 October, Q4 by 31 January (earlier when the date falls on a weekend).
+
+**Every year**
+
+- **Annual return (E1 personal return, E3 business schedule):** filed between **15 March and 15 July**. Extensions happen in some years, but do not plan around them.
+- **Payment:** in full by the end of July, with a 4% discount if you filed by 15 May, 3% by 15 June and 2% by 15 July ([Law 5297/2026, art. 249](https://www.taxheaven.gr/law/5297/2026/arthro/249)), or in **eight monthly instalments** from July to February. The advance tax on next year's bill is paid together with it.
+
 ## Frequently asked questions
 
 ### How do I register as a freelancer in Greece?
@@ -89,12 +110,20 @@ The fixed monthly cost is EFKA. For your first five years of insurance as a self
 
 The standard rate is 24%. Invoices to business clients in other EU countries (reverse charge) and to clients outside the EU are usually issued without Greek VAT, but they still go into your VAT returns. Freelancers with simple books who started on or after 1 January 2024 file monthly and can switch to quarterly on request after 24 months.
 
+### When is EFKA due for freelancers in Greece?
+
+By the last working day of the month following the contribution month. January's contribution is due by the end of February. You pay by bank transfer using the RF payment code on your EFKA notice. Late payments accrue interest automatically.
+
+### When is the annual income tax return due in Greece?
+
+The filing window for the E1 and E3 forms runs from 15 March to 15 July. Tax is paid in full by the end of July, with a 2 to 4 percent discount for early filing, or in eight monthly instalments from July to February of the following year.
+
 ### Should I open an IKE or register as a sole proprietor in Greece?
 
 For most freelancers, a sole proprietorship is simpler and cheaper. An IKE pays 22% corporate tax plus 5% on distributed profits, needs double-entry bookkeeping and monthly VAT returns, and ongoing accounting typically costs about twice as much.
 
 ## Getting help with the setup
 
-The [timeline for moving to Greece as a freelancer](/guides/moving-to-greece-as-freelancer-timeline-payments/) shows what is due when. At taxomade, we prepare and file your business start, VAT returns and annual tax return as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/), from €89 per month, with myDATA included. Send us a message for a free check of your setup.
+At taxomade, we prepare and file your business start, VAT returns and annual tax return as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/), from €89 per month, with myDATA included. Send us a message for a free check of your setup.
 
-*Rules as of November 2026 (sources: Income Tax Code art. 5C, 29 and 69, VAT Code art. 44a, Tax Procedure Code art. 53 as amended by Law 5301/2026, Law 4387/2016 art. 39, e-EFKA circulars 6/2026 and 14/2022, AADE decisions A.1011/2026, A.1049/2025 and A.1197/2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) arts. 12, 14 and 31).*
+*Rules as of November 2026 (sources: Income Tax Code art. 5C, 29 and 69, VAT Code art. 44a, Tax Procedure Code art. 53 as amended by Law 5301/2026, Law 4387/2016 art. 39, e-EFKA circulars 6/2026 and 14/2022, AADE decisions A.1011/2026, A.1049/2025 and A.1197/2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) arts. 12, 14 and 31; Law 5297/2026 art. 249; deadlines are extended in some years).*

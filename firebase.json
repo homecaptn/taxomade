@@ -30,6 +30,11 @@
         "source": "/guides/top-5-mistakes-dnv{,/**}",
         "destination": "/guides/ultimate-guide-dnv-greece/",
         "type": 301
+      },
+      {
+        "source": "/guides/moving-to-greece-as-freelancer-timeline-payments{,/**}",
+        "destination": "/guides/freelancer-setup-greece/",
+        "type": 301
       }
     ]
   },
