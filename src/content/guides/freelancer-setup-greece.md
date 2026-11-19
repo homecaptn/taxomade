@@ -1,6 +1,6 @@
 ---
 title: "Setting up as a Freelancer in Greece: The Complete Guide"
-description: "What a new freelancer in Greece must set up: AFM and business start, EFKA from €150.46/month, myDATA invoicing, VAT and income tax rates for 2026."
+description: "What a new freelancer in Greece must set up: AFM, EFKA from €150.46/month, myDATA, VAT and income tax for 2026, plus the yearly deadline calendar."
 pubDate: 2026-05-14
 updatedDate: 2026-11-19
 category: "bookkeeping"
@@ -15,12 +15,12 @@ faq:
   - question: "When is EFKA due for freelancers in Greece?"
     answer: "By the last working day of the month following the contribution month. January's contribution is due by the end of February. You pay by bank transfer using the RF payment code on your EFKA notice. Late payments accrue interest automatically."
   - question: "When is the annual income tax return due in Greece?"
-    answer: "The filing window for the E1 and E3 forms runs from 15 March to 15 July. Tax is paid in full by the end of July, with a 2 to 4 percent discount for early filing, or in eight monthly instalments from July to February of the following year."
+    answer: "The filing window for the E1 and E3 forms runs from 15 March to 15 July. Tax is paid in full by the end of July, with a 2% to 4% discount for early filing, or in eight monthly instalments from July to February of the following year."
   - question: "Should I open an IKE or register as a sole proprietor in Greece?"
     answer: "For most freelancers, a sole proprietorship is simpler and cheaper. An IKE pays 22% corporate tax plus 5% on distributed profits, needs double-entry bookkeeping and monthly VAT returns, and ongoing accounting typically costs about twice as much."
 ---
 
-If you work for clients and move your tax residence to Greece, the usual setup is a **sole proprietorship** (ατομική επιχείρηση), the Greek equivalent of a sole trader in the UK or an autónomo in Spain. Non-EU citizens need a residence permit that allows self-employment; the Digital Nomad Visa does not cover Greek business activity. This guide covers the steps, the monthly costs and the ongoing obligations.
+If you work for clients and move your tax residence to Greece, the usual setup is a **sole proprietorship** (ατομική επιχείρηση), the Greek equivalent of a sole trader in the UK or an autónomo in Spain. Non-EU citizens need a residence permit that allows self-employment; the Digital Nomad Visa does not cover Greek business activity. This guide covers the steps, the monthly costs, the ongoing obligations and a yearly deadline calendar.
 
 ## The short answer
 
@@ -29,6 +29,7 @@ If you work for clients and move your tax residence to Greece, the usual setup i
 - **Invoicing:** every invoice is reported to myDATA; e-invoicing applies to Greek and non-EU business clients from 2 November 2026.
 - **VAT:** 24% standard rate; foreign business clients are usually invoiced without Greek VAT.
 - **Income tax:** 9% to 44% from income year 2026, plus a 55% advance on next year's tax (halved in your first year with business income; 50% from the return for tax year 2027, filed in 2028, under Law 5355/2026, art. 12).
+- **Deadlines:** EFKA monthly, VAT monthly or quarterly, annual return between 15 March and 15 July; there is no reminder before a deadline.
 
 ## The setup process
 
@@ -71,30 +72,32 @@ Lower rates apply to under-30s and parents. Details in [freelancer taxes in Gree
 
 If you were not Greek tax resident in five of the previous six years, you may qualify for the [Article 5C regime](/guides/50-percent-tax-break-article-5c/): 50% of your income from the registered activity is exempt from income tax. Digital Nomad Visa holders are not eligible. On top of income tax, budget for the [55% advance tax](/guides/hidden-costs-moving-to-greece-advance-tax/) on next year's bill (halved in your first year with business income; Law 5355/2026, art. 12, cuts it to 50% from the return for tax year 2027, filed in 2028) and, from your fourth year, the minimum presumptive income. The trade fee no longer applies to individuals.
 
-**Late filings** are fined automatically, without a warning ([Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53)). A late VAT return costs €100 if it shows nothing to pay, and €250 (simple books) or €500 (double-entry books) if tax is due. A late income tax return showing €100 of tax or less is not fined; above that, the fine is €250 or €500 with business income. A late VIES statement costs €100.
+## Your yearly calendar
 
-### What about an IKE (private company)?
+Once you are registered, your year runs on three clocks: monthly (myDATA, EFKA), monthly or quarterly (VAT) and annual (the income tax return).
+
+### Every month
+
+- **myDATA:** every invoice is transmitted when issued (by the next day at the latest); your accountant classifies your expenses before each VAT return.
+- **EFKA:** due by the **last working day of the following month**. Late payments accrue interest automatically.
+- **Recapitulative (VIES) statement:** by the **26th of the following month**, only if you invoice VAT-registered businesses in other EU countries, and even in months without a VAT return.
+
+### VAT returns
+
+Due by the last working day of the month after the period. For quarterly filers: Q1 by 30 April, Q2 by 31 July, Q3 by 31 October and Q4 by 31 January, moved earlier when the date falls on a weekend.
+
+### Every year
+
+- **Annual return (E1 personal return, E3 business schedule):** filed between **15 March and 15 July**. Extensions happen in some years, but do not plan around them.
+- **Payment:** in full by the end of July, with a 4% discount if you filed by 15 May, 3% by 15 June and 2% by 15 July ([Law 5297/2026, art. 249](https://www.taxheaven.gr/law/5297/2026/arthro/249)), or in **eight monthly instalments** from July to February. The advance tax on next year's bill is part of the same payment.
+
+**Late filings** are fined automatically, without a warning ([Article 53, Law 5104/2024](https://www.taxheaven.gr/law/5104/2024/arthro/53)). A late VAT return costs €100 if it shows nothing to pay, and €250 (simple books) or €500 (double-entry books) if tax is due. A late income tax return showing €100 of tax or less is not fined; above that, the fine is €250 or €500 with business income. A late recapitulative (VIES) statement costs €100.
+
+## What about an IKE (private company)?
 
 Many expats read about the 5% dividend tax and assume they should open a company (IKE). **The 5% is a tax on company distributions, paid after 22% corporate tax, and has nothing to do with sole-proprietor income.**
 
 An IKE also carries higher fixed costs: the annual trade fee (under Law 5355/2026, arts. 14 and 31, companies pay none for premises outside Attica or on the Attica islands from tax year 2026, premises in the rest of Attica pay half for tax year 2027, and it is abolished from tax year 2028), double-entry bookkeeping and monthly VAT returns. In our experience, ongoing accounting for an IKE costs about twice as much as for a sole proprietorship. For most freelancers, a sole proprietorship, combined with 5C where available, is simpler and cheaper. Details in [setting up an IKE in Greece](/guides/ike-greece-setup-annual-costs/).
-
-## Your yearly calendar
-
-Once you are registered, the year runs on three clocks: monthly, monthly or quarterly, and annual. There is no reminder before a deadline.
-
-**Every month**
-
-- **myDATA:** every invoice is transmitted when issued (by the next day at the latest); your accountant classifies your expenses before each VAT return.
-- **EFKA:** due by the **last working day of the following month**, paid by bank transfer with the RF code on your EFKA notice. Late payments accrue interest automatically.
-- **Recapitulative statement:** only if you invoice VAT-registered businesses in other EU countries, by the **26th of the following month**, even in months without a VAT return.
-
-**VAT returns** are due by the last working day of the month after the period. For quarterly filers: Q1 by 30 April, Q2 by 31 July, Q3 by 31 October, Q4 by 31 January (earlier when the date falls on a weekend).
-
-**Every year**
-
-- **Annual return (E1 personal return, E3 business schedule):** filed between **15 March and 15 July**. Extensions happen in some years, but do not plan around them.
-- **Payment:** in full by the end of July, with a 4% discount if you filed by 15 May, 3% by 15 June and 2% by 15 July ([Law 5297/2026, art. 249](https://www.taxheaven.gr/law/5297/2026/arthro/249)), or in **eight monthly instalments** from July to February. The advance tax on next year's bill is paid together with it.
 
 ## Frequently asked questions
 
@@ -116,7 +119,7 @@ By the last working day of the month following the contribution month. January's
 
 ### When is the annual income tax return due in Greece?
 
-The filing window for the E1 and E3 forms runs from 15 March to 15 July. Tax is paid in full by the end of July, with a 2 to 4 percent discount for early filing, or in eight monthly instalments from July to February of the following year.
+The filing window for the E1 and E3 forms runs from 15 March to 15 July. Tax is paid in full by the end of July, with a 2% to 4% discount for early filing, or in eight monthly instalments from July to February of the following year.
 
 ### Should I open an IKE or register as a sole proprietor in Greece?
 
