@@ -4,6 +4,7 @@ description: "What accountants cost in Greece in 2026: €30–60/month local ra
 pubDate: 2026-09-06
 updatedDate: 2026-11-07
 category: "bookkeeping"
+translationOf: "buchhalter-griechenland-kosten"
 faq:
   - question: "Do I really need an accountant as a freelancer in Greece?"
     answer: "In practice, yes. Very few freelancers file on their own: the myDATA system, Greek-only government portals and fixed fines for late filings — €100 for a late VAT return with nothing to pay, €250 (simple books) or €500 (double-entry books) for a late return with tax due under Article 53 of the Tax Procedure Code (Law 5104/2024) — make professional handling the norm, even among Greeks. See our freelancer tax guide for what's involved."
