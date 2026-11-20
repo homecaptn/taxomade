@@ -1,8 +1,8 @@
 ---
-title: "myDATA in Greece Explained for Freelancers and Small Businesses (2026)"
-description: "myDATA in Greece explained: what AADE's digital books platform is, what you must report, MARK numbers, timing, e-invoicing and common mistakes."
+title: "myDATA & E-Invoicing in Greece Explained (2026)"
+description: "myDATA and B2B e-invoicing in Greece explained: what to report, MARK numbers, timing, who must e-invoice from November 2026 and penalties."
 pubDate: 2026-11-01
-updatedDate: 2026-11-13
+updatedDate: 2026-11-20
 category: "bookkeeping"
 faq:
   - question: "What is myDATA in Greece?"
@@ -13,6 +13,12 @@ faq:
     answer: "Yes. Invoices to clients in other EU countries, outside the EU and to private customers all have to be reported. The client's location changes the VAT treatment and whether the e-invoicing mandate applies, not the myDATA obligation."
   - question: "What is the difference between myDATA and e-invoicing?"
     answer: "myDATA is the reporting platform where invoice data reaches AADE. E-invoicing regulates how certain invoices are issued: from 2 November 2026, invoices to Greek businesses and businesses outside the EU must be issued through an approved provider or AADE's free timologio or myDATAapp (public-sector invoices since 1 September 2025)."
+  - question: "When does e-invoicing become mandatory for small businesses in Greece?"
+    answer: "From 2 November 2026, for businesses and freelancers with gross revenue of up to €1 million in their 2023 tax return. A transition period runs until 31 January 2027 for businesses that declared their e-invoicing method in time. The original start date of 1 October 2026 was postponed."
+  - question: "Do I need e-invoicing for invoices to US or UK clients?"
+    answer: "Yes. Invoices to businesses outside the EU, such as in the US, UK or Switzerland, are covered and must be issued through an approved provider or AADE's free timologio or myDATAapp. Invoices to businesses in other EU countries and to private customers are not covered, but still have to be reported to myDATA."
+  - question: "Is the timologio app free, and do I need a declaration?"
+    answer: "timologio is free. If you issue all in-scope invoices exclusively through timologio or myDATAapp from 2 November 2026, you don't need a declaration. With a certified provider, the provider files a declaration in myAADE that you accept. The transition period until 31 January 2027 only applies if that declaration (or a declaration of use for timologio) was filed in time with a start date no later than 2 November 2026, generally read as by 12 November 2026."
   - question: "Who classifies expenses in myDATA, me or my accountant?"
     answer: "In practice your accountant. Expense invoices from Greek suppliers are classified by the deadline of the VAT return for the period. Payroll entries follow the withholding tax return, and depreciation and other year-end entries follow the income tax return."
   - question: "What happens if an invoice is missing from myDATA?"
@@ -28,7 +34,8 @@ If you invoice anything in Greece, your invoice data goes to the tax authority. 
 - **Who sends it:** your invoicing tool does it when you issue the invoice. Expense classification is usually your accountant's job.
 - **MARK:** every valid transmission gets a unique registration number from AADE.
 - **Timing:** invoices are reported in real time when issued through a provider, timologio or ERP software. Expenses are classified by your VAT return deadline.
-- **E-invoicing is separate:** from **2 November 2026** some invoices must also be *issued* through approved channels. That builds on myDATA, it doesn't replace it.
+- **E-invoicing is separate:** from **2 November 2026** invoices to Greek and non-EU businesses must also be *issued* through approved channels. That builds on myDATA, it doesn't replace it ([details below](#e-invoicing-b2b-in-greece)).
+- **Transition and penalties:** a transition period runs until **31 January 2027**, but only if you declared your e-invoicing method in time. A missing e-invoice counts as an invoice not issued at all.
 
 ## What myDATA actually is
 
@@ -36,7 +43,7 @@ myDATA is a database at AADE that holds a digital copy of your books. The legal 
 
 AADE presents it as the basis for automated tax returns. In practice, AADE knows your invoiced income before you file anything.
 
-## What has to be reported
+## What you have to report to myDATA
 
 ### Your income: every invoice and receipt
 
@@ -55,7 +62,7 @@ Your suppliers report the invoices they issue *to you*. Those invoices then appe
 
 If a Greek supplier didn't report an invoice, or reported a lower amount than the real one, the obligation shifts to you: as the recipient, you report the omission before the VAT return deadline for that period ([A.1138/2020, art. 5](https://www.taxheaven.gr/news/66026/mydata-oi-allages-apo-112024-kai-oi-xronoi-diabibashs-poy-isxyoyn)).
 
-## Who transmits: the channels
+## How invoices get to myDATA
 
 The main ways to get data into myDATA ([AADE](https://www.aade.gr/epiheiriseis/mydata-ilektronika-biblia-aade/mydata-ilektronika-biblia)):
 
@@ -67,13 +74,13 @@ The main ways to get data into myDATA ([AADE](https://www.aade.gr/epiheiriseis/m
 
 An invoice typed in Word and emailed as a PDF has not been reported.
 
-## The MARK number
+## What is a MARK number?
 
 Every valid transmission receives a **MARK** (Μοναδικός Αριθμός Καταχώρησης), the unique registration number AADE assigns ([A.1138/2020, art. 1](https://aade.gr/sites/default/files/2024-07/a.1138_2020_kwdikopoiimenime_a.1048_a1049_2024.pdf)). Invoices issued through timologio also carry a QR code that links to the document in myDATA.
 
 A MARK is your proof that the invoice reached AADE.
 
-## Timing
+## myDATA deadlines
 
 Under A.1138/2020 as currently in force ([taxheaven overview](https://www.taxheaven.gr/news/66026/mydata-oi-allages-apo-112024-kai-oi-xronoi-diabibashs-poy-isxyoyn)):
 
@@ -92,15 +99,71 @@ Under A.1138/2020 as currently in force ([taxheaven overview](https://www.taxhea
 
 myDATA has no single annual deadline. It runs alongside your VAT return cycle, monthly or quarterly. For all dates in one place, see the [Greek tax deadlines calendar](/guides/greek-tax-deadlines-calendar-2026/).
 
-## myDATA and e-invoicing: how they fit together
+## E-invoicing (B2B) in Greece
 
 myDATA is where invoice data ends up. E-invoicing regulates **how** certain invoices are issued.
 
-From **2 November 2026**, freelancers and businesses with revenue up to €1 million (per their 2023 tax return) must issue invoices to Greek businesses and businesses outside the EU through an approved provider or timologio/myDATAapp ([joint decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). Invoices to the public sector (B2G) have had to be electronic since 1 September 2025 under separate rules ([Lawspot](https://www.lawspot.gr/nomika-nea/enarxi-ypohreotikis-ilektronikis-timologisis-b2g-gia-dapanes-foreon-tis-genikis/)). Until 31 January 2027, a transition period lets you keep using other channels alongside. It only applies if you declared your e-invoicing method (provider or timologio) in time, generally read as by 12 November 2026. Businesses above €1 million have been in scope since 2 March 2026. Invoices to EU businesses and private customers are outside the mandate but still go to myDATA.
+Most people assume an invoice sent by email as a PDF is already "electronic". Under the Greek rules it isn't. An e-invoice is issued through an approved channel that transmits the data to myDATA as part of issuing it, so the document gets its MARK at the moment it is created.
 
-Who is in scope, declarations and penalties: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained/).
+A PDF made in Word, Excel or an invoicing tool that isn't connected to an approved channel doesn't count for invoices in scope.
 
-## Common mistakes
+### Who is affected, and from when
+
+- **Businesses with revenue above €1 million:** since 2 March 2026 (postponed from 2 February by A.1044/2026).
+- **Everyone else, freelancers included:** from **2 November 2026**, if gross revenue in the 2023 tax return was up to €1 million. The original date of 1 October 2026 was moved back by [joint decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026) (Gov. Gazette B' 5905/30.09.2026); anything mentioning an October start is out of date.
+- **Public sector (B2G):** invoices to public bodies have had to be electronic since 1 September 2025 under separate rules ([Lawspot](https://www.lawspot.gr/nomika-nea/enarxi-ypohreotikis-ilektronikis-timologisis-b2g-gia-dapanes-foreon-tis-genikis/)).
+- **Transition period:** until **31 January 2027** you can keep using your ERP or accounting software, or the special registration form, alongside the new channels, but only if you declared your e-invoicing method in time. From **1 February 2027**, invoices in scope can only be issued through a certified provider, timologio or myDATAapp.
+
+### Which invoices need e-invoicing
+
+<div class="overflow-x-auto">
+
+| Your client | E-invoicing required? |
+|---|---|
+| Greek business | Yes, from 2 November 2026 |
+| Business outside the EU (US, UK, Switzerland...) | Yes, from 2 November 2026 |
+| Greek public sector body | Yes, since 1 September 2025 (separate rules) |
+| Business in another EU country | No |
+| Private individual | No |
+
+</div>
+
+"Not covered" doesn't mean "no rules": invoices to EU businesses and private customers still go to myDATA as before. If you only bill EU companies, little changes for now. A consultant with Greek clients, or a designer billing a US agency, needs a compliant setup.
+
+### How to issue e-invoices: your two options
+
+1. **AADE's free timologio (web) or myDATAapp (mobile).** Built for small businesses and the self-employed. How it works: our [guide to timologio](/guides/free-invoicing-greece-aade-timologio/).
+2. **A certified e-invoicing provider** (Πάροχος Υπηρεσιών Ηλεκτρονικής Τιμολόγησης), listed in AADE's register of providers. Your accounting software can often be connected to one, so you keep your software while the provider handles compliant issuance. Accounting or ERP software on its own is not an approved channel.
+
+### Do you need to file an e-invoicing declaration?
+
+- **timologio or myDATAapp only:** if you issue all in-scope invoices through AADE's free apps from 2 November onward, no declaration is needed.
+- **Certified provider:** the provider files a "Declaration of Commencement of Electronic Issuance" in myAADE within 10 days of your contract's start date, and you accept it there; if you don't respond within 10 days, it counts as accepted. If the provider misses its deadline, you file it yourself within the following 10 days.
+- **Keeping your old setup during the transition:** you need that provider declaration or a "declaration of use" for timologio, filed in time with a start date no later than 2 November 2026. Using a provider and timologio in parallel means one declaration per channel.
+
+What counts as "in time"? A.1197/2026 only says "timely". The underlying rule is 10 days from the start date (A.1112/2025, A.1129/2025), so for a 2 November start the deadline is generally read as **12 November 2026** ([taxheaven timeline](https://www.taxheaven.gr/news/74429/hlektronikh-timologhsh-b-periodos-analytiko-xronodiagramma-paradeigmata-erwthseis-kai-prostima)).
+
+Without a timely declaration there is no transition: every in-scope invoice must already go through a provider, timologio or myDATAapp.
+
+### Penalties for a missing e-invoice
+
+An invoice that should have been issued electronically but wasn't counts as an invoice not issued at all ([AADE circular E.2004/2026](https://www.taxheaven.gr/news/72866/ta-prostima-ths-mh-efarmoghs-hlektronikhs-timologhshs)), penalised under [Article 57(5) and (6) of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/57):
+
+- **With VAT:** 50% of the VAT, minimum **€250** (single-entry books) or **€500** (double-entry books).
+- **Without VAT** (e.g. under the small-business exemption): **€500** or **€1,000** per tax audit.
+- **Repeat violations:** 100% of the VAT for the second (minimum €500 or €1,000), 200% from the third (minimum €1,000 or €2,000).
+
+One small invoice issued the wrong way can cost more than a compliant setup, especially when AADE's own apps are free.
+
+### What to do now about e-invoicing
+
+1. **Check your clients.** Any Greek or non-EU business clients put you in scope; public-sector clients already require e-invoices.
+2. **Choose a channel.** timologio for low volume, a certified provider for higher volume or software integration.
+3. **Check your declaration.** Filed by 12 November 2026 with a start date no later than 2 November? Then the transition applies; use it to test before February 2027. If not, issue every in-scope invoice through a provider or timologio from now on.
+
+Greece isn't an outlier: Italy has required B2B e-invoicing since 2019 and Belgium since January 2026, and the EU's "VAT in the Digital Age" (ViDA) reforms are set to extend e-invoicing to cross-border B2B transactions from July 2030.
+
+## Common myDATA mistakes
 
 **Invoices that never reached myDATA.** Usually a self-made PDF, or software that isn't actually connected. Under [Article 16(2)](https://www.taxheaven.gr/law/5104/2024/arthro/16), AADE cannot assess your income lower than what myDATA shows. Unreported invoices don't make income disappear; they create a gap between your books and AADE's.
 
@@ -110,11 +173,13 @@ Who is in scope, declarations and penalties: [e-invoicing in Greece explained](/
 
 **Wrong treatment of foreign clients.** An invoice to an EU business carries no Greek VAT under reverse charge but still needs the right VAT exemption category in myDATA, and usually a VIES statement.
 
-## What it costs to get wrong
+## myDATA and e-invoicing penalties
 
-An invoice that should have been issued electronically but wasn't counts as an invoice not issued at all ([AADE circular E.2004/2026](https://www.taxheaven.gr/news/72866/ta-prostima-ths-mh-efarmoghs-hlektronikhs-timologhshs)). For invoices with VAT, a first offence costs 50% of the VAT, with a minimum of €250 (single-entry books) or €500 (double-entry books); without VAT, €500 or €1,000 per audit ([Tax Procedure Code art. 57](https://www.taxheaven.gr/news/74429/hlektronikh-timologhsh-b-periodos-analytiko-xronodiagramma-paradeigmata-erwthseis-kai-prostima)). Repeat offences cost more.
+Missing e-invoices are penalised as invoices not issued at all ([penalties above](#penalties-for-a-missing-e-invoice)). Invoices that were issued but never transmitted to myDATA fall under [Article 58 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/58): 10% of the net value of each missing invoice, capped at €250 per day, and half that if the data arrives late.
 
-Invoices that were issued but never transmitted fall under [Article 58 of the Tax Procedure Code](https://www.taxheaven.gr/law/5104/2024/arthro/58): 10% of the net value of each missing invoice, capped at €250 per day, and half that if the data arrives late. Missing payroll, depreciation or year-end entries cost €250 (single-entry books) or €500 (double-entry books) per year and breach. These fines only apply from a start date the Finance Minister has to set by decision. We are not aware of any such decision as of November 2026, so they are law but not yet applied.
+Missing payroll, depreciation or year-end entries cost €250 (single-entry books) or €500 (double-entry books) per year and breach.
+
+These fines only apply from a start date the Finance Minister has to set by decision. We are not aware of any such decision as of November 2026, so they are law but not yet applied.
 
 The less visible cost is the gap itself: income AADE counts and expenses it won't accept.
 
@@ -122,7 +187,7 @@ The less visible cost is the gap itself: income AADE counts and expenses it won'
 
 For most freelancers, myDATA takes little effort once the setup is right: one invoicing channel that transmits everything, an accountant who classifies expenses before each VAT return, and a regular check that myDATA matches your books. If your current accountant doesn't do that, [switching takes about a week](/guides/switching-accountants-greece/).
 
-At taxomade, myDATA is part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/) from **€89/month**, all inclusive: we classify your expenses, prepare and file your VAT returns and annual return, and check that myDATA matches your books. Message us on WhatsApp for a free compliance check. For the bigger tax picture, see [freelancer taxes in Greece](/guides/freelancer-taxes-greece-2026/).
+At taxomade, myDATA is part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/) from **€89/month**, all inclusive: we set you up on a compliant e-invoicing channel, prepare and file any declaration you need, classify your expenses, prepare and file your VAT returns and annual return, and check that myDATA matches your books. Message us on WhatsApp for a free compliance check. For the bigger tax picture, see [freelancer taxes in Greece](/guides/freelancer-taxes-greece-2026/).
 
 ## Frequently asked questions
 
@@ -142,6 +207,18 @@ Yes. Invoices to clients in other EU countries, outside the EU and to private cu
 
 myDATA is the reporting platform where invoice data reaches AADE. E-invoicing regulates how certain invoices are issued: from 2 November 2026, invoices to Greek businesses and businesses outside the EU must be issued through an approved provider or AADE's free timologio or myDATAapp (public-sector invoices since 1 September 2025).
 
+### When does e-invoicing become mandatory for small businesses in Greece?
+
+From 2 November 2026, for businesses and freelancers with gross revenue of up to €1 million in their 2023 tax return. A transition period runs until 31 January 2027 for businesses that declared their e-invoicing method in time. The original start date of 1 October 2026 was postponed.
+
+### Do I need e-invoicing for invoices to US or UK clients?
+
+Yes. Invoices to businesses outside the EU, such as in the US, UK or Switzerland, are covered and must be issued through an approved provider or AADE's free timologio or myDATAapp. Invoices to businesses in other EU countries and to private customers are not covered, but still have to be reported to myDATA.
+
+### Is the timologio app free, and do I need a declaration?
+
+timologio is free. If you issue all in-scope invoices exclusively through timologio or myDATAapp from 2 November 2026, you don't need a declaration. With a certified provider, the provider files a declaration in myAADE that you accept. The transition period until 31 January 2027 only applies if that declaration (or a declaration of use for timologio) was filed in time with a start date no later than 2 November 2026, generally read as by 12 November 2026.
+
 ### Who classifies expenses in myDATA, me or my accountant?
 
 In practice your accountant. Expense invoices from Greek suppliers are classified by the deadline of the VAT return for the period. Payroll entries follow the withholding tax return, and depreciation and other year-end entries follow the income tax return.
@@ -150,4 +227,4 @@ In practice your accountant. Expense invoices from Greek suppliers are classifie
 
 AADE cannot assess your income lower than what myDATA shows, and expenses whose documents were not transmitted are not deductible. If a supplier fails to report an invoice, you as the recipient report the omission before your VAT return deadline.
 
-*Rules as of November 2026 (sources: Tax Procedure Code, Law 5104/2024, art. 16, 57 and 58, AADE decision A.1138/2020 as amended, joint decision A.1128/2025 as amended by A.1044/2026 and A.1197/2026, AADE circular E.2004/2026, aade.gr myDATA pages).*
+*Rules as of November 2026 (sources: Tax Procedure Code, Law 5104/2024, art. 16, 57 and 58, AADE decision A.1138/2020 as amended, joint decision A.1128/2025 as amended by A.1044/2026 and A.1197/2026, A.1112/2025, A.1129/2025, AADE circular E.2004/2026, AADE announcements of 17.02.2026 and 30.09.2026, aade.gr myDATA pages).*

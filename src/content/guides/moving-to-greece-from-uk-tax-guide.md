@@ -95,7 +95,7 @@ Three UK-specific points:
 
 - **EFKA** for new freelancers is €150.46 per month plus €10 unemployment contribution for the first five years, then from €250.77 ([EFKA guide](/guides/efka-social-security-freelancers-greece/)). Your UK National Insurance record stops building unless you pay voluntary Class 3; see section 9.
 - **VAT.** Services to UK businesses are outside Greek VAT; services to EU businesses are reverse-charged. New businesses file VAT monthly for the first 24 months ([VAT for freelancers with foreign clients](/guides/vat-freelancers-greece-foreign-clients/)).
-- **E-invoicing.** From 2 November 2026 (transition period to 31 January 2027), invoices to Greek and non-EU businesses, which now includes UK clients, go through an approved channel; AADE's free timologio app counts ([e-invoicing guide](/guides/e-invoicing-greece-explained/)).
+- **E-invoicing.** From 2 November 2026 (transition period to 31 January 2027), invoices to Greek and non-EU businesses, which now includes UK clients, go through an approved channel; AADE's free timologio app counts ([e-invoicing explained](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece)).
 
 ## 7. Employees of a UK employer
 

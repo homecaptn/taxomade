@@ -35,6 +35,11 @@
         "source": "/guides/moving-to-greece-as-freelancer-timeline-payments{,/**}",
         "destination": "/guides/freelancer-setup-greece/",
         "type": 301
+      },
+      {
+        "source": "/guides/e-invoicing-greece-explained{,/**}",
+        "destination": "/guides/mydata-greece-explained/",
+        "type": 301
       }
     ]
   },

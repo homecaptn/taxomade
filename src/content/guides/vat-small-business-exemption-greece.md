@@ -72,7 +72,7 @@ Every invoice or receipt for a domestic sale is issued **without VAT** and must 
 
 > *Χωρίς Φόρο Προστιθέμενης Αξίας – Απαλλαγή μικρών επιχειρήσεων* (without VAT, small business exemption)
 
-Each invoice is still transmitted to myDATA. Invoices to Greek businesses and to businesses outside the EU fall under mandatory e-invoicing from 2 November 2026, with or without VAT. See [myDATA explained](/guides/mydata-greece-explained/) and [e-invoicing in Greece](/guides/e-invoicing-greece-explained/).
+Each invoice is still transmitted to myDATA. Invoices to Greek businesses and to businesses outside the EU fall under mandatory e-invoicing from 2 November 2026, with or without VAT. See [myDATA and e-invoicing explained](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece).
 
 The exemption is about VAT only. Income tax, EFKA contributions and the annual return run as usual. See [freelancer taxes in Greece](/guides/freelancer-taxes-greece-2026/).
 

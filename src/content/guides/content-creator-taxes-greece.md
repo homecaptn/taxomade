@@ -75,7 +75,7 @@ If your turnover stays at or below **€10,000** in both the previous and the cu
 Platforms pay automatically, but in Greece every business receipt is documented and transmitted to [myDATA](/guides/mydata-greece-explained/). For a monthly payout, that means an invoice from you to the paying company:
 
 - **Google Ireland or another EU business:** myDATA type **2.2**.
-- **US platforms and other non-EU businesses:** type **2.3**. Since 2 November 2026, invoices to non-EU businesses have to be [e-invoices](/guides/e-invoicing-greece-explained/).
+- **US platforms and other non-EU businesses:** type **2.3**. Since 2 November 2026, invoices to non-EU businesses have to be [e-invoices](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece).
 - **Greek brands:** type **2.1**, with VAT unless you are exempt.
 
 Issue each invoice by the 15th of the month after the payout period at the latest. Details on fields and wording: [invoicing foreign clients from Greece](/guides/invoicing-foreign-clients-greece/).

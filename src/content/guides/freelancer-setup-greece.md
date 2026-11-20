@@ -52,7 +52,7 @@ Contributions are paid monthly with an RF payment code, due by the last working 
 
 Greece reports every invoice electronically through **myDATA**, the tax authority's digital books (see [myDATA explained](/guides/mydata-greece-explained/)). You cannot simply email a Word document to a client.
 
-- **E-invoicing:** from 2 November 2026, invoices to Greek businesses and to businesses outside the EU must be issued through an AADE-approved provider or AADE's free timologio or myDATAapp. A transition period until 31 January 2027 applies only to businesses that declared their invoicing method in time, with a start date no later than 2 November 2026. Invoices for most public contracts have required e-invoicing since 1 September 2025. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained/).
+- **E-invoicing:** from 2 November 2026, invoices to Greek businesses and to businesses outside the EU must be issued through an AADE-approved provider or AADE's free timologio or myDATAapp. A transition period until 31 January 2027 applies only to businesses that declared their invoicing method in time, with a start date no later than 2 November 2026. Invoices for most public contracts have required e-invoicing since 1 September 2025. See [e-invoicing in Greece](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece).
 - **timologio:** AADE's free online tool issues invoices that sync with myDATA automatically; see [the timologio guide](/guides/free-invoicing-greece-aade-timologio/). Many freelancers prefer commercial software for usability.
 
 ## Taxes: VAT and income tax

@@ -16,7 +16,7 @@ faq:
     answer: "For freelancers and companies, yes — accounting fees are a business expense under Article 22 of the Greek Income Tax Code (Law 4172/2013) and reduce your taxable income, as long as they're invoiced and recorded in your books. The fee for a private individual's annual return is not deductible."
 ---
 
-If you're a freelancer, remote worker or small business owner in Greece, an accountant isn't really optional — between myDATA transmission of every invoice, [mandatory B2B e-invoicing](/guides/e-invoicing-greece-explained/) for small businesses since November 2, 2026, VAT returns and the [annual return](/guides/freelancer-taxes-greece-2026/), the Greek system is built around professional filing. Here's what you'll actually pay in 2026, and what you get for it.
+If you're a freelancer, remote worker or small business owner in Greece, an accountant isn't really optional — between myDATA transmission of every invoice, [mandatory B2B e-invoicing](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece) for small businesses since November 2, 2026, VAT returns and the [annual return](/guides/freelancer-taxes-greece-2026/), the Greek system is built around professional filing. Here's what you'll actually pay in 2026, and what you get for it.
 
 ## The short answer
 

@@ -17,7 +17,7 @@ faq:
     answer: "Für Selbstständige und Unternehmen ja: Buchhaltungskosten sind Betriebsausgaben nach Art. 22 des griechischen Einkommensteuergesetzes (Gesetz 4172/2013) und mindern den steuerpflichtigen Gewinn, sofern sie in Rechnung gestellt und verbucht sind. Die Gebühr für die Steuererklärung einer Privatperson ist nicht absetzbar."
 ---
 
-Als Selbstständiger, Remote Worker oder Unternehmer in Griechenland kommen Sie um einen Buchhalter kaum herum. Jede Rechnung muss an myDATA übermittelt werden. Seit dem 2. November 2026 gilt für kleine Unternehmen zudem die [Pflicht zur E-Rechnung im B2B-Bereich](/guides/e-invoicing-greece-explained/) (Englisch). Dazu kommen die Umsatzsteuererklärungen und die [jährliche Steuererklärung](/de/ratgeber/steuern-selbststaendige-griechenland-2026/). Das griechische System geht davon aus, dass ein Profi die Erklärungen abgibt. Hier lesen Sie, was das 2026 kostet und was Sie dafür bekommen.
+Als Selbstständiger, Remote Worker oder Unternehmer in Griechenland kommen Sie um einen Buchhalter kaum herum. Jede Rechnung muss an myDATA übermittelt werden. Seit dem 2. November 2026 gilt für kleine Unternehmen zudem die [Pflicht zur E-Rechnung im B2B-Bereich](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece) (Englisch). Dazu kommen die Umsatzsteuererklärungen und die [jährliche Steuererklärung](/de/ratgeber/steuern-selbststaendige-griechenland-2026/). Das griechische System geht davon aus, dass ein Profi die Erklärungen abgibt. Hier lesen Sie, was das 2026 kostet und was Sie dafür bekommen.
 
 ## Die Kurzfassung
 

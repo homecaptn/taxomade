@@ -86,7 +86,7 @@ The standard VAT rate is 24%. Whether you charge it depends on your clients. Bus
 - **Monthly or quarterly:** most established freelancers with simple books file **quarterly**. Under [AADE decision A.1049/2025](https://www.taxheaven.gr/circulars/50029/a-1049-2025), those who started on or after 1 April 2025 file **monthly** from the start, and those who started between January 2024 and March 2025 have filed monthly since July 2025; after 24 months of activity, they can switch to quarterly on request.
 - **Deadline:** last working day of the month after the period ends.
 
-Since 2 November 2026, invoices to Greek businesses and to businesses outside the EU have to be issued as e-invoices; invoices to public bodies (B2G) have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies to businesses that declared their invoicing method in time. See [e-invoicing in Greece](/guides/e-invoicing-greece-explained/).
+Since 2 November 2026, invoices to Greek businesses and to businesses outside the EU have to be issued as e-invoices; invoices to public bodies (B2G) have been e-invoices since 1 September 2025. A transition period until 31 January 2027 only applies to businesses that declared their invoicing method in time. See [e-invoicing in Greece](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece).
 
 ## 5. Advance tax
 

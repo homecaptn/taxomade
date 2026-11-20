@@ -55,7 +55,7 @@ Skipping registration gets expensive. In a case reviewed on appeal in 2026 ([Δ�
 
 Freelancers whose Greek turnover stays at or below €10,000 in both the current and the previous year can opt for the [small-business VAT exemption](https://www.taxheaven.gr/circulars/51970/a-1011-2026) (Article 44a VAT Code, AADE decision A.1011/2026): new freelancers choose it in their registration declaration, existing ones apply online through the "My Requests" application in myAADE. That is why VAT returns apply "in most cases", not always.
 
-Since 2 November 2026, invoices to Greek businesses and to businesses outside the EU must also be issued as [e-invoices](/guides/e-invoicing-greece-explained/), with a transition period until 31 January 2027 for businesses that declared their invoicing method in time; for most public contracts, this has applied since 1 September 2025.
+Since 2 November 2026, invoices to Greek businesses and to businesses outside the EU must also be issued as [e-invoices](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece), with a transition period until 31 January 2027 for businesses that declared their invoicing method in time; for most public contracts, this has applied since 1 September 2025.
 
 Our guide on [setting up as a freelancer in Greece](/guides/freelancer-setup-greece/) walks through the registration, and [EFKA for freelancers](/guides/efka-social-security-freelancers-greece/) explains social security.
 

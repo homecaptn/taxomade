@@ -70,7 +70,7 @@ For ordinary B2B services to a company in the US, UK, Switzerland or elsewhere o
 
 In myDATA, use invoice type **2.3** (Τιμολόγιο Παροχής / Παροχή Υπηρεσιών σε λήπτη Τρίτης Χώρας), again with **exemption category 4**. Instead of a VAT number, enter the client's foreign tax ID (an EIN for a US company, for example). Keep evidence that the client is a business: the contract and company details.
 
-One difference from EU clients: since **2 November 2026**, invoices to businesses outside the EU fall under the e-invoicing mandate. They must be issued through an approved provider or AADE's free timologio or myDATAapp. A transition period runs to 31 January 2027 for businesses that declared their method in time ([A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). Details in [e-invoicing in Greece](/guides/e-invoicing-greece-explained/).
+One difference from EU clients: since **2 November 2026**, invoices to businesses outside the EU fall under the e-invoicing mandate. They must be issued through an approved provider or AADE's free timologio or myDATAapp. A transition period runs to 31 January 2027 for businesses that declared their method in time ([A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). Details in [e-invoicing in Greece](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece).
 
 ## Private clients abroad: Greek VAT usually applies
 

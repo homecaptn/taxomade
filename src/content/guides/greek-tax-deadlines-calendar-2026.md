@@ -114,7 +114,7 @@ For [Article 5B](/guides/retiring-to-greece-7-percent-flat-tax/), the cut-off is
 
 Since 2 March 2026, large businesses have had to issue B2B invoices electronically. Everyone else, freelancers included, follows from **2 November 2026** ([AADE decision A.1197/2026](https://www.taxheaven.gr/circulars/55463/a-1197-2026)). It covers invoices to Greek businesses and to businesses outside the EU. Invoices to the public sector (B2G) have had to be electronic since 1 September 2025, under separate rules.
 
-A transition period runs until **31 January 2027**, but only if you filed a declaration in time, with a start date no later than 2 November 2026. From 1 February 2027, invoices in scope can only be issued through an approved provider or AADE's free apps. Details: [e-invoicing in Greece explained](/guides/e-invoicing-greece-explained/).
+A transition period runs until **31 January 2027**, but only if you filed a declaration in time, with a start date no later than 2 November 2026. From 1 February 2027, invoices in scope can only be issued through an approved provider or AADE's free apps. Details: [e-invoicing in Greece explained](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece).
 
 ## The calendar at a glance
 

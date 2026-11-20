@@ -85,7 +85,7 @@ Der Regelsatz der Umsatzsteuer (griechisch ΦΠΑ) beträgt 24 %. Ob Sie sie ber
 - **Monatlich oder vierteljährlich:** Die meisten etablierten Selbstständigen mit einfacher Buchführung geben **vierteljährlich** ab. Nach [AADE-Entscheidung A.1049/2025](https://www.taxheaven.gr/circulars/50029/a-1049-2025) geben alle, die am oder nach dem 1. April 2025 begonnen haben, von Anfang an **monatlich** ab; wer zwischen Januar 2024 und März 2025 begonnen hat, gibt seit Juli 2025 monatlich ab. Nach 24 Monaten Tätigkeit ist auf Antrag ein Wechsel zur vierteljährlichen Abgabe möglich.
 - **Frist:** letzter Werktag des Monats nach Ende des Zeitraums.
 
-Seit dem 2. November 2026 müssen Rechnungen an griechische Unternehmen und an Unternehmen außerhalb der EU als E-Rechnung ausgestellt werden; Rechnungen an öffentliche Stellen (B2G) sind seit dem 1. September 2025 E-Rechnungen. Eine Übergangsfrist bis zum 31. Januar 2027 gilt nur für Unternehmen, die ihre Rechnungsmethode rechtzeitig angegeben haben. Siehe [E-Rechnung in Griechenland](/guides/e-invoicing-greece-explained/) (Englisch).
+Seit dem 2. November 2026 müssen Rechnungen an griechische Unternehmen und an Unternehmen außerhalb der EU als E-Rechnung ausgestellt werden; Rechnungen an öffentliche Stellen (B2G) sind seit dem 1. September 2025 E-Rechnungen. Eine Übergangsfrist bis zum 31. Januar 2027 gilt nur für Unternehmen, die ihre Rechnungsmethode rechtzeitig angegeben haben. Siehe [E-Rechnung in Griechenland](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece) (Englisch).
 
 ## 5. Steuervorauszahlung
 
