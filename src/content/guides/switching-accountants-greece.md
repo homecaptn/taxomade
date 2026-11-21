@@ -4,6 +4,7 @@ description: "How to switch accountants in Greece without gaps: myAADE authoriza
 pubDate: 2026-10-07
 updatedDate: 2026-11-12
 category: "bookkeeping"
+translationOf: "buchhalter-wechseln-griechenland"
 faq:
   - question: "Can I change my accountant in Greece in the middle of the year?"
     answer: "Yes. You can switch accountants at any time of the year. What matters is a clean handover of your records and filings, ideally at the end of a month and not right before a filing deadline."

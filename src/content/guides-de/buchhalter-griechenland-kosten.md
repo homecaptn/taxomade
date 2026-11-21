@@ -36,7 +36,7 @@ Allein die Umsatzsteuer kann vier oder zwölf Erklärungen im Jahr bedeuten. Die
 
 Das ist kein Detail: Bußgelder für verspätete Erklärungen verhängt das Finanzamt automatisch und ohne Vorwarnung. Eine verspätete Umsatzsteuererklärung kostet 100 €, auch wenn nichts zu zahlen ist.
 
-Fragen Sie deshalb beim Vergleich nicht „Was kostet es im Monat?“, sondern „Was genau ist enthalten?“. Fällt Ihr jetziger Buchhalter bei diesem Test durch, ist das kein Drama: Ein [Buchhalterwechsel](/guides/switching-accountants-greece/) (Englisch) dauert etwa eine Woche.
+Fragen Sie deshalb beim Vergleich nicht „Was kostet es im Monat?“, sondern „Was genau ist enthalten?“. Fällt Ihr jetziger Buchhalter bei diesem Test durch, ist das kein Drama: Ein [Buchhalterwechsel](/de/ratgeber/buchhalter-wechseln-griechenland/) dauert etwa eine Woche.
 
 ## Wovon die Kosten für einen Buchhalter abhängen
 
