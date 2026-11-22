@@ -1,72 +1,48 @@
 {
-  "hosting": [
-    {
-      "target": "taxomade",
-      "public": "dist",
-      "ignore": [
-        "firebase.json",
-        "**/.*",
-        "**/node_modules/**"
-      ],
-      "cleanUrls": true,
-      "trailingSlash": true,
-      "rewrites": [
-        {
-          "source": "/api/submitContactForm",
-          "function": "submitContactForm"
-        }
-      ],
-      "redirects": [
-        {
-          "source": "/guides/reality-check-germany-vs-greece-5c",
-          "destination": "/guides/moving-to-greece-from-germany-tax-guide/",
-          "type": 301
-        },
-        {
-          "source": "/guides/top-5-mistakes-article-5c{,/**}",
-          "destination": "/guides/50-percent-tax-break-article-5c/",
-          "type": 301
-        },
-        {
-          "source": "/guides/top-5-mistakes-dnv{,/**}",
-          "destination": "/guides/ultimate-guide-dnv-greece/",
-          "type": 301
-        },
-        {
-          "source": "/guides/moving-to-greece-as-freelancer-timeline-payments{,/**}",
-          "destination": "/guides/freelancer-setup-greece/",
-          "type": 301
-        },
-        {
-          "source": "/guides/e-invoicing-greece-explained{,/**}",
-          "destination": "/guides/mydata-greece-explained/",
-          "type": 301
-        }
-      ]
-    },
-    {
-      "site": "kreta-auswandern",
-      "public": "sites/kreta/dist",
-      "ignore": [
-        "firebase.json",
-        "**/.*",
-        "**/node_modules/**"
-      ],
-      "cleanUrls": true,
-      "trailingSlash": true,
-      "headers": [
-        {
-          "source": "/_astro/**",
-          "headers": [
-            {
-              "key": "Cache-Control",
-              "value": "public, max-age=31536000, immutable"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "hosting": {
+    "target": "taxomade",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "cleanUrls": true,
+    "trailingSlash": true,
+    "rewrites": [
+      {
+        "source": "/api/submitContactForm",
+        "function": "submitContactForm"
+      }
+    ],
+    "redirects": [
+      {
+        "source": "/guides/reality-check-germany-vs-greece-5c",
+        "destination": "/guides/moving-to-greece-from-germany-tax-guide/",
+        "type": 301
+      },
+      {
+        "source": "/guides/top-5-mistakes-article-5c{,/**}",
+        "destination": "/guides/50-percent-tax-break-article-5c/",
+        "type": 301
+      },
+      {
+        "source": "/guides/top-5-mistakes-dnv{,/**}",
+        "destination": "/guides/ultimate-guide-dnv-greece/",
+        "type": 301
+      },
+      {
+        "source": "/guides/moving-to-greece-as-freelancer-timeline-payments{,/**}",
+        "destination": "/guides/freelancer-setup-greece/",
+        "type": 301
+      },
+      {
+        "source": "/guides/e-invoicing-greece-explained{,/**}",
+        "destination": "/guides/mydata-greece-explained/",
+        "type": 301
+      }
+    ]
+  },
   "functions": [
     {
       "source": "functions",
