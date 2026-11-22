@@ -2,6 +2,7 @@
 title: "Moving to Greece from the Netherlands: Tax and Setup Guide (2026)"
 description: "Moving from the Netherlands to Greece: BRP deregistration, the M return, the 1981 treaty, AOW, pensions, exit tax and the Greek setup."
 pubDate: 2026-10-19
+updatedDate: 2026-11-22
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -57,11 +58,11 @@ The Netherlands and Greece use the [convention signed in Athens on 16 July 1981]
 | Employment | Where the work is physically done; Dutch workdays can stay Dutch |
 | Director's fees from a Dutch BV | The Netherlands may tax them; Greece credits |
 | Dutch property | The Netherlands (box 3); Greece credits |
-| Private and occupational pensions | Greece; lump sums for past Dutch work may also be taxed in the Netherlands |
-| AOW, WIA and other social benefits | Greece |
-| Government service pensions (e.g. civil servants, via ABP) | The Netherlands, unless you are a Greek national living in Greece |
-| Dutch dividends | The Netherlands withholds up to 15%; Greece credits |
-| Gains on Dutch company shares | The Netherlands may tax them for 5 years after you leave; an exit assessment on gains built up before you left stays collectible (section 6) |
+| Private and occupational pensions | Greece (art. 19); lump sums for past Dutch work may also be taxed in the Netherlands |
+| AOW, WIA and other social benefits | Greece (art. 23, other income) |
+| Government service pensions (e.g. civil servants, via ABP) | The Netherlands, unless you are a Greek national living in Greece (art. 20) |
+| Dutch dividends | The Netherlands may withhold up to 15% (art. 10); Greece credits |
+| Gains on Dutch company shares | The Netherlands may tax them for 5 years after you leave (art. 14); an exit assessment on gains built up before you left stays collectible (section 6) |
 
 If both countries claim you as resident, your permanent home decides first, then where your personal and economic ties are closer.
 
@@ -69,9 +70,9 @@ If both countries claim you as resident, your permanent home decides first, then
 
 As a zzp'er, you register as a sole proprietor in Greece, join EFKA and invoice from your Greek business. Your Dutch clients stay your clients; invoices to Dutch businesses go out under the reverse charge ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients/)).
 
-If you [work permanently in another EU country](https://www.svb.nl/nl/id/u-werkt-buiten-nederland/bekijk-of-u-verzekerd-blijft-in-nederland), you are insured there, so with EFKA. New freelancers pay a reduced €150.46 per month plus €10 unemployment contribution; the standard lowest class is €250.77. You register by the 10th of the month after you start ([EFKA guide](/guides/efka-social-security-freelancers-greece/)).
+If you [work permanently in another EU country](https://www.svb.nl/nl/id/u-werkt-buiten-nederland/bekijk-of-u-verzekerd-blijft-in-nederland), you are insured there, so with EFKA. In 2026, new freelancers can apply for a reduced class of €150.46 per month for their first five years, plus a €10 unemployment contribution; the regular lowest class is €250.77. You register by the 10th of the month after you start ([EFKA guide](/guides/efka-social-security-freelancers-greece/)).
 
-Expect a tax advance on next year's tax (27.5% in the year you first earn business income, then 55%; cut to 50% from the tax year 2027 return under Law 5355/2026, art. 12), monthly VAT for 24 months, and e-invoicing from 2 November 2026. The full setup is in [registering as a freelancer in Greece](/guides/freelancer-setup-greece/), starting with your [AFM](/guides/what-is-greek-afm-number/).
+Expect a tax advance on next year's tax (27.5% in the year you first earn business income, then 55%; cut to 50% from the tax year 2027 return under Law 5355/2026, art. 12), and monthly VAT returns for the first 24 months. From 2 November 2026, invoices to Greek and non-EU business clients also need [B2B e-invoicing](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece). Invoices to Dutch clients are still reported to myDATA. The full setup is in [registering as a freelancer in Greece](/guides/freelancer-setup-greece/), starting with your [AFM](/guides/what-is-greek-afm-number/).
 
 If you were not Greek tax resident in 5 of the last 6 years, [Article 5C](/guides/50-percent-tax-break-article-5c/) exempts 50% of your income from Greek income tax for 7 years. Digital Nomad Visa holders are not eligible.
 
@@ -83,7 +84,7 @@ Working permanently from Greece normally puts you under EFKA, and your Dutch emp
 
 ## 6. BV owners
 
-**Conserverende aanslag.** When you emigrate with a substantial interest (aanmerkelijk belang) in a company, the [Belastingdienst treats your shares as sold](https://www.belastingdienst.nl/wps/wcm/connect/nl/buitenland/content/conserverende-aanslag-bij-emigratie) and issues a protective box 2 assessment. For EU moves, payment is deferred automatically and interest-free. For emigrations since 15 September 2015, the assessment never lapses: it becomes (partly) payable if you sell the shares, receive dividends or the company stops. Moving on to a non-EU country ends the deferral.
+**Conserverende aanslag.** When you emigrate with a substantial interest (aanmerkelijk belang) in a company, the [Belastingdienst treats your shares as sold](https://www.belastingdienst.nl/wps/wcm/connect/nl/buitenland/content/conserverende-aanslag-bij-emigratie) and issues a protective box 2 assessment. For EU moves, payment is deferred automatically and interest-free. For emigrations since 15 September 2015, the assessment never lapses: it becomes (partly) payable if you sell the shares, receive dividends or the company stops. Moving on to a non-EU country withdraws the automatic deferral; you can apply again, and the Belastingdienst may ask for security.
 
 **Director's fees and management.** The treaty lets the Netherlands tax board fees from a Dutch company even when you live in Greece. A company's residence follows its place of effective management, so running a BV alone from Greece can move its tax residence; check this before you leave. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs/).
 
@@ -95,7 +96,7 @@ Working permanently from Greece normally puts you under EFKA, and your Dutch emp
 
 **Health insurance.** If you receive a Dutch statutory pension and no longer work, you [register with the CAK](https://hetcak.nl/en/health-insurance-abroad/pension-benefit/registering/procedure), up to 5 months ahead. You receive an S1, which you register in Greece to get state healthcare through EOPYY; the CAK deducts a monthly contribution from your pension.
 
-**Greek side.** Pensioners who were not Greek tax resident in 5 of the last 6 years can apply for a 7% flat tax on foreign income for 15 years, by 31 October (A.1192/2026). Otherwise the scale of 9% to 44% applies. Details in [retiring to Greece: the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/).
+**Greek side.** Pensioners who were not Greek tax resident in 5 of the last 6 years can apply for a 7% flat tax on foreign income for 15 years, by 31 October of the tax year (AADE decision A.1192/2026 under [Income Tax Code art. 5B](https://www.taxheaven.gr/law/4172/2013/arthro/5Β)). Otherwise the scale of 9% to 44% applies. Details in [retiring to Greece: the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/).
 
 ## 8. AOW, benefits and health cover for working-age movers
 
@@ -131,4 +132,4 @@ A protective assessment on pension rights built up with tax relief and, for owne
 
 Yes, if you were not Greek tax resident in 5 of the last 6 years and take a job with a Greek employer or register a business in Greece. Digital Nomad Visa holders are not eligible.
 
-*Rules as of October 2026. Dutch and Greek rules change; check the current figures before you act.*
+*Rules as of November 2026 (sources: [Netherlands–Greece tax convention of 16 July 1981](https://zoek.officielebekendmakingen.nl/trb-1981-178.pdf), arts. 4, 10, 14–17, 19, 20, 23; [Belastingdienst: conserverende aanslag](https://www.belastingdienst.nl/wps/wcm/connect/nl/buitenland/content/conserverende-aanslag-bij-emigratie) and M-aangifte; [government.nl: BRP deregistration](https://www.government.nl/faq/when-should-i-deregister-from-the-personal-records-database); SVB and CAK; Income Tax Code arts. 5B and 5C; AADE decision A.1192/2026; Law 5355/2026 art. 12; e-EFKA 2026 contribution classes).*

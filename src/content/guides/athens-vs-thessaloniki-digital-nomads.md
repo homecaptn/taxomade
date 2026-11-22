@@ -1,21 +1,21 @@
 ---
-title: "Athens vs. Thessaloniki vs. Islands: Where Should Digital Nomads Live?"
+title: "Athens vs. Thessaloniki vs. Islands for Digital Nomads (2026)"
 description: "Athens, Thessaloniki or Crete for remote work in 2026: rents per m², coworking, internet, transport, winters, and why your Greek taxes stay the same."
 pubDate: 2026-06-16
-updatedDate: 2026-10-21
+updatedDate: 2026-11-22
 category: "lifestyle"
 image: "/images/guides/athens_vs_islands_hero.png"
 faq:
   - question: "Is Thessaloniki cheaper than Athens for digital nomads?"
-    answer: "On rent, yes. RE/MAX transaction data for 2026 puts average rents at €9.8 per square metre in central Athens against €7.7 in the Thessaloniki area, although the historic centre of Thessaloniki (€11.4) is pricier than the Athens average. Food, coffee and transport are in the same range in both cities."
+    answer: "On rent, yes. RE/MAX transaction data for 2026 puts average rents at €9.8 per square metre in the Municipality of Athens and neighbouring districts against €7.7 in the Thessaloniki area, although the historic centre of Thessaloniki (€11.4) is pricier than the Athens average. Food, coffee and transport are in the same range in both cities."
   - question: "How much does coworking cost in Athens?"
-    answer: "In 2026, a hot desk in Athens typically costs €90 to €200 per month and a day pass €10 to €25, with central spaces at the upper end. Dedicated desks run €180 to €350."
+    answer: "In 2026, a hot desk in Athens typically costs €90 to €200 per month and a day pass €10 to €25, with central spaces at the upper end. Dedicated desks run about €180 to €350 per month."
   - question: "Is the internet in Greece good enough for remote work?"
     answer: "Yes in the cities. Greece's median fixed broadband download speed was about 72 Mbps at the end of 2025 (Ookla data via DataReportal), and fibre is available in central Athens and Thessaloniki. Speed depends on the building, so check which providers serve the exact address before you sign a lease."
   - question: "Can digital nomads live on Crete or Rhodes year-round?"
     answer: "Crete yes: Heraklion and Chania are real cities with coworking spaces and year-round airports. Rhodes has a large town that stays open, but fewer coworking options. On both, international flights thin out and many tourist businesses close from November to April; rents drop in the same period."
   - question: "Do taxes differ between Athens and Thessaloniki?"
-    answer: "No. Income tax, EFKA, VAT, the Article 5C tax break and the Digital Nomad Visa rules are national. You become Greek tax resident after 183 days wherever in Greece you live, and the same filings apply."
+    answer: "No. Income tax, EFKA, VAT, the Article 5C tax break and the Digital Nomad Visa rules are national. You generally become Greek tax resident after more than 183 days in Greece within any 12-month period, wherever in Greece you live, and the same filings apply."
 ---
 
 Greece offers a few very different lifestyles for remote workers: a big, loud capital; a compact, walkable northern city; or an island with the sea at the end of the street. The infrastructure, the community and the winters vary a lot. The taxes do not.
@@ -35,7 +35,7 @@ Rent is the main difference between the three. The figures below are average ren
 
 | Area | €/m² (2026) | Change vs. 2025 |
 |---|---|---|
-| Athens centre | 9.8 | +5.4% |
+| Municipality of Athens and neighbouring districts | 9.8 | +5.4% |
 | Attica overall | 9.2 | +4.3% |
 | Thessaloniki (regional unit) | 7.7 | +3% |
 | Thessaloniki historic centre | 11.4 | +3.6% |
@@ -48,11 +48,11 @@ Furnished, move-in-ready flats aimed at nomads sit above these averages: expect 
 
 ## 1. Athens: the metropolitan hub
 
-Athens is where most digital nomads land first. It has the best infrastructure, the largest international community and the only airport in Greece with a full year-round long-haul schedule.
+Athens is where most digital nomads land first. It has the best infrastructure, the largest international community and the widest year-round long-haul flight schedule in Greece.
 
-- **The vibe:** busy, gritty, historic, loud. Koukaki, Psyri, Pangrati and Exarcheia are the neighbourhoods where remote workers cluster; Kolonaki is the expensive one (€14/m²).
+- **The vibe:** busy, gritty, historic, loud. Koukaki, Psyri, Pangrati and Exarcheia are the neighbourhoods where remote workers cluster; Kolonaki is the expensive one (about €14/m² in 2026).
 - **Internet:** fibre to the home is available across much of the centre from Cosmote, Nova and Vodafone, and 5G coverage is good. Speeds depend on the building, not the city, so check which providers serve the address before you sign. Greece's national median fixed download speed was about 72 Mbps at the end of 2025 ([Ookla data via DataReportal](https://datareportal.com/reports/digital-2026-greece)).
-- **Coworking:** plenty of choice. [Impact Hub Athens](https://athens.impacthub.net) in Psyri is the community-focused option with regular events; Stone Soup and The Cube Athens are two other established spaces. In 2026 a hot desk costs about **€90 to €200 per month** and a day pass **€10 to €25**, with central spaces at the top of the range ([overview](https://claratravels.com/best-coworking-spaces-in-athens/)).
+- **Coworking:** plenty of choice. [Impact Hub Athens](https://athens.impacthub.net) in Psyri is the community-focused option with regular events; Stone Soup and The Cube Athens are two other established spaces. In 2026 a hot desk costs about **€90 to €200 per month**, a dedicated desk about €180 to €350 and a day pass **€10 to €25**, with central spaces at the top of the range ([overview, June 2026](https://claratravels.com/best-coworking-spaces-in-athens/)).
 - **Transport:** three metro lines, including a direct line to the airport, plus trams and buses. Public transport is cheap; a monthly pass is in the tens of euros.
 - **Flights:** Athens International Airport (ATH) is the national hub with year-round connections across Europe and beyond, and every domestic island route starts here.
 - **Café culture:** you do not need a coworking space. Working from a café over a freddo espresso is normal, and nobody will move you on.
@@ -62,9 +62,9 @@ Athens is where most digital nomads land first. It has the best infrastructure, 
 Greece's second city sits on the Thermaic Gulf in the north. It is smaller, flatter and more walkable than Athens, with a food scene and one of the largest student populations in the country.
 
 - **The vibe:** more relaxed than Athens, more local, cultural. The waterfront promenade is the city's living room.
-- **Rent:** the cheapest of the three on average (€7.7/m² across the regional unit), though the historic centre (€11.4/m²) and the old waterfront (€14/m²) cost more than the Athens average. Student demand pushes small flats up every September.
+- **Rent:** the cheapest of the three on average (€7.7/m² across the regional unit), though the historic centre (€11.4/m²) and the old waterfront (€14/m²) cost more than the Athens average (RE/MAX, 2026). Student demand pushes small flats up every September.
 - **Internet:** same providers and the same fibre rollout as Athens, concentrated in the centre and the eastern districts. Again: check the building.
-- **Coworking:** fewer spaces than Athens but enough. [coho – the coworking home](https://www.onecoworking.com/workspaces/day-pass-at-coho---the-coworking-home), just off the centre, charges **€19 plus VAT for a day pass**; [ToWork](https://towork.gr/en) on Vasilissis Olgas offers hourly, daily and monthly plans. Monthly rates are quoted on request.
+- **Coworking:** fewer spaces than Athens but enough. [coho – the coworking home](https://www.onecoworking.com/workspaces/day-pass-at-coho---the-coworking-home), just off the centre, listed day passes **from €19** in 2026; [ToWork](https://towork.gr/en) on Vasilissis Olgas offers hourly, daily and monthly plans. Monthly rates are quoted on request.
 - **Transport:** the [Thessaloniki Metro](https://ec.europa.eu/regional_policy/whats-new/panorama/2024/12/12-11-2024-stop-holding-your-breath-thessaloniki-metro-is-open_en) opened on 30 November 2024 with 13 stations through the centre; the line to Kalamaria followed on 27 August 2026. Most of the centre is walkable anyway.
 - **Flights:** Thessaloniki Airport (SKG) has year-round links to the main European hubs; many of the direct leisure routes are summer-only, so in winter you may connect through Athens.
 - **The catch (winter):** Thessaloniki gets cold, wet and grey from November to March, with the Vardaris wind coming down from the north. Bring a proper coat and budget for heating.
@@ -82,7 +82,7 @@ If your idea of Greece involves the sea, Crete and Rhodes are the two islands la
 
 People sometimes pick a city on the assumption that one is "better" for tax. There is no local income tax in Greece and no regional variation in the rules:
 
-- You become Greek tax resident after [183 days in the country](/guides/tax-residency-greece-183-days/), whether those days are in Athens or on Crete.
+- You generally become Greek tax resident after [more than 183 days in the country within any 12-month period](/guides/tax-residency-greece-183-days/) (Income Tax Code art. 4), whether those days are in Athens or on Crete.
 - Income tax, [EFKA](/guides/efka-social-security-freelancers-greece/), VAT and myDATA apply nationally. A freelancer in Thessaloniki files the same returns as one in Athens; see [freelancer taxes in Greece 2026](/guides/freelancer-taxes-greece-2026/).
 - The [Article 5C 50% tax break](/guides/50-percent-tax-break-article-5c/) depends on your tax history and on having a Greek job or business, not on your address. [Digital Nomad Visa holders](/guides/5c-vs-digital-nomad-visa/) are not eligible for it anywhere in Greece.
 - Everything is filed online through myAADE, so your accountant does not need to be in your city. At taxomade we prepare and file the registration, VAT returns and annual return remotely, from €89/month for [ongoing bookkeeping](/greece/ongoing-bookkeeping/), for clients in all three places.
@@ -97,11 +97,11 @@ People sometimes pick a city on the assumption that one is "better" for tax. The
 
 ### Is Thessaloniki cheaper than Athens for digital nomads?
 
-On rent, yes. RE/MAX transaction data for 2026 puts average rents at €9.8 per square metre in central Athens against €7.7 in the Thessaloniki area, although the historic centre of Thessaloniki (€11.4) is pricier than the Athens average. Food, coffee and transport are in the same range in both cities.
+On rent, yes. RE/MAX transaction data for 2026 puts average rents at €9.8 per square metre in the Municipality of Athens and neighbouring districts against €7.7 in the Thessaloniki area, although the historic centre of Thessaloniki (€11.4) is pricier than the Athens average. Food, coffee and transport are in the same range in both cities.
 
 ### How much does coworking cost in Athens?
 
-In 2026, a hot desk in Athens typically costs €90 to €200 per month and a day pass €10 to €25, with central spaces at the upper end. Dedicated desks run €180 to €350.
+In 2026, a hot desk in Athens typically costs €90 to €200 per month and a day pass €10 to €25, with central spaces at the upper end. Dedicated desks run about €180 to €350 per month.
 
 ### Is the internet in Greece good enough for remote work?
 
@@ -113,6 +113,6 @@ Crete yes: Heraklion and Chania are real cities with coworking spaces and year-r
 
 ### Do taxes differ between Athens and Thessaloniki?
 
-No. Income tax, EFKA, VAT, the Article 5C tax break and the Digital Nomad Visa rules are national. You become Greek tax resident after 183 days wherever in Greece you live, and the same filings apply.
+No. Income tax, EFKA, VAT, the Article 5C tax break and the Digital Nomad Visa rules are national. You generally become Greek tax resident after more than 183 days in Greece within any 12-month period, wherever in Greece you live, and the same filings apply.
 
-*Rents from RE/MAX transaction data (September 2026); other prices are indicative and as of October 2026.*
+*Rules as of November 2026 (sources: [Income Tax Code art. 4](https://www.taxheaven.gr/law/4172/2013/arthro/4) and [art. 5C](https://www.taxheaven.gr/law/4172/2013/arthro/5Γ); rents from RE/MAX 2026 transaction data; internet speeds from Ookla via DataReportal (end of 2025); coworking prices are indicative 2026 ranges).*

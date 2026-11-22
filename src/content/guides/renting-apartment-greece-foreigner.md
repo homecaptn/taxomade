@@ -1,8 +1,8 @@
 ---
-title: "Renting an Apartment in Greece as a Foreigner"
+title: "Renting an Apartment in Greece as a Foreigner (2026)"
 description: "Renting in Greece as a foreigner: AFM, deposits, the 3-year lease rule, AADE lease registration and the red flags that catch newcomers out."
 pubDate: 2026-09-20
-updatedDate: 2026-10-17
+updatedDate: 2026-11-22
 category: "lifestyle"
 faq:
   - question: "Do I need an AFM before I can rent in Greece?"
@@ -43,13 +43,13 @@ The advertised monthly rent is rarely what leaves your account in month one. Exp
 
 On a €700 apartment, that means about €1,400 on day one with a one-month deposit and no agent, and close to €3,000 with a two-month deposit and a broker. Greece also has **no state-run deposit protection scheme**. Your landlord holds the money personally, and recovering it depends largely on the relationship and on evidence. Photograph everything at handover and get a written condition note, however informal.
 
-For orientation on what "normal" rent looks like: agreed rents in [RE/MAX transactions](https://en.protothema.gr/2026/09/03/the-2026-rent-map-which-areas-saw-prices-soar-and-the-leaders-in-athens-thessaloniki-and-the-islands/) averaged about €9.8 per square metre in central Athens in 2026, €9.2 across Attica and €7.7 in Thessaloniki, while [asking rents on Spitogatos](https://www.spitogatos.gr/blog/pwliseis-enoikiaseis-katoikion-ellada-2o-trimino-2026) sit nearer €12 per square metre in both city centres. A 60 m² central flat is therefore advertised at roughly €600 to €720, before extras.
+For orientation on what "normal" rent looks like: agreed rents in [RE/MAX transactions](https://en.protothema.gr/2026/09/03/the-2026-rent-map-which-areas-saw-prices-soar-and-the-leaders-in-athens-thessaloniki-and-the-islands/) averaged about €9.8 per square metre in the Municipality of Athens and neighbouring districts in 2026, €9.2 across Attica and €7.7 in Thessaloniki. [Asking rents on Spitogatos](https://www.spitogatos.gr/blog/pwliseis-enoikiaseis-katoikion-ellada-2o-trimino-2026) sit nearer €12 per square metre in both city centres. A 60 m² central flat was therefore typically advertised at roughly €600 to €720 a month in 2026, before extras.
 
 ## 3. What the Contract Should Say
 
 Leases are frequently in Greek only. You are entitled to understand what you sign, so have it translated if there is any doubt — and check these points specifically:
 
-- **Duration.** Greek law gives residential leases a **minimum three-year term**, even if the contract says one or two years ([article 2 of Law 1703/1987](https://www.odigostoupoliti.eu/pote-misthosi-katoikias-mporei-na-ischyei-gia-ligotero-apo-tria-eti/)). This cuts both ways: the landlord cannot end it early, but neither can you simply leave — unless the contract contains an early-termination clause or you agree a termination with the landlord. If you think you might move within the first year, negotiate that clause before signing and have it checked. If you simply walk out, you can still owe rent until the landlord re-lets the flat; a shorter term agreed later only counts if it is made at least six months after the lease starts and recorded by a notary.
+- **Duration.** Greek law gives residential leases a **minimum three-year term**, even if the contract says one or two years ([article 2 of Law 1703/1987, as amended by Law 2235/1994](https://www.odigostoupoliti.eu/pote-misthosi-katoikias-mporei-na-ischyei-gia-ligotero-apo-tria-eti/)). This cuts both ways: the landlord cannot end it early, but neither can you simply leave — unless the contract contains an early-termination clause or you agree a termination with the landlord. If you think you might move within the first year, negotiate that clause before signing and have it checked. If you simply walk out, you can still owe rent until the landlord re-lets the flat; a shorter term agreed later only counts if it is made at least six months after the lease starts and recorded by a notary.
 - **Who pays the *koinochrista*.** These are the shared building charges — cleaning, lift, stairwell lighting, and in older blocks central heating. They are usually *not* included in the rent and can add a meaningful amount a month in winter.
 - **Heating type.** Autonomous (you control it) versus central oil heating (you pay a share of the building's tank). The latter can be brutal in an Athens January.
 - **Energy certificate (ΠΕΑ).** A valid energy performance certificate is required for a lease, and its number goes into the AADE declaration. Ask to see it.
@@ -63,7 +63,7 @@ Good news on costs: residential leases carry no stamp duty and no digital transa
 
 This is the step newcomers most often skip, and the one that matters most administratively.
 
-Your landlord must submit a **Declaration of Lease Information** (*Δήλωση Πληροφοριακών Στοιχείων Μίσθωσης*) through myAADE [by the end of the month following the start of the tenancy](https://taxrevenue.gr/ilektronika-misthotiria/). You are then notified in myAADE and have **30 days to accept or reject** the declaration; if you do nothing, it counts as accepted ([AADE decision A.1068/2025](https://www.powergame.gr/forologia/943850/aade-prothesmia-30-imeron-gia-apodochi-misthotirion/)). Check the rent and the dates before you accept; correcting them afterwards needs an amended declaration from the landlord.
+Your landlord must submit a **Declaration of Lease Information** (*Δήλωση Πληροφοριακών Στοιχείων Μίσθωσης*) through myAADE [by the end of the month following the start of the tenancy](https://taxrevenue.gr/ilektronika-misthotiria/). You are then notified in myAADE and have **30 days to accept or reject** the declaration; if you do nothing, it counts as accepted ([AADE decision A.1068/2025](https://aade.gr/sites/default/files/2025-06/dt_02.06.2025..pdf)). Check the rent and the dates before you accept; correcting them afterwards needs an amended declaration from the landlord.
 
 Do not treat this as paperwork between the landlord and the tax office. The registered lease is what gives you:
 
@@ -109,4 +109,4 @@ Only once it is registered with AADE. The registered declaration — not the pap
 
 Renting is usually the first step; tax registration, rent refunds and, if you work for yourself, monthly filings follow. If you want that handled in English, see our [ongoing bookkeeping](/greece/ongoing-bookkeeping/) and send us a message for a free check.
 
-*Rules as of October 2026 (Law 1703/1987 art. 2, AADE A.1068/2025 and A.1187/2026, Law 5217/2025 art. 70; rents from RE/MAX transaction data and the Spitogatos Q2 2026 index).*
+*Rules as of November 2026 (sources: Law 1703/1987 art. 2 as amended by Law 2235/1994; AADE decision A.1068/2025; [AADE decision A.1187/2026](https://www.taxheaven.gr/circulars/55383/a-1187-2026); Law 5222/2025 art. 210; [Law 5217/2025 art. 70](https://www.taxheaven.gr/law/5217/2025/arthro/70); rents from RE/MAX 2026 transaction data and the Spitogatos Q2 2026 index).*
