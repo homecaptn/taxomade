@@ -24,10 +24,10 @@ export const NAV = [
 ];
 
 export const REGIONEN = [
-  { href: '/regionen/chania/', label: 'Chania', kurz: 'Westen: Altstadt, Berge, viele Ausländer, höchste Mieten' },
-  { href: '/regionen/rethymno/', label: 'Rethymno', kurz: 'Mitte-West: Uni-Stadt, ruhiger, gute Mitte zwischen beiden Flughäfen' },
-  { href: '/regionen/heraklion/', label: 'Heraklion', kurz: 'Mitte: Großstadt, Krankenhäuser, Uni, größter Flughafen' },
-  { href: '/regionen/lasithi/', label: 'Lasithi', kurz: 'Osten: Agios Nikolaos, Ierapetra, Sitia, am günstigsten' },
+  { href: '/regionen/chania/', label: 'Chania', kurz: 'Westen: Altstadt, Berge, viele Ausländer, höchste Mieten', img: 'chania' },
+  { href: '/regionen/rethymno/', label: 'Rethymno', kurz: 'Mitte-West: Uni-Stadt, ruhiger, gute Mitte zwischen beiden Flughäfen', img: 'rethymno' },
+  { href: '/regionen/heraklion/', label: 'Heraklion', kurz: 'Mitte: Großstadt, Krankenhäuser, Uni, größter Flughafen', img: 'heraklion-stalida' },
+  { href: '/regionen/lasithi/', label: 'Lasithi', kurz: 'Osten: Agios Nikolaos, Ierapetra, Sitia, am günstigsten', img: 'agios-nikolaos' },
 ];
 
 export const LEBEN = [
@@ -39,4 +39,14 @@ export const LEBEN = [
   { href: '/leben/arbeiten/', label: 'Arbeiten & Remote Work', kurz: 'Jobs, Selbstständigkeit, Internet, Coworking' },
   { href: '/leben/auto-fuehrerschein/', label: 'Auto & Führerschein', kurz: 'Führerschein, Auto mitbringen, ummelden' },
   { href: '/leben/wetter/', label: 'Wetter & Jahreszeiten', kurz: 'Sommer, Winter, Wind, Wassertemperatur' },
+];
+
+// Einstieg nach Lebenslage auf der Startseite
+export const EINSTIEG = [
+  { icon: '🧭', titel: 'Ich stehe ganz am Anfang', text: 'Was zuerst? AFM, Wohnung, Konto, Anmeldung in der richtigen Reihenfolge.', href: '/checkliste/', link: 'Zur Checkliste' },
+  { icon: '🌅', titel: 'Ich gehe in Rente', text: 'Krankenversicherung mit Formular S1, Ärzte, Kosten und Steuern auf die Rente.', href: '/leben/aerzte-krankenversicherung/', link: 'Gesundheit & S1' },
+  { icon: '👨‍👩‍👧', titel: 'Wir ziehen als Familie', text: 'Schulpflicht, griechische und internationale Schulen, Kinderbetreuung.', href: '/leben/schulen-kinder/', link: 'Schulen & Kinder' },
+  { icon: '💻', titel: 'Ich arbeite remote', text: 'Arbeiten für deutsche Kunden oder Arbeitgeber, Internet, Steuern, Coworking.', href: '/leben/arbeiten/', link: 'Arbeiten auf Kreta' },
+  { icon: '📋', titel: 'Ich mache mich selbstständig', text: 'Registrierung bei Finanzamt und EFKA, Firmengründung, Buchhaltung.', href: '/behoerden-steuern/', link: 'Behörden & Steuern' },
+  { icon: '🏡', titel: 'Ich will mieten oder kaufen', text: 'Mietpreise je Region, Ablauf beim Hauskauf und was Sie vorher prüfen.', href: '/leben/wohnung-mieten/', link: 'Wohnen auf Kreta' },
 ];

@@ -1,0 +1,21 @@
+---
+import { ladeWetter } from '../data/wetter';
+const w = await ladeWetter();
+---
+{w && (
+  <section class="wetter" aria-labelledby="wetter-h">
+    <div class="wetter-kopf">
+      <h2 id="wetter-h">Wetter auf Kreta heute</h2>
+      <p class="small">{w.datum} · Tageswerte · Daten: <a href="https://open-meteo.com/" rel="noopener" target="_blank">Open-Meteo</a> (CC BY 4.0)</p>
+    </div>
+    <ul>
+      {w.orte.map((o) => (
+        <li>
+          <span class="w-ort">{o.name}</span>
+          <span class="w-temp"><span aria-hidden="true">{o.icon}</span> {o.max}°<small> / {o.min}°</small></span>
+          <span class="w-info">{o.text}{o.meer !== null && <> · Meer {o.meer}°</>}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}

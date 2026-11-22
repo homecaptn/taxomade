@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Cards from '../../components/Cards.astro';
+import KretaKarte from '../../components/KretaKarte.astro';
 import { REGIONEN } from '../../data/site';
 import { Q } from '../../data/quellen';
 
@@ -11,6 +12,8 @@ const faq = [
 ];
 ---
 <Base
+  image="spinalonga"
+  imageAlt="Festung Spinalonga, Lasithi"
   title="Wo auf Kreta leben? Regionen im Vergleich (2026)"
   description="Chania, Rethymno, Heraklion oder Lasithi: Die vier Regionen Kretas im Vergleich mit Mietniveau 2026, Flughafen, Infrastruktur und für wen sie passen."
   h1="Wo auf Kreta leben? Die Regionen im Vergleich"
@@ -31,6 +34,7 @@ const faq = [
   </table>
   <p class="small">Mieten: Durchschnittliche Angebotsmieten laut Spitogatos Property Index, drittes Quartal 2026. Tatsächlich vereinbarte Mieten können abweichen, siehe <a href="/leben/wohnung-mieten/">Wohnung mieten</a>.</p>
 
+  <KretaKarte />
   <Cards items={REGIONEN} />
 
   <h2>Fragen, die bei der Wahl helfen</h2>
