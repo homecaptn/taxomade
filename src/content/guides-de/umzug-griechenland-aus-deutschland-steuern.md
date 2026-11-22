@@ -93,7 +93,7 @@ Zwei deutsche Regeln sind vor dem Umzug wichtig:
 
 **Ort der Geschäftsleitung (§10 AO).** Führt der alleinige Geschäftsführer die GmbH aus Griechenland, kann der Ort der Geschäftsleitung mit ihm wandern. Die Gesellschaft kann dann nach dem Abkommen in Griechenland ansässig werden. Sprechen Sie vor der Abmeldung mit Ihrem deutschen Steuerberater, nicht danach.
 
-Für eine neue Gesellschaft in Griechenland: [IKE gründen in Griechenland](/guides/ike-greece-setup-annual-costs/) (Englisch).
+Für eine neue Gesellschaft in Griechenland: [IKE gründen in Griechenland](/de/ratgeber/ike-gruenden-griechenland-kosten/).
 
 ## 7. Rentner
 

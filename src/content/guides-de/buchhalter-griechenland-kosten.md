@@ -42,7 +42,7 @@ Fragen Sie deshalb beim Vergleich nicht „Was kostet es im Monat?“, sondern �
 
 ### 1. Ihre Rechtsform
 
-Ein Einzelunternehmen (ατομική επιχείρηση) mit einfacher Buchführung ist am günstigsten zu betreuen. Eine [IKE](/guides/ike-greece-setup-annual-costs/) (Englisch) bedeutet doppelte Buchführung, die Pflichten einer Kapitalgesellschaft und deutlich mehr Aufwand. Rechnen Sie mit mindestens dem Doppelten, oft mehr: Lokale Preislisten nennen für eine IKE 180–280 € im Monat, für ein Einzelunternehmen 30–60 €.
+Ein Einzelunternehmen (ατομική επιχείρηση) mit einfacher Buchführung ist am günstigsten zu betreuen. Eine [IKE](/de/ratgeber/ike-gruenden-griechenland-kosten/) bedeutet doppelte Buchführung, die Pflichten einer Kapitalgesellschaft und deutlich mehr Aufwand. Rechnen Sie mit mindestens dem Doppelten, oft mehr: Lokale Preislisten nennen für eine IKE 180–280 € im Monat, für ein Einzelunternehmen 30–60 €.
 
 ### 2. Anzahl der Rechnungen
 

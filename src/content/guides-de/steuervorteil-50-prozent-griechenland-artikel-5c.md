@@ -98,7 +98,7 @@ Formulare nach dem DBA werden ohne Apostille anerkannt; andere ausländische Dok
 
 ### 3. Eine IKE statt eines Einzelunternehmens gründen
 
-Begünstigt ist nur ein Einzelunternehmen, keine Gesellschaft wie die IKE. Ein Gehalt von einer griechischen Gesellschaft, auch von der eigenen, zählt als Arbeitslohn und läuft über den Anstellungsweg – mit eigenen Voraussetzungen. Wenn Sie später eine IKE wollen, lesen Sie [IKE gründen und laufende Kosten](/guides/ike-greece-setup-annual-costs/) (Englisch), klären Sie aber zuerst die 5C-Struktur.
+Begünstigt ist nur ein Einzelunternehmen, keine Gesellschaft wie die IKE. Ein Gehalt von einer griechischen Gesellschaft, auch von der eigenen, zählt als Arbeitslohn und läuft über den Anstellungsweg – mit eigenen Voraussetzungen. Wenn Sie später eine IKE wollen, lesen Sie [IKE gründen und laufende Kosten](/de/ratgeber/ike-gruenden-griechenland-kosten/), klären Sie aber zuerst die 5C-Struktur.
 
 ### 4. Mit dem Digital Nomad Visa beantragen
 

@@ -4,6 +4,7 @@ description: "How to form a Greek private company (IKE) in 2026, what it costs t
 pubDate: 2026-10-09
 updatedDate: 2026-11-14
 category: "tax"
+translationOf: "ike-gruenden-griechenland-kosten"
 faq:
   - question: "How much does it cost to open an IKE in Greece?"
     answer: "The official registry fees for forming an IKE through the one-stop shop are low, €18 for the online route, and there is no real minimum capital. A notary is only needed in special cases. The real costs come afterwards: social security for the administrator, double-entry bookkeeping and, for premises in Attica, the annual trade fee of €800 or €1,000 (none outside Attica or on the Attica islands from tax year 2026, half for tax year 2027, abolished from tax year 2028 under Law 5355/2026)."
