@@ -1,12 +1,15 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { Q, Q2 } from '../../data/quellen';
+import Wetterleiste from '../../components/Wetterleiste.astro';
 const faq = [
   { q: 'Wie kalt wird es auf Kreta im Winter?', a: 'An der Küste liegen die Tageswerte im Winter meist bei etwa 12 bis 17 °C, nachts kann es deutlich kühler werden. In den Bergen schneit es regelmäßig. Weil viele Häuser kaum isoliert sind, fühlt sich der Winter drinnen oft kälter an als draußen.' },
   { q: 'Wann kann man auf Kreta baden?', a: 'Die meisten baden von Mai bis Oktober. Das Meer ist im August und September am wärmsten, mit etwa 24 bis 26 °C. Im Februar und März liegt es bei rund 16 °C.' },
 ];
 ---
 <Base
+  image="pacheia-ammos"
+  imageAlt="Strand von Pacheia Ammos im Osten Kretas"
   title="Wetter auf Kreta: Jahreszeiten, Winter, Wind und Meer"
   description="Wetter und Klima auf Kreta fürs Leben, nicht nur für den Urlaub: Sommerhitze, Winter, Regen, Meltemi und Schirokko, Wassertemperatur und Unterschiede zwischen Nord und Süd."
   h1="Wetter & Jahreszeiten auf Kreta"
@@ -15,6 +18,8 @@ const faq = [
   faq={faq}
   sources={[Q.meteo, Q2.emy]}
 >
+  <Wetterleiste />
+
   <h2>Das Jahr im Überblick</h2>
   <table>
     <thead><tr><th>Zeit</th><th>Typisch an der Nordküste</th></tr></thead>

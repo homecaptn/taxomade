@@ -1,7 +1,14 @@
 ---
-interface Props { items: { href: string; label: string; kurz: string }[] }
+interface Props { items: { href: string; label: string; kurz: string; img?: string }[] }
 const { items } = Astro.props;
 ---
 <ul class="cards">
-  {items.map((i) => <li><a href={i.href}><strong>{i.label}</strong><span>{i.kurz}</span></a></li>)}
+  {items.map((i) => (
+    <li>
+      <a href={i.href} class={i.img ? 'has-img' : undefined}>
+        {i.img && <img src={`/img/${i.img}-800.webp`} alt="" width="800" height="533" loading="lazy" decoding="async" />}
+        <strong>{i.label}</strong><span>{i.kurz}</span>
+      </a>
+    </li>
+  ))}
 </ul>

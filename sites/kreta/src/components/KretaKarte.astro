@@ -1,0 +1,34 @@
+---
+import { KARTE, ORTE } from '../data/karte';
+
+const REGIONEN = [
+  { key: 'chania', name: 'Chania', href: '/regionen/chania/', kurz: 'grüner Westen, höchste Mieten', lx: 28, ly: 44 },
+  { key: 'rethymno', name: 'Rethymno', href: '/regionen/rethymno/', kurz: 'ruhige Mitte, Uni-Stadt', lx: 88, ly: 54 },
+  { key: 'heraklion', name: 'Heraklion', href: '/regionen/heraklion/', kurz: 'Großstadt, Kliniken, Flughafen', lx: 138, ly: 66 },
+  { key: 'lasithi', name: 'Lasithi', href: '/regionen/lasithi/', kurz: 'ruhiger Osten, am günstigsten', lx: 207, ly: 69 },
+] as const;
+const STAEDTE: [string, 'start' | 'end'][] = [['Chania', 'start'], ['Rethymno', 'start'], ['Heraklion', 'start'], ['Agios Nikolaos', 'end'], ['Ierapetra', 'end'], ['Sitia', 'start']];
+---
+<figure class="karte">
+  <svg viewBox="-12 -10 262 112" role="group" aria-label="Karte von Kreta mit den vier Regionalbezirken. Klicken Sie auf eine Region.">
+    <text class="k-meer" x="110" y="2" text-anchor="middle">Kretisches Meer</text>
+    <text class="k-meer" x="60" y="98" text-anchor="middle">Libysches Meer</text>
+    {REGIONEN.map((r) => (
+      <a href={r.href} class={`k-reg k-${r.key}`} aria-label={`${r.name}: ${r.kurz}`}>
+        <title>{r.name}: {r.kurz}</title>
+        <path d={KARTE[r.key]} />
+        <text class="k-name" x={r.lx} y={r.ly} text-anchor="middle">{r.name}</text>
+      </a>
+    ))}
+    {STAEDTE.map(([s, anchor]) => {
+      const [x, y] = ORTE[s];
+      return (
+        <g class="k-stadt" aria-hidden="true">
+          <circle cx={x} cy={y} r="1.3" />
+          <text x={anchor === 'start' ? x + 2.2 : x - 2.2} y={y + 1.4} text-anchor={anchor}>{s}</text>
+        </g>
+      );
+    })}
+  </svg>
+  <figcaption class="small">Klicken Sie auf eine Region. Kartengrundlage: Natural Earth, Grenzen © <a href="https://www.openstreetmap.org/copyright" rel="noopener" target="_blank">OpenStreetMap-Mitwirkende</a>.</figcaption>
+</figure>

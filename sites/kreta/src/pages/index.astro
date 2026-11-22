@@ -1,20 +1,49 @@
 ---
 import Base from '../layouts/Base.astro';
 import Cards from '../components/Cards.astro';
-import { REGIONEN, LEBEN, SITE } from '../data/site';
+import KretaKarte from '../components/KretaKarte.astro';
+import Wetterleiste from '../components/Wetterleiste.astro';
+import { REGIONEN, LEBEN, SITE, EINSTIEG } from '../data/site';
 ---
 <Base
   title="Auswandern nach Kreta 2026: Ratgeber auf Deutsch"
   description="Auswandern nach Kreta 2026: Checkliste, Regionen, Mieten, Kosten, Ärzte, Schulen und Behörden. Unabhängiger Ratgeber mit offiziellen Quellen und Stand-Datum."
   article={false}
 >
-  <div class="hero home-hero">
-    <h1>Auswandern nach Kreta 2026</h1>
-    <p class="lead">Ein ruhiger, ehrlicher Überblick für alle, die auf Kreta leben möchten: Was Sie in welcher Reihenfolge erledigen, welche Region zu Ihnen passt und was das Leben auf der Insel wirklich kostet.</p>
-    <a class="btn" href="/checkliste/">Checkliste: Ankommen in 10 Schritten</a>
-    <a class="btn ghost" href="/regionen/">Regionen vergleichen</a>
-    <p class="stand" style="margin-top:1rem">Stand: {SITE.stand} · alle Seiten mit Quellen</p>
+  <div class="hero-foto">
+    <picture>
+      <source media="(max-width: 700px)" srcset="/img/balos-800.webp" />
+      <img src="/img/balos-1600.webp" alt="Lagune von Balos im Nordwesten Kretas" width="1600" height="1067" fetchpriority="high" />
+    </picture>
+    <div class="hero-text">
+      <p class="kicker">Unabhängiger Ratgeber auf Deutsch</p>
+      <h1>Auswandern nach Kreta 2026</h1>
+      <p class="lead">Ein ruhiger, ehrlicher Überblick für alle, die auf Kreta leben möchten: Was Sie in welcher Reihenfolge erledigen, welche Region zu Ihnen passt und was das Leben auf der Insel wirklich kostet.</p>
+      <a class="btn" href="#einstieg">Wo stehen Sie gerade?</a>
+      <a class="btn ghost" href="/checkliste/">Checkliste in 10 Schritten</a>
+      <p class="stand">Stand: {SITE.stand} · alle Seiten mit Quellen</p>
+    </div>
+    <p class="ph-credit">Foto: Lagune von Balos · Pexels</p>
   </div>
+
+  <section id="einstieg" aria-labelledby="einstieg-h">
+    <h2 id="einstieg-h">Wo stehen Sie gerade?</h2>
+    <p>Wählen Sie Ihre Lebenslage. Wir bringen Sie direkt zu den Seiten, die für Sie zählen.</p>
+    <ul class="einstieg">
+      {EINSTIEG.map((e) => (
+        <li>
+          <a href={e.href}>
+            <span class="e-icon" aria-hidden="true">{e.icon}</span>
+            <strong>{e.titel}</strong>
+            <span>{e.text}</span>
+            <em>{e.link} →</em>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <Wetterleiste />
 
   <h2>Kreta in Kürze</h2>
   <ul>
@@ -30,6 +59,7 @@ import { REGIONEN, LEBEN, SITE } from '../data/site';
 
   <h2>Regionen: Wo auf Kreta leben?</h2>
   <p>Kreta ist vielfältiger, als es im Urlaub wirkt. Der Westen ist grüner und internationaler, die Mitte städtischer, der Osten ruhiger und günstiger.</p>
+  <KretaKarte />
   <Cards items={REGIONEN} />
 
   <h2>Leben auf Kreta</h2>

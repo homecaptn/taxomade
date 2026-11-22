@@ -16,9 +16,15 @@ interface Props {
   faq?: Faq[];
   article?: boolean;
   noindex?: boolean;
+  /** Basisname eines Fotos in /public/img (ohne -1600.webp) */
+  image?: string;
+  imageAlt?: string;
+  /** CSS object-position für den Bildausschnitt, z. B. 'center 25%' */
+  imagePos?: string;
 }
 
-const { title, description, h1, lead, crumbs = [], sources = [], faq = [], article = true, noindex = false } = Astro.props;
+const { title, description, h1, lead, crumbs = [], sources = [], faq = [], article = true, noindex = false, image, imageAlt = '', imagePos = 'center' } = Astro.props;
+const ogImage = new URL(`/img/og/${image ?? 'balos'}.jpg`, SITE.url).href;
 const canonical = new URL(Astro.url.pathname, SITE.url).href;
 const path = Astro.url.pathname;
 
@@ -67,8 +73,11 @@ if (faq.length) {
     <meta property="og:url" content={canonical} />
     <meta property="og:locale" content="de_DE" />
     <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="theme-color" content="#f7f3ec" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     {schemas.map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
   </head>
@@ -77,7 +86,7 @@ if (faq.length) {
     <header class="site-header">
       <div class="wrap header-inner">
         <a href="/" class="logo" aria-label="Kreta auswandern, zur Startseite">
-          <svg width="28" height="28" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="12" r="6" fill="#d9a441"/><path d="M2 22c4-3 8-3 12 0s8 3 12 0 4-2 4-2v6H2z" fill="#2f6f8f"/></svg>
+          <svg class="logo-mark" width="34" height="34" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#2f6f8f"/><circle cx="32" cy="25" r="10" fill="#d9a441"/><path d="M6 44c6-5 12-5 18 0s12 5 18 0 10-5 16-1v21H6z" fill="#fffdf9"/><path d="M6 52c6-4 12-4 18 0s12 4 18 0 10-4 16-1v13H6z" fill="#9fc6d8"/></svg>
           <span>Kreta <em>auswandern</em></span>
         </a>
         <nav class="desk-nav" aria-label="Hauptnavigation">
@@ -98,7 +107,13 @@ if (faq.length) {
 
     <main id="inhalt">
       {h1 && (
-        <div class="page-head">
+        <div class={image ? 'page-head has-img' : 'page-head'}>
+          {image && (
+            <picture class="ph-bg">
+              <source media="(max-width: 700px)" srcset={`/img/${image}-800.webp`} />
+              <img src={`/img/${image}-1600.webp`} alt={imageAlt} width="1600" height="1067" fetchpriority="high" style={`object-position:${imagePos}`} />
+            </picture>
+          )}
           <div class="wrap narrow">
             {crumbs.length > 0 && (
               <nav class="crumbs" aria-label="Brotkrumen">
@@ -115,6 +130,7 @@ if (faq.length) {
             {lead && <p class="lead">{lead}</p>}
             {article && <p class="stand">Stand: {SITE.stand} · geprüft anhand offizieller Quellen</p>}
           </div>
+          {image && imageAlt && <p class="ph-credit">Foto: {imageAlt} · Pexels</p>}
         </div>
       )}
       <div class="wrap narrow prose">
