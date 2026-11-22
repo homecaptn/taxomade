@@ -1,0 +1,47 @@
+---
+import Base from '../../layouts/Base.astro';
+import { Q, Q2 } from '../../data/quellen';
+const faq = [
+  { q: 'Wie kalt wird es auf Kreta im Winter?', a: 'An der Küste liegen die Tageswerte im Winter meist bei etwa 12 bis 17 °C, nachts kann es deutlich kühler werden. In den Bergen schneit es regelmäßig. Weil viele Häuser kaum isoliert sind, fühlt sich der Winter drinnen oft kälter an als draußen.' },
+  { q: 'Wann kann man auf Kreta baden?', a: 'Die meisten baden von Mai bis Oktober. Das Meer ist im August und September am wärmsten, mit etwa 24 bis 26 °C. Im Februar und März liegt es bei rund 16 °C.' },
+];
+---
+<Base
+  title="Wetter auf Kreta: Jahreszeiten, Winter, Wind und Meer"
+  description="Wetter und Klima auf Kreta fürs Leben, nicht nur für den Urlaub: Sommerhitze, Winter, Regen, Meltemi und Schirokko, Wassertemperatur und Unterschiede zwischen Nord und Süd."
+  h1="Wetter & Jahreszeiten auf Kreta"
+  lead="Im Urlaub sehen Sie den Sommer. Wer auf Kreta lebt, erlebt auch Winterstürme, Saharastaub und Hitzewellen. So sieht das Jahr wirklich aus."
+  crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/wetter/', label: 'Wetter & Jahreszeiten' }]}
+  faq={faq}
+  sources={[Q.meteo, Q2.emy]}
+>
+  <h2>Das Jahr im Überblick</h2>
+  <table>
+    <thead><tr><th>Zeit</th><th>Typisch an der Nordküste</th></tr></thead>
+    <tbody>
+      <tr><td>Dezember bis Februar</td><td>Mild, wechselhaft, Regen und Sturm, tagsüber etwa 12 bis 17 °C, Schnee in den Bergen</td></tr>
+      <tr><td>März bis Mai</td><td>Frühling mit Blüte, zunehmend warm, gelegentlich Saharastaub mit Südwind</td></tr>
+      <tr><td>Juni bis September</td><td>Heiß und trocken, tagsüber meist um 28 bis 32 °C, Hitzewellen über 40 °C möglich, kaum Regen</td></tr>
+      <tr><td>Oktober bis November</td><td>Warm, Meer noch badewarm, erste kräftige Regenfälle</td></tr>
+    </tbody>
+  </table>
+  <p class="small">Ungefähre Werte, die je nach Ort und Jahr deutlich abweichen. Aktuelle Daten und Klimastatistiken: meteo.gr und der griechische Wetterdienst EMY.</p>
+
+  <h2>Wind</h2>
+  <p>Im Sommer weht oft der Meltemi aus Norden. Er kühlt, kann aber tagelang kräftig blasen, besonders an der Nordküste und im Osten. Im Frühjahr und Herbst bringt Südwind (Schirokko) warme Luft und Staub aus Afrika.</p>
+
+  <h2>Norden, Süden, Berge</h2>
+  <ul>
+    <li><strong>Der Westen</strong> (Chania) ist regenreicher und grüner.</li>
+    <li><strong>Der Osten und die Südküste</strong> (Ierapetra) sind trockener und im Winter milder.</li>
+    <li><strong>Die Bergdörfer</strong> sind im Sommer angenehm kühl und im Winter kalt, mit Frost und manchmal Schnee.</li>
+  </ul>
+
+  <h2>Was das fürs Wohnen bedeutet</h2>
+  <ul>
+    <li>Klimaanlage für den Sommer, Heizmöglichkeit für den Winter.</li>
+    <li>Gegen Feuchtigkeit: lüften, Entfeuchter, nicht im tiefsten Erdgeschoss wohnen.</li>
+    <li>Bei Starkregen kann es zu Überschwemmungen kommen. Fragen Sie bei der Besichtigung nach.</li>
+    <li>Im Sommer besteht Waldbrandgefahr. Beachten Sie Warnungen über die Notfall-App bzw. SMS von 112.</li>
+  </ul>
+</Base>

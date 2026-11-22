@@ -1,0 +1,59 @@
+---
+import Base from '../../layouts/Base.astro';
+import { Q } from '../../data/quellen';
+const faq = [
+  { q: 'Was kostet eine Wohnung in Chania?', a: 'Die durchschnittliche Angebotsmiete lag im dritten Quartal 2026 bei rund 10,60 € pro m² (Spitogatos). Für 70 m² sind das etwa 740 € im Monat. In der Altstadt, in Chalepa und am Meer liegen die Preise oft darüber, im Hinterland darunter.' },
+  { q: 'Ist Chania im Winter belebt?', a: 'Ja. Chania ist eine Stadt mit rund 110.000 Einwohnern in der Gemeinde, Universität und Verwaltung. Reine Urlaubsorte wie Agia Marina oder Platanias sind im Winter dagegen sehr ruhig.' },
+];
+---
+<Base
+  title="Auswandern nach Chania (Kreta): Leben, Mieten, Orte 2026"
+  description="Leben in Chania auf Kreta: Für wen der Westen passt, beliebte Orte von Apokoronas bis Kissamos, Mietniveau 2026, Flughafen, Krankenhaus und Infrastruktur."
+  h1="Leben in Chania: der grüne Westen Kretas"
+  lead="Chania gilt als schönste Stadt Kretas und ist bei Ausländern besonders beliebt. Das hat seinen Preis: Hier sind die Mieten 2026 am höchsten auf der Insel."
+  crumbs={[{ href: '/regionen/', label: 'Regionen' }, { href: '/regionen/chania/', label: 'Chania' }]}
+  faq={faq}
+  sources={[Q.mietenSpi, Q.mietenRemax, Q.zensus, Q.tuc]}
+>
+  <h2>Charakter</h2>
+  <p>Venezianischer Hafen, enge Altstadtgassen, im Süden die Weißen Berge (Lefka Ori) mit Schnee bis ins Frühjahr. Der Westen ist grüner und regenreicher als der Osten. Die Stadt hat eine große internationale Gemeinschaft, viele Cafés, Märkte und Kultur auch im Winter.</p>
+
+  <h2>Für wen passt Chania?</h2>
+  <ul>
+    <li>Für alle, die Stadtleben mit Natur verbinden möchten.</li>
+    <li>Für Remote-Arbeiter und Selbstständige, die Austausch mit anderen Zugezogenen suchen.</li>
+    <li>Für Familien, die eine Stadt mit Schulen und Freizeitangeboten wollen.</li>
+    <li>Weniger für alle mit knappem Budget: Wohnraum ist knapp und teuer.</li>
+  </ul>
+
+  <h2>Beliebte Gegenden</h2>
+  <ul>
+    <li><strong>Chania Stadt</strong> mit Altstadt, Chalepa und Nea Chora: kurze Wege, aber teuer und im Sommer laut.</li>
+    <li><strong>Akrotiri</strong> (z. B. Kounoupidiana): nah am Flughafen, viele Familien, ruhiger.</li>
+    <li><strong>Apokoronas</strong> (Kalyves, Almyrida, Vamos): östlich der Stadt, viele Europäer, Dörfer mit Infrastruktur.</li>
+    <li><strong>Platanias und Agia Marina</strong>: Urlaubsküste westlich der Stadt, im Winter sehr ruhig.</li>
+    <li><strong>Kissamos und Kolymbari</strong>: weiter westlich, günstiger, ländlicher.</li>
+    <li><strong>Südküste</strong> (Paleochora, Sfakia): einsam und schön, aber weit von Stadt und Krankenhaus.</li>
+  </ul>
+
+  <h2>Verkehr und Flughafen</h2>
+  <p>Der Flughafen Chania (CHQ) liegt auf der Halbinsel Akrotiri, rund 15 km vom Zentrum. Fähren nach Piräus fahren ab dem Hafen Souda. Nach Heraklion sind es auf der Nationalstraße rund zwei Stunden. Busse (KTEL) verbinden Chania gut mit der Nordküste.</p>
+
+  <h2>Mietniveau</h2>
+  <table>
+    <thead><tr><th>Quelle</th><th>Wert</th></tr></thead>
+    <tbody>
+      <tr><td>Angebotsmiete Q3 2026 (Spitogatos)</td><td>ca. 10,60 €/m², Q3 2025: 10,00 €/m²</td></tr>
+      <tr><td>Vertragsmieten 2026 (RE/MAX)</td><td>ca. 10 €/m², 80 m² rund 800 €</td></tr>
+    </tbody>
+  </table>
+  <p>Chania ist 2026 der teuerste Ort Kretas zum Mieten. Gute Wohnungen werden oft über Bekannte und Facebook-Gruppen vergeben, bevor sie online stehen.</p>
+
+  <h2>Infrastruktur</h2>
+  <ul>
+    <li><strong>Krankenhaus:</strong> Allgemeines Krankenhaus Chania „Agios Georgios“ (Mournies), dazu private Kliniken.</li>
+    <li><strong>Hochschulen:</strong> Technische Universität Kreta und Hellenic Mediterranean University.</li>
+    <li><strong>Einkaufen:</strong> alle großen Supermarktketten, Wochenmärkte (Laiki) in mehreren Stadtteilen, Markthalle in der Altstadt.</li>
+  </ul>
+  <p>Mehr zu <a href="/leben/wohnung-mieten/">Mieten</a>, <a href="/leben/aerzte-krankenversicherung/">Ärzten</a> und <a href="/leben/wetter/">Wetter</a>.</p>
+</Base>

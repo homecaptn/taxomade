@@ -1,0 +1,45 @@
+---
+import Base from '../../layouts/Base.astro';
+import Cards from '../../components/Cards.astro';
+import { REGIONEN } from '../../data/site';
+import { Q } from '../../data/quellen';
+
+const faq = [
+  { q: 'Welche Region auf Kreta ist am günstigsten?', a: 'Nach den Angebotsmieten von Spitogatos ist Lasithi im Osten 2026 am günstigsten (rund 8,70 € pro m² im dritten Quartal 2026). Chania im Westen ist am teuersten (rund 10,60 € pro m²).' },
+  { q: 'Wo leben die meisten Deutschen auf Kreta?', a: 'Offizielle Zahlen nach Region gibt es nicht. Viele Deutsche und andere Europäer leben im Raum Chania (Apokoronas, Akrotiri, Kissamos), rund um Rethymno und an der Küste zwischen Heraklion und Agios Nikolaos.' },
+  { q: 'Nordküste oder Südküste?', a: 'Die Nordküste hat die Städte, Krankenhäuser, Flughäfen und Fährhäfen. Die Südküste ist wärmer, ruhiger und wilder, die Wege zu Ämtern, Krankenhaus und Flughafen sind aber deutlich länger, oft über Bergstraßen.' },
+];
+---
+<Base
+  title="Wo auf Kreta leben? Regionen im Vergleich (2026)"
+  description="Chania, Rethymno, Heraklion oder Lasithi: Die vier Regionen Kretas im Vergleich mit Mietniveau 2026, Flughafen, Infrastruktur und für wen sie passen."
+  h1="Wo auf Kreta leben? Die Regionen im Vergleich"
+  lead="Kreta ist rund 260 km lang. Zwischen dem grünen Westen und dem trockenen Osten liegen Welten. Diese Übersicht hilft Ihnen, die passende Gegend zu finden."
+  crumbs={[{ href: '/regionen/', label: 'Regionen' }]}
+  faq={faq}
+  sources={[Q.mietenSpi, Q.mietenRemax, Q.zensus, Q.kastelli]}
+>
+  <h2>Die vier Regionen auf einen Blick</h2>
+  <table>
+    <thead><tr><th>Region</th><th>Charakter</th><th>Angebotsmiete Q3 2026</th><th>Flughafen</th></tr></thead>
+    <tbody>
+      <tr><td><a href="/regionen/chania/">Chania</a></td><td>Westen, grün, Berge, sehr international</td><td>ca. 10,60 €/m²</td><td>Chania (CHQ)</td></tr>
+      <tr><td><a href="/regionen/rethymno/">Rethymno</a></td><td>Mitte-West, Altstadt, Uni, ruhiger</td><td>ca. 10,00 €/m²</td><td>Chania oder Heraklion, je ca. 1 Std.</td></tr>
+      <tr><td><a href="/regionen/heraklion/">Heraklion</a></td><td>Großstadt, Wirtschaft, Kliniken</td><td>ca. 10,40 €/m²</td><td>Heraklion (HER)</td></tr>
+      <tr><td><a href="/regionen/lasithi/">Lasithi</a></td><td>Osten, trocken, kleinere Städte</td><td>ca. 8,70 €/m²</td><td>Heraklion, klein: Sitia</td></tr>
+    </tbody>
+  </table>
+  <p class="small">Mieten: Durchschnittliche Angebotsmieten laut Spitogatos Property Index, drittes Quartal 2026. Tatsächlich vereinbarte Mieten können abweichen, siehe <a href="/leben/wohnung-mieten/">Wohnung mieten</a>.</p>
+
+  <Cards items={REGIONEN} />
+
+  <h2>Fragen, die bei der Wahl helfen</h2>
+  <ul>
+    <li><strong>Wie oft fliegen Sie?</strong> Nähe zu Chania oder Heraklion spart viel Zeit, besonders im Winter mit weniger Flügen.</li>
+    <li><strong>Brauchen Sie regelmäßig Ärzte?</strong> Die großen Krankenhäuser liegen in Heraklion, Chania, Rethymno und Agios Nikolaos.</li>
+    <li><strong>Haben Sie Kinder?</strong> In den Städten ist die Auswahl an Schulen und Freizeitangeboten deutlich größer.</li>
+    <li><strong>Wie wichtig ist Ihnen das Winterleben?</strong> Reine Urlaubsorte wie Malia, Hersonissos oder Agia Marina sind im Winter fast leer. Städte und Dörfer mit Einheimischen leben das ganze Jahr.</li>
+    <li><strong>Auto oder nicht?</strong> Ohne Auto funktioniert der Alltag nur in den Städten. Busse (KTEL) verbinden die Nordküste gut, Dörfer oft nur selten.</li>
+  </ul>
+  <div class="box"><p><strong>Unser Rat:</strong> Mieten Sie zuerst für einige Monate, gern im Winter, bevor Sie sich festlegen oder kaufen. So sehen Sie, wie ein Ort außerhalb der Saison lebt.</p></div>
+</Base>

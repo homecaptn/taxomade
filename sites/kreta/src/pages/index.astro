@@ -1,0 +1,47 @@
+---
+import Base from '../layouts/Base.astro';
+import Cards from '../components/Cards.astro';
+import { REGIONEN, LEBEN, SITE } from '../data/site';
+---
+<Base
+  title="Auswandern nach Kreta 2026: Ratgeber auf Deutsch"
+  description="Auswandern nach Kreta 2026: Checkliste, Regionen, Mieten, Kosten, Ärzte, Schulen und Behörden. Unabhängiger Ratgeber mit offiziellen Quellen und Stand-Datum."
+  article={false}
+>
+  <div class="hero home-hero">
+    <h1>Auswandern nach Kreta 2026</h1>
+    <p class="lead">Ein ruhiger, ehrlicher Überblick für alle, die auf Kreta leben möchten: Was Sie in welcher Reihenfolge erledigen, welche Region zu Ihnen passt und was das Leben auf der Insel wirklich kostet.</p>
+    <a class="btn" href="/checkliste/">Checkliste: Ankommen in 10 Schritten</a>
+    <a class="btn ghost" href="/regionen/">Regionen vergleichen</a>
+    <p class="stand" style="margin-top:1rem">Stand: {SITE.stand} · alle Seiten mit Quellen</p>
+  </div>
+
+  <h2>Kreta in Kürze</h2>
+  <ul>
+    <li><strong>Größte griechische Insel</strong>, rund 625.000 Einwohner (Volkszählung 2021), etwa 260 km lang.</li>
+    <li><strong>Vier Regionalbezirke:</strong> Chania, Rethymno, Heraklion und Lasithi. Die meisten Ausländer leben an der Nordküste.</li>
+    <li><strong>Zwei große Flughäfen:</strong> Heraklion und Chania, dazu der kleine Flughafen Sitia im Osten. Ein neuer Großflughafen bei Kastelli entsteht.</li>
+    <li><strong>Als EU-Bürger</strong> dürfen Sie ohne Visum auf Kreta leben und arbeiten. Ab drei Monaten Aufenthalt melden Sie sich an.</li>
+    <li><strong>Mieten</strong> liegen 2026 je nach Region bei etwa 8,50 bis 11 € pro m² und Monat, Tendenz steigend.</li>
+  </ul>
+
+  <h2>Der wichtigste Startpunkt</h2>
+  <p>Wenn Sie nur eine Seite lesen: Die <a href="/checkliste/">Checkliste „Ankommen auf Kreta in 10 Schritten“</a> zeigt die Reihenfolge von Steuernummer (AFM) über Anmeldung, Bankkonto und Krankenversicherung bis zum Auto.</p>
+
+  <h2>Regionen: Wo auf Kreta leben?</h2>
+  <p>Kreta ist vielfältiger, als es im Urlaub wirkt. Der Westen ist grüner und internationaler, die Mitte städtischer, der Osten ruhiger und günstiger.</p>
+  <Cards items={REGIONEN} />
+
+  <h2>Leben auf Kreta</h2>
+  <Cards items={LEBEN} />
+
+  <h2>Behörden, Steuern und Firmengründung</h2>
+  <p>Die <a href="/behoerden-steuern/">Behörden-Seite</a> erklärt kurz AFM, Anmeldung, AMKA, Bankkonto und Selbstständigkeit. Für Steuern, Firmengründung und Buchhaltung verlinken wir auf ausführliche Ratgeber unseres Partners taxomade.</p>
+
+  <h2>Fragen?</h2>
+  <p>Die häufigsten Fragen beantworten wir in den <a href="/faq/">FAQ zum Auswandern nach Kreta</a>. Eine <a href="/community/">Community</a> für Austausch vor Ort ist in Vorbereitung.</p>
+
+  <div class="box">
+    <p><strong>So arbeiten wir:</strong> Jede Seite beantwortet eine konkrete Frage, nennt offizielle Quellen und ein Stand-Datum. Preise nennen wir nur als Spanne mit Jahr. Keine Werbung, keine bezahlten Platzierungen. Mehr dazu unter <a href="/ueber-uns/">Über uns</a>.</p>
+  </div>
+</Base>

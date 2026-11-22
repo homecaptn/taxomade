@@ -44,3 +44,14 @@ jobs:
           with urllib.request.urlopen(req, timeout=30) as r:
               print("IndexNow:", r.status, "-", len(urls), "URLs submitted")
           EOF
+      - name: Build kreta-auswandern.de
+        run: npx astro build --root sites/kreta
+      - name: Deploy kreta-auswandern.de
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
+          channelId: live
+          projectId: homecaptn
+          target: kreta-auswandern
+          firebaseToolsVersion: '15.34.0'

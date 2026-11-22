@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import { Q, Q2 } from '../../data/quellen';
+const faq = [
+  { q: 'Wie viel kostet eine Wohnung auf Kreta 2026?', a: 'Die durchschnittlichen Angebotsmieten lagen im dritten Quartal 2026 zwischen rund 8,70 € (Lasithi) und 10,60 € pro m² (Chania). Für 70 m² sind das etwa 610 bis 745 € im Monat. Möblierte Wohnungen am Meer und in Altstädten liegen oft darüber.' },
+  { q: 'Wie hoch ist die Kaution in Griechenland?', a: 'Üblich sind ein bis zwei Monatsmieten. Die Höhe ist Verhandlungssache und sollte im Vertrag stehen, ebenso wann und wie Sie die Kaution zurückbekommen.' },
+  { q: 'Brauche ich für den Mietvertrag eine griechische Steuernummer?', a: 'Ja, in der Regel. Der Vermieter meldet den Vertrag elektronisch bei der Steuerverwaltung AADE an und braucht dafür Ihre AFM. Der registrierte Vertrag dient Ihnen später als Wohnsitznachweis.' },
+  { q: 'Wann ist die beste Zeit, eine Wohnung zu suchen?', a: 'Im Spätherbst und Winter. Viele Ferienwohnungen werden von Oktober bis Mai günstiger vermietet. Im Frühjahr und Sommer ist das Angebot für Langzeitmieter deutlich knapper, in Uni-Städten auch zum Semesterbeginn im September.' },
+];
+---
+<Base
+  title="Wohnung mieten auf Kreta 2026: Preise, Vertrag, Tipps"
+  description="Wohnung mieten auf Kreta: Mietpreise 2026 nach Region, Ablauf, Kaution, Mietvertrag mit AFM, typische Fallen und wo Sie suchen. Mit Quellen und Stand-Datum."
+  h1="Wohnung mieten auf Kreta"
+  lead="Wohnraum auf Kreta ist knapp, besonders im Westen und an der Küste. Mit realistischen Erwartungen und der richtigen Reihenfolge finden Sie trotzdem etwas Passendes."
+  crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/wohnung-mieten/', label: 'Wohnung mieten' }]}
+  faq={faq}
+  sources={[Q.mietenSpi, Q.mietenRemax, Q2.aade]}
+>
+  <h2>Mietpreise 2026 nach Region</h2>
+  <table>
+    <thead><tr><th>Region</th><th>Angebotsmiete Q3 2026</th><th>Veränderung zum Vorjahr</th><th>Beispiel 70 m²</th></tr></thead>
+    <tbody>
+      <tr><td>Chania</td><td>10,63 €/m²</td><td>+6,3 %</td><td>ca. 745 €</td></tr>
+      <tr><td>Heraklion</td><td>10,40 €/m²</td><td>+4,0 %</td><td>ca. 730 €</td></tr>
+      <tr><td>Rethymno</td><td>10,00 €/m²</td><td>+1,7 %</td><td>ca. 700 €</td></tr>
+      <tr><td>Lasithi</td><td>8,67 €/m²</td><td>+8,4 %</td><td>ca. 605 €</td></tr>
+    </tbody>
+  </table>
+  <p class="small">Quelle: Spitogatos Property Index, durchschnittliche Angebotsmieten, Q3 2025 bis Q3 2026. Vertragsdaten von RE/MAX für 2026 kommen zu ähnlichen Werten (Heraklion rund 8,50 €, Chania rund 10 €, Rethymno rund 11 € pro m²). Kaltmiete ohne Strom, Wasser und Internet.</p>
+
+  <h2>So läuft die Suche ab</h2>
+  <ol>
+    <li><strong>Erst kurz, dann lang:</strong> Starten Sie mit einer möblierten Wohnung für einige Monate. So lernen Sie die Gegend kennen, bevor Sie sich binden.</li>
+    <li><strong>Suchen Sie lokal:</strong> Viele Wohnungen werden über Bekannte, Aushänge und lokale Facebook-Gruppen vergeben. Online-Portale wie spitogatos.gr und xe.gr zeigen nur einen Teil des Marktes.</li>
+    <li><strong>Besichtigen Sie selbst</strong> oder schicken Sie jemanden. Zahlen Sie nie eine Anzahlung für eine Wohnung, die niemand gesehen hat.</li>
+    <li><strong>Vertrag schriftlich</strong> und vom Vermieter bei der AADE registrieren lassen. Ohne registrierten Vertrag fehlt Ihnen der Wohnsitznachweis.</li>
+    <li><strong>Strom, Wasser, Internet</strong> auf Ihren Namen umschreiben oder klar regeln, wer welche Rechnung bezahlt.</li>
+  </ol>
+
+  <h2>Worauf Sie achten sollten</h2>
+  <ul>
+    <li><strong>Heizung und Isolierung:</strong> Viele Häuser sind für den Sommer gebaut. Im Winter wird es innen kühl und feucht. Fragen Sie nach Klimaanlage mit Heizfunktion, Ofen oder Zentralheizung.</li>
+    <li><strong>Feuchtigkeit und Schimmel:</strong> Besonders in Erdgeschoss-Wohnungen und nach längerem Leerstand.</li>
+    <li><strong>Wasser:</strong> In manchen Dörfern wird Wasser im Sommer knapp. Fragen Sie nach Zisterne oder Speichertank.</li>
+    <li><strong>Saisonmiete:</strong> Manche Vermieter möchten die Wohnung im Sommer an Urlauber vermieten. Klären Sie, ob der Vertrag ganzjährig gilt.</li>
+    <li><strong>Zahlung:</strong> Zahlen Sie per Überweisung auf ein Konto des Vermieters. So haben Sie einen Nachweis.</li>
+  </ul>
+
+  <div class="box warn"><p><strong>Vorsicht vor Betrug:</strong> Angebote mit sehr niedrigen Preisen, Vermieter „im Ausland“ und Vorkasse per Geldtransfer sind typische Warnzeichen.</p></div>
+
+  <p>Mehr zu den Gegenden: <a href="/regionen/">Regionen im Vergleich</a>. Kaufen statt mieten? Siehe <a href="/leben/haus-kaufen/">Haus kaufen auf Kreta</a>.</p>
+</Base>

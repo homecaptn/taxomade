@@ -1,0 +1,9 @@
+---
+// Hinweis-Box: Steuern/Recht nur Grundprinzip, Details beim Partner taxomade.
+interface Props { href: string; title: string }
+const { href, title } = Astro.props;
+---
+<aside class="box partner">
+  <p><strong>Partner für Steuern &amp; Buchhaltung:</strong> <slot /></p>
+  <p><a href={href}>{title}</a> <span class="small">(Ratgeber bei taxomade, auf Deutsch)</span></p>
+</aside>
