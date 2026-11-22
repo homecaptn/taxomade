@@ -1,0 +1,58 @@
+---
+import Base from '../../layouts/Base.astro';
+import { Q } from '../../data/quellen';
+const faq = [
+  { q: 'Ist das Leben auf Kreta günstiger als in Deutschland?', a: 'Teilweise. Miete, Café-Besuche, Obst und Gemüse vom Markt sind meist günstiger. Supermarkt-Markenprodukte, Elektronik, Autos und importierte Waren kosten oft gleich viel oder mehr. Weil auch Einkommen auf Kreta niedriger sind, lohnt sich der Umzug finanziell vor allem mit Einkommen aus dem Ausland oder einer Rente.' },
+  { q: 'Wie viel Geld brauche ich im Monat auf Kreta?', a: 'Das hängt vor allem von der Miete ab. 2026 kostet eine 70-m²-Wohnung je nach Region rund 600 bis 750 € kalt. Rechnen Sie dazu Nebenkosten, Lebensmittel, Auto, Versicherungen und Rücklagen. Ein persönliches Budget erstellen Sie am besten mit Ihren eigenen Ausgaben aus Deutschland als Vergleich.' },
+];
+---
+<Base
+  title="Lebenshaltungskosten auf Kreta 2026: Was kostet das Leben?"
+  description="Lebenshaltungskosten auf Kreta 2026: Miete nach Region, was günstiger und was teurer ist als in Deutschland, und wie Sie ein realistisches Monatsbudget planen."
+  h1="Lebenshaltungskosten auf Kreta"
+  lead="Kreta ist nicht mehr das günstige Paradies von früher. Mieten sind stark gestiegen, viele Alltagsdinge kosten so viel wie in Deutschland. Hier sehen Sie, wo es wirklich günstiger ist."
+  crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/lebenshaltungskosten/', label: 'Lebenshaltungskosten' }]}
+  faq={faq}
+  sources={[Q.mietenSpi, Q.mietenRemax, { label: 'ELSTAT: Verbraucherpreisindex Griechenland', href: 'https://www.statistics.gr/en/statistics/-/publication/DKT87/-' }, { label: 'Eurostat: Preisniveaus für Konsumgüter in der EU', href: 'https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Comparative_price_levels_of_consumer_goods_and_services' }]}
+>
+  <div class="box"><p><strong>Unser Grundsatz:</strong> Wir nennen nur Zahlen, die wir mit einer Quelle belegen können. Für Miete gibt es verlässliche Daten. Für viele andere Posten schwanken die Preise so stark, dass eine Pauschalzahl mehr schaden als helfen würde.</p></div>
+
+  <h2>Der größte Posten: Miete</h2>
+  <table>
+    <thead><tr><th>Region</th><th>Angebotsmiete Q3 2026</th><th>70 m² pro Monat (kalt)</th></tr></thead>
+    <tbody>
+      <tr><td>Chania</td><td>10,63 €/m²</td><td>ca. 745 €</td></tr>
+      <tr><td>Heraklion</td><td>10,40 €/m²</td><td>ca. 730 €</td></tr>
+      <tr><td>Rethymno</td><td>10,00 €/m²</td><td>ca. 700 €</td></tr>
+      <tr><td>Lasithi</td><td>8,67 €/m²</td><td>ca. 605 €</td></tr>
+    </tbody>
+  </table>
+  <p class="small">Quelle: Spitogatos Property Index Q3 2026. Mehr unter <a href="/leben/wohnung-mieten/">Wohnung mieten</a>.</p>
+
+  <h2>Was ist günstiger als in Deutschland?</h2>
+  <ul>
+    <li><strong>Saisonales Obst und Gemüse</strong> vom Wochenmarkt (Laiki) und direkt vom Erzeuger.</li>
+    <li><strong>Olivenöl, Käse, Wein aus der Region</strong>, oft direkt von Bekannten oder Produzenten.</li>
+    <li><strong>Essen gehen und Kaffee</strong> in Orten mit Einheimischen. In Touristenzentren gilt das nicht.</li>
+    <li><strong>Heizen im Winter</strong> fällt kürzer aus, ist aber nicht null: Viele Häuser sind schlecht isoliert.</li>
+  </ul>
+
+  <h2>Was ist gleich teuer oder teurer?</h2>
+  <ul>
+    <li><strong>Markenprodukte im Supermarkt</strong>, Drogerieartikel und Babynahrung.</li>
+    <li><strong>Autos</strong>, neu und gebraucht, sowie Ersatzteile.</li>
+    <li><strong>Elektronik und Möbel</strong>, oft mit zusätzlichen Lieferkosten auf die Insel.</li>
+    <li><strong>Strom</strong>: Die Preise schwanken stark, im Sommer laufen Klimaanlagen viele Stunden.</li>
+    <li><strong>Private Krankenversicherung und Privatärzte</strong>, wenn Sie nicht im öffentlichen System sind.</li>
+  </ul>
+
+  <h2>So planen Sie Ihr Budget</h2>
+  <ol>
+    <li>Nehmen Sie Ihre aktuellen Ausgaben in Deutschland als Basis.</li>
+    <li>Ersetzen Sie die Miete durch die Werte Ihrer Wunschregion.</li>
+    <li>Planen Sie ein Auto ein, wenn Sie nicht in einer Stadt wohnen (siehe <a href="/leben/auto-fuehrerschein/">Auto & Führerschein</a>).</li>
+    <li>Klären Sie die Krankenversicherung (siehe <a href="/leben/aerzte-krankenversicherung/">Ärzte & Krankenversicherung</a>).</li>
+    <li>Legen Sie Geld für Flüge nach Deutschland und für Steuerberatung zurück.</li>
+    <li>Rechnen Sie mit einem Puffer, besonders im ersten Jahr: Kaution, Möbel, Auto-Ummeldung.</li>
+  </ol>
+</Base>

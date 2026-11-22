@@ -1,0 +1,60 @@
+---
+import Base from '../../layouts/Base.astro';
+import Partner from '../../components/Partner.astro';
+import { Q, Q2 } from '../../data/quellen';
+import { TAXOMADE } from '../../data/site';
+const faq = [
+  { q: 'Darf ich als Deutscher auf Kreta ein Haus kaufen?', a: 'Ja. EU-Bürger können in Griechenland Immobilien kaufen. In einigen Grenzregionen gelten Sonderregeln, für EU-Bürger sind diese in der Praxis aber meist eine Formalität. Ihr Anwalt prüft das vor dem Kauf.' },
+  { q: 'Wie hoch sind die Kaufnebenkosten in Griechenland?', a: 'Grob 7 bis 10 % des Kaufpreises: Grunderwerbsteuer von 3,09 % auf den Kaufpreis bzw. mindestens den amtlichen Einheitswert, dazu Notar, Grundbuch bzw. Kataster, Anwalt und gegebenenfalls Makler, jeweils plus Mehrwertsteuer. Bei Neubauten kann statt der Grunderwerbsteuer Mehrwertsteuer anfallen.' },
+  { q: 'Was kostet ein Haus auf Kreta?', a: 'Laut Spitogatos lag der durchschnittliche Angebotspreis auf Kreta im zweiten Quartal 2026 bei rund 2.250 € pro m², 6,9 % mehr als ein Jahr zuvor. Je nach Lage, Zustand und Meerblick schwanken die Preise sehr stark.' },
+];
+---
+<Base
+  title="Haus kaufen auf Kreta 2026: Ablauf, Nebenkosten, Fallen"
+  description="Haus oder Wohnung auf Kreta kaufen: Ablauf in 7 Schritten, Kaufnebenkosten, Preise 2026, rechtliche Prüfungen (Kataster, Baugenehmigung) und Steuern kurz erklärt."
+  h1="Haus kaufen auf Kreta"
+  lead="Ein Kauf auf Kreta ist für EU-Bürger gut machbar. Entscheidend ist die rechtliche Prüfung vor dem Notartermin, denn viele Probleme stecken in Papieren, nicht in Mauern."
+  crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/haus-kaufen/', label: 'Haus kaufen' }]}
+  faq={faq}
+  sources={[Q.mietenRemax, Q2.ev, Q2.pwc, Q2.ktima]}
+>
+  <h2>Preise 2026</h2>
+  <p>Der durchschnittliche Angebotspreis für Wohnimmobilien auf Kreta lag im zweiten Quartal 2026 bei rund <strong>2.250 € pro m²</strong> (Spitogatos), ein Plus von 6,9 % zum Vorjahr und rund 50 % in fünf Jahren. Zum Vergleich: Ägäis-Inseln rund 2.940 €, Ionische Inseln rund 2.530 € pro m². Wer neu baut, sollte 2026 mit etwa 1.600 bis 2.300 € pro m² Baukosten rechnen, je nach Standard.</p>
+
+  <h2>Ablauf in 7 Schritten</h2>
+  <ol>
+    <li><strong>AFM und griechisches Bankkonto</strong> besorgen. Der Kaufpreis wird in der Regel über ein griechisches Konto bezahlt, damit die Herkunft des Geldes nachweisbar ist.</li>
+    <li><strong>Eigenen Anwalt beauftragen,</strong> unabhängig vom Makler und Verkäufer.</li>
+    <li><strong>Rechtliche Prüfung (Due Diligence):</strong> Eigentum und Lasten im Kataster, Baugenehmigung und nachträglich legalisierte Bauteile, Lage in Wald- oder Archäologiezone, Zufahrt und Grenzen.</li>
+    <li><strong>Technische Prüfung</strong> durch einen Ingenieur: Zustand, Übereinstimmung mit den Plänen, Energieausweis.</li>
+    <li><strong>Vorvertrag</strong> mit Anzahlung, oft rund 10 % des Kaufpreises.</li>
+    <li><strong>Grunderwerbsteuer zahlen</strong> und Steuerunbedenklichkeitsbescheinigungen einholen.</li>
+    <li><strong>Notartermin</strong> und Eintragung im Kataster (Ktimatologio).</li>
+  </ol>
+
+  <h2>Kaufnebenkosten (Stand 2026)</h2>
+  <table>
+    <thead><tr><th>Posten</th><th>Übliche Größenordnung</th></tr></thead>
+    <tbody>
+      <tr><td>Grunderwerbsteuer</td><td>3,09 % (Bestandsimmobilien)</td></tr>
+      <tr><td>Notar</td><td>ca. 0,65 bis 1 % plus 24 % MwSt.</td></tr>
+      <tr><td>Kataster / Grundbuch</td><td>ca. 0,5 % plus Gebühren</td></tr>
+      <tr><td>Anwalt</td><td>ca. 1 bis 1,5 % plus MwSt., oft verhandelbar</td></tr>
+      <tr><td>Makler (falls beteiligt)</td><td>ca. 2 % plus MwSt.</td></tr>
+      <tr><td>Ingenieur / Gutachten</td><td>nach Aufwand</td></tr>
+    </tbody>
+  </table>
+  <p class="small">Richtwerte aus den Leitfäden von Engel & Völkers Griechenland und PwC Griechenland. Bitte lassen Sie sich die genauen Kosten vor dem Vorvertrag schriftlich aufschlüsseln.</p>
+
+  <h2>Typische Fallen auf Kreta</h2>
+  <ul>
+    <li><strong>Nicht genehmigte Bauteile</strong> (Terrassen, Pools, Anbauten). Sie müssen vor dem Verkauf legalisiert sein.</li>
+    <li><strong>Bauland außerhalb des Bebauungsplans:</strong> Für Grundstücke „ektos schediou“ gelten Mindestgrößen und Regeln, die sich mehrfach geändert haben. Lassen Sie die Bebaubarkeit schriftlich bestätigen.</li>
+    <li><strong>Erbengemeinschaften:</strong> Bei alten Dorfhäusern gibt es oft viele Miteigentümer. Alle müssen unterschreiben.</li>
+    <li><strong>Zufahrt und Wasser:</strong> Eine öffentliche Zufahrt und ein Wasseranschluss sind nicht selbstverständlich.</li>
+  </ul>
+
+  <Partner href={TAXOMADE.umzugSteuern} title="Steuern beim Umzug nach Griechenland">
+    Immobilienbesitz bringt laufende Steuern mit sich, etwa die jährliche Immobiliensteuer ENFIA und gegebenenfalls Steuern auf Mieteinnahmen.
+  </Partner>
+</Base>

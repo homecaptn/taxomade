@@ -1,0 +1,55 @@
+---
+import Base from '../../layouts/Base.astro';
+import { Q } from '../../data/quellen';
+const faq = [
+  { q: 'Was kostet eine Wohnung in Rethymno?', a: 'Die Angebotsmiete lag im dritten Quartal 2026 bei rund 10,00 € pro m² (Spitogatos). Vertragsdaten von RE/MAX nennen für 2026 rund 11 € pro m², also etwa 880 € für 80 m².' },
+  { q: 'Welcher Flughafen ist für Rethymno besser?', a: 'Beide liegen rund eine Stunde entfernt: Chania im Westen, Heraklion im Osten. Viele wählen je nach Flugangebot und Preis.' },
+];
+---
+<Base
+  title="Auswandern nach Rethymno (Kreta): Leben, Mieten, Orte 2026"
+  description="Leben in Rethymno auf Kreta: Altstadt, Universität, ruhige Dörfer, Mietniveau 2026, Flughäfen, Krankenhaus und für wen die Region passt."
+  h1="Leben in Rethymno: die ruhige Mitte"
+  lead="Rethymno liegt zwischen Chania und Heraklion. Die Stadt ist kleiner und gemütlicher als beide, mit Universität, Altstadt und Bergdörfern im Hinterland."
+  crumbs={[{ href: '/regionen/', label: 'Regionen' }, { href: '/regionen/rethymno/', label: 'Rethymno' }]}
+  faq={faq}
+  sources={[Q.mietenSpi, Q.mietenRemax, Q.uoc]}
+>
+  <h2>Charakter</h2>
+  <p>Venezianische Festung (Fortezza), Altstadt mit osmanischen Spuren, langer Stadtstrand. Durch die Universität ist die Stadt auch im Winter jung und lebendig. Das Hinterland mit dem Amari-Tal und dem Psiloritis-Massiv ist ländlich und traditionell.</p>
+
+  <h2>Für wen passt Rethymno?</h2>
+  <ul>
+    <li>Für alle, die eine überschaubare Stadt mit allem Nötigen suchen.</li>
+    <li>Für Vielflieger, die je nach Angebot Chania oder Heraklion nutzen wollen.</li>
+    <li>Für Ruhesuchende, die ein Dorf mit Anschluss an eine Stadt möchten.</li>
+  </ul>
+
+  <h2>Beliebte Gegenden</h2>
+  <ul>
+    <li><strong>Rethymno Stadt</strong>: Altstadt, Neustadt und Wohnviertel am Hang.</li>
+    <li><strong>Adelianos Kampos, Platanias, Panormo</strong>: Urlaubsküste östlich der Stadt, im Winter ruhig.</li>
+    <li><strong>Georgioupoli</strong>: an der Grenze zu Chania, Strandort mit Dorfleben.</li>
+    <li><strong>Südküste</strong> (Plakias, Agia Galini, Spili im Inland): schön, aber abgelegen.</li>
+  </ul>
+
+  <h2>Verkehr</h2>
+  <p>Rethymno liegt an der Nationalstraße zwischen Chania und Heraklion. Zu beiden Flughäfen fahren Sie etwa eine Stunde. Fähren nach Piräus fahren meist ab Chania (Souda) oder Heraklion.</p>
+
+  <h2>Mietniveau</h2>
+  <table>
+    <thead><tr><th>Quelle</th><th>Wert</th></tr></thead>
+    <tbody>
+      <tr><td>Angebotsmiete Q3 2026 (Spitogatos)</td><td>ca. 10,00 €/m², Q3 2025: 9,83 €/m²</td></tr>
+      <tr><td>Vertragsmieten 2026 (RE/MAX)</td><td>ca. 11 €/m², 80 m² rund 880 €</td></tr>
+    </tbody>
+  </table>
+  <p>Wegen der vielen Studierenden ist das Angebot an kleinen Wohnungen zum Semesterstart im Herbst besonders knapp.</p>
+
+  <h2>Infrastruktur</h2>
+  <ul>
+    <li><strong>Krankenhaus:</strong> Allgemeines Krankenhaus Rethymno. Für spezielle Behandlungen fahren viele nach Heraklion.</li>
+    <li><strong>Hochschule:</strong> Universität Kreta mit Campus Gallos.</li>
+    <li><strong>Einkaufen:</strong> Supermärkte, Donnerstagsmarkt, kleine Läden in der Altstadt.</li>
+  </ul>
+</Base>

@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import { Q2 } from '../../data/quellen';
+const faq = [
+  { q: 'Gibt es eine deutsche Schule auf Kreta?', a: 'Nein. Deutsche Auslandsschulen gibt es in Griechenland in Athen und Thessaloniki. Auf Kreta besuchen deutsche Kinder meist griechische öffentliche Schulen oder private bzw. internationale Schulen, vor allem in Heraklion und Chania.' },
+  { q: 'Ab wann gilt in Griechenland die Schulpflicht?', a: 'Ab 4 Jahren: Zwei Jahre Kindergarten sind Pflicht, danach sechs Jahre Grundschule und drei Jahre Gymnasium. Die Schulpflicht endet in der Regel mit 15 Jahren.' },
+];
+---
+<Base
+  title="Schulen auf Kreta: Schulpflicht, Sprache, Optionen für Kinder"
+  description="Mit Kindern nach Kreta auswandern: Schulpflicht ab 4 Jahren, griechische öffentliche Schulen, Förderklassen, private und internationale Schulen, Tipps zur Sprache."
+  h1="Schulen & Kinder auf Kreta"
+  lead="Kinder lernen Griechisch oft schneller als ihre Eltern. Trotzdem ist der Schulstart der heikelste Teil eines Familienumzugs. So bereiten Sie ihn vor."
+  crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/schulen-kinder/', label: 'Schulen & Kinder' }]}
+  faq={faq}
+  sources={[Q2.minedu, { label: 'Ihr Europa: Schulbildung in einem anderen EU-Land', href: 'https://europa.eu/youreurope/citizens/education/school/index_de.htm' }, { label: 'Auslandsschulnetz: Deutsche Schulen im Ausland', href: 'https://www.auslandsschulnetz.de/' }]}
+>
+  <h2>Das griechische Schulsystem</h2>
+  <table>
+    <thead><tr><th>Stufe</th><th>Alter</th><th>Pflicht</th></tr></thead>
+    <tbody>
+      <tr><td>Kindergarten (Nipiagogeio)</td><td>4 bis 6</td><td>ja</td></tr>
+      <tr><td>Grundschule (Dimotiko)</td><td>6 bis 12</td><td>ja</td></tr>
+      <tr><td>Gymnasium</td><td>12 bis 15</td><td>ja</td></tr>
+      <tr><td>Lykeio (Oberstufe)</td><td>15 bis 18</td><td>nein</td></tr>
+    </tbody>
+  </table>
+  <p>Öffentliche Schulen sind kostenlos, unterrichtet wird auf Griechisch. Für Kinder ohne Griechischkenntnisse gibt es an vielen Schulen Förderklassen (Taxeis Ypodochis). Die Anmeldung läuft über die Schule am Wohnort, für Kindergarten und erste Klasse meist im Frühjahr für das kommende Schuljahr.</p>
+
+  <h2>Private und internationale Schulen</h2>
+  <p>In Heraklion und Chania gibt es private Schulen, einige mit englischsprachigem Zweig oder internationalen Abschlüssen. Sie kosten Schulgeld. Fragen Sie direkt nach Unterrichtssprache, Abschlüssen und Anerkennung in Deutschland.</p>
+
+  <h2>Tipps für den Start</h2>
+  <ul>
+    <li>Nehmen Sie Zeugnisse, Impfpass und Geburtsurkunde mit. Für die Anmeldung braucht Ihr Kind eine AMKA.</li>
+    <li>Ziehen Sie, wenn möglich, im Sommer um, damit Ihr Kind zum Schuljahresbeginn im September startet.</li>
+    <li>Griechisch-Nachhilfe im ersten Jahr hilft enorm, Deutsch können Sie zu Hause oder über Fernschulen weiterführen.</li>
+    <li>Ältere Kinder (ab etwa 12) tun sich mit dem Sprachwechsel schwerer. Prüfen Sie hier besonders genau, welche Schule passt.</li>
+    <li>Klären Sie bei der Familienkasse, ob Ihnen weiter deutsches Kindergeld zusteht. Das hängt davon ab, ob ein Elternteil in Deutschland arbeitet oder Rente bezieht.</li>
+  </ul>
+</Base>

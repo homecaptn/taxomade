@@ -1,0 +1,52 @@
+---
+import Base from '../../layouts/Base.astro';
+import { Q } from '../../data/quellen';
+const faq = [
+  { q: 'Ist Lasithi die günstigste Region Kretas?', a: 'Bei den Mieten ja: Die Angebotsmiete lag im dritten Quartal 2026 bei rund 8,70 € pro m² (Spitogatos), für 70 m² etwa 610 €. Allerdings stiegen die Mieten dort zuletzt am schnellsten (plus 8,4 % in einem Jahr).' },
+  { q: 'Welcher Flughafen ist für Lasithi am besten?', a: 'In der Regel Heraklion. Von Agios Nikolaos sind es rund eine Stunde Fahrt, von Ierapetra und Sitia deutlich mehr. Der kleine Flughafen Sitia hat vor allem Inlandsflüge und einzelne Saisonverbindungen.' },
+];
+---
+<Base
+  title="Auswandern nach Lasithi (Kreta): Agios Nikolaos, Ierapetra, Sitia 2026"
+  description="Leben im Osten Kretas: Agios Nikolaos, Ierapetra und Sitia im Vergleich. Mietniveau 2026, Flughafen, Krankenhäuser und für wen Lasithi passt."
+  h1="Leben in Lasithi: Agios Nikolaos, Ierapetra, Sitia"
+  lead="Der Osten Kretas ist trockener, ruhiger und günstiger. Drei kleine Städte prägen die Region, jede mit eigenem Charakter."
+  crumbs={[{ href: '/regionen/', label: 'Regionen' }, { href: '/regionen/lasithi/', label: 'Lasithi' }]}
+  faq={faq}
+  sources={[Q.mietenSpi, Q.zensus, Q.hmu]}
+>
+  <h2>Charakter</h2>
+  <p>Weniger Regen, kargere Landschaft, viel Licht. Das Leben ist langsamer, die Gemeinschaften sind kleiner. Im Sommer kann Wasser in manchen Dörfern knapp werden, fragen Sie vor dem Mieten oder Kaufen danach.</p>
+
+  <h2>Die drei Städte</h2>
+  <h3>Agios Nikolaos</h3>
+  <p>Hafenstadt am Mirabello-Golf mit kleinem See in der Mitte. Gute Infrastruktur, Krankenhaus, viele Ausländer. In der Nähe liegt das noble Elounda.</p>
+  <h3>Ierapetra</h3>
+  <p>An der Südküste, die südlichste Stadt Kretas mit besonders mildem Winter. Wirtschaftlich geprägt von Gewächshaus-Landwirtschaft, touristisch weniger überlaufen.</p>
+  <h3>Sitia</h3>
+  <p>Ruhige Stadt im äußersten Osten mit kleinem Flughafen und Hafen. Für alle, die Abgeschiedenheit suchen, aber eine Stadt in der Nähe brauchen.</p>
+
+  <h2>Für wen passt Lasithi?</h2>
+  <ul>
+    <li>Für Rentner und Ruhesuchende mit kleinerem Budget.</li>
+    <li>Für alle, die einen milden Winter wollen (besonders Ierapetra).</li>
+    <li>Weniger für alle, die oft fliegen oder regelmäßig Spezialisten brauchen.</li>
+  </ul>
+
+  <h2>Verkehr</h2>
+  <p>Hauptflughafen ist Heraklion: von Agios Nikolaos etwa eine Stunde, von Sitia rund zwei Stunden. Der Flughafen Sitia (JSH) hat überwiegend Inlandsflüge. Busse verbinden die drei Städte mit Heraklion.</p>
+
+  <h2>Mietniveau</h2>
+  <table>
+    <thead><tr><th>Quelle</th><th>Wert</th></tr></thead>
+    <tbody>
+      <tr><td>Angebotsmiete Q3 2026 (Spitogatos, Regionalbezirk Lasithi)</td><td>ca. 8,70 €/m², Q3 2025: 8,00 €/m²</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Infrastruktur</h2>
+  <ul>
+    <li><strong>Krankenhäuser:</strong> Allgemeine Krankenhäuser in Agios Nikolaos, Ierapetra und Sitia. Für komplexe Fälle wird nach Heraklion überwiesen.</li>
+    <li><strong>Hochschule:</strong> Standorte der Hellenic Mediterranean University in Agios Nikolaos, Ierapetra und Sitia.</li>
+  </ul>
+</Base>

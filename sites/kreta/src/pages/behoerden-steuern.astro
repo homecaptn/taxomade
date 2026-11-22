@@ -1,0 +1,58 @@
+---
+import Base from '../layouts/Base.astro';
+import Partner from '../components/Partner.astro';
+import { TAXOMADE } from '../data/site';
+import { Q2 } from '../data/quellen';
+const faq = [
+  { q: 'Ab wann muss ich in Griechenland Steuern zahlen?', a: 'In der Regel, wenn Sie in Griechenland Ihren Lebensmittelpunkt haben oder sich mehr als 183 Tage im Jahr dort aufhalten. Dann sind Sie mit Ihrem weltweiten Einkommen in Griechenland steuerpflichtig. Das Doppelbesteuerungsabkommen mit Deutschland regelt, welches Land welches Einkommen besteuern darf.' },
+  { q: 'Gibt es Steuervorteile für Zuzügler in Griechenland?', a: 'Ja, es gibt Sonderregeln, etwa eine 50-prozentige Steuerbefreiung auf Arbeitseinkommen für bestimmte Zuzügler und eine Pauschalsteuer für ausländische Renten. Die Voraussetzungen sind streng und müssen rechtzeitig beantragt werden.' },
+  { q: 'Wie gründe ich auf Kreta eine Firma?', a: 'Die häufigste Rechtsform für kleine Unternehmen ist die IKE, vergleichbar mit einer GmbH. Sie wird über eine zentrale Anlaufstelle im Handelsregister (GEMI) gegründet, meist mit Hilfe eines Notars oder Buchhalters.' },
+];
+---
+<Base
+  title="Behörden & Steuern auf Kreta kurz erklärt: AFM, AMKA, Anmeldung"
+  description="Griechische Behörden für Auswanderer nach Kreta kurz erklärt: AFM, Taxisnet, Anmeldung bei der Polizei, AMKA, Bankkonto, Selbstständigkeit und Firmengründung. Mit Links zu ausführlichen Steuerratgebern."
+  h1="Behörden & Steuern kurz erklärt"
+  lead="Griechische Behörden sind digitaler als ihr Ruf. Wer die Grundbegriffe kennt und die Reihenfolge einhält, kommt gut durch. Hier die wichtigsten Begriffe auf einen Blick."
+  crumbs={[{ href: '/behoerden-steuern/', label: 'Behörden & Steuern' }]}
+  faq={faq}
+  sources={[Q2.aade, Q2.efka, { label: 'gov.gr: Registrierungspflicht für EU-Bürger (englisch)', href: 'https://www.gov.gr/en/sdg/residence/temporary-or-permanent-move/general/obligation-for-citizens-to-register-their-residence-for-periods-exceeding-three-months' }, { label: 'AMKA: Offizielles Portal', href: 'https://www.amka.gr/' }, { label: 'GEMI: Griechisches Handelsregister', href: 'https://www.businessportal.gr/' }]}
+>
+  <h2>Die wichtigsten Begriffe</h2>
+  <table>
+    <thead><tr><th>Begriff</th><th>Was es ist</th><th>Wo</th></tr></thead>
+    <tbody>
+      <tr><td><strong>AFM</strong></td><td>Steuernummer, nötig für fast alles</td><td>Finanzamt (DOY) / AADE</td></tr>
+      <tr><td><strong>Taxisnet</strong></td><td>Zugangsdaten für Steuer- und Behördenportale</td><td>online mit AFM</td></tr>
+      <tr><td><strong>Anmeldebescheinigung</strong></td><td>Registrierung als EU-Bürger ab 3 Monaten Aufenthalt</td><td>Polizei, Ausländerabteilung</td></tr>
+      <tr><td><strong>AMKA</strong></td><td>Sozialversicherungsnummer für Arbeit und Gesundheit</td><td>EFKA oder Bürgerbüro (KEP)</td></tr>
+      <tr><td><strong>KEP</strong></td><td>Bürgerbüros, helfen bei vielen Anträgen</td><td>in jeder größeren Gemeinde</td></tr>
+      <tr><td><strong>EFKA</strong></td><td>Sozialversicherung (Rente, Gesundheit)</td><td>Geschäftsstellen auf Kreta, online</td></tr>
+    </tbody>
+  </table>
+  <p>Die richtige Reihenfolge zeigt unsere <a href="/checkliste/">Checkliste in 10 Schritten</a>.</p>
+
+  <h2>Bankkonto</h2>
+  <p>Für ein griechisches Konto brauchen Sie Ausweis, AFM, Wohnsitznachweis und einen Nachweis über Einkommen oder Tätigkeit. Die Prüfung kann bei Ausländern einige Tage dauern. Ein Konto bei einer anderen EU-Bank funktioniert für viele Zahlungen ebenfalls, nicht aber immer für Behörden und Vermieter.</p>
+
+  <h2>Steuern: das Grundprinzip</h2>
+  <p>Wer seinen Lebensmittelpunkt auf Kreta hat oder mehr als 183 Tage im Jahr in Griechenland verbringt, ist dort in der Regel unbeschränkt steuerpflichtig. Im Umzugsjahr kann es sein, dass Sie in beiden Ländern als ansässig gelten. Das Doppelbesteuerungsabkommen zwischen Deutschland und Griechenland verhindert, dass Sie dasselbe Einkommen zweimal versteuern. Die Steuererklärung (E1) wird jedes Jahr online abgegeben.</p>
+  <Partner href={TAXOMADE.umzugSteuern} title="Umzug nach Griechenland aus Deutschland: Steuern">
+    Was beim Wechsel der Steuerpflicht zu beachten ist, erklärt taxomade Schritt für Schritt.
+  </Partner>
+  <Partner href={TAXOMADE.artikel5c} title="50 % Steuervorteil für Zuzügler (Artikel 5C)">
+    Wer nach Griechenland zieht und hier arbeitet, kann unter Bedingungen sieben Jahre lang nur die Hälfte des Einkommens versteuern.
+  </Partner>
+
+  <h2>Selbstständigkeit</h2>
+  <p>Selbstständige eröffnen ihre Tätigkeit beim Finanzamt, wählen einen Tätigkeitsschlüssel (KAD), melden sich bei der EFKA an und stellen Rechnungen elektronisch aus. Buchhaltung und Umsatzsteuer-Meldungen übernimmt fast immer ein zugelassener Buchhalter.</p>
+  <Partner href={TAXOMADE.selbststaendig} title="Steuern für Selbstständige in Griechenland 2026">
+    Einkommensteuer, Sozialversicherung und Pflichten für Selbstständige im Überblick.
+  </Partner>
+
+  <h2>Firmengründung</h2>
+  <p>Für Unternehmen ist die IKE die gängigste Rechtsform. Sie wird über das Handelsregister GEMI gegründet und braucht laufend Buchhaltung. Ob sich eine Firma lohnt oder die Selbstständigkeit reicht, hängt von Umsatz, Kosten und Plänen ab.</p>
+  <Partner href={TAXOMADE.ike} title="IKE in Griechenland gründen: Ablauf und laufende Kosten">
+    Gründung, Pflichten und laufende Kosten einer IKE erklärt taxomade.
+  </Partner>
+</Base>

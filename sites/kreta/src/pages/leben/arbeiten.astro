@@ -1,0 +1,47 @@
+---
+import Base from '../../layouts/Base.astro';
+import Partner from '../../components/Partner.astro';
+import { Q2 } from '../../data/quellen';
+import { TAXOMADE } from '../../data/site';
+const faq = [
+  { q: 'Darf ich als Deutscher auf Kreta arbeiten?', a: 'Ja. Als EU-Bürger brauchen Sie keine Arbeitserlaubnis. Für eine Anstellung brauchen Sie AFM und AMKA, der Arbeitgeber meldet Sie bei der Sozialversicherung an.' },
+  { q: 'Darf ich von Kreta aus für meinen deutschen Arbeitgeber arbeiten?', a: 'Grundsätzlich ja, aber Steuern und Sozialversicherung müssen geklärt sein. Wer dauerhaft auf Kreta lebt und arbeitet, wird in der Regel in Griechenland steuerpflichtig. Ihr Arbeitgeber muss außerdem prüfen, wo Sie sozialversichert sind (A1-Bescheinigung).' },
+  { q: 'Gibt es auf Kreta gutes Internet?', a: 'In den Städten und vielen Küstenorten ja, Glasfaser wird ausgebaut. In Bergdörfern ist der Empfang oft schwächer. Prüfen Sie vor dem Mieten die Verfügbarkeit an der genauen Adresse. Mobiles Internet über 4G oder 5G ist eine gute Ergänzung.' },
+];
+---
+<Base
+  title="Arbeiten auf Kreta: Jobs, Selbstständigkeit, Remote Work"
+  description="Arbeiten auf Kreta als Deutscher: Jobmarkt und Saisonarbeit, Remote Work für deutsche Firmen, Selbstständigkeit, Internet und Coworking. Mit Links zu Steuerfragen."
+  h1="Arbeiten, Remote Work & Coworking auf Kreta"
+  lead="Die meisten Jobs auf Kreta hängen am Tourismus. Wer sein Einkommen mitbringt, als Remote-Arbeiter oder Selbstständiger, hat es deutlich leichter."
+  crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/arbeiten/', label: 'Arbeiten & Remote Work' }]}
+  faq={faq}
+  sources={[Q2.euWork, Q2.eures, Q2.dypa, Q2.efka, Q2.aade]}
+>
+  <h2>Der Arbeitsmarkt auf Kreta</h2>
+  <p>Tourismus, Landwirtschaft und Handel prägen die Wirtschaft. Viele Stellen sind saisonal von etwa April bis Oktober. Deutsch ist in Hotels, bei Reiseveranstaltern, in Callcentern und Immobilienbüros gefragt. Die Löhne liegen deutlich unter dem deutschen Niveau. Ohne Griechisch sind dauerhafte Stellen außerhalb des Tourismus schwer zu finden.</p>
+  <p>Stellen finden Sie über EURES, die griechische Arbeitsagentur DYPA, lokale Jobportale und vor allem über persönliche Kontakte.</p>
+
+  <h2>Remote für einen deutschen Arbeitgeber</h2>
+  <p>Für viele die attraktivste Lösung. Klären Sie vorher schriftlich mit Ihrem Arbeitgeber:</p>
+  <ul>
+    <li><strong>Sozialversicherung:</strong> Bleiben Sie in Deutschland versichert (A1-Bescheinigung) oder wechseln Sie ins griechische System?</li>
+    <li><strong>Steuern:</strong> Wo wird Ihr Gehalt versteuert? Nach dem Doppelbesteuerungsabkommen entscheidet in der Regel, wo Sie wohnen und arbeiten.</li>
+    <li><strong>Betriebsstätte:</strong> Ihr Arbeitgeber muss prüfen, ob durch Ihre Tätigkeit in Griechenland Pflichten für ihn entstehen.</li>
+  </ul>
+
+  <h2>Selbstständig auf Kreta</h2>
+  <p>Wer selbstständig arbeitet, eröffnet seine Tätigkeit beim Finanzamt, meldet sich bei der EFKA an und zahlt monatliche Sozialversicherungsbeiträge. Rechnungen werden elektronisch an die Steuerverwaltung gemeldet (myDATA). In den meisten Fällen brauchen Sie dafür eine Buchhalterin oder einen Buchhalter.</p>
+
+  <Partner href={TAXOMADE.selbststaendig} title="Steuern für Selbstständige in Griechenland 2026">
+    Wie Selbstständige in Griechenland besteuert werden und welche Vorteile es für Zuzügler gibt, erklärt taxomade ausführlich.
+  </Partner>
+
+  <h2>Internet und Coworking</h2>
+  <ul>
+    <li>Glasfaser wird in Städten ausgebaut, sonst VDSL. Fragen Sie den Vermieter nach dem aktuellen Anschluss und testen Sie die Geschwindigkeit bei der Besichtigung.</li>
+    <li>Mobilfunk mit 4G und 5G ist an der Nordküste gut. In Bergdörfern und an der Südküste kann es Lücken geben, manche nutzen dort Satelliten-Internet.</li>
+    <li>Coworking-Räume gibt es vor allem in Chania und Heraklion, dazu Cafés, in denen Arbeiten am Laptop üblich ist.</li>
+    <li>Stromausfälle sind selten, kommen bei Unwettern aber vor. Eine kleine USV für Router und Laptop lohnt sich.</li>
+  </ul>
+</Base>

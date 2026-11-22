@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+const faq = [
+  { q: 'Brauche ich als Deutscher ein Visum, um auf Kreta zu leben?', a: 'Nein. EU-Bürger dürfen ohne Visum in Griechenland leben und arbeiten. Wer länger als drei Monate bleibt, registriert sich bei der Polizei und erhält eine Anmeldebescheinigung.' },
+  { q: 'Was ist der erste Schritt beim Auswandern nach Kreta?', a: 'Die griechische Steuernummer AFM. Sie brauchen sie für Mietvertrag, Bankkonto, Strom und Internet.' },
+  { q: 'Was kostet eine Wohnung auf Kreta?', a: 'Im dritten Quartal 2026 lagen die durchschnittlichen Angebotsmieten je nach Region zwischen rund 8,70 und 10,60 € pro m². Eine 70-m²-Wohnung kostet damit etwa 600 bis 750 € kalt im Monat.' },
+  { q: 'Welche Region auf Kreta ist die beste zum Leben?', a: 'Das hängt von Ihnen ab. Chania ist grün und international, aber teuer. Heraklion bietet die beste Infrastruktur. Rethymno ist eine gute Mitte. Lasithi im Osten ist ruhiger und günstiger.' },
+  { q: 'Bin ich auf Kreta krankenversichert?', a: 'Angestellte und Selbstständige sind über die griechische Sozialversicherung EFKA versichert. Rentner mit deutscher Rente nutzen meist das Formular S1 ihrer deutschen Krankenkasse. Die Europäische Krankenversicherungskarte reicht nur für vorübergehende Aufenthalte.' },
+  { q: 'Muss ich auf Kreta Steuern zahlen?', a: 'Wenn Sie dort Ihren Lebensmittelpunkt haben oder mehr als 183 Tage im Jahr in Griechenland sind, in der Regel ja. Das Doppelbesteuerungsabkommen mit Deutschland verhindert eine doppelte Besteuerung.' },
+  { q: 'Kann ich mein deutsches Auto auf Kreta behalten?', a: 'Nur begrenzt. Mit Wohnsitz in Griechenland müssen Sie das Auto in Griechenland zulassen und eine Zulassungssteuer zahlen. Oft ist es günstiger, auf Kreta ein Auto zu kaufen.' },
+  { q: 'Gilt mein deutscher Führerschein auf Kreta?', a: 'Ja, ein EU-Führerschein gilt bis zum Ablauf. Danach erneuern Sie ihn in Griechenland.' },
+  { q: 'Gibt es auf Kreta eine deutsche Schule?', a: 'Nein. Deutsche Auslandsschulen gibt es in Athen und Thessaloniki. Auf Kreta gibt es griechische öffentliche Schulen mit Förderklassen sowie private und internationale Schulen.' },
+  { q: 'Kann ich auf Kreta ohne Griechisch leben?', a: 'Im Alltag in Städten und Küstenorten kommen Sie mit Englisch weit. Bei Behörden, Ärzten im öffentlichen System und für Freundschaften mit Einheimischen hilft Griechisch sehr. Ein Sprachkurs im ersten Jahr lohnt sich.' },
+  { q: 'Wie ist der Winter auf Kreta?', a: 'Mild, aber nass und windig. An der Küste liegen die Tageswerte meist bei 12 bis 17 °C. Viele Häuser sind kaum isoliert, deshalb ist eine gute Heizung wichtig.' },
+  { q: 'Wann eröffnet der neue Flughafen auf Kreta?', a: 'Der neue Flughafen bei Kastelli ist im Bau. Die Eröffnung wurde mehrfach verschoben, zuletzt war 2027 bis 2028 genannt.' },
+];
+---
+<Base
+  title="FAQ Auswandern nach Kreta: 12 häufige Fragen kurz beantwortet"
+  description="Die häufigsten Fragen zum Auswandern nach Kreta: Visum, AFM, Mieten, Regionen, Krankenversicherung, Steuern, Auto, Führerschein, Schulen, Sprache und Winter."
+  h1="FAQ: Auswandern nach Kreta"
+  lead="Kurze Antworten auf die Fragen, die uns am häufigsten erreichen. Ausführlich wird es auf den verlinkten Themenseiten."
+  crumbs={[{ href: '/faq/', label: 'FAQ' }]}
+  faq={faq}
+>
+  <p>Mehr Details: <a href="/checkliste/">Checkliste</a> · <a href="/regionen/">Regionen</a> · <a href="/leben/wohnung-mieten/">Wohnung mieten</a> · <a href="/leben/aerzte-krankenversicherung/">Krankenversicherung</a> · <a href="/behoerden-steuern/">Behörden & Steuern</a> · <a href="/leben/auto-fuehrerschein/">Auto</a></p>
+</Base>

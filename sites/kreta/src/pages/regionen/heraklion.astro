@@ -1,0 +1,55 @@
+---
+import Base from '../../layouts/Base.astro';
+import { Q } from '../../data/quellen';
+const faq = [
+  { q: 'Was kostet eine Wohnung in Heraklion?', a: 'Die Angebotsmiete lag im dritten Quartal 2026 bei rund 10,40 € pro m² (Spitogatos). Vertragsdaten von RE/MAX nennen rund 8,50 € pro m², also etwa 680 € für 80 m².' },
+  { q: 'Wann eröffnet der neue Flughafen Kastelli?', a: 'Der Bau läuft. Die Angaben zur Eröffnung wurden mehrfach verschoben, zuletzt war von 2027 bis 2028 die Rede. Bis dahin bleibt der Flughafen Nikos Kazantzakis in der Stadt in Betrieb.' },
+];
+---
+<Base
+  title="Auswandern nach Heraklion (Kreta): Leben, Mieten, Orte 2026"
+  description="Leben in Heraklion, der größten Stadt Kretas: Kliniken, Universität, Flughafen, Mietniveau 2026, beliebte Orte und für wen die Region passt."
+  h1="Leben in Heraklion: Kretas Großstadt"
+  lead="Heraklion ist Verwaltungszentrum, Wirtschaftsmotor und medizinisches Zentrum der Insel. Weniger romantisch als Chania, dafür mit allem, was man im Alltag braucht."
+  crumbs={[{ href: '/regionen/', label: 'Regionen' }, { href: '/regionen/heraklion/', label: 'Heraklion' }]}
+  faq={faq}
+  sources={[Q.mietenSpi, Q.mietenRemax, Q.zensus, Q.kastelli, Q.uoc]}
+>
+  <h2>Charakter</h2>
+  <p>Rund 180.000 Menschen leben in der Gemeinde Heraklion (Volkszählung 2021). Die Stadt ist dicht und lebhaft, mit venezianischer Stadtmauer, Hafen und dem Palast von Knossos vor den Toren. Im Süden liegen Weinberge und die fruchtbare Messara-Ebene.</p>
+
+  <h2>Für wen passt Heraklion?</h2>
+  <ul>
+    <li>Für alle, die gute medizinische Versorgung in der Nähe brauchen.</li>
+    <li>Für Arbeitnehmer: Hier gibt es die meisten Jobs außerhalb des Tourismus.</li>
+    <li>Für Familien, die Auswahl bei Schulen, Sport und Freizeit wollen.</li>
+    <li>Weniger für alle, die Ruhe und Grün suchen. Verkehr und Lärm sind spürbar.</li>
+  </ul>
+
+  <h2>Beliebte Gegenden</h2>
+  <ul>
+    <li><strong>Stadtviertel</strong> wie Alikarnassos, Gazi oder Amoudara am Weststrand.</li>
+    <li><strong>Gouves, Hersonissos, Malia</strong>: Urlaubsküste im Osten, im Winter sehr ruhig.</li>
+    <li><strong>Archanes und Peza</strong>: Weindörfer südlich der Stadt, rund 20 Minuten entfernt.</li>
+    <li><strong>Messara</strong> (Moires, Matala): Südküste, landwirtschaftlich, weit von der Stadt.</li>
+  </ul>
+
+  <h2>Verkehr und Flughafen</h2>
+  <p>Der Flughafen Nikos Kazantzakis (HER) liegt direkt an der Stadt und hat die meisten Verbindungen nach Deutschland, im Winter aber deutlich weniger als im Sommer. Der neue Flughafen bei Kastelli, rund 40 km südöstlich, ist im Bau. Vom Hafen fahren Fähren nach Piräus und zu den Kykladen.</p>
+
+  <h2>Mietniveau</h2>
+  <table>
+    <thead><tr><th>Quelle</th><th>Wert</th></tr></thead>
+    <tbody>
+      <tr><td>Angebotsmiete Q3 2026 (Spitogatos)</td><td>ca. 10,40 €/m², Q3 2025: 10,00 €/m²</td></tr>
+      <tr><td>Vertragsmieten 2026 (RE/MAX)</td><td>ca. 8,50 €/m², 80 m² rund 680 €</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Infrastruktur</h2>
+  <ul>
+    <li><strong>Krankenhäuser:</strong> Universitätsklinikum Heraklion (PAGNI) und Venizelio-Krankenhaus, dazu mehrere Privatkliniken.</li>
+    <li><strong>Hochschulen und Forschung:</strong> Universität Kreta (Medizin, Naturwissenschaften), Hellenic Mediterranean University, Forschungszentrum FORTH.</li>
+    <li><strong>Behörden:</strong> Sitz der Region Kreta und vieler Ämter.</li>
+  </ul>
+</Base>

@@ -1,0 +1,7 @@
+---
+interface Props { items: { href: string; label: string; kurz: string }[] }
+const { items } = Astro.props;
+---
+<ul class="cards">
+  {items.map((i) => <li><a href={i.href}><strong>{i.label}</strong><span>{i.kurz}</span></a></li>)}
+</ul>

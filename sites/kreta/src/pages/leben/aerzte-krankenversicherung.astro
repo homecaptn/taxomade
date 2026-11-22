@@ -1,0 +1,51 @@
+---
+import Base from '../../layouts/Base.astro';
+import { Q2 } from '../../data/quellen';
+const faq = [
+  { q: 'Bin ich als Rentner auf Kreta krankenversichert?', a: 'Wenn Sie nur eine deutsche Rente beziehen und in Deutschland gesetzlich versichert sind, bleiben Sie in der Regel über Ihre deutsche Krankenkasse versichert. Mit dem Formular S1 lassen Sie sich bei der griechischen Sozialversicherung (EFKA) eintragen und nutzen dann das griechische öffentliche System. Die Kosten trägt Ihre deutsche Kasse.' },
+  { q: 'Reicht die Europäische Krankenversicherungskarte (EHIC)?', a: 'Nur für vorübergehende Aufenthalte wie Urlaub. Wenn Sie Ihren Wohnsitz nach Kreta verlegen, brauchen Sie eine Versicherung über Arbeit, Selbstständigkeit, das Formular S1 oder eine private Versicherung.' },
+  { q: 'Welche Notrufnummer gilt auf Kreta?', a: 'Die europäische Notrufnummer 112. Der Rettungsdienst EKAB ist zusätzlich direkt unter 166 erreichbar.' },
+];
+---
+<Base
+  title="Ärzte & Krankenversicherung auf Kreta: So sind Sie abgesichert"
+  description="Krankenversicherung beim Auswandern nach Kreta: EFKA und EOPYY, Formular S1 für Rentner, EHIC, private Versicherung, Krankenhäuser auf Kreta und Notrufnummern."
+  h1="Ärzte & Krankenversicherung auf Kreta"
+  lead="Wer nach Kreta zieht, muss seine Krankenversicherung neu ordnen. Welcher Weg für Sie gilt, hängt davon ab, ob Sie arbeiten, selbstständig sind oder Rente beziehen."
+  crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/aerzte-krankenversicherung/', label: 'Ärzte & Krankenversicherung' }]}
+  faq={faq}
+  sources={[Q2.euHealth, Q2.dvka, Q2.efka, Q2.eopyy]}
+>
+  <h2>Welche Versicherung gilt für wen?</h2>
+  <table>
+    <thead><tr><th>Ihre Situation</th><th>Versicherung</th></tr></thead>
+    <tbody>
+      <tr><td>Angestellt bei einer griechischen Firma</td><td>Pflichtversichert über die EFKA, Leistungen über EOPYY</td></tr>
+      <tr><td>Selbstständig in Griechenland</td><td>Pflichtbeiträge an die EFKA, Leistungen über EOPYY</td></tr>
+      <tr><td>Rentner mit deutscher Rente</td><td>Meist weiter über die deutsche Krankenkasse, in Griechenland mit Formular S1</td></tr>
+      <tr><td>Remote für deutschen Arbeitgeber</td><td>Hängt vom Einzelfall ab (A1-Bescheinigung), unbedingt vorher klären</td></tr>
+      <tr><td>Ohne Einkommen in Griechenland</td><td>Private Kranken­versicherung, oft Voraussetzung für die Anmeldung</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Das öffentliche System</h2>
+  <p>Mit AMKA und Versicherung bei der EFKA haben Sie Zugang zu öffentlichen Krankenhäusern, Gesundheitszentren und Vertragsärzten der EOPYY. Rezepte werden elektronisch ausgestellt. Sie können sich bei einem persönlichen Hausarzt (Prosopikos Iatros) registrieren. Die Wartezeiten bei Fachärzten im öffentlichen System sind oft lang, viele gehen deshalb zusätzlich privat zum Arzt und zahlen selbst.</p>
+
+  <h2>Krankenhäuser auf Kreta</h2>
+  <ul>
+    <li><strong>Heraklion:</strong> Universitätsklinikum (PAGNI) und Venizelio-Krankenhaus</li>
+    <li><strong>Chania:</strong> Allgemeines Krankenhaus „Agios Georgios“</li>
+    <li><strong>Rethymno:</strong> Allgemeines Krankenhaus Rethymno</li>
+    <li><strong>Lasithi:</strong> Krankenhäuser in Agios Nikolaos, Ierapetra und Sitia</li>
+  </ul>
+  <p>Dazu kommen private Kliniken vor allem in Heraklion und Chania. Für spezielle Behandlungen überweisen die kleineren Häuser nach Heraklion, in Einzelfällen nach Athen.</p>
+
+  <h2>Praktische Tipps</h2>
+  <ul>
+    <li>Viele Ärzte auf Kreta sprechen Englisch, einige auch Deutsch.</li>
+    <li>Apotheken sind gut ausgestattet und beraten bei kleineren Beschwerden. Notdienst-Apotheken wechseln täglich.</li>
+    <li>Nehmen Sie Arztberichte und eine Medikamentenliste aus Deutschland mit, am besten auch auf Englisch.</li>
+    <li>Klären Sie die Pflegeversicherung gesondert. Leistungen der deutschen Pflegeversicherung im Ausland sind eingeschränkt.</li>
+  </ul>
+  <div class="box"><p><strong>Notfall:</strong> 112 (europaweit) oder 166 (Rettungsdienst EKAB).</p></div>
+</Base>

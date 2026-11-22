@@ -1,0 +1,176 @@
+---
+import '../styles/global.css';
+import { SITE, NAV } from '../data/site';
+
+interface Source { label: string; href: string }
+interface Faq { q: string; a: string }
+interface Crumb { href: string; label: string }
+
+interface Props {
+  title: string;
+  description: string;
+  h1?: string;
+  lead?: string;
+  crumbs?: Crumb[];
+  sources?: Source[];
+  faq?: Faq[];
+  article?: boolean;
+  noindex?: boolean;
+}
+
+const { title, description, h1, lead, crumbs = [], sources = [], faq = [], article = true, noindex = false } = Astro.props;
+const canonical = new URL(Astro.url.pathname, SITE.url).href;
+const path = Astro.url.pathname;
+
+const schemas: any[] = [];
+if (crumbs.length) {
+  schemas.push({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [{ href: '/', label: 'Start' }, ...crumbs].map((c, i) => ({
+      '@type': 'ListItem', position: i + 1, name: c.label, item: new URL(c.href, SITE.url).href,
+    })),
+  });
+}
+if (article && h1) {
+  schemas.push({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: h1,
+    description,
+    inLanguage: 'de',
+    dateModified: SITE.standIso,
+    mainEntityOfPage: canonical,
+    publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+  });
+}
+if (faq.length) {
+  schemas.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  });
+}
+---
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <meta property="og:type" content={article ? 'article' : 'website'} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content="de_DE" />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta name="theme-color" content="#f7f3ec" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    {schemas.map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+  </head>
+  <body>
+    <a class="skip" href="#inhalt">Zum Inhalt springen</a>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a href="/" class="logo" aria-label="Kreta auswandern, zur Startseite">
+          <svg width="28" height="28" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="12" r="6" fill="#d9a441"/><path d="M2 22c4-3 8-3 12 0s8 3 12 0 4-2 4-2v6H2z" fill="#2f6f8f"/></svg>
+          <span>Kreta <em>auswandern</em></span>
+        </a>
+        <nav class="desk-nav" aria-label="Hauptnavigation">
+          <ul>
+            {NAV.map((n) => <li><a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>)}
+          </ul>
+        </nav>
+        <details class="menu">
+          <summary aria-label="Menü öffnen">Menü</summary>
+          <nav aria-label="Hauptnavigation mobil">
+            <ul>
+              {NAV.map((n) => <li><a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>)}
+            </ul>
+          </nav>
+        </details>
+      </div>
+    </header>
+
+    <main id="inhalt">
+      {h1 && (
+        <div class="page-head">
+          <div class="wrap narrow">
+            {crumbs.length > 0 && (
+              <nav class="crumbs" aria-label="Brotkrumen">
+                <a href="/">Start</a>
+                {crumbs.map((c, i) => (
+                  <>
+                    <span aria-hidden="true">›</span>
+                    {i === crumbs.length - 1 ? <span>{c.label}</span> : <a href={c.href}>{c.label}</a>}
+                  </>
+                ))}
+              </nav>
+            )}
+            <h1>{h1}</h1>
+            {lead && <p class="lead">{lead}</p>}
+            {article && <p class="stand">Stand: {SITE.stand} · geprüft anhand offizieller Quellen</p>}
+          </div>
+        </div>
+      )}
+      <div class="wrap narrow prose">
+        <slot />
+
+        {faq.length > 0 && (
+          <section class="faq" aria-labelledby="faq-h">
+            <h2 id="faq-h">Häufige Fragen</h2>
+            {faq.map((f) => (
+              <details>
+                <summary>{f.q}</summary>
+                <p>{f.a}</p>
+              </details>
+            ))}
+          </section>
+        )}
+
+        {sources.length > 0 && (
+          <section class="sources" aria-labelledby="src-h">
+            <h2 id="src-h">Quellen</h2>
+            <ul>
+              {sources.map((s) => <li><a href={s.href} rel="noopener" target="_blank">{s.label}</a></li>)}
+            </ul>
+            <p class="small">Diese Seite ersetzt keine Rechts- oder Steuerberatung. Regeln und Preise ändern sich. Bitte prüfen Sie wichtige Punkte vor einer Entscheidung bei der zuständigen Stelle.</p>
+          </section>
+        )}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap footer-grid">
+        <div>
+          <p class="logo-foot">Kreta <em>auswandern</em></p>
+          <p class="small">Unabhängiger Ratgeber auf Deutsch für alle, die nach Kreta ziehen möchten. Ohne Werbung, mit Quellen und Stand-Datum.</p>
+        </div>
+        <div>
+          <p class="foot-h">Themen</p>
+          <ul>
+            <li><a href="/checkliste/">Checkliste in 10 Schritten</a></li>
+            <li><a href="/regionen/">Regionen</a></li>
+            <li><a href="/leben/">Leben auf Kreta</a></li>
+            <li><a href="/behoerden-steuern/">Behörden & Steuern</a></li>
+            <li><a href="/faq/">FAQ</a></li>
+            <li><a href="/community/">Community</a></li>
+          </ul>
+        </div>
+        <div>
+          <p class="foot-h">Über diese Seite</p>
+          <ul>
+            <li><a href="/ueber-uns/">Über uns</a></li>
+            <li><a href="/impressum/">Impressum</a></li>
+            <li><a href="/datenschutz/">Datenschutz</a></li>
+            <li><a href="https://taxomade.com/de/ratgeber/umzug-griechenland-aus-deutschland-steuern/">taxomade: Partner für Steuern &amp; Buchhaltung</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

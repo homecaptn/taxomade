@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+import Cards from '../../components/Cards.astro';
+import { LEBEN } from '../../data/site';
+---
+<Base
+  title="Leben auf Kreta: Wohnen, Kosten, Ärzte, Schulen, Arbeit"
+  description="Alles zum Alltag auf Kreta: Wohnung mieten, Haus kaufen, Lebenshaltungskosten, Ärzte und Krankenversicherung, Schulen, Arbeiten, Auto und Wetter."
+  h1="Leben auf Kreta"
+  lead="Hier finden Sie die Themen, die nach dem Umzug den Alltag bestimmen. Jede Seite beantwortet eine konkrete Frage und nennt ihre Quellen."
+  crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }]}
+  article={false}
+>
+  <Cards items={LEBEN} />
+  <p>Noch ganz am Anfang? Dann starten Sie mit der <a href="/checkliste/">Checkliste in 10 Schritten</a> oder dem <a href="/regionen/">Regionen-Vergleich</a>.</p>
+</Base>
