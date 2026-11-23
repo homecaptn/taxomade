@@ -8,7 +8,7 @@ faq:
   - question: "When does my Swedish tax residency end if I move to Greece?"
     answer: "When you no longer live or stay permanently in Sweden and have no essential connection (väsentlig anknytning) to it. Swedish citizens and anyone who lived in Sweden for at least ten years must prove the lack of connection for five years after leaving. With no tax treaty, there is no tie-breaker if both countries claim you."
   - question: "Is there a tax treaty between Sweden and Greece?"
-    answer: "No. Sweden terminated the 1961 convention, and it stopped applying after 31 December 2021. As of October 2026 no new treaty is in force, so each country applies its own rules and double taxation is relieved only through domestic tax credits."
+    answer: "No. Sweden terminated the 1961 convention, and it stopped applying after 31 December 2021. As of November 2026 no new treaty is in force, so each country applies its own rules and double taxation is relieved only through domestic tax credits."
   - question: "Is my Swedish pension taxed in Greece or in Sweden?"
     answer: "In both. Sweden withholds SINK, 22.5% in 2026 and 20% from 2027, on pensions paid from Sweden. As a Greek resident you declare the pension in Greece too, and Greece credits the Swedish tax up to the Greek tax on it. In practice you pay the higher of the two."
   - question: "Do I keep paying Swedish self-employed contributions if I freelance from Greece?"
@@ -49,7 +49,7 @@ If you close an enskild firma, you [withdraw your F-tax and VAT registration](ht
 
 ## 3. No tax treaty since 2022
 
-The Sweden–Greece convention signed in Athens on 6 October 1961 [stopped applying after 31 December 2021](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/uppsagning-av-skatteavtalet-mellan-sverige-och_h801sku34/); the Swedish law giving it effect was repealed from 1 January 2022 (SFS 2021:573). Sweden ended it because, combined with the Greek 7% regime, the treaty stopped Sweden taxing pensions, dividends and capital gains of people who moved to Greece. As of October 2026, no replacement treaty is in force.
+The Sweden–Greece convention signed in Athens on 6 October 1961 [stopped applying after 31 December 2021](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/uppsagning-av-skatteavtalet-mellan-sverige-och_h801sku34/); the Swedish law giving it effect was repealed from 1 January 2022 (SFS 2021:573). Sweden ended it because, combined with the Greek 7% regime, the treaty stopped Sweden taxing pensions, dividends and capital gains of people who moved to Greece. As of November 2026, no replacement treaty is in force.
 
 Without a treaty, both countries apply their domestic rules:
 
@@ -87,7 +87,7 @@ Steps in order: [AFM](/guides/what-is-greek-afm-number/), [freelancer setup](/gu
 
 ## 6. Retirees
 
-- **Tax:** Pensionsmyndigheten and other Swedish payers withhold Swedish tax until Skatteverket issues a [SINK decision](https://www.skatteverket.se/privat/internationellt/bosattutomlands/sinksarskildinkomstskattforutomlandsbosatta/sinkpapension.4.6fdde64a12cc4eee23080002614.html). SINK is a final tax of 22.5% in 2026, falling to 20% from 1 January 2027, with a monthly exempt amount on the state pension. You can choose ordinary Swedish taxation instead, year by year; the basic deduction then applies only if at least 90% of your earned income is taxed in Sweden.
+- **Tax:** Pensionsmyndigheten and other Swedish payers withhold Swedish tax until Skatteverket issues a [SINK decision](https://www.skatteverket.se/privat/internationellt/bosattutomlands/sinksarskildinkomstskattforutomlandsbosatta/sinkpapension.4.6fdde64a12cc4eee23080002614.html). SINK is a final tax of 22.5% in 2026, falling to 20% from 1 January 2027, with a monthly allowance on public (social insurance) pensions of SEK 3,799 in 2026; only the part above it is taxed. You can choose ordinary Swedish taxation instead, year by year; the basic deduction then applies only if at least 90% of your earned income is taxed in Sweden.
 - **Greek side:** you declare the pension in Greece as well, and Greece credits the Swedish tax up to the Greek tax on it. In practice you pay the higher of the two: SINK, or Greek tax on the pension.
 - **Payment:** income pension, premium pension and supplementary pension are [paid wherever you live](https://www.pensionsmyndigheten.se/for-pensionarer/pensionar-utanfor-sverige/du-som-ar-bosatt-utanfor-sverige); the guarantee pension is not. Send the yearly [life certificate](https://www.pensionsmyndigheten.se/for-pensionarer/pensionar-utanfor-sverige/levnadsintyg) on time.
 - **Health:** with a Swedish public pension, you can keep Swedish health cover and apply for form S1 on Mina sidor at Försäkringskassan to register for Greek care. An occupational pension alone does not qualify.
@@ -111,7 +111,7 @@ When you no longer live or stay permanently in Sweden and have no essential conn
 
 ### Is there a tax treaty between Sweden and Greece?
 
-No. Sweden terminated the 1961 convention, and it stopped applying after 31 December 2021. As of October 2026 no new treaty is in force, so each country applies its own rules and double taxation is relieved only through domestic tax credits.
+No. Sweden terminated the 1961 convention, and it stopped applying after 31 December 2021. As of November 2026 no new treaty is in force, so each country applies its own rules and double taxation is relieved only through domestic tax credits.
 
 ### Is my Swedish pension taxed in Greece or in Sweden?
 
@@ -125,4 +125,4 @@ No. Under EU Regulation 883/2004 you are insured where you work, so a freelancer
 
 Yes, if you were not Greek tax resident in 5 of the previous 6 years and take a job with a Greek employer or register as a sole trader in Greece. Digital Nomad Visa holders are not eligible.
 
-*Rules as of October 2026 (Swedish Income Tax Act chapter 3, SINK Act 1991:586, SFS 2021:573 ending the Sweden–Greece tax treaty, EU Regulation 883/2004, Greek Income Tax Code art. 5B/5C, A.1192/2026).*
+*Rules as of November 2026 (sources: Swedish Income Tax Act chapter 3, sections 3, 7 and 19; [Skatteverket: SINK on pensions](https://www.skatteverket.se/servicelankar/otherlanguages/inenglish/individualsandemployees/workinginsweden/sinkspecialincometaxforforeignresidents/specialincometaxforforeignresidentssinkregardingpensions.4.676f4884175c97df4193094.html), SINK Act 1991:586; [Act 2019:1197 on the Sweden–Greece tax treaty](https://lagen.nu/2019:1197), repealed by SFS 2021:573; Pensionsmyndigheten fact sheet PM 7615 on guarantee pension; EU Regulation 883/2004; Greek Income Tax Code art. 5B/5C; AADE decision A.1192/2026).*

@@ -1,5 +1,5 @@
 ---
-title: "Greece Digital Nomad Visa vs. Tourist Visa: What’s the Difference?"
+title: "Greece Digital Nomad Visa vs. Tourist Visa (2026)"
 description: "Schengen 90/180 short stay vs Greece Digital Nomad Visa: work rules, the 2026 consulate-only process, tax residency and why 5C doesn't apply."
 pubDate: 2026-05-25
 updatedDate: 2026-10-22
@@ -30,7 +30,7 @@ With Greece becoming a hub for remote workers, a common question is: *"Can't I j
 
 ## 1. The Schengen short stay (90/180 rule)
 
-Citizens of countries such as the US, UK, Canada and Australia need no visa for a short stay: you can spend up to **90 days within any 180-day period** in the Schengen Area. The EU's planned [ETIAS travel authorisation](https://travel-europe.europa.eu/etias_en) (€20, valid three years) will add an online pre-check before travel once it starts. It is not a visa and does not change the 90-day limit; check the official site for the start date. The Entry/Exit System (EES) already records entries and exits digitally, so the 90/180 count is checked automatically.
+Citizens of countries such as the US, UK, Canada and Australia need no visa for a short stay: you can spend up to **90 days within any 180-day period** in the Schengen Area. The EU's planned [ETIAS travel authorisation](https://travel-europe.europa.eu/etias_en) (€20 fee, valid three years) will add an online pre-check before travel once it starts. It is not a visa and does not change the 90-day limit; check the official site for the start date. The Entry/Exit System (EES) already records entries and exits digitally, so the 90/180 count is checked automatically.
 
 The limits:
 
@@ -98,4 +98,4 @@ No. The DNV does not allow work for Greek employers or clients or business activ
 
 The DNV solves your immigration status, not your tax bill. We prepare and file the Greek returns for DNV holders as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); send us a message for a free check before you move.
 
-*Rules as of October 2026 (Law 5038/2023 art. 20 and 68, Law 5275/2026, Income Tax Code art. 4).*
+*Rules as of November 2026 (sources: [Law 5038/2023 (Migration Code) art. 20 and 68](https://www.taxheaven.gr/law/5038/2023/arthro/68), [Law 5275/2026, Government Gazette A' 17/6.2.2026](https://www.taxheaven.gr/law/5275/2026), [Schengen Convention art. 21](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:42000A0922(02)), [European Commission: ETIAS](https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/european-travel-information-authorisation-system_en), Income Tax Code art. 4 and 5C).*
