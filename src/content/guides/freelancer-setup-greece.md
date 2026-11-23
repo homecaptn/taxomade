@@ -4,6 +4,7 @@ description: "What a new freelancer in Greece must set up: AFM, EFKA from €150
 pubDate: 2026-05-14
 updatedDate: 2026-11-19
 category: "bookkeeping"
+translationOf: "selbststaendig-machen-griechenland"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
   - question: "How do I register as a freelancer in Greece?"
