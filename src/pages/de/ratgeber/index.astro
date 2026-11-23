@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+const guides = (await getCollection('guides-de'))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const categoryLabels = { dnv: 'Visum', afm: 'Steuernummer', tax: 'Steuern', bookkeeping: 'Buchhaltung', lifestyle: 'Leben in Griechenland' };
+const fmtDate = (d) => d.toLocaleDateString('de-DE', { day: 'numeric', month: 'long', year: 'numeric' });
+
+---
+<Layout title="Ratgeber: Steuern & Auswandern nach Griechenland | taxomade" description="Ratgeber zu Steuern, Buchhaltung, 5C-Steuervorteil, IKE-Gründung und Auswandern nach Griechenland – auf Deutsch, verständlich erklärt." image="/og-default.jpg" lang="de">
+  <div class="pt-32 pb-16 bg-white min-h-screen">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <a href="/de/" class="inline-flex items-center text-sm font-bold text-blue-800 hover:text-blue-900 mb-8 transition-colors">
+        <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+        Zur Startseite
+      </a>
+      <div class="text-center max-w-3xl mx-auto mb-14">
+        <h1 class="text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight leading-tight">Ratgeber: Steuern &amp; Auswandern nach Griechenland</h1>
+        <p class="text-xl text-slate-600">Was Sie als Selbstständiger, Auswanderer oder Firmengründer in Griechenland wissen sollten: Steuern, Buchhaltung und Anmeldung – mit konkreten Zahlen, regelmäßig aktualisiert.</p>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {guides.map((g) => (
+          <a href={`/de/ratgeber/${g.id}/`} class="group flex flex-col bg-slate-50 border border-slate-100 rounded-2xl overflow-hidden hover:border-slate-300 hover:shadow-md transition">
+            {g.data.image && <img src={g.data.image} alt="" loading="lazy" class="w-full aspect-[16/9] object-cover" />}
+            <div class="flex flex-col flex-1 p-6">
+              <span class="text-xs font-bold text-blue-800 uppercase tracking-wider mb-3">{categoryLabels[g.data.category] || g.data.category}</span>
+              <h2 class="text-lg font-bold text-slate-900 mb-2 group-hover:text-blue-800 transition-colors">{g.data.title}</h2>
+              <p class="text-slate-600 text-[15px] leading-relaxed flex-1">{g.data.description}</p>
+              <time class="mt-4 text-sm text-slate-500" datetime={g.data.pubDate.toISOString()}>{fmtDate(g.data.pubDate)}</time>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </div>
+</Layout>
