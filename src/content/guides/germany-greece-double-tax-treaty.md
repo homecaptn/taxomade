@@ -2,6 +2,7 @@
 title: "Germany–Greece Double Tax Treaty Explained (2026): Freelancers, Employees, Pensioners"
 description: "The 1966 Germany–Greece tax treaty in practice: tie-breaker, the 183-day rule, freelancers, remote employees, pensions, rent, dividends and tax credits."
 pubDate: 2026-11-02
+updatedDate: 2026-11-23
 category: "tax"
 faq:
   - question: "Is there a double tax treaty between Germany and Greece?"
@@ -92,7 +93,7 @@ The Finanzamt Neubrandenburg handles pensioners abroad and may ask for proof of 
 
 For Greek residents, [Article XVII(1)](https://datenbank.nwb.de/Dokument/94976_XVII/) uses the **credit method**: German tax on German-source income is deducted from your Greek tax. Under Article 9 of the Greek Income Tax Code, the credit [may not exceed the Greek tax attributable to that income](https://aade.gr/en/greeks-abroad-non-residents/income-taxation/taxation-non-greek-sourced-income-obtained-greek-tax-residents-pit). If Germany taxed more, you don't get the difference back in Greece.
 
-Germany, for its residents, generally exempts Greek income but uses it to set the rate on other income ([Article XVII(2)](https://datenbank.nwb.de/Dokument/94976_XVII/)). Greek dividends and interest, plus a few items such as directors' fees, are the exception: Germany credits the Greek tax instead.
+Germany, for its residents, generally exempts Greek income but uses it to set the rate on other income ([Article XVII(2)](https://datenbank.nwb.de/Dokument/94976_XVII/)). Greek salaries still raise the rate this way; rent from Greek property does not, because Greece is in the EU ([§ 32b(1) sentence 2 no. 3 EStG](https://www.gesetze-im-internet.de/estg/__32b.html)). Greek dividends and interest, plus a few items such as directors' fees, are the exception: Germany credits the Greek tax instead.
 
 ## Avoiding double tax in practice
 

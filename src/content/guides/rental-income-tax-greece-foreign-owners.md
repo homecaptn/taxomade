@@ -2,7 +2,7 @@
 title: "Rental Income Tax in Greece for Foreign Property Owners (2026)"
 description: "How Greece taxes rent from long-term leases and Airbnb in 2026: the 15–45% scale, form E2, ENFIA, short-term rental rules and tax credit at home."
 pubDate: 2026-11-05
-updatedDate: 2026-11-15
+updatedDate: 2026-11-23
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -13,7 +13,7 @@ faq:
   - question: "When does short-term rental become a business in Greece?"
     answer: "From the third property an individual uses for short-term rental. All of them are then taxed as business income, with a registered business activity and 13% VAT. Up to two properties are taxed as rental income without VAT. Services beyond bed linen make it a business regardless of the number."
   - question: "Do I have to declare Greek rental income in my home country?"
-    answer: "Usually yes. Greece taxes the rent first; your country of residence then exempts it or credits the Greek tax. Germany exempts Greek rent but uses it to set the rate on other income; the UK and the US tax it and credit the Greek tax."
+    answer: "Usually yes. Greece taxes the rent first; your country of residence then exempts it or credits the Greek tax. Germany exempts Greek rent and, as Greece is in the EU, does not use it to raise the rate on other income either; the UK and the US tax it and credit the Greek tax."
   - question: "Is unpaid rent taxed in Greece?"
     answer: "Not if you take legal action in time: by the filing deadline, a payment or eviction order must have been issued against the tenant, or you must have sued for eviction or the rent. You declare it under a special code and pay tax when you collect it."
 ---
@@ -81,7 +81,7 @@ Homes of up to 120 m² that were empty (or used only for short-term rental) and 
 
 ## Short-term rentals (Airbnb, Booking)
 
-A short-term rental is a furnished let of up to 59 days per booking, with no services beyond bed linen ([AADE FAQ](https://www.aade.gr/sites/default/files/2025-09/FAQs_braxixronias_mistosis_0.pdf)). The rules apply whether you use a platform or not:
+A short-term rental is a furnished let of up to 59 days per booking, with no services beyond bed linen ([AADE FAQ](https://www.aade.gr/sites/default/files/2025-09/FAQs_braxixronias_mistosis_0.pdf)). If you let a holiday home on Crete or elsewhere for part of the year, our guide to [holiday home rental tax in Greece and Crete](/guides/holiday-home-rental-tax-greece-crete/) walks through each step. The rules apply whether you use a platform or not:
 
 - **AMA registration:** every property needs its own number in AADE's short-term rental register, shown on every listing.
 - **Declaration per stay:** by the 20th of the month after the guest leaves.
@@ -106,7 +106,7 @@ The rent is taxed the same way. **Non-residents** need an [AFM](/guides/what-is-
 
 Greece taxes rent from Greek property first. Your country of residence then either:
 
-- **exempts it:** Germany, which still uses it to set the rate on your other income ([Germany–Greece treaty](/guides/germany-greece-double-tax-treaty/)); or
+- **exempts it:** Germany, under the [Germany–Greece treaty](/guides/germany-greece-double-tax-treaty/). Because the property is in the EU, the exempt rent does not raise the rate on your other income either ([§ 32b(1) sentence 2 no. 3 EStG](https://www.gesetze-im-internet.de/estg/__32b.html)); or
 - **credits the Greek tax:** the UK and the US, up to their own tax on the same income ([UK](/guides/moving-to-greece-from-uk-tax-guide/), [US](/guides/moving-to-greece-from-us-tax-guide/)).
 
 Keep the Greek assessment notice (ekkatharistiko) and proof of payment for your home tax office.
@@ -133,10 +133,10 @@ From the third property an individual uses for short-term rental. All of them ar
 
 ### Do I have to declare Greek rental income in my home country?
 
-Usually yes. Greece taxes the rent first; your country of residence then exempts it or credits the Greek tax. Germany exempts Greek rent but uses it to set the rate on other income; the UK and the US tax it and credit the Greek tax.
+Usually yes. Greece taxes the rent first; your country of residence then exempts it or credits the Greek tax. Germany exempts Greek rent and, as Greece is in the EU, does not use it to raise the rate on other income either; the UK and the US tax it and credit the Greek tax.
 
 ### Is unpaid rent taxed in Greece?
 
 Not if you take legal action in time: by the filing deadline, a payment or eviction order must have been issued against the tenant, or you must have sued for eviction or the rent. You declare it under a special code and pay tax when you collect it.
 
-*Rules as of November 2026 (sources: Income Tax Code arts. 39 and 40, Law 4172/2013, as amended by Law 5246/2025; AADE decision A.1187/2026 (bank payment of rent); Tax Procedure Code art. 53, Law 5104/2024; AADE FAQ on short-term rentals; climate resilience fee: Law 5162/2024; Law 4446/2016 art. 111 as amended by Law 5313/2026, art. 5; Golden Visa short-let ban: Law 5100/2024; Germany–Greece treaty art. XVII; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 13; the 2027 Athens and Thessaloniki freeze is announced, not yet issued).*
+*Rules as of November 2026 (sources: Income Tax Code arts. 39 and 40, Law 4172/2013, as amended by Law 5246/2025; AADE decision A.1187/2026 (bank payment of rent); Tax Procedure Code art. 53, Law 5104/2024; AADE FAQ on short-term rentals; climate resilience fee: Law 5162/2024; Law 4446/2016 art. 111 as amended by Law 5313/2026, art. 5; Golden Visa short-let ban: Law 5100/2024; Germany–Greece treaty art. XVII; § 32b EStG; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 13; the 2027 Athens and Thessaloniki freeze is announced, not yet issued).*
