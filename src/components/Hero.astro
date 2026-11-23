@@ -1,4 +1,7 @@
 ---
+const { lang = 'en' } = Astro.props;
+const de = lang === 'de';
+const deWords = ['Steuern.', 'Visa.', 'Buchhaltung.', 'Steuernummern.'];
 ---
 <section class="relative pt-24 pb-12 md:pt-32 md:pb-16 px-4 sm:px-6 lg:px-8 overflow-hidden border-b border-slate-100 bg-cover bg-center" style="background-image: url('/Greece_View.png');">
   <!-- Dark overlay to ensure white text is perfectly readable -->
@@ -11,40 +14,40 @@
       <div class="text-left relative z-20 w-full max-w-4xl">
         <!-- Target Audience Badge -->
         <div class="mb-6 relative inline-block max-w-full">
-          <span class="relative inline-flex items-center px-3 py-1.5 sm:px-5 sm:py-2.5 rounded-full bg-slate-900/80 backdrop-blur-md text-white text-[9px] sm:text-xs md:text-base font-black uppercase tracking-wider border border-white/20 shadow-sm leading-tight whitespace-nowrap">
+          <span class="relative inline-flex items-center px-3 py-1.5 sm:px-5 sm:py-2.5 rounded-full bg-slate-900/80 backdrop-blur-md text-white text-[9px] sm:text-xs md:text-base font-black uppercase tracking-wider border border-white/20 shadow-sm leading-tight whitespace-nowrap">{de ? <>Für Selbstständige, Remote-Arbeiter und Firmen</> : <>
             For freelancers, remote workers and companies
             
-            <!-- Tiny Greek Flag on Pole -->
+            </>}<!-- Tiny Greek Flag on Pole -->
             <div class="absolute -top-6 sm:-top-7 -right-2 transform rotate-12 z-10 drop-shadow flex items-end">
               <div class="w-[2px] h-6 sm:h-8 bg-slate-200 rounded-t-sm"></div>
-              <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" class="w-5 sm:w-6 h-auto -ml-[1px] mb-1 sm:mb-2 border border-white/20 rounded-[1px] shadow-sm" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt={de ? 'Griechenland' : 'Greece'} class="w-5 sm:w-6 h-auto -ml-[1px] mb-1 sm:mb-2 border border-white/20 rounded-[1px] shadow-sm" />
             </div>
           </span>
         </div>
         
         <h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-[4.5rem] font-black tracking-tight text-white mb-6 leading-[1.1]">
-          <div class="whitespace-normal sm:whitespace-nowrap">Relocate to Greece.</div>
+          <div class="whitespace-normal sm:whitespace-nowrap">{de ? <>Auswandern nach Griechenland.</> : <>Relocate to Greece.</>}</div>
           <div class="flex flex-col sm:flex-row sm:items-baseline mt-2">
-            <span class="text-white sm:mr-3">We handle</span>
+            <span class="text-white sm:mr-3">{de ? <>Wir übernehmen</> : <>We handle</>}</span>
             <span class="inline-flex items-center align-baseline overflow-hidden mt-1 sm:mt-0" style="min-width: 4em;">
-              <span id="word-rotator-text" class="text-blue-400 font-black text-left inline-block transition-all duration-500 transform translate-y-0 opacity-100 drop-shadow-none">taxes.</span>
+              <span id={de ? 'word-rotator-text-de' : 'word-rotator-text'} class="text-blue-400 font-black text-left inline-block transition-all duration-500 transform translate-y-0 opacity-100 drop-shadow-none">{de ? <>{deWords[0]}</> : <>taxes.</>}</span>
             </span>
           </div>
         </h1>
         
-        <p class="text-lg sm:text-xl md:text-2xl text-white/95 mb-8 max-w-2xl font-medium drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">
+        <p class="text-lg sm:text-xl md:text-2xl text-white/95 mb-8 max-w-2xl font-medium drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">{de ? <>Der einfachste Weg für Selbstständige, Remote-Arbeiter und Firmen, in Griechenland zu starten und alles richtig zu machen – mit schneller Buchhaltung auf Deutsch und planbaren Kosten.</> : <>
           The simplest way for freelancers, remote workers and companies to get set up in Greece and stay compliant, with a responsive, English-speaking accountant and predictable costs.
-        </p>
+        </>}</p>
 
         <div class="flex flex-col sm:flex-row items-center justify-start gap-4">
-          <a href="#configurator" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg text-slate-900 bg-white hover:bg-slate-100 transition-colors duration-200 w-full sm:w-auto shadow-lg">
+          <a href="#configurator" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg text-slate-900 bg-white hover:bg-slate-100 transition-colors duration-200 w-full sm:w-auto shadow-lg">{de ? <>Jetzt starten</> : <>
             Start to relocate
-          </a>
-          <a href="/call" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg text-white bg-slate-900/40 backdrop-blur-sm border-2 border-white/30 hover:bg-slate-900/60 hover:border-white/50 transition-colors duration-200 w-full sm:w-auto">
+          </>}</a>
+          <a href="/call" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg text-white bg-slate-900/40 backdrop-blur-sm border-2 border-white/30 hover:bg-slate-900/60 hover:border-white/50 transition-colors duration-200 w-full sm:w-auto">{de ? <>Kostenloses Gespräch buchen</> : <>
             Book a free call
-          </a>
+          </>}</a>
         </div>
-        <p class="text-white/80 text-sm mt-4 font-medium drop-shadow-md">We reply within hours, 7 days a week.</p>
+        <p class="text-white/80 text-sm mt-4 font-medium drop-shadow-md">{de ? <>Wir antworten innerhalb weniger Stunden, 7 Tage die Woche.</> : <>We reply within hours, 7 days a week.</>}</p>
       </div>
     </div>
 
@@ -53,25 +56,48 @@
       <div class="flex flex-col md:flex-row justify-between items-start sm:items-center gap-3 sm:gap-6 md:gap-4 py-2 sm:py-6">
         
         <div class="flex items-center text-white font-bold text-sm sm:text-base md:text-lg">
-          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2 sm:mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2 sm:mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>{de ? <>Schnell, zuverlässig &amp; komplett online</> : <>
           Fast, reliable & completely remote
-        </div>
+        </>}</div>
         
         <div class="flex items-center text-white font-bold text-sm sm:text-base md:text-lg">
-          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2 sm:mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2 sm:mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>{de ? <>100 % steuerlich &amp; rechtlich sauber</> : <>
           100% Tax & Legal Compliance
-        </div>
+        </>}</div>
         
         <div class="flex items-center text-white font-bold text-sm sm:text-base md:text-lg">
-          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2 sm:mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+          <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2 sm:mr-3 text-white flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>{de ? <>Für EU- &amp; Nicht-EU-Bürger</> : <>
           For EU & Non-EU citizens
-        </div>
+        </>}</div>
         
       </div>
     </div>
 
   </div>
-</section>
+</section>{de && (
+  <script is:inline define:vars={{ words: deWords }}>
+    // German twin of the rotator script above (kept separate so the EN bundle stays untouched)
+    document.addEventListener('DOMContentLoaded', () => {
+      let index = 0;
+      const textEl = document.getElementById('word-rotator-text-de');
+      if (!textEl) return;
+      setInterval(() => {
+        textEl.style.transform = 'translateY(-150%)';
+        textEl.style.opacity = '0';
+        setTimeout(() => {
+          index = (index + 1) % words.length;
+          textEl.style.transition = 'none';
+          textEl.style.transform = 'translateY(150%)';
+          textEl.innerText = words[index];
+          void textEl.offsetWidth;
+          textEl.style.transition = 'all 0.5s cubic-bezier(0.2, 0.6, 0.2, 1)';
+          textEl.style.transform = 'translateY(0)';
+          textEl.style.opacity = '1';
+        }, 500);
+      }, 3000);
+    });
+  </script>
+)}
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
@@ -105,3 +131,4 @@
     }
   });
 </script>
+

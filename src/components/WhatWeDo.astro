@@ -1,4 +1,6 @@
 ---
+const { lang = 'en' } = Astro.props;
+const de = lang === 'de';
 ---
 <section id="what-we-do" class="py-12 md:py-24 bg-slate-50 relative overflow-hidden">
   <div class="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]"></div>
@@ -13,13 +15,13 @@
       
       <!-- Left Content -->
       <div>
-        <div class="inline-flex items-center px-3 py-1 rounded-full bg-blue-50 text-blue-800 text-sm font-bold uppercase tracking-wider mb-6">
+        <div class="inline-flex items-center px-3 py-1 rounded-full bg-blue-50 text-blue-800 text-sm font-bold uppercase tracking-wider mb-6">{de ? <>Für Selbstständige, Remote-Arbeiter und Firmen</> : <>
           For Freelancers, Remote Workers and Companies
-        </div>
-        <h2 class="text-3xl md:text-5xl font-black text-slate-900 mb-6 leading-tight">Your move to Greece, <span class="text-blue-800">made fast and easy.</span></h2>
-        <p class="text-lg text-slate-600 mb-8 leading-relaxed">
+        </>}</div>
+        <h2 class="text-3xl md:text-5xl font-black text-slate-900 mb-6 leading-tight">{de ? <>Ihr Umzug nach Griechenland – <span class="text-blue-800">schnell und einfach.</span></> : <>Your move to Greece, <span class="text-blue-800">made fast and easy.</span></>}</h2>
+        <p class="text-lg text-slate-600 mb-8 leading-relaxed">{de ? <>Vergessen Sie endlosen Papierkram und unübersichtliche Behörden. Mit taxomade erledigen Sie fast alles bequem vom Laptop aus. Wir machen Ihren Umzug schnell, ortsunabhängig und stressfrei.</> : <>
           Forget the endless paperwork and confusing local authorities. With Taxomade, you can handle almost your entire setup directly from your laptop. We make your relocation fast, remote-friendly, and completely stress-free.
-        </p>
+        </>}</p>
         
         <div class="space-y-6">
           <div class="flex items-start">
@@ -27,8 +29,8 @@
               <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path></svg>
             </div>
             <div class="ml-4">
-              <h3 class="text-xl font-bold text-slate-900">One-Stop Shop</h3>
-              <p class="text-slate-600 mt-1">It's not just the visa. We prepare and file your tax registrations and do your bookkeeping.</p>
+              <h3 class="text-xl font-bold text-slate-900">{de ? <>Alles aus einer Hand</> : <>One-Stop Shop</>}</h3>
+              <p class="text-slate-600 mt-1">{de ? <>Nicht nur das Visum: Wir bereiten Ihre steuerlichen Anmeldungen vor, reichen sie ein und übernehmen Ihre Buchhaltung.</> : <>It's not just the visa. We prepare and file your tax registrations and do your bookkeeping.</>}</p>
             </div>
           </div>
           <div class="flex items-start">
@@ -36,8 +38,8 @@
               <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path></svg>
             </div>
             <div class="ml-4">
-              <h3 class="text-xl font-bold text-slate-900">Maximize Tax Savings</h3>
-              <p class="text-slate-600 mt-1">Greece offers massive incentives like the 50% Tax Break (Article 5C). We ensure you're eligible and apply on your behalf.</p>
+              <h3 class="text-xl font-bold text-slate-900">{de ? <>Steuern sparen</> : <>Maximize Tax Savings</>}</h3>
+              <p class="text-slate-600 mt-1">{de ? <>Griechenland bietet große Steuervorteile wie den 50-%-Steuervorteil (Artikel 5C). Wir prüfen Ihre Voraussetzungen und stellen den Antrag für Sie.</> : <>Greece offers massive incentives like the 50% Tax Break (Article 5C). We ensure you're eligible and apply on your behalf.</>}</p>
             </div>
           </div>
         </div>
@@ -51,7 +53,7 @@
           <div class="absolute top-0 left-0 w-full h-1 bg-emerald-400"></div>
           
           <div class="p-6 sm:p-8 relative z-10">
-            <h3 class="text-xl sm:text-2xl font-black text-white mb-6 border-b border-slate-800 pb-4">Who is this for?</h3>
+            <h3 class="text-xl sm:text-2xl font-black text-white mb-6 border-b border-slate-800 pb-4">{de ? <>Für wen ist das?</> : <>Who is this for?</>}</h3>
             
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4">
               
@@ -61,9 +63,9 @@
                   <div class="w-10 h-10 bg-slate-800 rounded-full flex-shrink-0 flex items-center justify-center text-emerald-400 shadow-sm mr-3 sm:mr-4">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
                   </div>
-                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">Freelancers from the EU</h4>
+                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">{de ? <>Selbstständige aus der EU</> : <>Freelancers from the EU</>}</h4>
                 </div>
-                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">Moving from another EU country and invoicing your own clients. We check your Article 5C eligibility (50% tax exemption) and prepare the filings.</p>
+                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">{de ? <>Sie ziehen aus einem anderen EU-Land und stellen eigene Rechnungen. Wir prüfen, ob Sie 5C-berechtigt sind (50 % steuerfrei), und bereiten die Anträge vor.</> : <>Moving from another EU country and invoicing your own clients. We check your Article 5C eligibility (50% tax exemption) and prepare the filings.</>}</p>
               </div>
 
               <!-- Target 2: Remote Employees -->
@@ -72,9 +74,9 @@
                   <div class="w-10 h-10 bg-slate-800 rounded-full flex-shrink-0 flex items-center justify-center text-blue-400 shadow-sm mr-3 sm:mr-4">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
                   </div>
-                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">Remote Employees</h4>
+                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">{de ? <>Remote-Angestellte</> : <>Remote Employees</>}</h4>
                 </div>
-                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">Living in Greece while staying on a foreign company's payroll. We advise on your tax position, check 5C eligibility, and handle the annual declarations.</p>
+                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">{de ? <>Sie leben in Griechenland und sind bei einer Firma im Ausland angestellt. Wir beraten Sie steuerlich, prüfen 5C und erstellen Ihre jährlichen Erklärungen.</> : <>Living in Greece while staying on a foreign company's payroll. We advise on your tax position, check 5C eligibility, and handle the annual declarations.</>}</p>
               </div>
 
               <!-- Target 3: Starting a Business in Greece -->
@@ -83,9 +85,9 @@
                   <div class="w-10 h-10 bg-slate-800 rounded-full flex-shrink-0 flex items-center justify-center text-purple-400 shadow-sm mr-3 sm:mr-4">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1v1H9V7zm5 0h1v1h-1V7zm-5 4h1v1H9v-1zm5 0h1v1h-1v-1zm-5 4h1v1H9v-1zm5 0h1v1h-1v-1z"></path></svg>
                   </div>
-                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">Starting a Business in Greece</h4>
+                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">{de ? <>Firmengründung in Griechenland</> : <>Starting a Business in Greece</>}</h4>
                 </div>
-                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">Setting up as a registered freelancer or with your own company (IKE). We advise on which legal form fits your case and prepare the registration filings.</p>
+                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">{de ? <>Als Selbstständiger oder mit eigener Firma (IKE). Wir beraten, welche Rechtsform passt, und bereiten die Anmeldung vor.</> : <>Setting up as a registered freelancer or with your own company (IKE). We advise on which legal form fits your case and prepare the registration filings.</>}</p>
               </div>
 
               <!-- Target 4: Retirees (7% Regime) -->
@@ -94,9 +96,9 @@
                   <div class="w-10 h-10 bg-slate-800 rounded-full flex-shrink-0 flex items-center justify-center text-amber-400 shadow-sm mr-3 sm:mr-4">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
                   </div>
-                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">Retirees (7% Regime)</h4>
+                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">{de ? <>Rentner (7-%-Regelung)</> : <>Retirees (7% Regime)</>}</h4>
                 </div>
-                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">You draw a foreign pension and want to relocate. We assess whether the 7% flat-rate regime applies and prepare the application.</p>
+                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">{de ? <>Sie beziehen eine Rente aus dem Ausland und wollen umziehen. Wir prüfen, ob die 7-%-Pauschalsteuer für Sie gilt, und bereiten den Antrag vor.</> : <>You draw a foreign pension and want to relocate. We assess whether the 7% flat-rate regime applies and prepare the application.</>}</p>
               </div>
 
               <!-- Target 5: Switching Accountants -->
@@ -105,9 +107,9 @@
                   <div class="w-10 h-10 bg-slate-800 rounded-full flex-shrink-0 flex items-center justify-center text-cyan-400 shadow-sm mr-3 sm:mr-4">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
                   </div>
-                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">Switching Accountants</h4>
+                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">{de ? <>Buchhalter wechseln</> : <>Switching Accountants</>}</h4>
                 </div>
-                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">Already in Greece, but books and deadlines have slipped. We manage the handover and bring your filings back on schedule.</p>
+                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">{de ? <>Sie sind schon in Griechenland, aber Buchhaltung und Fristen hängen hinterher. Wir übernehmen die Übergabe und bringen alles wieder auf Stand.</> : <>Already in Greece, but books and deadlines have slipped. We manage the handover and bring your filings back on schedule.</>}</p>
               </div>
 
               <!-- Target 6: Non-EU Citizens -->
@@ -116,9 +118,9 @@
                   <div class="w-10 h-10 bg-slate-800 rounded-full flex-shrink-0 flex items-center justify-center text-rose-400 shadow-sm mr-3 sm:mr-4">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"></path></svg>
                   </div>
-                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">Non-EU Citizens</h4>
+                  <h4 class="font-bold text-white text-sm sm:text-base leading-tight">{de ? <>Nicht-EU-Bürger</> : <>Non-EU Citizens</>}</h4>
                 </div>
-                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">Planning the move from outside the EU. We advise on residence options (Digital Nomad Visa, FIP) and prepare your documents.</p>
+                <p class="text-[10px] sm:text-xs text-slate-400 leading-tight">{de ? <>Sie ziehen von außerhalb der EU um. Wir beraten zu Aufenthaltsoptionen (Digital-Nomad-Visum, FIP) und bereiten Ihre Unterlagen vor.</> : <>Planning the move from outside the EU. We advise on residence options (Digital Nomad Visa, FIP) and prepare your documents.</>}</p>
               </div>
             </div>
           </div>

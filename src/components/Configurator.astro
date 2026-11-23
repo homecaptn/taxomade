@@ -1,10 +1,15 @@
 ---
+const { lang = 'en' } = Astro.props;
+const de = lang === 'de';
+// The German version uses its own button class / back-button id and an inline script,
+// so the (unchanged) English module script below does not bind to the German markup.
+const btnCls = `${de ? 'conf-de-btn' : 'conf-btn'} p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2`;
 ---
 <section id="configurator" class="pt-8 md:pt-10 pb-20 bg-slate-50">
   <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center mb-8 md:mb-10">
-      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Discover your path to Greece</h2>
-      <p class="text-lg text-slate-600 max-w-2xl mx-auto">Answer four quick questions to find out exactly which steps and services apply to your personal situation.</p>
+      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">{de ? <>Ihr Weg nach Griechenland</> : <>Discover your path to Greece</>}</h2>
+      <p class="text-lg text-slate-600 max-w-2xl mx-auto">{de ? <>Beantworten Sie vier kurze Fragen und sehen Sie, welche Schritte und Leistungen für Ihre Situation gelten.</> : <>Answer four quick questions to find out exactly which steps and services apply to your personal situation.</>}</p>
     </div>
     
     <div class="bg-white rounded-2xl shadow-xl border border-slate-200 p-8 md:p-12 min-h-[600px] relative flex flex-col" id="conf-content">
@@ -12,105 +17,290 @@
       <!-- Header / Progress Area -->
       <div class="mb-10 w-full">
         <div class="flex items-center justify-between text-sm font-bold text-slate-500 mb-3 uppercase tracking-wider">
-          <span id="conf-progress-text">Step 1 of 4</span>
+          <span id="conf-progress-text">{de ? <>Schritt 1 von 4</> : <>Step 1 of 4</>}</span>
           <span id="conf-progress-pct" class="text-blue-600">0%</span>
         </div>
         <div class="w-full bg-slate-100 h-2.5 rounded-full overflow-hidden mb-6">
           <div id="conf-progress-bar" class="bg-blue-600 h-full rounded-full transition-all duration-500" style="width: 0%"></div>
         </div>
         <div id="conf-chips" class="flex flex-wrap gap-2 mb-6 empty:hidden"></div>
-        <button id="conf-back" type="button" class="text-slate-500 hover:text-slate-800 transition-colors hidden font-medium flex items-center w-fit">
-          <svg class="w-5 h-5 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+        <button id={de ? 'conf-de-back' : 'conf-back'} type="button" class="text-slate-500 hover:text-slate-800 transition-colors hidden font-medium flex items-center w-fit">
+          <svg class="w-5 h-5 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>{de ? <>Zurück</> : <>
           Back
-        </button>
+        </>}</button>
       </div>
         
         <!-- Step 1: Work -->
         <div class="conf-step active" id="step-1">
-          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">How do you work, or plan to work, in Greece?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">{de ? <>Wie arbeiten Sie in Griechenland – oder wie planen Sie es?</> : <>How do you work, or plan to work, in Greece?</>}</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="freelance"><span class="block font-semibold">As a freelancer / self-employed</span></button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="company"><span class="block font-semibold">With a company (IKE or similar), existing or planned</span></button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="employed"><span class="block font-semibold">Employed remotely by a company abroad</span></button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="1" data-val="switch"><span class="block font-semibold">I'm already set up and want to switch accountant</span></button>
+            <button type="button" class={btnCls} data-step="1" data-val="freelance"><span class="block font-semibold">{de ? <>Als Freiberufler / selbstständig</> : <>As a freelancer / self-employed</>}</span></button>
+            <button type="button" class={btnCls} data-step="1" data-val="company"><span class="block font-semibold">{de ? <>Mit einer Firma (IKE o. ä.), bestehend oder geplant</> : <>With a company (IKE or similar), existing or planned</>}</span></button>
+            <button type="button" class={btnCls} data-step="1" data-val="employed"><span class="block font-semibold">{de ? <>Remote angestellt bei einer Firma im Ausland</> : <>Employed remotely by a company abroad</>}</span></button>
+            <button type="button" class={btnCls} data-step="1" data-val="switch"><span class="block font-semibold">{de ? <>Ich bin schon angemeldet und will den Buchhalter wechseln</> : <>I'm already set up and want to switch accountant</>}</span></button>
           </div>
           <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
             <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <p><span class="font-bold text-slate-700">Why we ask this:</span> Freelancers, companies and remote employees have very different reporting and bookkeeping obligations in Greece.</p>
+            <p>{de ? <><span class="font-bold text-slate-700">Warum wir fragen:</span> Selbstständige, Firmen und Remote-Angestellte haben in Griechenland sehr unterschiedliche Melde- und Buchhaltungspflichten.</> : <><span class="font-bold text-slate-700">Why we ask this:</span> Freelancers, companies and remote employees have very different reporting and bookkeeping obligations in Greece.</>}</p>
           </div>
         </div>
 
         <!-- Step 2: Duration -->
         <div class="conf-step hidden" id="step-2">
-          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">How long do you plan to stay in Greece?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">{de ? <>Wie lange wollen Sie in Griechenland bleiben?</> : <>How long do you plan to stay in Greece?</>}</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="2" data-val="short">
-              <span class="block font-semibold">Less than 6 months</span>
+            <button type="button" class={btnCls} data-step="2" data-val="short">
+              <span class="block font-semibold">{de ? <>Weniger als 6 Monate</> : <>Less than 6 months</>}</span>
             </button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="2" data-val="long">
-              <span class="block font-semibold">6 months or more</span>
+            <button type="button" class={btnCls} data-step="2" data-val="long">
+              <span class="block font-semibold">{de ? <>6 Monate oder länger</> : <>6 months or more</>}</span>
             </button>
           </div>
           <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
             <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <p><span class="font-bold text-slate-700">Why we ask this:</span> This determines your tax residency status and if you need to register locally for taxes.</p>
+            <p>{de ? <><span class="font-bold text-slate-700">Warum wir fragen:</span> Davon hängt ab, ob Sie in Griechenland steuerlich ansässig werden und sich vor Ort steuerlich anmelden müssen.</> : <><span class="font-bold text-slate-700">Why we ask this:</span> This determines your tax residency status and if you need to register locally for taxes.</>}</p>
           </div>
         </div>
 
         <!-- Step 3: Origin -->
         <div class="conf-step hidden" id="step-3">
-          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">Where are you from?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">{de ? <>Woher kommen Sie?</> : <>Where are you from?</>}</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="3" data-val="noneu">
-              <span class="block font-semibold">I'm from outside the EU</span>
+            <button type="button" class={btnCls} data-step="3" data-val="noneu">
+              <span class="block font-semibold">{de ? <>Ich komme von außerhalb der EU</> : <>I'm from outside the EU</>}</span>
             </button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="3" data-val="eu">
-              <span class="block font-semibold">I'm from the EU</span>
+            <button type="button" class={btnCls} data-step="3" data-val="eu">
+              <span class="block font-semibold">{de ? <>Ich komme aus der EU</> : <>I'm from the EU</>}</span>
             </button>
           </div>
           <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
             <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <p><span class="font-bold text-slate-700">Why we ask this:</span> Non-EU citizens usually need a residence permit or visa to live in Greece.</p>
+            <p>{de ? <><span class="font-bold text-slate-700">Warum wir fragen:</span> Nicht-EU-Bürger brauchen für das Leben in Griechenland in der Regel ein Visum oder eine Aufenthaltserlaubnis.</> : <><span class="font-bold text-slate-700">Why we ask this:</span> Non-EU citizens usually need a residence permit or visa to live in Greece.</>}</p>
           </div>
         </div>
 
         <!-- Step 4: Income -->
         <div class="conf-step hidden" id="step-4">
-          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">Roughly what's your net annual income?</h3>
+          <h3 class="text-3xl md:text-4xl font-bold text-slate-900 mb-8 text-left">{de ? <>Wie hoch ist ungefähr Ihr jährliches Nettoeinkommen?</> : <>Roughly what's your net annual income?</>}</h3>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="low"><span class="block font-semibold">Under €25,000</span></button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="mid"><span class="block font-semibold">€25,000–42,000</span></button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="high"><span class="block font-semibold">€42,000–70,000</span></button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="highest"><span class="block font-semibold">€70,000–120,000</span></button>
-            <button type="button" class="conf-btn p-6 border border-slate-200 rounded-lg bg-white text-left transition-all duration-200 hover:border-blue-600 hover:shadow-sm w-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2" data-step="4" data-val="top"><span class="block font-semibold">Over €120,000</span></button>
+            <button type="button" class={btnCls} data-step="4" data-val="low"><span class="block font-semibold">{de ? <>Unter 25.000 €</> : <>Under €25,000</>}</span></button>
+            <button type="button" class={btnCls} data-step="4" data-val="mid"><span class="block font-semibold">{de ? <>25.000–42.000 €</> : <>€25,000–42,000</>}</span></button>
+            <button type="button" class={btnCls} data-step="4" data-val="high"><span class="block font-semibold">{de ? <>42.000–70.000 €</> : <>€42,000–70,000</>}</span></button>
+            <button type="button" class={btnCls} data-step="4" data-val="highest"><span class="block font-semibold">{de ? <>70.000–120.000 €</> : <>€70,000–120,000</>}</span></button>
+            <button type="button" class={btnCls} data-step="4" data-val="top"><span class="block font-semibold">{de ? <>Über 120.000 €</> : <>Over €120,000</>}</span></button>
           </div>
           <div class="mt-8 bg-blue-50/50 p-4 rounded-xl border border-blue-100 flex items-start text-sm text-slate-600">
             <svg class="w-5 h-5 text-blue-500 mr-3 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-            <p id="income-why-text"><span class="font-bold text-slate-700">Why we ask this:</span> This determines your eligibility for the 50% Tax Break (Article 5C) and whether you meet the financial threshold for the Digital Nomad Visa.</p>
+            <p id="income-why-text">{de ? <><span class="font-bold text-slate-700">Warum wir fragen:</span> Davon hängt ab, ob sich der 50-%-Steuervorteil (Artikel 5C) lohnt und ob Sie die Einkommensgrenze für das Digital-Nomad-Visum erreichen.</> : <><span class="font-bold text-slate-700">Why we ask this:</span> This determines your eligibility for the 50% Tax Break (Article 5C) and whether you meet the financial threshold for the Digital Nomad Visa.</>}</p>
           </div>
         </div>
 
         <!-- Result Step -->
         <div class="conf-step hidden" id="step-result">
-          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-2 text-center" id="result-title">Here's what you need for your move to Greece.</h3>
-          <p class="text-left text-slate-600 mb-8" id="result-subtitle">Based on your answers, here is exactly what applies to you:</p>
+          <h3 class="text-2xl md:text-3xl font-bold text-slate-900 mb-2 text-center" id="result-title">{de ? <>Das brauchen Sie für Ihren Umzug nach Griechenland.</> : <>Here's what you need for your move to Greece.</>}</h3>
+          <p class="text-left text-slate-600 mb-8" id="result-subtitle">{de ? <>Nach Ihren Antworten gilt für Sie genau Folgendes:</> : <>Based on your answers, here is exactly what applies to you:</>}</p>
           
           <div id="result-list" class="space-y-4 mb-8">
             <!-- Populated by JS -->
           </div>
 
           <div class="text-center space-y-4">
-            <button type="button" onclick="document.getElementById('contact')?.scrollIntoView({behavior: 'smooth'})" class="inline-flex w-full sm:w-auto items-center justify-center px-8 py-3.5 text-base font-medium rounded-lg text-white bg-blue-800 hover:bg-blue-900 shadow-md transition-all duration-200 cursor-pointer">
+            <button type="button" onclick="document.getElementById('contact')?.scrollIntoView({behavior: 'smooth'})" class="inline-flex w-full sm:w-auto items-center justify-center px-8 py-3.5 text-base font-medium rounded-lg text-white bg-blue-800 hover:bg-blue-900 shadow-md transition-all duration-200 cursor-pointer">{de ? <>Darüber sprechen</> : <>
               Discuss this setup
-            </button>
-            <p class="text-sm text-slate-500" id="result-hint">Scroll down to see more details about these services.</p>
+            </>}</button>
+            <p class="text-sm text-slate-500" id="result-hint">{de ? <>Scrollen Sie weiter für mehr Details zu diesen Leistungen.</> : <>Scroll down to see more details about these services.</>}</p>
           </div>
         </div>
 
       </div>
     </div>
   </div>
-</section>
+</section>{de && (
+<script is:inline>
+  // German twin of the Configurator logic below (same steps, same events, German texts).
+  (() => {
+    const historyStack = [1];
+    const totalSteps = 4;
+    const answers = { employment: '', duration: '', origin: '', income: '' };
+    const labelMap = {
+      noneu: 'Nicht-EU',
+      eu: 'EU',
+      short: '< 6 Monate',
+      long: '6+ Monate',
+      freelance: 'Selbstständig',
+      company: 'Firma',
+      employed: 'Angestellt',
+      switch: 'Buchhalterwechsel',
+      low: '< 25.000 €',
+      mid: '25.000–42.000 €',
+      high: '42.000–70.000 €',
+      highest: '70.000–120.000 €',
+      top: '> 120.000 €'
+    };
+    const WHY = '<span class="font-bold text-slate-700">Warum wir fragen:</span> ';
+
+    function renderChips() {
+      const container = document.getElementById('conf-chips');
+      if (!container) return;
+      container.innerHTML = '';
+      ['employment', 'duration', 'origin', 'income'].forEach((key) => {
+        const val = answers[key];
+        if (val && labelMap[val]) {
+          const chip = document.createElement('div');
+          chip.className = 'inline-flex items-center px-3 py-1.5 rounded-lg text-sm font-medium bg-slate-100 text-slate-700 border border-slate-200';
+          chip.innerHTML = `<svg class="w-4 h-4 text-blue-600 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>${labelMap[val]}`;
+          container.appendChild(chip);
+        }
+      });
+    }
+
+    function nextStep(step) {
+      historyStack.push(step);
+      showStep(step);
+    }
+
+    function showStep(step) {
+      document.querySelectorAll('.conf-step').forEach((el) => el.classList.add('hidden'));
+      document.getElementById(`step-${step}`)?.classList.remove('hidden');
+      const progressText = document.getElementById('conf-progress-text');
+      const progressPct = document.getElementById('conf-progress-pct');
+      const progressBar = document.getElementById('conf-progress-bar');
+      if (progressText) progressText.innerText = `Schritt ${step} von ${totalSteps}`;
+      let pct = Math.round(((step - 1) / totalSteps) * 100);
+      pct = Math.min(100, Math.max(0, pct));
+      if (progressPct) progressPct.innerText = `${pct}%`;
+      if (progressBar) progressBar.style.width = `${pct}%`;
+      if (step === 4) {
+        const whyText = document.getElementById('income-why-text');
+        if (whyText) {
+          whyText.innerHTML = answers.origin === 'noneu'
+            ? WHY + 'Es beeinflusst Ihre Steuer, den 50-%-Steuervorteil und die Einkommensgrenzen für Aufenthaltstitel.'
+            : WHY + 'So können wir abschätzen, wie viel Sie mit dem 50-%-Steuervorteil (Artikel 5C) sparen.';
+        }
+      }
+      const backBtn = document.getElementById('conf-de-back');
+      if (backBtn) backBtn.classList.toggle('hidden', historyStack.length <= 1);
+    }
+
+    function createResultItem(title, desc, highlight = false, optional = false) {
+      const bgClass = highlight ? 'bg-slate-100 border-slate-300' : 'bg-slate-50 border-slate-100';
+      const iconColor = highlight ? 'text-blue-800' : 'text-slate-500';
+      let tag = '';
+      if (highlight) tag = '<span class="ml-2 text-xs font-bold text-blue-800 uppercase tracking-wider bg-white px-2 py-0.5 rounded border border-blue-200">Empfohlen</span>';
+      else if (optional) tag = '<span class="ml-2 text-xs font-medium text-slate-500 uppercase tracking-wider bg-white px-2 py-0.5 rounded border border-slate-200">Optional</span>';
+      return `
+      <div class="p-4 rounded-xl border ${bgClass} flex items-start">
+        <svg class="w-6 h-6 ${iconColor} flex-shrink-0 mt-0.5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+        <div>
+          <h4 class="font-bold text-slate-900 flex items-center flex-wrap gap-y-1">${title}${tag}</h4>
+          <p class="text-sm text-slate-600 mt-1 leading-relaxed">${desc}</p>
+        </div>
+      </div>
+    `;
+    }
+
+    function showResults() {
+      document.querySelectorAll('.conf-step').forEach((el) => el.classList.add('hidden'));
+      document.getElementById('step-result')?.classList.remove('hidden');
+      document.getElementById('conf-progress-text').innerText = 'Empfehlung';
+      document.getElementById('conf-progress-pct').innerText = '100%';
+      document.getElementById('conf-progress-bar').style.width = '100%';
+      document.getElementById('conf-de-back')?.classList.remove('hidden');
+      historyStack.push(100);
+
+      const resultList = document.getElementById('result-list');
+      const resultSubtitle = document.getElementById('result-subtitle');
+      const resultHint = document.getElementById('result-hint');
+      if (!resultList || !resultSubtitle) return;
+      let html = '';
+
+      if (answers.duration === 'short' && answers.employment !== 'switch') {
+        resultSubtitle.innerText = 'Nach Ihren Antworten brauchen Sie nur sehr wenig – das gilt für Sie:';
+        if (resultHint) resultHint.classList.add('hidden');
+      } else {
+        resultSubtitle.innerText = 'Nach Ihren Antworten gilt für Sie genau Folgendes:';
+        if (resultHint) resultHint.classList.remove('hidden');
+      }
+
+      const isLong = answers.duration === 'long';
+      const highIncome = ['high', 'highest', 'top'].includes(answers.income);
+
+      if (answers.origin === 'noneu' && isLong) {
+        html += createResultItem('Aufenthaltserlaubnis', 'Als Nicht-EU-Bürger brauchen Sie für das Leben in Griechenland ein Visum oder eine Aufenthaltserlaubnis. Welche passt, hängt von Ihrer Arbeit und Ihrem Einkommen ab. Wir prüfen Ihren Fall gemeinsam mit Ihnen.');
+        html += createResultItem('Krankenversicherung', 'Für Visa und Aufenthaltstitel ist eine private Krankenversicherung nötig. Mehr dazu unter <a href="/greece/health-insurance/" class="underline font-medium">Krankenversicherung in Griechenland</a>; unser Partner BDAE berät Sie direkt.');
+      } else if (answers.origin === 'noneu') {
+        html += createResultItem('Visumspflicht', 'Für kurze Aufenthalte unter 90 Tagen brauchen Sie meist kein Visum; für längere hängt es von Ihrer Staatsangehörigkeit ab. Wir prüfen das mit Ihnen.');
+      }
+
+      if (answers.employment === 'switch') {
+        html += createResultItem('Wechsel zu taxomade', 'Ein Wechsel dauert meist etwa eine Woche. Wir übernehmen Buchhaltung, Umsatzsteuer und EFKA von Ihrem bisherigen Buchhalter und prüfen, was noch offen ist.', true);
+      } else if (isLong) {
+        html += createResultItem('Steuernummer & Anmeldung', answers.employment === 'company'
+          ? 'Sie und Ihre Firma brauchen eine griechische Steuernummer (AFM). Wir bereiten die Anmeldungen mit Ihnen vor und reichen sie ein.'
+          : 'Sie brauchen eine griechische Steuernummer (AFM) und – wenn Sie selbstständig sind – eine Gewerbeanmeldung. Wir bereiten beides mit Ihnen vor und reichen es ein.');
+      } else {
+        html += createResultItem('Steuernummer', 'Bei einem kurzen Aufenthalt brauchen Sie eine griechische Steuernummer (AFM) meist nur, wenn Sie mieten, kaufen oder ein Bankkonto eröffnen. Wir bereiten den Antrag mit Ihnen vor.');
+      }
+
+      if (isLong && answers.employment !== 'switch') {
+        const dnvNote = answers.origin === 'noneu' ? ' Nicht möglich mit dem Digital-Nomad-Visum.' : '';
+        if (highIncome) {
+          html += createResultItem('50-%-Steuervorteil (5C)', 'Lohnt sich zu prüfen: Nach 5C sind 7 Jahre lang 50 % Ihres griechischen Arbeits- oder Geschäftseinkommens steuerfrei – wenn Sie in 5 der letzten 6 Jahre nicht in Griechenland steuerlich ansässig waren.' + dnvNote, true);
+        } else if (answers.income === 'mid') {
+          html += createResultItem('50-%-Steuervorteil (5C)', 'Kann sich bei Ihrem Einkommen trotzdem lohnen. Wir rechnen aus, ob es sich für Sie rechnet.' + dnvNote, true);
+        } else {
+          html += createResultItem('50-%-Steuervorteil (5C)', 'Optional: Bei Ihrem Einkommen ist die Ersparnis kleiner.' + dnvNote, false, true);
+        }
+      }
+
+      if (isLong || answers.employment === 'switch') {
+        if (answers.employment === 'company') {
+          html += createResultItem('Firmengründung & Buchhaltung', 'Wir beraten zur Rechtsform, bereiten die Gründung vor und übernehmen doppelte Buchführung, Umsatzsteuer, bei Bedarf Lohnabrechnung und den Jahresabschluss. Preis nach individuellem Angebot.', true);
+        } else if (answers.employment === 'freelance' || answers.employment === 'switch') {
+          html += createResultItem('Monatliche Buchhaltung', 'Monatliche Buchhaltung und Pflichten: myDATA und E-Rechnung, Umsatzsteuer, EFKA und Ihre jährliche Steuererklärung. Ab 89 €/Monat.', true);
+        } else {
+          html += createResultItem('Jährliche Steuererklärung', 'Als Remote-Angestellter brauchen Sie meist nur die jährliche griechische Steuererklärung. Wir erstellen sie und reichen sie für Sie ein.');
+        }
+      }
+
+      resultList.innerHTML = html;
+      const inputConfig = document.getElementById('contact-config-data');
+      if (inputConfig) inputConfig.value = JSON.stringify(answers);
+      window.dispatchEvent(new CustomEvent('taxomade:configurator-complete', { detail: answers }));
+    }
+
+    document.querySelectorAll('.conf-de-btn').forEach((btn) => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        const el = e.currentTarget;
+        const step = parseInt(el.getAttribute('data-step') || '1');
+        const val = el.getAttribute('data-val') || '';
+        if (step === 1) { answers.employment = val; nextStep(2); }
+        else if (step === 2) { answers.duration = val; nextStep(3); }
+        else if (step === 3) { answers.origin = val; nextStep(4); }
+        else if (step === 4) { answers.income = val; showResults(); }
+        renderChips();
+        window.dispatchEvent(new CustomEvent('taxomade:answer-change', { detail: answers }));
+      });
+    });
+
+    document.getElementById('conf-de-back')?.addEventListener('click', (e) => {
+      e.preventDefault();
+      if (historyStack.length > 1) {
+        historyStack.pop();
+        const prevStep = historyStack[historyStack.length - 1];
+        if (prevStep <= 4) answers.income = '';
+        if (prevStep <= 3) answers.origin = '';
+        if (prevStep <= 2) answers.duration = '';
+        if (prevStep <= 1) answers.employment = '';
+        renderChips();
+        showStep(prevStep);
+        window.dispatchEvent(new CustomEvent('taxomade:answer-change', { detail: answers }));
+      }
+    });
+  })();
+</script>
+)}
 
 <script>
   let historyStack: number[] = [1];

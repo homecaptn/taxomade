@@ -1,10 +1,12 @@
 ---
+const { lang = 'en' } = Astro.props;
+const de = lang === 'de';
 ---
 <section id="how-it-works" class="py-12 md:py-20 bg-white overflow-hidden border-b border-slate-100">
   <div class="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center mb-8 md:mb-10">
-      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4 uppercase tracking-tight">Our Services</h2>
-      <p class="text-base md:text-lg text-slate-600 max-w-2xl mx-auto">Book exactly what you need. Choose individual services like just the Tax Number or Bookkeeping, or let us handle your entire relocation from A to Z.</p>
+      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4 uppercase tracking-tight">{de ? <>Unsere Leistungen</> : <>Our Services</>}</h2>
+      <p class="text-base md:text-lg text-slate-600 max-w-2xl mx-auto">{de ? <>Buchen Sie genau, was Sie brauchen: einzelne Leistungen wie nur die Steuernummer oder die Buchhaltung – oder wir begleiten Ihren gesamten Umzug von A bis Z.</> : <>Book exactly what you need. Choose individual services like just the Tax Number or Bookkeeping, or let us handle your entire relocation from A to Z.</>}</p>
     </div>
 
     <!-- Timeline Container -->
@@ -26,17 +28,17 @@
               <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V8a2 2 0 00-2-2h-5m-4 0V5a2 2 0 114 0v1m-4 0a2 2 0 104 0m-5 8a2 2 0 100-4 2 2 0 000 4zm0 0c1.306 0 2.417.835 2.83 2M9 14a3.001 3.001 0 00-2.83 2M15 11h3m-3 4h2"></path></svg>
             </div>
             <div class="flex flex-col items-end gap-1.5">
-              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-emerald-100 text-emerald-800">Arrival</span>
-              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-emerald-100 shadow-sm">Essential for everyone</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-emerald-100 text-emerald-800">{de ? <>Ankunft</> : <>Arrival</>}</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-emerald-100 shadow-sm">{de ? <>Für alle notwendig</> : <>Essential for everyone</>}</span>
             </div>
           </div>
-          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">Tax Number (AFM)</h3>
-          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">
+          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">{de ? <>Steuernummer (AFM)</> : <>Tax Number (AFM)</>}</h3>
+          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">{de ? <>Wir bereiten Ihren Antrag auf die Steuernummer (AFM) vor und reichen ihn online ein. Sie ist die Grundlage, um in Griechenland eine Wohnung zu mieten, zu arbeiten und ein Bankkonto zu eröffnen.</> : <>
             We prepare and file your tax number (AFM) application remotely. It is the absolute foundation for renting an apartment, working, and opening a bank account in Greece.
-          </p>
+          </>}</p>
           <div class="w-full mt-auto flex justify-end">
-            <a href="/greece/tax-number-afm/" class="inline-flex items-center text-sm font-bold text-emerald-700 hover:text-emerald-900 transition-colors group-hover:underline">
-              Learn more <svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            <a href="/greece/tax-number-afm/" class="inline-flex items-center text-sm font-bold text-emerald-700 hover:text-emerald-900 transition-colors group-hover:underline">{de ? <>Mehr erfahren </> : <>
+              Learn more </>}<svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
             </a>
           </div>
         </div>
@@ -48,17 +50,17 @@
               <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
             </div>
             <div class="flex flex-col items-end gap-1.5">
-              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-orange-100 text-orange-800">Tax Setup</span>
-              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-orange-100 shadow-sm">For long-term stays</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-orange-100 text-orange-800">{de ? <>Steuern</> : <>Tax Setup</>}</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-orange-100 shadow-sm">{de ? <>Für längere Aufenthalte</> : <>For long-term stays</>}</span>
             </div>
           </div>
-          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">50% Tax Reduction</h3>
-          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">
+          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">{de ? <>50 % weniger Steuern</> : <>50% Tax Reduction</>}</h3>
+          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">{de ? <>Wir erstellen den aufwendigen Antrag nach Artikel 5C und reichen ihn ein – so zahlen Sie legal bis zu 7 Jahre nur die Hälfte der Einkommensteuer. Voraussetzung: In 5 der letzten 6 Jahre nicht in Griechenland steuerlich ansässig.</> : <>
             We file the complex Article 5C application so you legally pay half the income tax for up to 7 years. The best incentive for remote workers.
-          </p>
+          </>}</p>
           <div class="w-full mt-auto flex justify-end">
-            <a href="/greece/50-percent-tax-break/" class="inline-flex items-center text-sm font-bold text-orange-700 hover:text-orange-900 transition-colors group-hover:underline">
-              Learn more <svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            <a href="/greece/50-percent-tax-break/" class="inline-flex items-center text-sm font-bold text-orange-700 hover:text-orange-900 transition-colors group-hover:underline">{de ? <>Mehr erfahren </> : <>
+              Learn more </>}<svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
             </a>
           </div>
         </div>
@@ -70,17 +72,17 @@
               <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
             </div>
             <div class="flex flex-col items-end gap-1.5">
-              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-purple-100 text-purple-800">Ongoing</span>
-              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-purple-100 shadow-sm">Monthly bookkeeping</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-purple-100 text-purple-800">{de ? <>Laufend</> : <>Ongoing</>}</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-purple-100 shadow-sm">{de ? <>Monatliche Buchhaltung</> : <>Monthly bookkeeping</>}</span>
             </div>
           </div>
-          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">Freelancers &amp; Sole Traders</h3>
-          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">
+          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">{de ? <>Selbstständige &amp; Einzelunternehmer</> : <>Freelancers &amp; Sole Traders</>}</h3>
+          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">{de ? <>Monatliche Buchhaltung, myDATA und E-Rechnung, Umsatzsteuer, EFKA und Ihre jährliche Steuererklärung – betreut von unserer staatlich zertifizierten Buchhalterin. Ab 89 €/Monat.</> : <>
             Monthly bookkeeping, myDATA and e-invoicing, VAT, EFKA and your annual tax return, handled by our state-certified accountant in English. From €89/month.
-          </p>
+          </>}</p>
           <div class="w-full mt-auto flex justify-end">
-            <a href="/greece/ongoing-bookkeeping/" class="inline-flex items-center text-sm font-bold text-purple-700 hover:text-purple-900 transition-colors group-hover:underline">
-              Learn more <svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            <a href="/greece/ongoing-bookkeeping/" class="inline-flex items-center text-sm font-bold text-purple-700 hover:text-purple-900 transition-colors group-hover:underline">{de ? <>Mehr erfahren </> : <>
+              Learn more </>}<svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
             </a>
           </div>
         </div>
@@ -92,17 +94,17 @@
               <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path></svg>
             </div>
             <div class="flex flex-col items-end gap-1.5">
-              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-indigo-100 text-indigo-700">Ongoing</span>
-              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-indigo-100 shadow-sm">Setup &amp; bookkeeping</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-indigo-100 text-indigo-700">{de ? <>Laufend</> : <>Ongoing</>}</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-indigo-100 shadow-sm">{de ? <>Gründung &amp; Buchhaltung</> : <>Setup &amp; bookkeeping</>}</span>
             </div>
           </div>
-          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">Companies (IKE &amp; more)</h3>
-          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">
+          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">{de ? <>Firmen (IKE &amp; mehr)</> : <>Companies (IKE &amp; more)</>}</h3>
+          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">{de ? <>Sie gründen oder führen eine griechische Firma? Wir beraten zur passenden Rechtsform, bereiten die Gründung vor und übernehmen doppelte Buchführung, Umsatzsteuer und Jahresabschluss.</> : <>
             Starting or running a Greek company? We advise on the right legal form, prepare the setup and take over double-entry books, VAT and annual accounts, in English.
-          </p>
+          </>}</p>
           <div class="w-full mt-auto flex justify-end">
-            <a href="/greece/ongoing-bookkeeping/#companies" class="inline-flex items-center text-sm font-bold text-indigo-700 hover:text-indigo-900 transition-colors group-hover:underline">
-              Learn more <svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            <a href="/greece/ongoing-bookkeeping/#companies" class="inline-flex items-center text-sm font-bold text-indigo-700 hover:text-indigo-900 transition-colors group-hover:underline">{de ? <>Mehr erfahren </> : <>
+              Learn more </>}<svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
             </a>
           </div>
         </div>
@@ -114,17 +116,17 @@
               <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
             </div>
             <div class="flex flex-col items-end gap-1.5">
-              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-sky-100 text-sky-800">Yearly</span>
-              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-sky-100 shadow-sm">Annual tax return</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold uppercase tracking-wider bg-sky-100 text-sky-800">{de ? <>Jährlich</> : <>Yearly</>}</span>
+              <span class="inline-flex items-center px-2 py-1 rounded-md text-[9px] font-bold bg-white text-slate-500 border border-sky-100 shadow-sm">{de ? <>Jährliche Steuererklärung</> : <>Annual tax return</>}</span>
             </div>
           </div>
-          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">Remote Employees</h3>
-          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">
+          <h3 class="text-lg md:text-xl font-black text-slate-900 mb-2 leading-tight">{de ? <>Remote-Angestellte</> : <>Remote Employees</>}</h3>
+          <p class="text-sm text-slate-600 flex-grow leading-relaxed mb-6">{de ? <>Bei einer Firma im Ausland angestellt? Dann brauchen Sie meist nur die jährliche griechische Steuererklärung. Wir erstellen sie, reichen sie ein und beantragen bei Bedarf Ihre steuerliche Unbedenklichkeitsbescheinigung.</> : <>
             Employed by a company abroad? You usually only need your yearly Greek tax return. We prepare and file it, and get your tax clearance certificates when you need them.
-          </p>
+          </>}</p>
           <div class="w-full mt-auto flex justify-end">
-            <a href="/greece/ongoing-bookkeeping/" class="inline-flex items-center text-sm font-bold text-sky-700 hover:text-sky-900 transition-colors group-hover:underline">
-              Learn more <svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+            <a href="/greece/ongoing-bookkeeping/" class="inline-flex items-center text-sm font-bold text-sky-700 hover:text-sky-900 transition-colors group-hover:underline">{de ? <>Mehr erfahren </> : <>
+              Learn more </>}<svg class="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
             </a>
           </div>
         </div>

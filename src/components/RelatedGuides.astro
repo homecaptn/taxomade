@@ -7,12 +7,17 @@ export interface Props {
   subtitle?: string;
   /** Slugs that are always shown first, regardless of how new other guides are. */
   pinned?: string[];
+  /** 'de' shows the German guides (guides-de, /de/ratgeber/) with German labels. */
+  lang?: 'en' | 'de';
 }
 
-const { category, title = "Still researching?", subtitle = "Read our latest guides and resources on this topic.", pinned = [] } = Astro.props;
+const { category, title = "Still researching?", subtitle = "Read our latest guides and resources on this topic.", pinned = [], lang = 'en' } = Astro.props;
+const de = lang === 'de';
+const base = de ? '/de/ratgeber' : '/guides';
+const deCategoryLabels: Record<string, string> = { dnv: 'Visum', afm: 'Steuernummer', tax: 'Steuern', bookkeeping: 'Buchhaltung', lifestyle: 'Leben' };
 
 // Fetch guides and filter by category
-const allGuides = await getCollection('guides');
+const allGuides = await getCollection(de ? 'guides-de' : 'guides');
 
 // Pinned guides keep their given order and never drop out of the list
 const pinnedGuides = pinned
@@ -42,12 +47,12 @@ if (categoryGuides.length === 0) {
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
       {categoryGuides.map(guide => (
-        <a href={`/guides/${guide.id}/`} class="group block bg-slate-50 rounded-2xl p-6 border border-slate-100 hover:border-blue-200 hover:bg-blue-50/50 transition-all duration-200">
+        <a href={`${base}/${guide.id}/`} class="group block bg-slate-50 rounded-2xl p-6 border border-slate-100 hover:border-blue-200 hover:bg-blue-50/50 transition-all duration-200">
           <div class="flex items-center text-xs font-bold text-slate-500 mb-4 uppercase tracking-wider">
-            <span class="text-blue-800 bg-blue-100 px-2 py-1 rounded">{guide.data.category}</span>
+            <span class="text-blue-800 bg-blue-100 px-2 py-1 rounded">{de ? (deCategoryLabels[guide.data.category] || guide.data.category) : guide.data.category}</span>
             <span class="mx-2">•</span>
             <time datetime={guide.data.pubDate.toISOString()}>
-              {guide.data.pubDate.toLocaleDateString('en-US', {
+              {guide.data.pubDate.toLocaleDateString(de ? 'de-DE' : 'en-US', {
                 month: 'short',
                 day: 'numeric',
                 year: 'numeric'
@@ -60,9 +65,9 @@ if (categoryGuides.length === 0) {
           <p class="text-slate-600 text-sm line-clamp-3">
             {guide.data.description}
           </p>
-          <div class="mt-6 flex items-center text-sm font-bold text-blue-800">
+          <div class="mt-6 flex items-center text-sm font-bold text-blue-800">{de ? <>Ratgeber lesen </> : <>
             Read Guide
-            <svg class="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+            </>}<svg class="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
           </div>
         </a>
       ))}

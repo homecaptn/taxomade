@@ -1,42 +1,22 @@
 ---
-import { getCollection } from 'astro:content';
+// German homepage: same components, order and effects as the English homepage (src/pages/index.astro),
+// rendered with lang="de". The German FAQ (+ FAQPage schema) sits before the guides.
 import Layout from '../../layouts/Layout.astro';
-import GoogleReviews from '../../components/GoogleReviews.astro';
+import Hero from '../../components/Hero.astro';
+import WhatWeDo from '../../components/WhatWeDo.astro';
+import Timeline from '../../components/Timeline.astro';
+import GeneralProcess from '../../components/GeneralProcess.astro';
 import AboutUs from '../../components/AboutUs.astro';
-
-const guides = (await getCollection('guides-de'))
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const categoryLabels = { dnv: 'Visum', afm: 'Steuernummer', tax: 'Steuern', bookkeeping: 'Buchhaltung', lifestyle: 'Leben in Griechenland' };
-const fmtDate = (d) => d.toLocaleDateString('de-DE', { day: 'numeric', month: 'long', year: 'numeric' });
-
-const checkUrl = `https://wa.me/491743426818?text=${encodeURIComponent('Hallo taxomade, ich komme von Ihrer deutschen Website und hätte gern einen kostenlosen Check meiner Situation in Griechenland.')}`;
+import Configurator from '../../components/Configurator.astro';
+import Simplicity from '../../components/Simplicity.astro';
+import Trust from '../../components/Trust.astro';
+import GoogleReviews from '../../components/GoogleReviews.astro';
+import Contact from '../../components/Contact.astro';
+import RelatedGuides from '../../components/RelatedGuides.astro';
 
 const alternates = [
   { lang: 'en', href: '/' },
   { lang: 'de', href: '/de/' },
-];
-
-const services = [
-  { title: 'Steuernummer & Gewerbeanmeldung', text: 'Wir bereiten Ihre Unterlagen für die Steuernummer (AFM) vor, melden Ihre selbstständige Tätigkeit beim Finanzamt an und wählen die passenden Tätigkeitscodes (KAD).' },
-  { title: '5C-Antrag (50 % Steuervorteil)', text: 'Wir prüfen, ob Sie die Voraussetzungen erfüllen, erstellen den Antrag und reichen ihn fristgerecht ein.' },
-  { title: 'Laufende Buchhaltung inkl. myDATA', text: 'Wir melden jede Rechnung in myDATA, halten Ihre Bücher aktuell und behalten alle Fristen im Blick.' },
-  { title: 'Umsatzsteuer', text: 'Wir erstellen Ihre Umsatzsteuer-Erklärungen und reichen sie ein – für Freiberufler in der Regel quartalsweise, auch bei Kunden im Ausland.' },
-  { title: 'Jährliche Steuererklärung', text: 'Wir erstellen Ihre griechische Einkommensteuererklärung (E1/E3) und reichen sie ein – in der Buchhaltung bereits enthalten.' },
-  { title: 'IKE-Betreuung', text: 'Für Ihre griechische Kapitalgesellschaft (IKE): Buchhaltung, Bilanz, Körperschaftsteuer und laufende Meldungen.' },
-];
-
-const audiences = [
-  { title: 'Auswanderer', text: 'Sie ziehen aus Deutschland, Österreich oder der Schweiz nach Griechenland und wollen steuerlich von Anfang an alles richtig machen.' },
-  { title: 'Selbstständige & Freiberufler', text: 'Sie arbeiten auf eigene Rechnung, oft mit Kunden im Ausland, und brauchen eine Buchhaltung, die Sie verstehen.' },
-  { title: 'Angestellte mit Arbeitgeber im Ausland', text: 'Sie arbeiten von Griechenland aus für eine Firma im Ausland und wollen wissen, was das für Steuern und Sozialversicherung bedeutet.' },
-  { title: 'Firmengründer', text: 'Sie gründen eine IKE oder überlegen, ob Einzelunternehmen oder Gesellschaft für Sie besser passt.' },
-];
-
-const steps = [
-  { title: 'Nachricht schreiben', text: 'Sie schildern uns kurz Ihre Situation per WhatsApp oder E-Mail – auf Deutsch.' },
-  { title: 'Kostenloser Check', text: 'Wir sagen Ihnen, was in Ihrem Fall nötig ist, welche Fristen gelten und was es kostet. Schriftlich, ohne Verpflichtung.' },
-  { title: 'Vollmacht & Unterlagen', text: 'Sie erteilen uns die Vollmacht in myAADE und senden die Unterlagen digital. Alles läuft online.' },
-  { title: 'Wir übernehmen', text: 'Wir führen Ihre Buchhaltung, erstellen Umsatzsteuer- und Steuererklärungen und reichen alles fristgerecht ein. Auf Fragen antworten wir am selben Tag.' },
 ];
 
 const faq = [
@@ -72,193 +52,41 @@ const faqSchema = {
     "acceptedAnswer": { "@type": "Answer", "text": item.answer }
   }))
 };
+
 ---
 <Layout title="Steuern & Buchhaltung in Griechenland auf Deutsch | taxomade" description="Buchhaltung ab 89 €/Monat, 5C-Antrag und Steuererklärung in Griechenland – für Auswanderer, Selbstständige und Firmengründer. Auf Deutsch, komplett online." image="/og-default.jpg" lang="de" alternates={alternates}>
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)}></script>
-
-  <!-- Hero -->
-  <section class="relative pt-32 pb-20 md:pt-44 md:pb-28 px-4 sm:px-6 lg:px-8 overflow-hidden border-b border-slate-100 bg-cover bg-center" style="background-image: url('/Greece_View.png');">
-    <div class="absolute inset-0 bg-slate-900/60 pointer-events-none z-0"></div>
-    <div class="max-w-7xl mx-auto relative z-10">
-      <div class="max-w-4xl">
-        <span class="inline-flex items-center px-4 py-2 rounded-full bg-slate-900/80 backdrop-blur-md text-white text-xs md:text-sm font-black uppercase tracking-wider border border-white/20 shadow-sm mb-6">
-          Für Auswanderer, Selbstständige &amp; Firmengründer
-        </span>
-        <h1 class="text-4xl sm:text-5xl md:text-6xl font-black tracking-tight text-white mb-6 leading-[1.1]">
-          Steuern &amp; Buchhaltung in Griechenland – <span class="text-blue-400">auf Deutsch</span>
-        </h1>
-        <p class="text-lg sm:text-xl md:text-2xl text-white/95 mb-8 max-w-2xl font-medium drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">
-          Wir bereiten Ihre Anmeldung vor, erstellen Ihre Erklärungen und reichen sie fristgerecht ein. Betreut von einer staatlich zertifizierten griechischen Buchhalterin, verständlich erklärt und komplett online.
-        </p>
-        <div class="flex flex-col sm:flex-row items-center gap-4">
-          <a href={checkUrl} target="_blank" rel="noopener noreferrer" data-cta="de-home-hero-check" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg text-slate-900 bg-white hover:bg-slate-100 transition-colors duration-200 w-full sm:w-auto shadow-lg">
-            Kostenloser Check per WhatsApp
-          </a>
-          <a href="#leistungen" class="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg text-white bg-slate-900/40 backdrop-blur-sm border-2 border-white/30 hover:bg-slate-900/60 hover:border-white/50 transition-colors duration-200 w-full sm:w-auto">
-            Unsere Leistungen
-          </a>
-        </div>
-        <ul class="mt-10 flex flex-col md:flex-row gap-3 md:gap-8 text-white font-bold text-sm sm:text-base">
-          {['Deutsch, Englisch & Griechisch', 'Antwort am selben Tag', 'Komplett online'].map((t) => (
-            <li class="flex items-center">
-              <svg class="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
-              {t}
-            </li>
-          ))}
-        </ul>
-      </div>
-    </div>
-  </section>
-
-  <!-- Was wir machen -->
-  <section id="leistungen" class="py-20 bg-white">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="text-center max-w-3xl mx-auto mb-12">
-        <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Was wir für Sie tun</h2>
-        <p class="text-lg text-slate-600">Von der ersten Anmeldung bis zur jährlichen Steuererklärung – alles aus einer Hand.</p>
-      </div>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {services.map((s) => (
-          <div class="bg-slate-50 border border-slate-100 rounded-2xl p-6">
-            <h3 class="text-lg font-bold text-slate-900 mb-2">{s.title}</h3>
-            <p class="text-slate-600 text-[15px] leading-relaxed">{s.text}</p>
-          </div>
-        ))}
-      </div>
-      <p class="mt-8 text-sm text-slate-500 text-center max-w-3xl mx-auto">
-        Steuernummern, Genehmigungen und Bescheide werden ausschließlich von den griechischen Behörden erteilt. Wir beraten, bereiten vor, erstellen und reichen ein.
-      </p>
-    </div>
-  </section>
-
-  <!-- Preise -->
-  <section id="preise" class="py-20 bg-slate-50 border-t border-slate-100">
-    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="text-center max-w-3xl mx-auto mb-12">
-        <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Preise</h2>
-        <p class="text-lg text-slate-600">Klare Monatspreise statt Überraschungen.</p>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-        <div class="bg-white border-2 border-slate-900 rounded-2xl p-8 shadow-md">
-          <h3 class="text-xl font-bold text-slate-900 mb-2">Buchhaltung für Selbstständige</h3>
-          <p class="text-4xl font-black text-slate-900 mb-6">ab 89 €<span class="text-lg font-bold text-slate-500">/Monat</span></p>
-          <ul class="space-y-3 text-slate-700">
-            {['myDATA-Meldungen', 'Umsatzsteuer-Erklärungen', 'Jährliche Steuererklärung', 'Ansprechpartner auf Deutsch'].map((t) => (
-              <li class="flex items-start"><svg class="w-5 h-5 mr-2 mt-0.5 text-blue-800 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>{t}</li>
-            ))}
-          </ul>
-        </div>
-        <div class="bg-white border border-slate-200 rounded-2xl p-8">
-          <h3 class="text-xl font-bold text-slate-900 mb-2">IKE-Betreuung</h3>
-          <p class="text-4xl font-black text-slate-900 mb-6">auf Anfrage</p>
-          <p class="text-slate-600 mb-6">Der Aufwand hängt von Umsatz, Mitarbeitern und Geschäftsmodell ab. Nach dem kostenlosen Check erhalten Sie ein konkretes Angebot.</p>
-          <a href={checkUrl} target="_blank" rel="noopener noreferrer" data-cta="de-home-ike-check" class="inline-flex items-center font-bold text-blue-800 hover:text-blue-900">Angebot anfragen →</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Für wen -->
-  <section id="fuer-wen" class="py-20 bg-white border-t border-slate-100">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="text-center max-w-3xl mx-auto mb-12">
-        <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Für wen wir arbeiten</h2>
-        <p class="text-lg text-slate-600">Deutschsprachige, die in Griechenland leben oder dorthin ziehen.</p>
-      </div>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-        {audiences.map((a) => (
-          <div class="border border-slate-200 rounded-2xl p-6">
-            <h3 class="text-lg font-bold text-slate-900 mb-2">{a.title}</h3>
-            <p class="text-slate-600 text-[15px] leading-relaxed">{a.text}</p>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- Über uns + Video -->
-  <div class="border-t border-slate-100">
+  <main class="min-h-screen">
+    <Hero lang="de" />
+    <WhatWeDo lang="de" />
+    <Timeline lang="de" />
+    <GeneralProcess lang="de" />
     <AboutUs lang="de" />
-  </div>
+    <Configurator lang="de" />
+    <Simplicity lang="de" />
 
-  <!-- Ablauf -->
-  <section id="ablauf" class="py-20 bg-white border-t border-slate-100">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="text-center max-w-3xl mx-auto mb-12">
-        <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">So läuft es ab</h2>
-      </div>
-      <ol class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-        {steps.map((s, i) => (
-          <li class="bg-slate-50 border border-slate-100 rounded-2xl p-6">
-            <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-slate-900 text-white font-black mb-4">{i + 1}</span>
-            <h3 class="text-lg font-bold text-slate-900 mb-2">{s.title}</h3>
-            <p class="text-slate-600 text-[15px] leading-relaxed">{s.text}</p>
-          </li>
-        ))}
-      </ol>
-    </div>
-  </section>
+    <Trust lang="de" />
+    <GoogleReviews lang="de" />
+    <Contact lang="de" />
 
-  <GoogleReviews lang="de" />
-
-  <!-- Ratgeber -->
-  {guides.length > 0 && (
-    <section id="ratgeber" class="py-20 bg-white border-t border-slate-100">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center max-w-3xl mx-auto mb-12">
-          <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Ratgeber</h2>
-          <p class="text-lg text-slate-600">Steuern, Buchhaltung und Auswandern nach Griechenland – verständlich erklärt.</p>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {guides.map((g) => (
-            <a href={`/de/ratgeber/${g.id}/`} class="group flex flex-col bg-slate-50 border border-slate-100 rounded-2xl p-6 hover:border-slate-300 hover:shadow-md transition">
-              <span class="text-xs font-bold text-blue-800 uppercase tracking-wider mb-3">{categoryLabels[g.data.category] || g.data.category}</span>
-              <h3 class="text-lg font-bold text-slate-900 mb-2 group-hover:text-blue-800 transition-colors">{g.data.title}</h3>
-              <p class="text-slate-600 text-[15px] leading-relaxed flex-1">{g.data.description}</p>
-              <time class="mt-4 text-sm text-slate-500" datetime={g.data.pubDate.toISOString()}>{fmtDate(g.data.pubDate)}</time>
-            </a>
+    <!-- FAQ (no EN equivalent on the homepage; kept for the German FAQPage schema) -->
+    <section id="faq" class="py-20 bg-slate-50 border-t border-slate-100">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-10 text-center">Häufige Fragen</h2>
+        <div class="space-y-4">
+          {faq.map((item) => (
+            <details class="group bg-white border border-slate-200 rounded-2xl p-6">
+              <summary class="cursor-pointer list-none flex justify-between items-start gap-4 font-bold text-slate-900 text-lg">
+                <h3>{item.question}</h3>
+                <span class="text-blue-800 transition-transform group-open:rotate-45 text-2xl leading-none" aria-hidden="true">+</span>
+              </summary>
+              <p class="mt-4 text-slate-600 leading-relaxed">{item.answer}</p>
+            </details>
           ))}
-        </div>
-        <div class="text-center mt-10">
-          <a href="/de/ratgeber/" class="inline-flex items-center font-bold text-blue-800 hover:text-blue-900">Alle Ratgeber ansehen →</a>
         </div>
       </div>
     </section>
-  )}
 
-  <!-- FAQ -->
-  <section id="faq" class="py-20 bg-slate-50 border-t border-slate-100">
-    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-10 text-center">Häufige Fragen</h2>
-      <div class="space-y-4">
-        {faq.map((item) => (
-          <details class="group bg-white border border-slate-200 rounded-2xl p-6">
-            <summary class="cursor-pointer list-none flex justify-between items-start gap-4 font-bold text-slate-900 text-lg">
-              <h3>{item.question}</h3>
-              <span class="text-blue-800 transition-transform group-open:rotate-45 text-2xl leading-none" aria-hidden="true">+</span>
-            </summary>
-            <p class="mt-4 text-slate-600 leading-relaxed">{item.answer}</p>
-          </details>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- CTA -->
-  <section id="kontakt" class="py-20 bg-white border-t border-slate-100">
-    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="bg-slate-50 p-8 md:p-12 rounded-2xl border border-slate-100 text-center">
-        <h2 class="text-3xl font-bold text-slate-900 mb-3">Kostenloser Check Ihrer Situation</h2>
-        <p class="text-slate-600 mb-8">Schreiben Sie uns kurz, wo Sie stehen – wir antworten am selben Tag, auf Deutsch, Englisch oder Griechisch. Unverbindlich.</p>
-        <div class="flex flex-col sm:flex-row gap-3 justify-center">
-          <a href={checkUrl} target="_blank" rel="noopener noreferrer" data-cta="de-home-free-check" class="inline-flex items-center justify-center whitespace-nowrap px-6 py-4 text-base sm:text-lg font-bold rounded-xl text-white bg-slate-900 hover:bg-blue-800 transition-colors duration-200 shadow-md">
-            Kostenloser Check per WhatsApp
-          </a>
-          <a href="mailto:info@taxomade.com?subject=Kostenloser%20Check" class="inline-flex items-center justify-center whitespace-nowrap px-6 py-4 text-base sm:text-lg font-bold rounded-xl text-slate-900 bg-white border border-slate-200 hover:border-slate-400 transition-colors duration-200">
-            Per E-Mail schreiben
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
+    <RelatedGuides lang="de" title="Aus unserem Ratgeber" subtitle="Unsere neuesten Ratgeber zu Steuern, Buchhaltung und Auswandern nach Griechenland." />
+  </main>
 </Layout>

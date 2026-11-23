@@ -53,16 +53,41 @@ const inactive = 'text-slate-500 hover:text-slate-900 hover:bg-white/60';
         <!-- Language switcher -->
         <nav aria-label={isDe ? 'Sprache wählen' : 'Choose language'} class="mt-6">
           <div class="inline-flex items-center gap-1 rounded-full bg-slate-100 p-1 border border-slate-200/70">
-            <a href={enHref} lang="en" hreflang="en" aria-current={!isDe ? 'true' : undefined} class={`${pill} ${!isDe ? active : inactive}`}>
+            <a href={enHref} lang="en" hreflang="en" data-lang-switch aria-label="English" title="English" aria-current={!isDe ? 'true' : undefined} class={`${pill} ${!isDe ? active : inactive}`}>
               <svg class="w-[18px] h-[13px] rounded-[3px] shadow-[0_0_0_1px_rgba(15,23,42,0.08)] shrink-0" viewBox="0 0 60 30" preserveAspectRatio="none" aria-hidden="true"><clipPath id="fl-gb-c"><path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/></clipPath><path d="M0,0 v30 h60 v-30 z" fill="#012169"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#fl-gb-c)" stroke="#C8102E" stroke-width="4"/><path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/><path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/></svg>
-              English
             </a>
-            <a href={deHref} lang="de" hreflang="de" aria-current={isDe ? 'true' : undefined} class={`${pill} ${isDe ? active : inactive}`}>
+            <a href={deHref} lang="de" hreflang="de" data-lang-switch aria-label="Deutsch" title="Deutsch" aria-current={isDe ? 'true' : undefined} class={`${pill} ${isDe ? active : inactive}`}>
               <svg class="w-[18px] h-[13px] rounded-[3px] shadow-[0_0_0_1px_rgba(15,23,42,0.08)] shrink-0" viewBox="0 0 5 3" preserveAspectRatio="none" aria-hidden="true"><rect width="5" height="1" y="0" fill="#000"/><rect width="5" height="1" y="1" fill="#DD0000"/><rect width="5" height="1" y="2" fill="#FFCE00"/></svg>
-              Deutsch
             </a>
           </div>
         </nav>
+        <script is:inline>
+          // Language switch keeps the relative scroll position (e.g. footer -> footer of the other language).
+          (() => {
+            const KEY = 'taxomade-lang-scroll';
+            document.querySelectorAll('a[data-lang-switch]').forEach((a) => {
+              a.addEventListener('click', () => {
+                try {
+                  const max = document.documentElement.scrollHeight - window.innerHeight;
+                  sessionStorage.setItem(KEY, JSON.stringify({ to: a.pathname, ratio: max > 0 ? window.scrollY / max : 0 }));
+                } catch (e) {}
+              });
+            });
+            let saved = null;
+            try {
+              saved = JSON.parse(sessionStorage.getItem(KEY) || 'null');
+              sessionStorage.removeItem(KEY);
+            } catch (e) {}
+            if (!saved || saved.to !== location.pathname || typeof saved.ratio !== 'number') return;
+            const restore = () => {
+              const max = document.documentElement.scrollHeight - window.innerHeight;
+              window.scrollTo({ top: Math.round(saved.ratio * max), behavior: 'instant' });
+            };
+            try { history.scrollRestoration = 'manual'; } catch (e) {}
+            restore();
+            window.addEventListener('load', restore, { once: true });
+          })();
+        </script>
       </div>
       
       <!-- Services -->
