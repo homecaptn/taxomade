@@ -1,15 +1,27 @@
 ---
+const { lang = 'en' } = Astro.props;
+const de = lang === 'de';
 ---
 <section id="about" class="pt-12 md:pt-20 pb-6 md:pb-8 bg-slate-50">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="max-w-3xl mx-auto text-center mb-16">
-      <span class="text-xs md:text-sm font-bold text-blue-800 uppercase tracking-widest mb-3 md:mb-4 block">About taxomade®</span>
-      <h2 class="text-2xl md:text-4xl font-bold text-slate-900 mb-6 leading-tight">Your partner for relocation and taxes in Greece.</h2>
+      <span class="text-xs md:text-sm font-bold text-blue-800 uppercase tracking-widest mb-3 md:mb-4 block">{de ? 'Über taxomade' : 'About taxomade®'}</span>
+      <h2 class="text-2xl md:text-4xl font-bold text-slate-900 mb-6 leading-tight">{de ? 'Ihr Partner für Auswandern und Steuern in Griechenland.' : 'Your partner for relocation and taxes in Greece.'}</h2>
       
       <div class="prose prose-base md:prose-lg text-slate-600 mb-10 leading-relaxed mx-auto text-left">
-        <p>Moving to a new country as a remote worker or freelancer can be complicated, expensive, and stressful. Language barriers, confusing tax laws, and slow bureaucracy get in the way of a smooth start.</p>
-        <p>taxomade® is the service we wished existed when we relocated ourselves — several times. It's a simple, digital-first partner: we prepare and file your tax registration, visa documents and ongoing bookkeeping for you. And we don't disappear once you've arrived — we stay your long-term partner for anything that comes up.</p>
-        <p>As your dedicated team of licensed professionals, we keep everything transparent, affordable, and fully remote. You focus on your work and life under the Mediterranean sun — we take care of the paperwork.</p>
+        {de ? (
+          <>
+            <p>Der Umzug in ein neues Land ist als Selbstständiger oder Remote-Arbeiter oft kompliziert, teuer und anstrengend. Sprachbarrieren, unübersichtliche Steuerregeln und eine langsame Bürokratie machen den Start schwer.</p>
+            <p>taxomade ist der Service, den wir uns selbst gewünscht hätten, als wir ausgewandert sind – mehrmals. Ein einfacher, digitaler Partner: Wir bereiten Ihre steuerliche Anmeldung, Ihre Visumsunterlagen und Ihre laufende Buchhaltung vor und reichen alles für Sie ein. Und wir sind nach Ihrer Ankunft nicht weg, sondern bleiben langfristig Ihr Ansprechpartner für alles, was anfällt.</p>
+            <p>Als Team aus zugelassenen Fachleuten arbeiten wir transparent, bezahlbar und komplett online. Sie konzentrieren sich auf Ihre Arbeit und Ihr Leben unter der Sonne Griechenlands – wir kümmern uns um den Papierkram.</p>
+          </>
+        ) : (
+          <>
+            <p>Moving to a new country as a remote worker or freelancer can be complicated, expensive, and stressful. Language barriers, confusing tax laws, and slow bureaucracy get in the way of a smooth start.</p>
+            <p>taxomade® is the service we wished existed when we relocated ourselves — several times. It's a simple, digital-first partner: we prepare and file your tax registration, visa documents and ongoing bookkeeping for you. And we don't disappear once you've arrived — we stay your long-term partner for anything that comes up.</p>
+            <p>As your dedicated team of licensed professionals, we keep everything transparent, affordable, and fully remote. You focus on your work and life under the Mediterranean sun — we take care of the paperwork.</p>
+          </>
+        )}
       </div>
       
     </div>
@@ -25,8 +37,8 @@
           </div>
           <div class="text-center px-2">
             <strong class="text-slate-900 block text-base mb-1">Leonard & Manoli</strong>
-            <span class="text-slate-500 text-sm block mb-1">Managing Partners</span>
-            <span class="text-slate-400 text-xs uppercase tracking-wider font-bold">Strategy &middot; Setup &middot; Support</span>
+            <span class="text-slate-500 text-sm block mb-1">{de ? 'Geschäftsführende Partner' : 'Managing Partners'}</span>
+            <span class="text-slate-400 text-xs uppercase tracking-wider font-bold">{de ? 'Strategie · Einrichtung · Betreuung' : 'Strategy · Setup · Support'}</span>
           </div>
         </div>
 
@@ -41,12 +53,12 @@
               playsinline
             >
               <source src="/videos/welcome.mp4#t=0.001" type="video/mp4" />
-              Your browser does not support the video tag.
+              {de ? 'Ihr Browser unterstützt keine Videos.' : 'Your browser does not support the video tag.'}
             </video>
           </div>
           <div class="text-center px-2">
-            <strong class="text-slate-900 block text-base mb-1">Meet the Team</strong>
-            <span class="text-slate-500 text-sm block mb-1">Watch our welcome video</span>
+            <strong class="text-slate-900 block text-base mb-1">{de ? 'Lernen Sie uns kennen' : 'Meet the Team'}</strong>
+            <span class="text-slate-500 text-sm block mb-1">{de ? 'Unser Begrüßungsvideo (auf Englisch)' : 'Watch our welcome video'}</span>
             <span class="text-slate-400 text-xs uppercase tracking-wider font-bold invisible">Placeholder</span>
           </div>
         </div>
@@ -65,18 +77,18 @@
               <div class="relative group/badge inline-block cursor-help">
                 <div class="inline-flex items-center gap-1 bg-emerald-50 text-emerald-700 border border-emerald-200/60 px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wide transition-colors group-hover/badge:bg-emerald-100 group-hover/badge:border-emerald-300">
                   <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                  State-Certified
+                  {de ? 'Staatlich zertifiziert' : 'State-Certified'}
                 </div>
                 <div class="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-56 opacity-0 invisible group-hover/badge:opacity-100 group-hover/badge:visible transition-all duration-200 z-20">
                   <div class="bg-slate-900 text-white text-xs p-2.5 rounded-lg shadow-xl text-center leading-relaxed">
-                    Registered with the Economic Chamber of Greece<br/><span class="text-slate-400 font-mono text-[10px] mt-1 block">License: 0137209</span>
+                    {de ? 'Eingetragen bei der Wirtschaftskammer Griechenlands' : 'Registered with the Economic Chamber of Greece'}<br/><span class="text-slate-400 font-mono text-[10px] mt-1 block">{de ? 'Lizenz' : 'License'}: 0137209</span>
                   </div>
                   <div class="w-2.5 h-2.5 bg-slate-900 transform rotate-45 absolute -bottom-1 left-1/2 -translate-x-1/2"></div>
                 </div>
               </div>
             </div>
-            <span class="text-slate-500 text-sm block mb-1">Accounting</span>
-            <span class="text-slate-400 text-xs uppercase tracking-wider font-bold block">Registrations &middot; Bookkeeping &middot; Tax filings</span>
+            <span class="text-slate-500 text-sm block mb-1">{de ? 'Buchhaltung' : 'Accounting'}</span>
+            <span class="text-slate-400 text-xs uppercase tracking-wider font-bold block">{de ? 'Anmeldungen · Buchhaltung · Steuererklärungen' : 'Registrations · Bookkeeping · Tax filings'}</span>
           </div>
         </div>
 
@@ -91,18 +103,18 @@
               <div class="relative group/badge inline-block cursor-help">
                 <div class="inline-flex items-center gap-1 bg-emerald-50 text-emerald-700 border border-emerald-200/60 px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wide transition-colors group-hover/badge:bg-emerald-100 group-hover/badge:border-emerald-300">
                   <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                  State-Certified
+                  {de ? 'Staatlich zertifiziert' : 'State-Certified'}
                 </div>
                 <div class="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-56 opacity-0 invisible group-hover/badge:opacity-100 group-hover/badge:visible transition-all duration-200 z-20">
                   <div class="bg-slate-900 text-white text-xs p-2.5 rounded-lg shadow-xl text-center leading-relaxed">
-                    Registered with the Athens Bar Association<br/><span class="text-slate-400 font-mono text-[10px] mt-1 block">Official Attorney at Law</span>
+                    {de ? 'Eingetragen bei der Rechtsanwaltskammer Athen' : 'Registered with the Athens Bar Association'}<br/><span class="text-slate-400 font-mono text-[10px] mt-1 block">{de ? 'Zugelassene Rechtsanwältin' : 'Official Attorney at Law'}</span>
                   </div>
                   <div class="w-2.5 h-2.5 bg-slate-900 transform rotate-45 absolute -bottom-1 left-1/2 -translate-x-1/2"></div>
                 </div>
               </div>
             </div>
-            <span class="text-slate-500 text-sm block mb-1">Legal</span>
-            <span class="text-slate-400 text-xs uppercase tracking-wider font-bold">Visas &middot; Permits &middot; Legal filings</span>
+            <span class="text-slate-500 text-sm block mb-1">{de ? 'Recht' : 'Legal'}</span>
+            <span class="text-slate-400 text-xs uppercase tracking-wider font-bold">{de ? 'Visa · Aufenthaltstitel · Rechtliche Anträge' : 'Visas · Permits · Legal filings'}</span>
           </div>
         </div>
       </div>
@@ -114,32 +126,36 @@
         <div class="absolute top-0 right-0 w-32 h-32 bg-blue-500 rounded-bl-full opacity-20 -z-0"></div>
         <div class="absolute top-0 left-0 w-full h-1 bg-emerald-400"></div>
         <div class="p-6 md:p-10 relative z-10">
-          <h3 class="text-sm font-bold text-white uppercase tracking-wider mb-8 border-b border-slate-800 pb-4 text-center">About taxomade</h3>
+          <h3 class="text-sm font-bold text-white uppercase tracking-wider mb-8 border-b border-slate-800 pb-4 text-center">{de ? 'taxomade auf einen Blick' : 'About taxomade'}</h3>
           <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
             <div class="flex flex-col items-center text-center">
               <div class="w-12 h-12 bg-slate-800 text-emerald-400 rounded-xl flex items-center justify-center mb-4 shadow-sm">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
               </div>
-              <span class="font-bold text-white block text-sm mb-1.5">Focus</span>
-              <span class="text-slate-400 text-sm">Freelancers, Remote Workers &amp; Companies</span>
+              <span class="font-bold text-white block text-sm mb-1.5">{de ? 'Fokus' : 'Focus'}</span>
+              <span class="text-slate-400 text-sm">{de ? 'Selbstständige, Remote-Arbeiter & Firmen' : 'Freelancers, Remote Workers & Companies'}</span>
             </div>
             <div class="flex flex-col items-center text-center">
               <div class="w-12 h-12 bg-slate-800 text-blue-400 rounded-xl flex items-center justify-center mb-4 shadow-sm">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
               </div>
-              <span class="font-bold text-white block text-sm mb-1.5">Operations</span>
-              <span class="text-slate-400 text-sm">100% Digital & Remote</span>
+              <span class="font-bold text-white block text-sm mb-1.5">{de ? 'Arbeitsweise' : 'Operations'}</span>
+              <span class="text-slate-400 text-sm">{de ? '100 % digital & online' : '100% Digital & Remote'}</span>
             </div>
             <div class="flex flex-col items-center text-center">
               <div class="w-12 h-12 bg-slate-800 text-purple-400 rounded-xl flex items-center justify-center mb-4 shadow-sm">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
               </div>
-              <span class="font-bold text-white block text-sm mb-1.5">Licensed professionals</span>
-              <span class="text-slate-400 text-sm">Every filing handled by our licensed experts.</span>
+              <span class="font-bold text-white block text-sm mb-1.5">{de ? 'Zugelassene Fachleute' : 'Licensed professionals'}</span>
+              <span class="text-slate-400 text-sm">{de ? 'Jede Einreichung durch unsere zugelassenen Experten.' : 'Every filing handled by our licensed experts.'}</span>
             </div>
           </div>
           <div class="text-center pt-6 border-t border-slate-800">
-            <span class="text-slate-300 text-sm font-medium">🗣️ We speak <strong class="text-white">English, German and Greek</strong>.</span>
+            {de ? (
+              <span class="text-slate-300 text-sm font-medium">🗣️ Wir sprechen <strong class="text-white">Deutsch, Englisch und Griechisch</strong>.</span>
+            ) : (
+              <span class="text-slate-300 text-sm font-medium">🗣️ We speak <strong class="text-white">English, German and Greek</strong>.</span>
+            )}
           </div>
         </div>
       </div>

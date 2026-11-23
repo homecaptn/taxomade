@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import GoogleReviews from '../../components/GoogleReviews.astro';
+import AboutUs from '../../components/AboutUs.astro';
 
 const guides = (await getCollection('guides-de'))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -175,15 +176,20 @@ const faqSchema = {
     </div>
   </section>
 
+  <!-- Über uns + Video -->
+  <div class="border-t border-slate-100">
+    <AboutUs lang="de" />
+  </div>
+
   <!-- Ablauf -->
-  <section id="ablauf" class="py-20 bg-slate-50 border-t border-slate-100">
+  <section id="ablauf" class="py-20 bg-white border-t border-slate-100">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center max-w-3xl mx-auto mb-12">
         <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">So läuft es ab</h2>
       </div>
       <ol class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         {steps.map((s, i) => (
-          <li class="bg-white border border-slate-100 rounded-2xl p-6 shadow-sm">
+          <li class="bg-slate-50 border border-slate-100 rounded-2xl p-6">
             <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-slate-900 text-white font-black mb-4">{i + 1}</span>
             <h3 class="text-lg font-bold text-slate-900 mb-2">{s.title}</h3>
             <p class="text-slate-600 text-[15px] leading-relaxed">{s.text}</p>
