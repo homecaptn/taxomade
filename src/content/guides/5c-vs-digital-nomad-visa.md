@@ -1,8 +1,8 @@
 ---
-title: "Why the Digital Nomad Visa Rules Out the 50% Tax Break (Article 5C)"
-description: "Why Digital Nomad Visa holders cannot use Greece's 50% Article 5C tax break, how DNV income is taxed, and the routes that do qualify."
+title: "5C vs Digital Nomad Visa: Why They Don't Mix (2026)"
+description: "Why Digital Nomad Visa holders cannot use Greece's 50% Article 5C tax break as of 2026, how DNV income is taxed, and the routes that do qualify."
 pubDate: 2026-06-25
-updatedDate: 2026-11-10
+updatedDate: 2026-11-24
 category: "tax"
 image: "/images/guides/dnv_mistakes_hero.png"
 faq:
@@ -31,18 +31,18 @@ The DNV, now regulated in [Article 68 of the Migration Code (Law 5038/2023)](htt
 
 - at least **€3,500 a month** in income (net, after tax, for employees and freelancers alike), plus 20% for a spouse and 15% per child;
 - health insurance and proof of accommodation;
-- a declaration that you will **not work for an employer based in Greece**, and self-employment that is based outside Greece.
+- a declaration that you will **not work for an employer based in Greece**, and that any self-employment serves clients outside Greece.
 
-It starts as a national (Type-D) visa of up to 12 months, applied for at a Greek consulate before you travel (Law 5275/2026), followed by a two-year renewable residence permit.
+It starts as a national (Type-D) visa of up to 12 months, applied for at a Greek consulate before you travel: since Law 5275/2026, applying in Greece after a visa-free or tourist entry is no longer possible. A two-year renewable residence permit can follow, applied for before the visa expires.
 
 ## Why it rules out Article 5C
 
-To qualify for [Article 5C](/guides/50-percent-tax-break-article-5c/), you must:
+To qualify for [Article 5C](/guides/50-percent-tax-break-article-5c/), you must meet all of these conditions ([AADE 5C FAQ](https://aade.gr/sites/default/files/2025-10/FAQS_5G_KFE.pdf)):
 
 1. transfer your tax residence to Greece from an EU/EEA country or a country with a tax cooperation agreement with Greece;
 2. not have been Greek tax resident in five of the previous six years;
 3. declare that you will stay at least two years; and
-4. **take up employment with a Greek legal entity (or the Greek branch of a foreign company), or register your own individual business in Greece.**
+4. **work in Greece as an employee of a Greek legal entity (or a Greek permanent establishment of a foreign company), or carry on your own individual business in Greece.**
 
 The fourth condition is exactly what the DNV excludes. That is why DNV holders cannot use the 50% exemption.
 
@@ -84,4 +84,4 @@ No. EU citizens can live and work in Greece without a visa and can use Article 5
 
 If you are an EU citizen, or already hold a status that allows work in Greece, the [Article 5C tax calculator](/greece/5c-tax-calculator/) shows what the exemption would save you. We prepare and file the 5C application and the ongoing filings as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); send us a message for a free check of your situation.
 
-*Rules as of November 2026 (sources: Law 5038/2023 art. 68 as amended by Law 5275/2026; Income Tax Code art. 5C; AADE 5C FAQ of 2 October 2025).*
+*Rules as of November 2026 (sources: Migration Code (Law 5038/2023) art. 68, as amended by Law 5275/2026; Income Tax Code arts. 4 and 5C; AADE circular E.2224/2021; AADE 5C FAQ of 2 October 2025).*

@@ -1,7 +1,8 @@
 ---
-title: "Greek Pension Tax for Foreign Retirees: 7% vs Normal Scale vs Treaty (2026)"
+title: "Foreign Pension Tax in Greece: Scale vs 7% (2026)"
 description: "How Greece taxes a foreign pension: the normal 9–44% scale, the 7% regime and treaty rules, with worked numbers, a break-even point and when 7% loses."
 pubDate: 2026-11-10
+updatedDate: 2026-11-24
 category: "tax"
 image: "/images/guides/tax_break_hero.png"
 faq:
@@ -17,7 +18,7 @@ faq:
     answer: "Only where the treaty lets both countries tax the pension, or where there is no treaty. Then the foreign tax is credited against the Greek tax on that income, under the normal scale or the 7% regime, but never beyond the Greek tax; the excess is not refunded."
 ---
 
-Once you live in Greece, a foreign pension is taxed on the normal scale, at a flat 7% under Article 5B, or not at all here because the treaty gives it to the paying country. Which applies, and which is cheaper, depends on the pension. This guide runs the numbers. Who qualifies for the 7% and how to apply is covered in [retiring to Greece: the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/).
+Once you live in Greece, a foreign pension is taxed on the normal scale, at a flat 7% under Article 5B, or not at all here because the treaty gives it to the paying country. Which applies, and which is cheaper, depends on the pension. This guide only runs the numbers. Who qualifies for the 7%, the deadlines and how to apply are covered in [retiring to Greece: the 7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/).
 
 ## The short answer
 
@@ -32,7 +33,7 @@ Once you live in Greece, a foreign pension is taxed on the normal scale, at a fl
 
 The treaty between Greece and the paying country decides first. Greek law and the 7% regime only apply to what the treaty leaves to Greece ([Income Tax Code art. 5B(8)](https://www.taxheaven.gr/law/4172/2013/arthro/5Β)). The common patterns:
 
-| Pension | Germany (1966 treaty) | UK (1953 treaty) |
+| Pension | Germany (1966 treaty) | [UK (1953 treaty)](https://assets.publishing.service.gov.uk/media/5a8015c1e5274a2e87db7c35/1953-greece-dtc_-_in_force.pdf) |
 |---|---|---|
 | State pension | Greece only (Art. XII(1)) | Greece only (Art. X)* |
 | Company / private pension | Greece only (Art. XII(1)) | Greece only (Art. X)* |
@@ -40,7 +41,7 @@ The treaty between Greece and the paying country decides first. Greek law and th
 
 \*Under Article X the UK exempts these pensions if they are subject to Greek tax, which includes the 7% regime.
 
-The German public-funds rule applies whatever your nationality; the UK rule does not cover a Greek national who is not also British. US citizens are a special case: the 1950 treaty's saving clause (Art. XIV(1)) lets the US keep taxing them, so they deal with both systems.
+The German public-funds rule applies whatever your nationality; the UK rule does not cover a Greek national who is not also British. US citizens are a special case: the US taxes its citizens wherever they live, so they deal with both systems.
 
 More detail: [Germany–Greece tax treaty](/guides/germany-greece-double-tax-treaty/) and [moving to Greece from the UK](/guides/moving-to-greece-from-uk-tax-guide/).
 
@@ -59,11 +60,11 @@ Pensions fall under the same scale as salaries ([art. 15](https://www.taxheaven.
 
 [Article 16](https://www.taxheaven.gr/law/4172/2013/arthro/16) then reduces the tax on salary and pension income by **€777** for someone without dependent children. Above €12,000 of such income, the credit falls by €20 per €1,000, so it is gone at about €50,850.
 
-One condition comes with the scale: spend 30% of your salary, pension and business income by card or other electronic means (capped at €20,000 of spending). If you fall short, the scale tax rises by 22% of the shortfall ([art. 15(6)](https://www.taxheaven.gr/law/4172/2013/arthro/15)). Anyone aged 70 or over is exempt. The surcharge is added to the scale tax; the 5B rules do not mention it.
+One condition comes with the scale: spend 30% of your salary, pension and business income by card or other electronic means (capped at €20,000 of spending). If you fall short, the scale tax rises by 22% of the shortfall ([art. 15](https://www.taxheaven.gr/law/4172/2013/arthro/15)). Anyone aged 70 or over is exempt. The surcharge is added to the scale tax; the 5B rules do not mention it.
 
 ## Step 3: the 7% regime
 
-Under Article 5B you pay 7% on all foreign-source income, once a year by the last working day of December, with no tax credit. Income a treaty taxes differently, such as a government pension taxable only abroad, is excluded; Greek income stays on the scale ([AADE decision A.1192/2026](https://aade.gr/sites/default/files/2026-09/a1192_2026.pdf), art. 5).
+Under Article 5B you pay 7% on all foreign-source income, once a year by the last working day of December, with no tax credit. Income a treaty taxes differently, such as a government pension taxable only abroad, is excluded; Greek income stays on the scale ([AADE decision A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf), art. 5). The regime runs for 15 tax years, and a revocation is final (art. 6).
 
 ## Worked examples
 
@@ -89,7 +90,7 @@ All four: single, no children, tax resident in Greece, no other income, tax year
 
 ### German civil servant: €32,000 Beamtenpension + €9,000 statutory pension
 
-- The Beamtenpension is taxed only in Germany. Greece neither taxes it nor brings it into the 7%, and the treaty gives Greece no progression clause to count it when setting the rate on the rest.
+- The Beamtenpension is taxed only in Germany. Greece neither taxes it nor brings it into the 7%.
 - On the Greek side only the €9,000 statutory pension counts.
 - Normal scale: 9% of €9,000 = €810, minus credit €777 = **€33**.
 - 7%: **€630**.
@@ -152,4 +153,4 @@ Yes. Under Article XII of the 1966 Germany–Greece treaty, statutory, company a
 
 Only where the treaty lets both countries tax the pension, or where there is no treaty. Then the foreign tax is credited against the Greek tax on that income, under the normal scale or the 7% regime, but never beyond the Greek tax; the excess is not refunded.
 
-*Rules as of November 2026 (sources: Income Tax Code arts. 5B, 9, 15 and 16, as amended by Law 5246/2025 and Law 5313/2026, art. 94; AADE decision A.1192/2026; Germany–Greece treaty of 18 April 1966, arts. XII and XVII; UK–Greece convention of 25 June 1953, arts. VIII, X and XIV; US–Greece convention of 20 February 1950, art. XIV).*
+*Rules as of November 2026 (sources: Income Tax Code arts. 5B, 9, 15 and 16, as amended by Law 5246/2025 and Law 5313/2026, art. 94; AADE decision A.1192/2026; Germany–Greece treaty of 1966, art. XII; UK–Greece convention of 25 June 1953, arts. VIII and X).*
