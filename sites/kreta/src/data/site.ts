@@ -38,6 +38,7 @@ export const LEBEN = [
   { href: '/leben/schulen-kinder/', label: 'Schulen & Kinder', kurz: 'Schulpflicht, griechische und private Schulen' },
   { href: '/leben/arbeiten/', label: 'Arbeiten & Remote Work', kurz: 'Jobs, Selbstständigkeit, Internet, Coworking' },
   { href: '/leben/auto-fuehrerschein/', label: 'Auto & Führerschein', kurz: 'Führerschein, Auto mitbringen, ummelden' },
+  { href: '/leben/hund-katze-mitnehmen/', label: 'Hund & Katze mitnehmen', kurz: 'Einreise, Anmeldung im Register, Kastration, Leishmaniose' },
   { href: '/leben/wetter/', label: 'Wetter & Jahreszeiten', kurz: 'Sommer, Winter, Wind, Wassertemperatur' },
 ];
 
