@@ -4,6 +4,7 @@ description: "myDATA and B2B e-invoicing in Greece explained: what to report, MA
 pubDate: 2026-11-01
 updatedDate: 2026-11-20
 category: "bookkeeping"
+translationOf: "mydata-griechenland-erklaert"
 faq:
   - question: "What is myDATA in Greece?"
     answer: "myDATA (my Digital Accounting and Tax Application) is the electronic books platform of the Greek tax authority AADE. Businesses and freelancers report the data of every invoice they issue, and their expense classifications, to it. AADE uses this data to cross-check tax returns."

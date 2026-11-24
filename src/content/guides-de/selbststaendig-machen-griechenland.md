@@ -49,9 +49,9 @@ Die Beiträge zahlen Sie monatlich mit einem RF-Zahlungscode, fällig bis zum le
 
 ## Rechnungen und myDATA
 
-Griechenland meldet jede Rechnung elektronisch über **myDATA**, die digitalen Bücher der Steuerbehörde (siehe [myDATA erklärt](/guides/mydata-greece-explained/), Englisch).
+Griechenland meldet jede Rechnung elektronisch über **myDATA**, die digitalen Bücher der Steuerbehörde (siehe [myDATA in Griechenland erklärt](/de/ratgeber/mydata-griechenland-erklaert/)).
 
-- **E-Rechnung:** Seit dem 2. November 2026 müssen Rechnungen an griechische Unternehmen und an Unternehmen außerhalb der EU über einen von der AADE zugelassenen Anbieter oder über die kostenlosen Anwendungen timologio oder myDATAapp der AADE ausgestellt werden. Eine Übergangsfrist bis zum 31. Januar 2027 gilt nur für Unternehmen, die ihre Art der Rechnungsstellung rechtzeitig gemeldet haben, mit einem Startdatum spätestens am 2. November 2026. Für die meisten öffentlichen Aufträge ist die E-Rechnung bereits seit dem 1. September 2025 Pflicht. Mehr zur [E-Rechnung in Griechenland](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece) (Englisch).
+- **E-Rechnung:** Seit dem 2. November 2026 müssen Rechnungen an griechische Unternehmen und an Unternehmen außerhalb der EU über einen von der AADE zugelassenen Anbieter oder über die kostenlosen Anwendungen timologio oder myDATAapp der AADE ausgestellt werden. Eine Übergangsfrist bis zum 31. Januar 2027 gilt nur für Unternehmen, die ihre Art der Rechnungsstellung rechtzeitig gemeldet haben, mit einem Startdatum spätestens am 2. November 2026. Für die meisten öffentlichen Aufträge ist die E-Rechnung bereits seit dem 1. September 2025 Pflicht. Mehr zur [E-Rechnung in Griechenland](/de/ratgeber/mydata-griechenland-erklaert/#e-rechnung-b2b-in-griechenland).
 - **timologio:** Mit dem kostenlosen Online-Programm der AADE erstellte Rechnungen werden automatisch an myDATA übertragen; siehe [den Ratgeber zu timologio](/guides/free-invoicing-greece-aade-timologio/) (Englisch).
 
 ## Steuern im Überblick

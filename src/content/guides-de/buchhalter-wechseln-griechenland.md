@@ -100,7 +100,7 @@ Wechseln können Sie an jedem Tag, aber manche Zeitpunkte sind günstiger als an
 
 Nach unserer Erfahrung dauert ein sauberer Wechsel **etwa eine Woche**, sobald Ihre Unterlagen vorliegen. Länger dauert es, wenn Dokumente nur langsam eintreffen oder frühere Erklärungen Fehler enthalten, die erst korrigiert werden müssen. Oft zeigt sich gerade dann, was bisher versäumt wurde, und das ist meist der beste Grund, lieber früher als später zu wechseln.
 
-Wenn Sie Kunden im Ausland haben, lohnt sich vor dem Wechsel ein Blick in unsere Ratgeber zur [Umsatzsteuer für Selbstständige mit ausländischen Kunden](/guides/vat-freelancers-greece-foreign-clients/) und zur [E-Rechnung in Griechenland](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece) (beide auf Englisch). Einen Überblick über alle Abgaben gibt der Ratgeber [Steuern für Selbstständige in Griechenland 2026](/de/ratgeber/steuern-selbststaendige-griechenland-2026/).
+Wenn Sie Kunden im Ausland haben, lohnt sich vor dem Wechsel ein Blick in unsere Ratgeber zur [Umsatzsteuer für Selbstständige mit ausländischen Kunden](/guides/vat-freelancers-greece-foreign-clients/) (auf Englisch) und zur [E-Rechnung in Griechenland](/de/ratgeber/mydata-griechenland-erklaert/#e-rechnung-b2b-in-griechenland). Einen Überblick über alle Abgaben gibt der Ratgeber [Steuern für Selbstständige in Griechenland 2026](/de/ratgeber/steuern-selbststaendige-griechenland-2026/).
 
 ## Häufige Fragen
 
