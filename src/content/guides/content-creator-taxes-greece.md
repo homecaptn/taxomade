@@ -40,7 +40,7 @@ In 2026 the tax authorities are actively checking. According to [Oikonomikos Tac
 
 You register a business activity (έναρξη εργασιών) for a sole proprietorship through [myAADE](https://www.aade.gr/en/node/11660). Three choices matter for creators:
 
-- **Activity codes (KAD).** Since 1 March 2026, Greece uses the new [KAD 2025 list](https://www.aade.gr/allagi-antistoihisi-kad-me-toys-ishyontes-apo-132026), based on the EU's NACE Rev. 2.1. There is no single "influencer" code. You choose a main code and secondary codes that match what you actually sell, for example video production and advertising services.
+- **Activity codes (KAD).** Since 1 March 2026, Greece uses the new [KAD 2025 list](https://www.aade.gr/allagi-antistoihisi-kad-me-toys-ishyontes-apo-132026), based on the EU's NACE Rev. 2.1. There is no single "influencer" code. You choose a main code and secondary codes that match what you actually sell, for example video production and advertising services. If you also build software or websites for clients, the IT codes are in our guide to [taxes for IT freelancers and developers](/guides/it-freelancer-developer-taxes-greece/).
 - **VAT regime.** Normal VAT or the small business exemption (see below).
 - **VIES registration.** Required before your first payout from Google Ireland or any other EU business.
 

@@ -37,7 +37,7 @@ If you work for clients and move your tax residence to Greece, the usual setup i
 It can be done alone, but most newcomers use an accountant for the first registration. The steps:
 
 1. **AFM (tax number):** your foundational number in Greece, applied for online through myAADE. TAXISnet access (the tax portal login) is activated separately. See [what the AFM is](/guides/what-is-greek-afm-number/).
-2. **Business start (έναρξη εργασιών):** you register your activity with the tax authority (AADE) and select your activity codes (KAD), for example software development, consulting or marketing. Registration with the commercial registry (GEMI) is only required if your activity counts as commercial; most freelance professions don't need it.
+2. **Business start (έναρξη εργασιών):** you register your activity with the tax authority (AADE) and select your activity codes (KAD), for example software development, consulting or marketing. Registration with the commercial registry (GEMI) is only required if your activity counts as commercial; most freelance professions don't need it. Developers find the right software codes, and how Upwork, Toptal or Deel payouts are invoiced, in our guide to [taxes for IT freelancers and developers](/guides/it-freelancer-developer-taxes-greece/).
 3. **AMKA and EFKA:** AMKA is your social security number. After the business start, apply to EFKA, the social insurance fund, **by the 10th of the following month**. If you miss it, EFKA registers you itself, normally in class 1. The reduced class is only granted on application and runs for five years from the start of your activity, so applying late shortens it.
 
 ## Monthly costs: EFKA contributions
