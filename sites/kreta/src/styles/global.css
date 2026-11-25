@@ -148,7 +148,7 @@ h1, h2, h3 { letter-spacing: -0.02em; }
 /* Einstieg nach Lebenslage */
 .einstieg { display: grid; grid-template-columns: 1fr; gap: .9rem; list-style: none; padding: 0; margin: 1.2rem 0 2.2rem; }
 @media (min-width: 560px) { .einstieg { grid-template-columns: 1fr 1fr; } }
-@media (min-width: 900px) { .einstieg { grid-template-columns: 1fr 1fr 1fr; } }
+@media (min-width: 900px) { .einstieg { grid-template-columns: 1fr 1fr; } }
 .prose .einstieg li { margin: 0; }
 .einstieg a { display: flex; flex-direction: column; gap: .35rem; height: 100%; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 1.1rem 1.2rem; text-decoration: none; color: var(--ink); box-shadow: var(--shadow); transition: border-color .15s, box-shadow .15s, transform .15s; }
 .einstieg a:hover { border-color: #c9dbe2; box-shadow: 0 8px 24px rgba(18,32,42,.09); transform: translateY(-2px); color: var(--ink); }
@@ -206,3 +206,25 @@ h1, h2, h3 { letter-spacing: -0.02em; }
 .foot-h { font-weight: 600; font-size: .8rem; text-transform: uppercase; letter-spacing: .1em; color: #8aa0aa; margin: 0 0 .7rem; }
 .site-footer .small { color: #9fb0b8; }
 .box ul:last-child, .box ol:last-child { margin-bottom: 0; }
+
+/* Call-to-Action taxomade */
+.hilfe { background: #0f3d4f; color: #e6f1f5; border-radius: var(--radius); padding: 1.5rem 1.5rem 1.2rem; margin: 2.4rem 0; }
+.hilfe-titel { font-size: 1.25rem; font-weight: 700; color: #fff; margin: 0 0 .4rem; letter-spacing: -0.01em; }
+.hilfe ul { margin: .8rem 0 1rem; padding-left: 1.2rem; }
+.hilfe li { margin: .3rem 0; }
+.hilfe li::marker { color: var(--sun); }
+.hilfe .btn { background: var(--sun); color: #1b1404; }
+.hilfe .btn:hover { background: #f0bb4f; color: #1b1404; }
+.hilfe .btn.ghost { background: transparent; color: #fff; border: 1px solid rgba(255,255,255,.5); }
+.hilfe .btn.ghost:hover { background: rgba(255,255,255,.12); }
+.hilfe .small { color: #a9c6d1; margin: .6rem 0 0; }
+.hilfe-btns { margin: 0; }
+.head-cta { display: none; background: var(--sun); color: #1b1404; text-decoration: none; font-weight: 600; font-size: .9rem; padding: .5rem .9rem; border-radius: 9px; white-space: nowrap; }
+.head-cta:hover { background: #f0bb4f; color: #1b1404; }
+@media (min-width: 1100px) { .head-cta { display: inline-block; } }
+.leistungen { display: grid; gap: .9rem; grid-template-columns: 1fr; list-style: none; padding: 0; margin: 1rem 0 1.2rem; }
+@media (min-width: 700px) { .leistungen { grid-template-columns: repeat(2, 1fr); } }
+.leistungen li { background: var(--soft); border-radius: 12px; padding: 1rem 1.1rem; }
+.leistungen strong { display: block; margin-bottom: .2rem; }
+.leistungen span { color: var(--muted); font-size: .95rem; }
+.mehr-btn { margin: .4rem 0 1.4rem; }

@@ -3,7 +3,8 @@ import Base from '../layouts/Base.astro';
 import Cards from '../components/Cards.astro';
 import KretaKarte from '../components/KretaKarte.astro';
 import Wetterleiste from '../components/Wetterleiste.astro';
-import { REGIONEN, LEBEN, EINSTIEG, TAXOMADE } from '../data/site';
+import Hilfe from '../components/Hilfe.astro';
+import { REGIONEN, LEBEN, EINSTIEG, TAXOMADE, KONTAKT } from '../data/site';
 
 const faq = [
   { q: 'Wie viel Geld brauche ich, um auf Kreta zu leben?', a: 'Als Single rechnen Sie 2026 mit rund 1.200 bis 1.900 € im Monat, als Paar mit rund 1.650 bis 2.550 €, jeweils mit Miete und Auto, aber ohne Krankenversicherung und Steuern. Die Miete entscheidet am meisten.' },
@@ -23,17 +24,17 @@ const faq = [
       <img src="/img/balos-1600.webp" alt="Lagune von Balos im Nordwesten Kretas" width="1600" height="1067" fetchpriority="high" />
     </picture>
     <div class="hero-text">
-      <p class="kicker">Ratgeber auf Deutsch</p>
+      <p class="kicker">Der Kreta-Ratgeber auf Deutsch</p>
       <h1>Auswandern nach Kreta 2026</h1>
       <p class="lead">Was das Leben auf Kreta wirklich kostet, welche Gegend zu Ihnen passt und welche Papiere Sie in welcher Reihenfolge brauchen. Ehrlich, auch da, wo es nicht nach Urlaub klingt.</p>
-      <a class="btn" href="#einstieg">Wo stehen Sie gerade?</a>
-      <a class="btn ghost" href="/checkliste/">Checkliste in 10 Schritten</a>
+      <a class="btn" href="/checkliste/">Checkliste in 10 Schritten</a>
+      <a class="btn ghost" href={KONTAKT.call} rel="noopener">Kostenloses Erstgespräch</a>
     </div>
   </div>
 
   <section id="einstieg" aria-labelledby="einstieg-h">
     <h2 id="einstieg-h">Wo stehen Sie gerade?</h2>
-    <p>Wählen Sie Ihre Lebenslage. Wir bringen Sie direkt zu den Seiten, die für Sie zählen.</p>
+    <p>Wählen Sie Ihre Lage. Wir bringen Sie direkt zu dem, was für Sie zählt.</p>
     <ul class="einstieg">
       {EINSTIEG.map((e) => (
         <li>
@@ -47,6 +48,16 @@ const faq = [
       ))}
     </ul>
   </section>
+
+  <h2>Den Papierkram machen wir</h2>
+  <p>Die meisten Auswanderer verlieren die ersten Wochen auf Kreta mit Ämtern, Wartenummern und Formularen auf Griechisch. Das muss nicht sein. Mit unserem Partner taxomade erledigen Sie das Wichtigste, bevor Sie überhaupt da sind.</p>
+  <ul class="leistungen">
+    <li><strong>AFM ohne Behördengang</strong><span>Die griechische Steuernummer, ohne die nichts geht. Online und schon von Deutschland aus.</span></li>
+    <li><strong>Anmeldung und Steuern</strong><span>Steuerwohnsitz, AMKA, 50 % Steuervorteil für Zuzügler oder 7 % für Rentner.</span></li>
+    <li><strong>Haus oder Wohnung kaufen</strong><span>AFM, Konto, Grunderwerbsteuer, E9 und ENFIA. Damit nach dem Notar keine Überraschung kommt.</span></li>
+    <li><strong>Selbstständig oder eigene Firma</strong><span>Geschäftsbeginn, EFKA, myDATA und Buchhaltung auf Deutsch.</span></li>
+  </ul>
+  <p class="mehr-btn"><a class="btn" href={KONTAKT.call} rel="noopener">Kostenloses Erstgespräch buchen</a> <a class="btn ghost" href={KONTAKT.whatsapp} rel="noopener" target="_blank">Per WhatsApp schreiben</a></p>
 
   <h2>Kreta in Kürze</h2>
   <ul>
@@ -87,5 +98,7 @@ const faq = [
   <p>Die <a href="/behoerden-steuern/">Behörden-Seite</a> erklärt AFM, Anmeldung, AMKA, Bankkonto und Selbstständigkeit in einfachen Worten. Für Steuern, Firmengründung und Buchhaltung auf Kreta gibt es den ausführlichen Ratgeber <a href={TAXOMADE.kreta}>Auswandern nach Kreta: Steuern &amp; Anmeldung</a> unseres Partners taxomade.</p>
 
   <h2>Noch Fragen?</h2>
-  <p>Die häufigsten Fragen beantworten wir in den <a href="/faq/">FAQ zum Auswandern nach Kreta</a>.</p>
+  <p>Die häufigsten Fragen beantworten wir in den <a href="/faq/">FAQ zum Auswandern nach Kreta</a>. Oder Sie fragen uns direkt.</p>
+
+  <Hilfe titel="Sie planen den Umzug nach Kreta?" text="Sprechen Sie 30 Minuten kostenlos mit uns. Danach wissen Sie, was Sie selbst erledigen können und wobei wir Ihnen die Arbeit abnehmen." />
 </Base>

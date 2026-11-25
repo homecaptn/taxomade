@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
-import { SITE, NAV, TAXOMADE } from '../data/site';
+import { SITE, NAV, TAXOMADE, KONTAKT } from '../data/site';
+import Hilfe from '../components/Hilfe.astro';
 
 interface Faq { q: string; a: string }
 interface Crumb { href: string; label: string }
@@ -102,11 +103,13 @@ if (faq.length) {
             {NAV.map((n) => <li><a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>)}
           </ul>
         </nav>
+        <a class="head-cta" href={KONTAKT.call} rel="noopener">Hilfe bei AFM &amp; Umzug</a>
         <details class="menu">
           <summary aria-label="Menü öffnen">Menü</summary>
           <nav aria-label="Hauptnavigation mobil">
             <ul>
               {NAV.map((n) => <li><a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>)}
+              <li><a href={KONTAKT.call} rel="noopener"><strong>Hilfe bei AFM &amp; Umzug</strong></a></li>
             </ul>
           </nav>
         </details>
@@ -142,6 +145,8 @@ if (faq.length) {
       <div class="wrap narrow prose">
         <slot />
 
+        {article && !noindex && <Hilfe />}
+
         {faq.length > 0 && (
           <section class="faq" aria-labelledby="faq-h">
             <h2 id="faq-h">Häufige Fragen</h2>
@@ -161,7 +166,7 @@ if (faq.length) {
       <div class="wrap footer-grid">
         <div>
           <p class="logo-foot">Kreta <em>auswandern</em></p>
-          <p class="small">Ratgeber auf Deutsch für alle, die nach Kreta ziehen möchten. Ehrlich, praktisch und ohne Werbung.</p>
+          <p class="small">Der Ratgeber auf Deutsch für alle, die nach Kreta ziehen. Mit taxomade als Partner für AFM, Anmeldung, Steuern und Buchhaltung.</p>
         </div>
         <div>
           <p class="foot-h">Themen</p>
@@ -183,6 +188,8 @@ if (faq.length) {
             <li><a href="/impressum/">Impressum</a></li>
             <li><a href="/datenschutz/">Datenschutz</a></li>
             <li><a href={TAXOMADE.kreta}>taxomade: Steuern &amp; Anmeldung auf Kreta</a></li>
+            <li><a href={KONTAKT.call} rel="noopener">Kostenloses Erstgespräch</a></li>
+            <li><a href={KONTAKT.whatsapp} rel="noopener" target="_blank">WhatsApp</a></li>
           </ul>
         </div>
       </div>

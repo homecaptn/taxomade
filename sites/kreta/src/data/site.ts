@@ -16,6 +16,12 @@ export const TAXOMADE = {
   artikel5c: 'https://taxomade.com/de/ratgeber/steuervorteil-50-prozent-griechenland-artikel-5c/',
 };
 
+export const KONTAKT = {
+  // Kontakt über taxomade: kostenloses 30-Minuten-Gespräch (Calendly) und WhatsApp
+  call: 'https://taxomade.com/call/',
+  whatsapp: 'https://wa.me/491743426818',
+};
+
 export const NAV = [
   { href: '/checkliste/', label: 'Checkliste' },
   { href: '/regionen/', label: 'Regionen' },
@@ -45,10 +51,8 @@ export const LEBEN = [
 
 // Einstieg nach Lebenslage auf der Startseite
 export const EINSTIEG = [
-  { icon: '🧭', titel: 'Ich stehe ganz am Anfang', text: 'Was zuerst? AFM, Wohnung, Konto, Anmeldung in der richtigen Reihenfolge.', href: '/checkliste/', link: 'Zur Checkliste' },
-  { icon: '🌅', titel: 'Ich gehe in Rente', text: 'Krankenkasse mit Formular S1, 7 % Pauschalsteuer, Budget und die richtige Gegend.', href: '/rentner/', link: 'Als Rentner nach Kreta' },
-  { icon: '👨‍👩‍👧', titel: 'Wir ziehen als Familie', text: 'Schulpflicht, griechische und internationale Schulen, Kinderbetreuung.', href: '/leben/schulen-kinder/', link: 'Schulen & Kinder' },
-  { icon: '💻', titel: 'Ich arbeite remote', text: 'Arbeiten für deutsche Kunden oder Arbeitgeber, Internet, Steuern, Coworking.', href: '/leben/arbeiten/', link: 'Arbeiten auf Kreta' },
-  { icon: '📋', titel: 'Ich mache mich selbstständig', text: 'Registrierung bei Finanzamt und EFKA, Firmengründung, Buchhaltung.', href: '/behoerden-steuern/', link: 'Behörden & Steuern' },
-  { icon: '🏡', titel: 'Ich will mieten oder kaufen', text: 'Mietpreise je Region, Ablauf beim Hauskauf und was Sie vorher prüfen.', href: '/leben/wohnung-mieten/', link: 'Wohnen auf Kreta' },
+  { icon: '🧭', titel: 'Ich plane den Umzug', text: 'AFM, Wohnung, Konto, Anmeldung: was zuerst kommt und was Sie schon von Deutschland aus erledigen.', href: '/checkliste/', link: 'Zur Checkliste' },
+  { icon: '🌅', titel: 'Ich gehe in Rente', text: 'Rente, Krankenkasse mit S1, 7 % Pauschalsteuer und die richtige Gegend.', href: '/rentner/', link: 'Als Rentner nach Kreta' },
+  { icon: '💻', titel: 'Ich arbeite von Kreta aus', text: 'Remote für Deutschland oder selbstständig: Steuern, Sozialversicherung, 50 % Steuervorteil.', href: '/leben/arbeiten/', link: 'Arbeiten auf Kreta' },
+  { icon: '🏡', titel: 'Ich will kaufen oder mieten', text: 'Preise je Region, Ablauf beim Hauskauf und die Fallen, die Sie vorher kennen sollten.', href: '/leben/haus-kaufen/', link: 'Haus kaufen' },
 ];
