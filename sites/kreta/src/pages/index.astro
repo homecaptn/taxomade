@@ -3,7 +3,7 @@ import Base from '../layouts/Base.astro';
 import Cards from '../components/Cards.astro';
 import KretaKarte from '../components/KretaKarte.astro';
 import Wetterleiste from '../components/Wetterleiste.astro';
-import Hilfe from '../components/Hilfe.astro';
+import Kontaktformular from '../components/Kontaktformular.astro';
 import { REGIONEN, LEBEN, EINSTIEG, TAXOMADE, KONTAKT } from '../data/site';
 
 const faq = [
@@ -28,7 +28,7 @@ const faq = [
       <h1>Auswandern nach Kreta 2026</h1>
       <p class="lead">Was das Leben auf Kreta wirklich kostet, welche Gegend zu Ihnen passt und welche Papiere Sie in welcher Reihenfolge brauchen. Ehrlich, auch da, wo es nicht nach Urlaub klingt.</p>
       <a class="btn" href="/checkliste/">Checkliste in 10 Schritten</a>
-      <a class="btn ghost" href={KONTAKT.call} rel="noopener">Kostenloses Erstgespräch</a>
+      <a class="btn ghost" href={KONTAKT.formular}>Hilfe anfragen</a>
     </div>
   </div>
 
@@ -57,7 +57,7 @@ const faq = [
     <li><strong>Haus oder Wohnung kaufen</strong><span>AFM, Konto, Grunderwerbsteuer, E9 und ENFIA. Damit nach dem Notar keine Überraschung kommt.</span></li>
     <li><strong>Selbstständig oder eigene Firma</strong><span>Geschäftsbeginn, EFKA, myDATA und Buchhaltung auf Deutsch.</span></li>
   </ul>
-  <p class="mehr-btn"><a class="btn" href={KONTAKT.call} rel="noopener">Kostenloses Erstgespräch buchen</a> <a class="btn ghost" href={KONTAKT.whatsapp} rel="noopener" target="_blank">Per WhatsApp schreiben</a></p>
+  <p class="mehr-btn"><a class="btn" href={KONTAKT.formular}>Anfrage senden</a> <a class="btn ghost" href={KONTAKT.whatsapp} rel="noopener" target="_blank">Per WhatsApp schreiben</a></p>
 
   <h2>Kreta in Kürze</h2>
   <ul>
@@ -100,5 +100,7 @@ const faq = [
   <h2>Noch Fragen?</h2>
   <p>Die häufigsten Fragen beantworten wir in den <a href="/faq/">FAQ zum Auswandern nach Kreta</a>. Oder Sie fragen uns direkt.</p>
 
-  <Hilfe titel="Sie planen den Umzug nach Kreta?" text="Sprechen Sie 30 Minuten kostenlos mit uns. Danach wissen Sie, was Sie selbst erledigen können und wobei wir Ihnen die Arbeit abnehmen." />
+  <h2 id="anfrage">Sie planen den Umzug nach Kreta?</h2>
+  <p>Schreiben Sie uns in einer Minute, was Sie brauchen. Wir melden uns per E-Mail und sagen Ihnen ehrlich, was Sie selbst erledigen können und wobei wir Ihnen die Arbeit abnehmen.</p>
+  <Kontaktformular />
 </Base>

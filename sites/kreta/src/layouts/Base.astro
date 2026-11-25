@@ -103,13 +103,13 @@ if (faq.length) {
             {NAV.map((n) => <li><a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>)}
           </ul>
         </nav>
-        <a class="head-cta" href={KONTAKT.call} rel="noopener">Hilfe bei AFM &amp; Umzug</a>
+        <a class="head-cta" href={KONTAKT.formular}>Hilfe bei AFM &amp; Umzug</a>
         <details class="menu">
           <summary aria-label="Menü öffnen">Menü</summary>
           <nav aria-label="Hauptnavigation mobil">
             <ul>
               {NAV.map((n) => <li><a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>)}
-              <li><a href={KONTAKT.call} rel="noopener"><strong>Hilfe bei AFM &amp; Umzug</strong></a></li>
+              <li><a href={KONTAKT.formular}><strong>Hilfe bei AFM &amp; Umzug</strong></a></li>
             </ul>
           </nav>
         </details>
@@ -188,7 +188,7 @@ if (faq.length) {
             <li><a href="/impressum/">Impressum</a></li>
             <li><a href="/datenschutz/">Datenschutz</a></li>
             <li><a href={TAXOMADE.kreta}>taxomade: Steuern &amp; Anmeldung auf Kreta</a></li>
-            <li><a href={KONTAKT.call} rel="noopener">Kostenloses Erstgespräch</a></li>
+            <li><a href={KONTAKT.formular}>Anfrage senden</a></li>
             <li><a href={KONTAKT.whatsapp} rel="noopener" target="_blank">WhatsApp</a></li>
           </ul>
         </div>

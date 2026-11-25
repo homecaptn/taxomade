@@ -1,0 +1,96 @@
+---
+// Anfrage-Formular. Schickt an die bestehende taxomade-Funktion (gleiche wie auf taxomade.com),
+// die Anfrage landet als E-Mail bei info@taxomade.com, der Absender bekommt eine Bestätigung.
+import { KONTAKT } from '../data/site';
+const THEMEN = ['AFM (Steuernummer)', 'Anmeldung & Steuern', 'Haus oder Wohnung kaufen', 'Selbstständig oder Firma', 'Rente auf Kreta', 'Etwas anderes'];
+const autoresponse = `Hallo,
+
+vielen Dank für Ihre Anfrage über kreta-auswandern.de. Wir haben sie erhalten und melden uns in Kürze persönlich per E-Mail bei Ihnen.
+
+Bis dahin müssen Sie nichts weiter tun. Der Papierkram ist unser Job.
+
+Bis bald
+Leonard & Manoli
+taxomade
+info@taxomade.com`;
+---
+<form class="kformular" data-endpoint={KONTAKT.api} novalidate>
+  <input type="hidden" name="_autoresponse" value={autoresponse} />
+  <div class="k-hp" aria-hidden="true"><label>Bitte leer lassen <input type="text" name="website" tabindex="-1" autocomplete="off" /></label></div>
+
+  <fieldset>
+    <legend>Worum geht es? <span class="k-opt">(mehrere möglich)</span></legend>
+    <div class="k-themen">
+      {THEMEN.map((t) => <label class="k-chip"><input type="checkbox" name="thema" value={t} /> <span>{t}</span></label>)}
+    </div>
+  </fieldset>
+
+  <div class="k-grid">
+    <label>Ihr Name *<input type="text" name="name" required autocomplete="name" /></label>
+    <label>E-Mail *<input type="email" name="email" required autocomplete="email" /></label>
+    <label><span>Telefon oder WhatsApp <span class="k-opt">(optional)</span></span><input type="tel" name="telefon" autocomplete="tel" /></label>
+    <label>Wann ziehen Sie um?
+      <select name="wann">
+        <option value="">Bitte wählen</option>
+        <option>Ich bin schon auf Kreta</option>
+        <option>In den nächsten 3 Monaten</option>
+        <option>In 3 bis 12 Monaten</option>
+        <option>Später oder noch offen</option>
+      </select>
+    </label>
+  </div>
+  <label><span>Ihre Nachricht <span class="k-opt">(optional)</span></span><textarea name="message" rows="4" placeholder="Zum Beispiel: Wir ziehen im Frühjahr nach Chania und brauchen beide eine AFM."></textarea></label>
+  <label class="k-check"><input type="checkbox" name="ok" required /> <span>Ich bin einverstanden, dass meine Angaben zur Beantwortung meiner Anfrage verarbeitet werden. Mehr in der <a href="/datenschutz/">Datenschutzerklärung</a>.</span></label>
+
+  <button class="btn" type="submit">Anfrage senden</button>
+  <p class="k-fehler" role="alert" hidden></p>
+  <p class="small">Wir antworten per E-Mail. Lieber schnell per Chat? <a href={KONTAKT.whatsapp} rel="noopener" target="_blank">Schreiben Sie uns auf WhatsApp</a>.</p>
+</form>
+<div class="k-danke" hidden>
+  <p class="hilfe-titel">Danke, Ihre Anfrage ist da.</p>
+  <p>Wir melden uns in Kürze per E-Mail. Eine Bestätigung ist schon unterwegs, schauen Sie zur Sicherheit auch im Spam-Ordner nach.</p>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLFormElement>('form.kformular').forEach((form) => {
+    const fehler = form.querySelector<HTMLElement>('.k-fehler')!;
+    const danke = form.nextElementSibling as HTMLElement;
+    const btn = form.querySelector<HTMLButtonElement>('button[type=submit]')!;
+    // Thema aus der URL vorauswählen, z. B. /kontakt/?thema=afm
+    const pre = new URLSearchParams(location.search).get('thema');
+    if (pre) form.querySelectorAll<HTMLInputElement>('input[name=thema]').forEach((c) => { if (c.value.toLowerCase().includes(pre.toLowerCase())) c.checked = true; });
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      fehler.hidden = true;
+      const fd = new FormData(form);
+      if (fd.get('website')) return;
+      const name = String(fd.get('name') || '').trim();
+      const email = String(fd.get('email') || '').trim();
+      if (!name || !/^\S+@\S+\.\S+$/.test(email)) { fehler.textContent = 'Bitte geben Sie Ihren Namen und eine gültige E-Mail-Adresse an.'; fehler.hidden = false; return; }
+      if (!fd.get('ok')) { fehler.textContent = 'Bitte bestätigen Sie kurz den Datenschutz-Hinweis.'; fehler.hidden = false; return; }
+      const themen = fd.getAll('thema').join(', ') || 'nicht angegeben';
+      const telefon = String(fd.get('telefon') || '').trim() || 'nicht angegeben';
+      const wann = String(fd.get('wann') || '') || 'nicht angegeben';
+      const daten = {
+        name, email,
+        origin: 'Telefon/WhatsApp: ' + telefon,
+        destination: 'Kreta (Anfrage über kreta-auswandern.de)',
+        message: String(fd.get('message') || '').trim(),
+        configurator_data: `Themen: ${themen}\nUmzug: ${wann}\nSeite: ${location.pathname}`,
+        _autoresponse: fd.get('_autoresponse'),
+      };
+      const alt = btn.textContent;
+      btn.textContent = 'Wird gesendet …'; btn.disabled = true;
+      try {
+        const res = await fetch(form.dataset.endpoint!, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(daten) });
+        if (!res.ok) throw new Error(String(res.status));
+        form.hidden = true; danke.hidden = false;
+      } catch {
+        const text = encodeURIComponent(`Name: ${name}\nE-Mail: ${email}\nTelefon: ${telefon}\nThemen: ${themen}\nUmzug: ${wann}\n\n${daten.message}`);
+        fehler.innerHTML = `Das hat leider nicht geklappt. Schicken Sie uns Ihre Anfrage bitte <a href="mailto:info@taxomade.com?subject=${encodeURIComponent('Anfrage über kreta-auswandern.de')}&body=${text}">per E-Mail</a> oder über WhatsApp.`;
+        fehler.hidden = false; btn.textContent = alt; btn.disabled = false;
+      }
+    });
+  });
+</script>

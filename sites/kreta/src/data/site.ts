@@ -17,8 +17,9 @@ export const TAXOMADE = {
 };
 
 export const KONTAKT = {
-  // Kontakt über taxomade: kostenloses 30-Minuten-Gespräch (Calendly) und WhatsApp
-  call: 'https://taxomade.com/call/',
+  // Anfragen gehen über das Formular an die bestehende taxomade-Funktion (E-Mail an info@taxomade.com)
+  formular: '/kontakt/',
+  api: 'https://taxomade.com/api/submitContactForm',
   whatsapp: 'https://wa.me/491743426818',
 };
 

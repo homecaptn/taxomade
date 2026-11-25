@@ -4,7 +4,7 @@ import { KONTAKT } from '../data/site';
 interface Props { titel?: string; text?: string }
 const {
   titel = 'Keine Lust auf griechische Behörden? Wir erledigen das.',
-  text = 'taxomade kümmert sich auf Deutsch um Ihren Papierkram in Griechenland, komplett aus der Ferne.',
+  text = 'taxomade kümmert sich auf Deutsch um Ihren Papierkram in Griechenland, komplett aus der Ferne. Schreiben Sie uns kurz, was Sie brauchen.',
 } = Astro.props;
 ---
 <aside class="hilfe" aria-label="Hilfe beim Umzug nach Kreta">
@@ -17,8 +17,8 @@ const {
     <li>Selbstständigkeit, Firmengründung und laufende Buchhaltung</li>
   </ul>
   <p class="hilfe-btns">
-    <a class="btn" href={KONTAKT.call} rel="noopener">Kostenloses Erstgespräch buchen</a>
+    <a class="btn" href={KONTAKT.formular}>Anfrage senden</a>
     <a class="btn ghost" href={KONTAKT.whatsapp} rel="noopener" target="_blank">Per WhatsApp schreiben</a>
   </p>
-  <p class="small">30 Minuten, unverbindlich, auf Deutsch.</p>
+  <p class="small">Unverbindlich, auf Deutsch. Sie bekommen eine Antwort per E-Mail, ganz ohne Telefonat.</p>
 </aside>

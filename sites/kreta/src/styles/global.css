@@ -228,3 +228,25 @@ h1, h2, h3 { letter-spacing: -0.02em; }
 .leistungen strong { display: block; margin-bottom: .2rem; }
 .leistungen span { color: var(--muted); font-size: .95rem; }
 .mehr-btn { margin: .4rem 0 1.4rem; }
+
+/* Anfrage-Formular */
+.kformular { display: grid; gap: 1rem; background: var(--soft); border-radius: var(--radius); padding: 1.4rem; margin: 1.2rem 0 2rem; }
+.kformular label { display: grid; gap: .35rem; font-weight: 600; font-size: .95rem; }
+.kformular input[type=text], .kformular input[type=email], .kformular input[type=tel], .kformular select, .kformular textarea { font: inherit; font-weight: 400; padding: .7rem .8rem; border: 1px solid #cfdbe0; border-radius: 10px; background: #fff; width: 100%; box-sizing: border-box; }
+.kformular input:focus, .kformular select:focus, .kformular textarea:focus { outline: 2px solid var(--sea); outline-offset: 1px; border-color: var(--sea); }
+.kformular fieldset { border: 0; padding: 0; margin: 0; }
+.kformular legend { font-weight: 600; font-size: .95rem; margin-bottom: .5rem; }
+.k-opt { font-weight: 400; color: var(--muted); }
+.k-grid { display: grid; gap: 1rem; grid-template-columns: 1fr; }
+@media (min-width: 640px) { .k-grid { grid-template-columns: 1fr 1fr; } }
+.k-themen { display: flex; flex-wrap: wrap; gap: .5rem; }
+.kformular .k-chip { display: inline-flex; align-items: center; gap: .4rem; background: #fff; border: 1px solid #cfdbe0; border-radius: 999px; padding: .45rem .85rem; font-weight: 500; cursor: pointer; }
+.k-chip:has(input:checked) { background: var(--sea-tint); border-color: var(--sea); color: var(--sea-dark); }
+.kformular .k-check { display: flex; gap: .6rem; align-items: flex-start; font-weight: 400; font-size: .9rem; }
+.k-check input { margin-top: .25rem; }
+.kformular .btn { justify-self: start; border: 0; cursor: pointer; font: inherit; font-weight: 600; margin: 0; }
+.k-fehler { color: #a23b1c; font-weight: 500; margin: 0; }
+.kformular .small { margin: 0; }
+.k-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.k-danke { background: var(--sea-tint); border-radius: var(--radius); padding: 1.4rem; margin: 1.2rem 0 2rem; }
+.k-danke .hilfe-titel { color: var(--ink); }
