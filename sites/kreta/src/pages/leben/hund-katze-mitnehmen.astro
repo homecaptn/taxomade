@@ -1,0 +1,110 @@
+---
+import Base from '../../layouts/Base.astro';
+const faq = [
+  { q: 'Muss mein Hund vor der Einreise nach Griechenland gegen Bandwürmer behandelt werden?', a: 'Nein. Die Bandwurmbehandlung vor der Einreise verlangen nur Finnland, Irland, Malta, Norwegen und Nordirland. Für Griechenland reichen Mikrochip, gültige Tollwutimpfung und EU-Heimtierausweis.' },
+  { q: 'Darf ich einen Welpen mitnehmen, der noch nicht gegen Tollwut geimpft ist?', a: 'Nein. Griechenland macht keine Ausnahme für junge, ungeimpfte Tiere. Die erste Tollwutimpfung ist frühestens mit 12 Wochen möglich, danach müssen Sie noch 21 Tage warten. Ein Welpe kann also frühestens mit etwa 15 Wochen einreisen.' },
+  { q: 'Muss ich meinen Hund oder meine Katze in Griechenland anmelden?', a: 'Ja, wenn das Tier dauerhaft mit Ihnen auf Kreta lebt. Alle Hunde und Katzen müssen im nationalen Heimtierregister eingetragen sein. Das macht ein griechischer Tierarzt. Ihre Daten sehen Sie danach auf pet.gov.gr mit Ihren Taxisnet-Zugangsdaten.' },
+  { q: 'Muss ich mein Tier in Griechenland kastrieren lassen?', a: 'Grundsätzlich ja. Das Gesetz 4830/2021 sieht eine Kastrationspflicht für Hunde und Katzen in Privathaltung vor. Wer nicht kastrieren lassen will, braucht eine Ausnahme: Der Tierarzt nimmt dann eine DNA-Probe, die an das Labor der Akademie Athen geht. Lassen Sie sich die Regeln bei der Anmeldung vom Tierarzt erklären.' },
+  { q: 'Ist Leishmaniose auf Kreta ein Risiko?', a: 'Ja. Leishmaniose wird im ganzen Mittelmeerraum von Sandmücken übertragen, vor allem von April bis November in der Dämmerung und nachts. Sprechen Sie vor dem Umzug mit Ihrem Tierarzt über ein abwehrendes Halsband oder Spot-on und über die Impfung.' },
+];
+const sources = [
+  { label: 'Ihr Europa: Reisen mit Haustieren und anderen Tieren in der EU', href: 'https://europa.eu/youreurope/citizens/travel/carry/animal-plant/index_de.htm' },
+  { label: 'pet.gov.gr: Portal zum griechischen Heimtierregister (griechisch)', href: 'https://pet.gov.gr/' },
+  { label: 'pet.gov.gr: Häufige Fragen zum Heimtierregister, Oktober 2025 (PDF, griechisch)', href: 'https://pet.gov.gr/wp-content/uploads/2025/10/Συχνές-Ερωτήσεις-ΥΠΠΚΖΣ.pdf' },
+  { label: 'Gesetz 4830/2021 über Heimtiere, englische Übersetzung von Animal Action Greece (PDF, inoffiziell)', href: 'https://www.animalactiongreece.org/wp-content/uploads/2022/07/Companion-Animal-Law-2021-ENGLISH.pdf' },
+  { label: 'Minoan Lines: Beförderungsbedingungen, Abschnitt Haustiere (englisch)', href: 'https://www.minoan.gr/en/category/123/terms-and-conditions' },
+  { label: 'Proto Thema (28.06.2024): Mit dem Haustier auf der Fähre (englisch)', href: 'https://en.protothema.gr/2024/06/28/how-to-travel-with-your-pet-by-ship/' },
+  { label: 'Proto Thema (09.06.2025): Nationales Heimtierregister, über 1,3 Millionen Tiere erfasst (englisch)', href: 'https://en.protothema.gr/2025/06/09/national-register-of-companion-animals-over-1-3-million-animals-have-been-registered-over-323000-stray-animals/' },
+  { label: 'ESCCAP Deutschland: Leishmaniose beim Hund', href: 'https://www.esccap.de/parasiten/sand-und-stechmuecken/leishmaniose-beim-hund/' },
+  { label: 'ESCCAP Deutschland: Hunde aus dem Ausland, welche Tests sind sinnvoll?', href: 'https://www.esccap.de/hunde-aus-dem-ausland-welche-tests-sind-sinnvoll' },
+];
+---
+<Base
+  title="Hund und Katze nach Kreta mitnehmen: Einreise, Anmeldung, Gesundheit"
+  description="Mit Hund oder Katze nach Kreta auswandern: Mikrochip, Tollwutimpfung und EU-Heimtierausweis, Anreise mit Fähre oder Flugzeug, Pflicht zur Anmeldung im griechischen Heimtierregister, Kastration, Leishmaniose."
+  h1="Hund und Katze nach Kreta mitnehmen"
+  lead="Die Einreise mit Haustier ist innerhalb der EU einfach. Danach gelten auf Kreta aber eigene griechische Pflichten: Anmeldung im Heimtierregister, Kastration und Leinenpflicht. Hier steht, was Sie vor und nach dem Umzug erledigen müssen."
+  crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/hund-katze-mitnehmen/', label: 'Hund & Katze mitnehmen' }]}
+  faq={faq}
+  sources={sources}
+>
+  <h2>Das Wichtigste in Kürze</h2>
+  <ul>
+    <li>Für die Einreise brauchen Hund, Katze oder Frettchen einen <strong>Mikrochip</strong>, eine <strong>gültige Tollwutimpfung</strong> und den <strong>EU-Heimtierausweis</strong>.</li>
+    <li>Nach der ersten Tollwutimpfung müssen Sie <strong>21 Tage warten</strong>, bevor das Tier reisen darf.</li>
+    <li>Wer dauerhaft auf Kreta lebt, lässt das Tier beim griechischen Tierarzt im <strong>nationalen Heimtierregister</strong> eintragen.</li>
+    <li>Griechenland schreibt grundsätzlich die <strong>Kastration</strong> vor, mit Ausnahmen über eine DNA-Probe.</li>
+    <li>Auf Kreta gibt es <strong>Leishmaniose</strong>. Planen Sie den Schutz vor Sandmücken schon vor dem Umzug.</li>
+  </ul>
+
+  <h2>Vor dem Umzug: Papiere aus Deutschland</h2>
+  <p>Für Reisen mit Haustieren zwischen EU-Ländern gelten einheitliche Regeln. Griechenland verlangt darüber hinaus nichts Zusätzliches bei der Einreise. Das brauchen Sie:</p>
+  <ul>
+    <li><strong>Mikrochip:</strong> Er muss vor der Tollwutimpfung gesetzt worden sein, sonst zählt die Impfung nicht. Eine gut lesbare Tätowierung gilt nur, wenn sie vor dem 3. Juli 2011 gemacht wurde.</li>
+    <li><strong>Tollwutimpfung:</strong> Die erste Impfung ist frühestens mit 12 Wochen möglich. Danach gilt eine Wartezeit von 21 Tagen. Wird später rechtzeitig aufgefrischt, entfällt die Wartezeit. Ist die Impfung abgelaufen, beginnt alles neu, mit erneuter Wartezeit.</li>
+    <li><strong>EU-Heimtierausweis:</strong> Den stellt Ihr Tierarzt in Deutschland aus. Darin stehen Chipnummer und Impfungen.</li>
+    <li><strong>Anzahl:</strong> Privat dürfen Sie bis zu fünf Tiere mitnehmen. Bei mehr Tieren gelten die strengeren Regeln für den gewerblichen Transport, außer bei Ausstellungen oder Wettbewerben.</li>
+  </ul>
+  <p>Eine Bandwurmbehandlung ist für Griechenland nicht nötig. Junge Tiere ohne vollständigen Impfschutz dürfen nicht einreisen, Griechenland macht dafür keine Ausnahme.</p>
+  <p>Ein guter Zeitpunkt für den Tierarztbesuch in Deutschland ist zwei bis drei Monate vor dem Umzug. Dann bleibt Zeit für eine fehlende Impfung, die Wartezeit und eine Beratung zum Mückenschutz.</p>
+
+  <h2>Die Anreise: Fähre oder Flugzeug</h2>
+  <h3>Mit der Fähre</h3>
+  <p>Viele Auswanderer fahren mit dem eigenen Auto und nehmen ab Piräus die Nachtfähre nach Heraklion oder Chania. Haustiere sind auf griechischen Fähren erlaubt, aber nicht überall an Bord:</p>
+  <ul>
+    <li>Melden Sie das Tier <strong>bei der Buchung</strong> an. Griechische Reedereien erfassen Haustiere im Buchungssystem und stellen dafür ein eigenes Ticket aus, bei Minoan Lines kostenlos gegen Vorlage von Heimtierausweis und Impfnachweis.</li>
+    <li>Größere Tiere (bei Minoan Lines über 10 kg) bleiben in <strong>Boxen an Deck</strong> oder in einer <strong>Haustierkabine</strong>. Beides ist begrenzt. Wenn alles belegt ist, darf das Tier nicht mit. Buchen Sie deshalb früh.</li>
+    <li>Außerhalb dieser Bereiche gilt meist Leine und Maulkorb. In Restaurants und Bars sind Tiere nicht erlaubt. Kleine Tiere in einer Transportbox dürfen oft in Außenbereiche und Salons.</li>
+    <li>Das Autodeck ist während der Überfahrt gesperrt. Das Tier im Auto zu lassen, ist also keine Lösung für die Nacht.</li>
+    <li>Die Preise unterscheiden sich je nach Reederei. Für 2024 nannte ein Bericht etwa 20 bis 50 € pro Tier und Strecke bei Reedereien, die Gebühren nehmen. Prüfen Sie die aktuellen Bedingungen direkt bei der Reederei.</li>
+  </ul>
+  <h3>Mit dem Flugzeug</h3>
+  <p>Heraklion und Chania haben Direktflüge aus Deutschland. Kleine Tiere reisen bei vielen Airlines in einer Box in der Kabine mit, größere Hunde im Frachtraum. Die Regeln zu Gewicht, Boxgröße und Anzahl der Tiere pro Flug legt jede Airline selbst fest. Fragen Sie vor der Buchung nach, und denken Sie an die Sommerhitze: Ein Transport im Frachtraum ist im Juli und August für das Tier belastend. Fragen Sie die Airline, welche Regeln sie bei Hitze hat.</p>
+  <p>In den Gepäckräumen von Überlandbussen (KTEL) dürfen in Griechenland keine Tiere transportiert werden.</p>
+
+  <h2>Nach der Ankunft: Anmeldung im griechischen Register</h2>
+  <p>Griechenland führt ein <strong>nationales Register für Heimtiere</strong> (Gesetz 4830/2021). Kennzeichnung mit Mikrochip und Eintragung sind für alle Hunde und Katzen Pflicht, auch für Tiere, die mit ihren Besitzern aus dem Ausland zuziehen.</p>
+  <ul>
+    <li><strong>Eintragen kann nur ein Tierarzt.</strong> Sie selbst können Daten im Register nicht ändern. Gehen Sie also nach dem Umzug mit Heimtierausweis und Ausweis zu einer Tierarztpraxis auf Kreta. Bringen Sie auch Ihre griechische Steuernummer (AFM) mit, falls Sie schon eine haben.</li>
+    <li><strong>Eigene Daten ansehen</strong> können Sie danach auf <a href="https://pet.gov.gr/" rel="noopener">pet.gov.gr</a> mit Ihren Taxisnet-Zugangsdaten. Wie Sie die bekommen, steht auf der Seite <a href="/behoerden-steuern/">Behörden & Steuern</a>.</li>
+    <li><strong>Änderungen melden:</strong> Umzug innerhalb Griechenlands oder ein neuer Besitzer müssen innerhalb von 10 Arbeitstagen gemeldet werden, Verlust oder Fund eines Tieres innerhalb von 2 Arbeitstagen. Das geht wieder über den Tierarzt.</li>
+    <li><strong>Mikrochip-Standard:</strong> Ein Chip aus Deutschland erfüllt in aller Regel die ISO-Norm. Tiere aus Ländern außerhalb der EU mit anderem Chip müssen bei einem Aufenthalt von mehr als 90 Tagen neu gechippt werden.</li>
+    <li><strong>Mindestalter:</strong> Besitzer, die ein Tier eintragen lassen, müssen mindestens 18 Jahre alt sein.</li>
+  </ul>
+  <p>Die Tollwutimpfung wird ebenfalls im Register vermerkt. Ist sie abgelaufen, gilt das Tier als ungeimpft. Halten Sie die Auffrischung also auch auf Kreta im Blick.</p>
+
+  <h2>Kastration: die griechische Besonderheit</h2>
+  <p>Anders als in Deutschland gilt in Griechenland grundsätzlich eine <strong>Kastrationspflicht</strong> für Hunde und Katzen in Privathaltung. Hintergrund ist die große Zahl herrenloser Tiere. Das nationale Register zählte 2025 über 323.000 erfasste Streuner.</p>
+  <p>Wer sein Tier nicht kastrieren lassen möchte, braucht eine Ausnahme. Dafür nimmt der Tierarzt eine <strong>DNA-Probe</strong>, die an das Labor der Akademie Athen geschickt wird. Die Kastration oder die Probe trägt der Tierarzt ins Register ein. Fragen Sie bei der Anmeldung, welche Fristen für Ihr Tier gelten. Bei Verstößen gegen das Gesetz drohen Bußgelder.</p>
+
+  <h2>Alltag mit Hund auf Kreta</h2>
+  <ul>
+    <li><strong>Leine:</strong> In der Öffentlichkeit gehören Hunde an die Leine, außer in ausgewiesenen Hundeparks. An Stränden gilt Leinenpflicht außerhalb des Wassers. An organisierten Stränden mit Liegen und Schirmen sind Hunde oft gar nicht erwünscht.</li>
+    <li><strong>Nicht anbinden:</strong> Ein Hund darf nicht dauerhaft angebunden werden und auch auf dem eigenen Grundstück höchstens zwei Stunden am Tag.</li>
+    <li><strong>Hitze:</strong> Im Sommer liegen die Temperaturen oft über 30 Grad. Gassi gehen am frühen Morgen und am Abend, Schatten und Wasser auf dem Grundstück sind Pflicht für das Wohl des Tieres.</li>
+    <li><strong>Mieten mit Tier:</strong> Nicht jeder Vermieter erlaubt Haustiere. Klären Sie das vor der Unterschrift und lassen Sie es in den Vertrag schreiben. Mehr dazu unter <a href="/leben/wohnung-mieten/">Wohnung mieten</a>.</li>
+    <li><strong>Streuner:</strong> Herrenlose Hunde und Katzen gehören auf Kreta zum Alltag, besonders auf dem Land. Halten Sie Ihren Hund an der Leine und gehen Sie Rudeln aus dem Weg.</li>
+  </ul>
+
+  <h2>Gesundheit: Leishmaniose und andere Mittelmeerkrankheiten</h2>
+  <p>Im Mittelmeerraum gibt es Krankheiten, die in Deutschland selten sind. Die wichtigste für Hunde ist die <strong>Leishmaniose</strong>. Sie wird von Sandmücken übertragen, die von April bis November vor allem in der Dämmerung und nachts aktiv sind. Die Krankheit ist schwer zu behandeln, die Erreger verschwinden meist nicht ganz.</p>
+  <p>Die Tierärzte-Organisation ESCCAP empfiehlt:</p>
+  <ul>
+    <li>Den Hund abends und nachts im Haus lassen und Fliegengitter an Fenstern und Türen anbringen.</li>
+    <li>Ein Mittel gegen Mückenstiche (Halsband oder Spot-on) nach Rat des Tierarztes.</li>
+    <li>Eine Impfung gegen Leishmaniose ist in Deutschland erhältlich. Sie sollte mindestens vier Wochen vor der Abreise erfolgen. Sie schützt nicht vollständig, deshalb zusätzlich Mückenschutz verwenden.</li>
+  </ul>
+  <p>Weitere Krankheiten, die in Griechenland vorkommen, sind unter anderem Babesiose, Ehrlichiose und Herzwürmer. Lassen Sie Ihren Hund nach der Ankunft regelmäßig untersuchen. Wenn Sie auf Kreta einen Hund aus dem Tierschutz aufnehmen, sind Bluttests nach einigen Wochen sinnvoll, weil frische Infektionen erst später nachweisbar sind.</p>
+  <p>Für Katzen gelten dieselben Einreiseregeln. Auch sie sollten Sie gegen Parasiten schützen und impfen lassen.</p>
+
+  <h2>Checkliste</h2>
+  <ol>
+    <li>Zwei bis drei Monate vorher: Tierarzt in Deutschland, Chip prüfen, Tollwutimpfung, Heimtierausweis, Mückenschutz besprechen.</li>
+    <li>Anreise buchen und das Tier dabei anmelden. Für Fähren früh eine Haustierkabine oder Box sichern.</li>
+    <li>Wohnung oder Haus nur mit schriftlicher Erlaubnis für Haustiere mieten.</li>
+    <li>Nach der Ankunft: mit dem Tier zum Tierarzt auf Kreta, Eintrag ins Heimtierregister.</li>
+    <li>Kastration oder Ausnahme mit dem Tierarzt klären.</li>
+    <li>Taxisnet-Zugang einrichten und die Daten auf pet.gov.gr prüfen.</li>
+  </ol>
+  <p>Für alle anderen Schritte beim Umzug hilft die <a href="/checkliste/">Checkliste in 10 Schritten</a>.</p>
+</Base>
