@@ -1,7 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Partner from '../../components/Partner.astro';
-import { Q2 } from '../../data/quellen';
 import { TAXOMADE } from '../../data/site';
 const faq = [
   { q: 'Darf ich als Deutscher auf Kreta arbeiten?', a: 'Ja. Als EU-Bürger brauchen Sie keine Arbeitserlaubnis. Für eine Anstellung brauchen Sie AFM und AMKA, der Arbeitgeber meldet Sie bei der Sozialversicherung an.' },
@@ -16,14 +15,13 @@ const faq = [
   lead="Die meisten Jobs auf Kreta hängen am Tourismus. Wer sein Einkommen mitbringt, als Remote-Arbeiter oder Selbstständiger, hat es deutlich leichter."
   crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/arbeiten/', label: 'Arbeiten & Remote Work' }]}
   faq={faq}
-  sources={[Q2.euWork, Q2.eures, Q2.dypa, Q2.efka, Q2.aade]}
 >
   <h2>Der Arbeitsmarkt auf Kreta</h2>
   <p>Tourismus, Landwirtschaft und Handel prägen die Wirtschaft. Viele Stellen sind saisonal von etwa April bis Oktober. Deutsch ist in Hotels, bei Reiseveranstaltern, in Callcentern und Immobilienbüros gefragt. Die Löhne liegen deutlich unter dem deutschen Niveau. Ohne Griechisch sind dauerhafte Stellen außerhalb des Tourismus schwer zu finden.</p>
   <p>Stellen finden Sie über EURES, die griechische Arbeitsagentur DYPA, lokale Jobportale und vor allem über persönliche Kontakte.</p>
 
   <h2>Remote für einen deutschen Arbeitgeber</h2>
-  <p>Für viele die attraktivste Lösung. Klären Sie vorher schriftlich mit Ihrem Arbeitgeber:</p>
+  <p>Klingt ideal, scheitert aber oft am Arbeitgeber. Wer dauerhaft von Kreta aus arbeitet, ist in Griechenland steuerpflichtig und gehört nach EU-Recht in die griechische Sozialversicherung. Dafür müsste sich Ihre Firma in Griechenland registrieren und Beiträge abführen, und das lehnen viele deutsche Firmen ab. Der häufige Ausweg: Sie machen sich selbstständig und stellen Ihrem bisherigen Arbeitgeber Rechnungen. Klären Sie vorher schriftlich:</p>
   <ul>
     <li><strong>Sozialversicherung:</strong> Bleiben Sie in Deutschland versichert (A1-Bescheinigung) oder wechseln Sie ins griechische System?</li>
     <li><strong>Steuern:</strong> Wo wird Ihr Gehalt versteuert? Nach dem Doppelbesteuerungsabkommen entscheidet in der Regel, wo Sie wohnen und arbeiten.</li>
@@ -31,10 +29,10 @@ const faq = [
   </ul>
 
   <h2>Selbstständig auf Kreta</h2>
-  <p>Wer selbstständig arbeitet, eröffnet seine Tätigkeit beim Finanzamt, meldet sich bei der EFKA an und zahlt monatliche Sozialversicherungsbeiträge. Rechnungen werden elektronisch an die Steuerverwaltung gemeldet (myDATA). In den meisten Fällen brauchen Sie dafür eine Buchhalterin oder einen Buchhalter.</p>
+  <p>Wer selbstständig arbeitet, eröffnet seine Tätigkeit beim Finanzamt, meldet sich bei der EFKA an und zahlt monatliche Sozialversicherungsbeiträge, in den ersten fünf Jahren ab rund 160 € im Monat. Rechnungen werden elektronisch an die Steuerverwaltung gemeldet (myDATA). In den meisten Fällen brauchen Sie dafür eine Buchhalterin oder einen Buchhalter.</p>
 
   <Partner href={TAXOMADE.selbststaendig} title="Steuern für Selbstständige in Griechenland 2026">
-    Wie Selbstständige in Griechenland besteuert werden und welche Vorteile es für Zuzügler gibt, erklärt taxomade ausführlich.
+    Wie Selbstständige in Griechenland besteuert werden und wie Sie sieben Jahre lang nur die Hälfte versteuern, erklärt taxomade ausführlich.
   </Partner>
 
   <h2>Internet und Coworking</h2>
@@ -44,4 +42,5 @@ const faq = [
     <li>Coworking-Räume gibt es vor allem in Chania und Heraklion, dazu Cafés, in denen Arbeiten am Laptop üblich ist.</li>
     <li>Stromausfälle sind selten, kommen bei Unwettern aber vor. Eine kleine USV für Router und Laptop lohnt sich.</li>
   </ul>
+  <p>Weiterlesen: <a href="/behoerden-steuern/">Behörden & Steuern</a> · <a href="/leben/lebenshaltungskosten/">Lebenshaltungskosten</a> · <a href="/regionen/chania/">Chania für Remote-Arbeiter</a></p>
 </Base>

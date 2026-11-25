@@ -1,6 +1,5 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { Q, Q2 } from '../../data/quellen';
 import Wetterleiste from '../../components/Wetterleiste.astro';
 const faq = [
   { q: 'Wie kalt wird es auf Kreta im Winter?', a: 'An der Küste liegen die Tageswerte im Winter meist bei etwa 12 bis 17 °C, nachts kann es deutlich kühler werden. In den Bergen schneit es regelmäßig. Weil viele Häuser kaum isoliert sind, fühlt sich der Winter drinnen oft kälter an als draußen.' },
@@ -16,7 +15,6 @@ const faq = [
   lead="Im Urlaub sehen Sie den Sommer. Wer auf Kreta lebt, erlebt auch Winterstürme, Saharastaub und Hitzewellen. So sieht das Jahr wirklich aus."
   crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/wetter/', label: 'Wetter & Jahreszeiten' }]}
   faq={faq}
-  sources={[Q.meteo, Q2.emy]}
 >
   <Wetterleiste />
 
@@ -30,7 +28,7 @@ const faq = [
       <tr><td>Oktober bis November</td><td>Warm, Meer noch badewarm, erste kräftige Regenfälle</td></tr>
     </tbody>
   </table>
-  <p class="small">Ungefähre Werte, die je nach Ort und Jahr deutlich abweichen. Aktuelle Daten und Klimastatistiken: meteo.gr und der griechische Wetterdienst EMY.</p>
+  <p class="small">Ungefähre Werte, die je nach Ort und Jahr deutlich abweichen.</p>
 
   <h2>Wind</h2>
   <p>Im Sommer weht oft der Meltemi aus Norden. Er kühlt, kann aber tagelang kräftig blasen, besonders an der Nordküste und im Osten. Im Frühjahr und Herbst bringt Südwind (Schirokko) warme Luft und Staub aus Afrika.</p>

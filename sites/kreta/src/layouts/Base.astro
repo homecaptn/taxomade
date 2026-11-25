@@ -1,8 +1,8 @@
 ---
 import '../styles/global.css';
-import { SITE, NAV } from '../data/site';
+import { SITE, NAV, TAXOMADE, KONTAKT } from '../data/site';
+import Hilfe from '../components/Hilfe.astro';
 
-interface Source { label: string; href: string }
 interface Faq { q: string; a: string }
 interface Crumb { href: string; label: string }
 
@@ -12,7 +12,6 @@ interface Props {
   h1?: string;
   lead?: string;
   crumbs?: Crumb[];
-  sources?: Source[];
   faq?: Faq[];
   article?: boolean;
   noindex?: boolean;
@@ -23,12 +22,21 @@ interface Props {
   imagePos?: string;
 }
 
-const { title, description, h1, lead, crumbs = [], sources = [], faq = [], article = true, noindex = false, image, imageAlt = '', imagePos = 'center' } = Astro.props;
+const { title, description, h1, lead, crumbs = [], faq = [], article = true, noindex = false, image, imageAlt = '', imagePos = 'center' } = Astro.props;
 const ogImage = new URL(`/img/og/${image ?? 'balos'}.jpg`, SITE.url).href;
 const canonical = new URL(Astro.url.pathname, SITE.url).href;
 const path = Astro.url.pathname;
 
 const schemas: any[] = [];
+if (path === '/') {
+  schemas.push({
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: SITE.name,
+    url: SITE.url,
+    inLanguage: 'de',
+  });
+}
 if (crumbs.length) {
   schemas.push({
     '@context': 'https://schema.org',
@@ -95,11 +103,13 @@ if (faq.length) {
             {NAV.map((n) => <li><a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>)}
           </ul>
         </nav>
+        <a class="head-cta" href={KONTAKT.formular}>Hilfe bei AFM &amp; Umzug</a>
         <details class="menu">
           <summary aria-label="Menü öffnen">Menü</summary>
           <nav aria-label="Hauptnavigation mobil">
             <ul>
               {NAV.map((n) => <li><a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>)}
+              <li><a href={KONTAKT.formular}><strong>Hilfe bei AFM &amp; Umzug</strong></a></li>
             </ul>
           </nav>
         </details>
@@ -129,13 +139,13 @@ if (faq.length) {
             )}
             <h1>{h1}</h1>
             {lead && <p class="lead">{lead}</p>}
-            {article && <p class="stand">Stand: {SITE.stand} · geprüft anhand offizieller Quellen</p>}
           </div>
-          {image && imageAlt && <p class="ph-credit">Foto: {imageAlt} · Pexels</p>}
         </div>
       )}
       <div class="wrap narrow prose">
         <slot />
+
+        {article && !noindex && <Hilfe />}
 
         {faq.length > 0 && (
           <section class="faq" aria-labelledby="faq-h">
@@ -149,15 +159,6 @@ if (faq.length) {
           </section>
         )}
 
-        {sources.length > 0 && (
-          <section class="sources" aria-labelledby="src-h">
-            <h2 id="src-h">Quellen</h2>
-            <ul>
-              {sources.map((s) => <li><a href={s.href} rel="noopener" target="_blank">{s.label}</a></li>)}
-            </ul>
-            <p class="small">Diese Seite ersetzt keine Rechts- oder Steuerberatung. Regeln und Preise ändern sich. Bitte prüfen Sie wichtige Punkte vor einer Entscheidung bei der zuständigen Stelle.</p>
-          </section>
-        )}
       </div>
     </main>
 
@@ -165,17 +166,19 @@ if (faq.length) {
       <div class="wrap footer-grid">
         <div>
           <p class="logo-foot">Kreta <em>auswandern</em></p>
-          <p class="small">Unabhängiger Ratgeber auf Deutsch für alle, die nach Kreta ziehen möchten. Ohne Werbung, mit Quellen und Stand-Datum.</p>
+          <p class="small">Der Ratgeber auf Deutsch für alle, die nach Kreta ziehen. Mit taxomade als Partner für AFM, Anmeldung, Steuern und Buchhaltung.</p>
         </div>
         <div>
           <p class="foot-h">Themen</p>
           <ul>
             <li><a href="/checkliste/">Checkliste in 10 Schritten</a></li>
+            <li><a href="/leben/vor-und-nachteile/">Vor- und Nachteile</a></li>
+            <li><a href="/leben/lebenshaltungskosten/">Lebenshaltungskosten</a></li>
+            <li><a href="/rentner/">Als Rentner nach Kreta</a></li>
             <li><a href="/regionen/">Regionen</a></li>
             <li><a href="/leben/">Leben auf Kreta</a></li>
             <li><a href="/behoerden-steuern/">Behörden & Steuern</a></li>
             <li><a href="/faq/">FAQ</a></li>
-            <li><a href="/community/">Community</a></li>
           </ul>
         </div>
         <div>
@@ -184,7 +187,9 @@ if (faq.length) {
             <li><a href="/ueber-uns/">Über uns</a></li>
             <li><a href="/impressum/">Impressum</a></li>
             <li><a href="/datenschutz/">Datenschutz</a></li>
-            <li><a href="https://taxomade.com/de/ratgeber/umzug-griechenland-aus-deutschland-steuern/">taxomade: Partner für Steuern &amp; Buchhaltung</a></li>
+            <li><a href={TAXOMADE.kreta}>taxomade: Steuern &amp; Anmeldung auf Kreta</a></li>
+            <li><a href={KONTAKT.formular}>Anfrage senden</a></li>
+            <li><a href={KONTAKT.whatsapp} rel="noopener" target="_blank">WhatsApp</a></li>
           </ul>
         </div>
       </div>

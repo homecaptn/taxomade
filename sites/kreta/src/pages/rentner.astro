@@ -1,0 +1,70 @@
+---
+import Base from '../layouts/Base.astro';
+import Partner from '../components/Partner.astro';
+import { TAXOMADE } from '../data/site';
+
+const faq = [
+  { q: 'Bekomme ich meine deutsche Rente auf Kreta?', a: 'Ja. Die Deutsche Rentenversicherung zahlt Ihre Rente in jedes EU-Land, auf ein deutsches oder ein griechisches Konto. Einmal im Jahr schicken Sie eine Lebensbescheinigung zurück, sonst wird die Zahlung gestoppt.' },
+  { q: 'Wie bin ich als Rentner auf Kreta krankenversichert?', a: 'Wer in Deutschland gesetzlich versichert ist und nur eine deutsche Rente bezieht, bleibt bei seiner Krankenkasse. Mit dem Formular S1 meldet er sich bei der griechischen Sozialversicherung EFKA an und nutzt das öffentliche System. Privat Versicherte bekommen kein S1 und behalten in der Regel ihre private Versicherung.' },
+  { q: 'Wie wird meine deutsche Rente in Griechenland besteuert?', a: 'Die gesetzliche Rente wird in der Regel in Griechenland besteuert, wenn Sie dort wohnen. Beamtenpensionen bleiben in Deutschland steuerpflichtig. Neue Zuzügler können statt der normalen Steuer bis zu 15 Jahre lang pauschal 7 % auf alle ausländischen Einkünfte zahlen. Der Antrag muss bis zum 31. Oktober gestellt werden.' },
+  { q: 'Wie viel Geld brauche ich als Rentnerpaar auf Kreta?', a: 'Rechnen Sie 2026 mit rund 1.650 bis 2.550 € im Monat für Miete, Strom, Lebensmittel, Auto und Freizeit. Mit eigenem, abbezahltem Haus deutlich weniger. Steuern und eine eventuelle private Krankenversicherung kommen dazu.' },
+];
+---
+<Base
+  image="agios-nikolaos"
+  imageAlt="Agios Nikolaos mit dem Voulismeni-See"
+  title="Als Rentner nach Kreta: Rente, Krankenkasse, 7 % Steuer"
+  description="Als Rentner nach Kreta: Wie Ihre deutsche Rente gezahlt und besteuert wird, Krankenversicherung mit S1, 7 % Pauschalsteuer, Kosten pro Monat und die beste Gegend."
+  h1="Als Rentner nach Kreta auswandern"
+  lead="Kreta ist bei deutschen Rentnern beliebt, und das zu Recht: mildes Klima, gutes Essen, ruhiges Leben. Damit es so bleibt, sollten Sie Rente, Krankenkasse und Steuern vor dem Umzug klären."
+  crumbs={[{ href: '/rentner/', label: 'Als Rentner nach Kreta' }]}
+  faq={faq}
+>
+  <div class="box"><p><strong>Kurz gesagt:</strong> Ihre Rente kommt auch auf Kreta an. Gesetzlich Versicherte nehmen ihre Krankenkasse mit dem Formular S1 mit. Steuern zahlen Sie meist in Griechenland, mit der Möglichkeit, 15 Jahre lang nur 7 % zu zahlen. Wohnen Sie in der Nähe eines Krankenhauses.</p></div>
+
+  <h2>Die Rente: Auszahlung und Lebensbescheinigung</h2>
+  <ul>
+    <li>Die Deutsche Rentenversicherung zahlt auf ein deutsches oder ein griechisches Konto. Viele behalten das deutsche Konto und überweisen nach Bedarf.</li>
+    <li>Teilen Sie Ihrer Rentenversicherung die neue Adresse mit, bevor Sie umziehen.</li>
+    <li>Einmal im Jahr kommt die Lebensbescheinigung per Post. Unterschreiben lassen, zum Beispiel beim KEP-Bürgerbüro, und pünktlich zurückschicken.</li>
+    <li>Betriebsrenten und private Renten laufen ebenfalls weiter. Fragen Sie beim Anbieter nach, ob er ins Ausland zahlt.</li>
+  </ul>
+
+  <h2>Krankenversicherung mit Formular S1</h2>
+  <table>
+    <thead><tr><th>Ihre Situation</th><th>Was gilt</th></tr></thead>
+    <tbody>
+      <tr><td>Gesetzlich versichert, nur deutsche Rente</td><td>Formular S1 bei der Krankenkasse beantragen, bei der EFKA auf Kreta anmelden. Ihre Kasse zahlt, Sie nutzen das griechische System.</td></tr>
+      <tr><td>Privat versichert</td><td>Kein S1. Private Versicherung behalten und klären, ob sie weltweit oder in der EU gilt.</td></tr>
+      <tr><td>Deutsche und griechische Rente</td><td>Meist zuständig ist das Land, in dem Sie wohnen. Vorher bei der Krankenkasse klären.</td></tr>
+    </tbody>
+  </table>
+  <p>Ehrlich gesagt: Das öffentliche System auf Kreta hat lange Wartezeiten bei Fachärzten. Viele Rentner gehen zusätzlich privat zum Arzt oder schließen eine private Zusatzversicherung ab. Mehr unter <a href="/leben/aerzte-krankenversicherung/">Ärzte & Krankenversicherung</a>.</p>
+
+  <h2>Pflege</h2>
+  <p>Pflegegeld aus der deutschen Pflegeversicherung wird auch im EU-Ausland gezahlt, Pflegesachleistungen wie ein Pflegedienst dagegen nicht. Professionelle Pflegedienste und Heime sind auf Kreta selten und oft privat zu zahlen. Denken Sie schon beim Umzug daran, wie Sie in zehn oder fünfzehn Jahren leben möchten.</p>
+
+  <h2>Steuern auf die Rente</h2>
+  <p>Wer auf Kreta lebt, ist in Griechenland steuerpflichtig. Nach dem Doppelbesteuerungsabkommen wird die gesetzliche Rente dann in der Regel in Griechenland besteuert. Beamtenpensionen bleiben in Deutschland steuerpflichtig.</p>
+  <p><strong>Die 7-%-Regel:</strong> Wer eine ausländische Rente bezieht und in fünf der letzten sechs Jahre nicht in Griechenland steuerpflichtig war, kann bis zu 15 Jahre lang pauschal 7 % auf alle ausländischen Einkünfte zahlen. Der Antrag muss bis zum 31. Oktober gestellt werden. Bei kleinen Renten bringt das wenig, weil die normale griechische Steuer dann ohnehin niedrig ist. Rechnen Sie es vorher durch.</p>
+  <Partner href={TAXOMADE.kreta} title="Auswandern nach Kreta: Steuern &amp; Anmeldung 2026">
+    Wie die Rente besteuert wird und wann sich die 7-%-Regel lohnt, erklärt taxomade ausführlich.
+  </Partner>
+
+  <h2>Was das Leben kostet</h2>
+  <p>Als Paar rechnen Sie 2026 mit rund <strong>1.650 bis 2.550 € im Monat</strong> inklusive Miete und Auto. Mit einem eigenen, abbezahlten Haus sind es oft unter 1.500 €. Dazu kommen Steuern und, wenn nötig, eine private Krankenversicherung. Die Aufstellung finden Sie unter <a href="/leben/lebenshaltungskosten/">Lebenshaltungskosten</a>.</p>
+
+  <h2>Wo Rentner auf Kreta gut leben</h2>
+  <ul>
+    <li><strong>Nah am Krankenhaus:</strong> Heraklion, Chania, Rethymno und Agios Nikolaos haben Krankenhäuser, Heraklion die Uniklinik.</li>
+    <li><strong>Apokoronas bei Chania</strong> (Kalyves, Almyrida, Vamos): viele Europäer, Dörfer mit Infrastruktur, 30 Minuten zum Flughafen.</li>
+    <li><strong>Agios Nikolaos und Elounda:</strong> ruhiger Osten, gute Versorgung, etwas günstiger.</li>
+    <li><strong>Ierapetra:</strong> der mildeste Winter der Insel, aber weit von Flughafen und Uniklinik.</li>
+    <li><strong>Eher nicht:</strong> abgelegene Bergdörfer und die Südküste. Was mit 65 romantisch ist, wird mit 80 ohne Auto schwierig.</li>
+  </ul>
+
+  <h2>Anmeldung als Rentner</h2>
+  <p>Wie alle EU-Bürger brauchen Sie kein Visum. Ab drei Monaten holen Sie sich bei der Polizei die Anmeldebescheinigung (0,50 €). Statt eines Arbeitsnachweises zeigen Sie Ihren Rentenbescheid und Ihre Krankenversicherung. Die ganze Reihenfolge steht in der <a href="/checkliste/">Checkliste in 10 Schritten</a>.</p>
+
+  <p>Weiterlesen: <a href="/leben/vor-und-nachteile/">Vor- und Nachteile</a> · <a href="/regionen/lasithi/">Lasithi</a> · <a href="/regionen/chania/">Chania</a> · <a href="/leben/wetter/">Wetter im Winter</a></p>
+</Base>

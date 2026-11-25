@@ -1,0 +1,23 @@
+---
+import Base from '../layouts/Base.astro';
+import Kontaktformular from '../components/Kontaktformular.astro';
+---
+<Base
+  title="Hilfe beim Umzug nach Kreta: AFM, Anmeldung, Hauskauf"
+  description="Schreiben Sie uns, wobei Sie Hilfe brauchen: AFM, Anmeldung, Steuern, Hauskauf oder Firma auf Kreta. Antwort per E-Mail, auf Deutsch, ohne Telefonat."
+  h1="Wobei können wir helfen?"
+  lead="Kreuzen Sie an, worum es geht, und schreiben Sie ein paar Sätze. Wir melden uns per E-Mail. Telefonieren müssen Sie nicht."
+  crumbs={[{ href: '/kontakt/', label: 'Anfrage' }]}
+  article={false}
+>
+  <Kontaktformular />
+
+  <h2>Was wir für Sie erledigen</h2>
+  <ul>
+    <li><strong>AFM:</strong> die griechische Steuernummer, schon von Deutschland aus.</li>
+    <li><strong>Anmeldung und Steuern:</strong> Steuerwohnsitz, AMKA, 50 % Steuervorteil für Zuzügler oder 7 % für Rentner.</li>
+    <li><strong>Hauskauf:</strong> AFM, Konto, Grunderwerbsteuer und die Pflichten nach dem Kauf.</li>
+    <li><strong>Selbstständig oder Firma:</strong> Geschäftsbeginn, EFKA, myDATA und laufende Buchhaltung.</li>
+  </ul>
+  <p>Hinter dieser Seite steht das Team von taxomade. Ihre Anfrage geht direkt an uns, nicht an Dritte.</p>
+</Base>

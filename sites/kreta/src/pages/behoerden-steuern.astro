@@ -2,10 +2,9 @@
 import Base from '../layouts/Base.astro';
 import Partner from '../components/Partner.astro';
 import { TAXOMADE } from '../data/site';
-import { Q2 } from '../data/quellen';
 const faq = [
   { q: 'Ab wann muss ich in Griechenland Steuern zahlen?', a: 'In der Regel, wenn Sie in Griechenland Ihren Lebensmittelpunkt haben oder sich mehr als 183 Tage im Jahr dort aufhalten. Dann sind Sie mit Ihrem weltweiten Einkommen in Griechenland steuerpflichtig. Das Doppelbesteuerungsabkommen mit Deutschland regelt, welches Land welches Einkommen besteuern darf.' },
-  { q: 'Gibt es Steuervorteile für Zuzügler in Griechenland?', a: 'Ja, es gibt Sonderregeln, etwa eine 50-prozentige Steuerbefreiung auf Arbeitseinkommen für bestimmte Zuzügler und eine Pauschalsteuer für ausländische Renten. Die Voraussetzungen sind streng und müssen rechtzeitig beantragt werden.' },
+  { q: 'Gibt es Steuervorteile für Zuzügler in Griechenland?', a: 'Ja, zwei große: Wer hier arbeitet oder sich selbstständig macht, versteuert sieben Jahre lang nur die Hälfte seines Einkommens (Artikel 5C). Rentner mit ausländischer Rente können bis zu 15 Jahre lang pauschal 7 % auf alle ausländischen Einkünfte zahlen (Artikel 5B). Beides gilt nur, wenn Sie in fünf der letzten sechs Jahre nicht in Griechenland steuerpflichtig waren, und beides muss rechtzeitig beantragt werden.' },
   { q: 'Wie gründe ich auf Kreta eine Firma?', a: 'Die häufigste Rechtsform für kleine Unternehmen ist die IKE, vergleichbar mit einer GmbH. Sie wird über eine zentrale Anlaufstelle im Handelsregister (GEMI) gegründet, meist mit Hilfe eines Notars oder Buchhalters.' },
 ];
 ---
@@ -13,18 +12,17 @@ const faq = [
   title="Behörden & Steuern auf Kreta kurz erklärt: AFM, AMKA, Anmeldung"
   description="Griechische Behörden für Auswanderer nach Kreta kurz erklärt: AFM, Taxisnet, Anmeldung bei der Polizei, AMKA, Bankkonto, Selbstständigkeit und Firmengründung. Mit Links zu ausführlichen Steuerratgebern."
   h1="Behörden & Steuern kurz erklärt"
-  lead="Griechische Behörden sind digitaler als ihr Ruf. Wer die Grundbegriffe kennt und die Reihenfolge einhält, kommt gut durch. Hier die wichtigsten Begriffe auf einen Blick."
+  lead="Griechische Behörden sind digitaler als ihr Ruf, aber fast alles läuft auf Griechisch. Wer die Begriffe kennt und die Reihenfolge einhält, kommt gut durch. Hier das Wichtigste auf einen Blick."
   crumbs={[{ href: '/behoerden-steuern/', label: 'Behörden & Steuern' }]}
   faq={faq}
-  sources={[Q2.aade, Q2.efka, { label: 'gov.gr: Registrierungspflicht für EU-Bürger (englisch)', href: 'https://www.gov.gr/en/sdg/residence/temporary-or-permanent-move/general/obligation-for-citizens-to-register-their-residence-for-periods-exceeding-three-months' }, { label: 'AMKA: Offizielles Portal', href: 'https://www.amka.gr/' }, { label: 'GEMI: Griechisches Handelsregister', href: 'https://www.businessportal.gr/' }]}
 >
   <h2>Die wichtigsten Begriffe</h2>
   <table>
     <thead><tr><th>Begriff</th><th>Was es ist</th><th>Wo</th></tr></thead>
     <tbody>
-      <tr><td><strong>AFM</strong></td><td>Steuernummer, nötig für fast alles</td><td>Finanzamt (DOY) / AADE</td></tr>
+      <tr><td><strong>AFM</strong></td><td>Steuernummer, nötig für fast alles</td><td>online über myAADE mit Videoanruf</td></tr>
       <tr><td><strong>Taxisnet</strong></td><td>Zugangsdaten für Steuer- und Behördenportale</td><td>online mit AFM</td></tr>
-      <tr><td><strong>Anmeldebescheinigung</strong></td><td>Registrierung als EU-Bürger ab 3 Monaten Aufenthalt</td><td>Polizei, Ausländerabteilung</td></tr>
+      <tr><td><strong>Anmeldebescheinigung</strong></td><td>Registrierung als EU-Bürger ab 3 Monaten Aufenthalt</td><td>Polizei am Wohnort, 0,50 €</td></tr>
       <tr><td><strong>AMKA</strong></td><td>Sozialversicherungsnummer für Arbeit und Gesundheit</td><td>EFKA oder Bürgerbüro (KEP)</td></tr>
       <tr><td><strong>KEP</strong></td><td>Bürgerbüros, helfen bei vielen Anträgen</td><td>in jeder größeren Gemeinde</td></tr>
       <tr><td><strong>EFKA</strong></td><td>Sozialversicherung (Rente, Gesundheit)</td><td>Geschäftsstellen auf Kreta, online</td></tr>
@@ -37,9 +35,11 @@ const faq = [
 
   <h2>Steuern: das Grundprinzip</h2>
   <p>Wer seinen Lebensmittelpunkt auf Kreta hat oder mehr als 183 Tage im Jahr in Griechenland verbringt, ist dort in der Regel unbeschränkt steuerpflichtig. Im Umzugsjahr kann es sein, dass Sie in beiden Ländern als ansässig gelten. Das Doppelbesteuerungsabkommen zwischen Deutschland und Griechenland verhindert, dass Sie dasselbe Einkommen zweimal versteuern. Die Steuererklärung (E1) wird jedes Jahr online abgegeben.</p>
-  <Partner href={TAXOMADE.umzugSteuern} title="Umzug nach Griechenland aus Deutschland: Steuern">
-    Was beim Wechsel der Steuerpflicht zu beachten ist, erklärt taxomade Schritt für Schritt.
+  <Partner href={TAXOMADE.kreta} title="Auswandern nach Kreta: Steuern &amp; Anmeldung 2026">
+    Steuerpflicht, Finanzämter auf Kreta, Selbstständigkeit und Hauskauf erklärt taxomade Schritt für Schritt.
   </Partner>
+  <h3>Rentner: 7 % Pauschalsteuer</h3>
+  <p>Wer eine ausländische Rente bezieht und neu nach Griechenland zieht, kann bis zu 15 Jahre lang pauschal 7 % auf alle ausländischen Einkünfte zahlen. Der Antrag muss bis zum 31. Oktober gestellt werden. Bei kleinen Renten lohnt es sich oft nicht, weil die normale Steuer dann ohnehin niedrig ist. Deutsche Beamtenpensionen werden weiter in Deutschland besteuert. Mehr auf der Seite <a href="/rentner/">Als Rentner nach Kreta</a>.</p>
   <Partner href={TAXOMADE.artikel5c} title="50 % Steuervorteil für Zuzügler (Artikel 5C)">
     Wer nach Griechenland zieht und hier arbeitet, kann unter Bedingungen sieben Jahre lang nur die Hälfte des Einkommens versteuern.
   </Partner>
@@ -55,4 +55,5 @@ const faq = [
   <Partner href={TAXOMADE.ike} title="IKE in Griechenland gründen: Ablauf und laufende Kosten">
     Gründung, Pflichten und laufende Kosten einer IKE erklärt taxomade.
   </Partner>
+  <p>Weiterlesen: <a href="/checkliste/">Checkliste in 10 Schritten</a> · <a href="/rentner/">Als Rentner nach Kreta</a> · <a href="/leben/arbeiten/">Arbeiten auf Kreta</a></p>
 </Base>

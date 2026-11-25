@@ -3,12 +3,20 @@ import Base from '../layouts/Base.astro';
 import Cards from '../components/Cards.astro';
 import KretaKarte from '../components/KretaKarte.astro';
 import Wetterleiste from '../components/Wetterleiste.astro';
-import { REGIONEN, LEBEN, SITE, EINSTIEG } from '../data/site';
+import Kontaktformular from '../components/Kontaktformular.astro';
+import { REGIONEN, LEBEN, EINSTIEG, TAXOMADE, KONTAKT } from '../data/site';
+
+const faq = [
+  { q: 'Wie viel Geld brauche ich, um auf Kreta zu leben?', a: 'Als Single rechnen Sie 2026 mit rund 1.200 bis 1.900 € im Monat, als Paar mit rund 1.650 bis 2.550 €, jeweils mit Miete und Auto, aber ohne Krankenversicherung und Steuern. Die Miete entscheidet am meisten.' },
+  { q: 'Brauche ich als Deutscher ein Visum für Kreta?', a: 'Nein. Als EU-Bürger leben und arbeiten Sie ohne Visum auf Kreta. Wer länger als drei Monate bleibt, holt sich bei der Polizei die Anmeldebescheinigung. Sie kostet 0,50 € und wird direkt ausgestellt.' },
+  { q: 'Welche Region auf Kreta ist die beste zum Leben?', a: 'Chania für Natur und internationale Leute, Heraklion für Krankenhäuser und Jobs, Rethymno als ruhige Mitte, Lasithi im Osten für ein kleineres Budget und milde Winter.' },
+];
 ---
 <Base
-  title="Auswandern nach Kreta 2026: Ratgeber auf Deutsch"
-  description="Auswandern nach Kreta 2026: Checkliste, Regionen, Mieten, Kosten, Ärzte, Schulen und Behörden. Unabhängiger Ratgeber mit offiziellen Quellen und Stand-Datum."
+  title="Auswandern nach Kreta 2026: Kosten, Regionen & Checkliste"
+  description="Nach Kreta auswandern: Was ein Monat wirklich kostet, welche Region passt, welche Papiere Sie brauchen und was Ihnen vorher keiner sagt. Ratgeber auf Deutsch."
   article={false}
+  faq={faq}
 >
   <div class="hero-foto">
     <picture>
@@ -16,19 +24,17 @@ import { REGIONEN, LEBEN, SITE, EINSTIEG } from '../data/site';
       <img src="/img/balos-1600.webp" alt="Lagune von Balos im Nordwesten Kretas" width="1600" height="1067" fetchpriority="high" />
     </picture>
     <div class="hero-text">
-      <p class="kicker">Unabhängiger Ratgeber auf Deutsch</p>
+      <p class="kicker">Der Kreta-Ratgeber auf Deutsch</p>
       <h1>Auswandern nach Kreta 2026</h1>
-      <p class="lead">Ein ruhiger, ehrlicher Überblick für alle, die auf Kreta leben möchten: Was Sie in welcher Reihenfolge erledigen, welche Region zu Ihnen passt und was das Leben auf der Insel wirklich kostet.</p>
-      <a class="btn" href="#einstieg">Wo stehen Sie gerade?</a>
-      <a class="btn ghost" href="/checkliste/">Checkliste in 10 Schritten</a>
-      <p class="stand">Stand: {SITE.stand} · alle Seiten mit Quellen</p>
+      <p class="lead">Was das Leben auf Kreta wirklich kostet, welche Gegend zu Ihnen passt und welche Papiere Sie in welcher Reihenfolge brauchen. Ehrlich, auch da, wo es nicht nach Urlaub klingt.</p>
+      <a class="btn" href="/checkliste/">Checkliste in 10 Schritten</a>
+      <a class="btn ghost" href={KONTAKT.formular}>Hilfe anfragen</a>
     </div>
-    <p class="ph-credit">Foto: Lagune von Balos · Pexels</p>
   </div>
 
   <section id="einstieg" aria-labelledby="einstieg-h">
     <h2 id="einstieg-h">Wo stehen Sie gerade?</h2>
-    <p>Wählen Sie Ihre Lebenslage. Wir bringen Sie direkt zu den Seiten, die für Sie zählen.</p>
+    <p>Wählen Sie Ihre Lage. Wir bringen Sie direkt zu dem, was für Sie zählt.</p>
     <ul class="einstieg">
       {EINSTIEG.map((e) => (
         <li>
@@ -43,35 +49,58 @@ import { REGIONEN, LEBEN, SITE, EINSTIEG } from '../data/site';
     </ul>
   </section>
 
-  <Wetterleiste />
+  <h2>Den Papierkram machen wir</h2>
+  <p>Die meisten Auswanderer verlieren die ersten Wochen auf Kreta mit Ämtern, Wartenummern und Formularen auf Griechisch. Das muss nicht sein. Mit unserem Partner taxomade erledigen Sie das Wichtigste, bevor Sie überhaupt da sind.</p>
+  <ul class="leistungen">
+    <li><strong>AFM ohne Behördengang</strong><span>Die griechische Steuernummer, ohne die nichts geht. Online und schon von Deutschland aus.</span></li>
+    <li><strong>Anmeldung und Steuern</strong><span>Steuerwohnsitz, AMKA, 50 % Steuervorteil für Zuzügler oder 7 % für Rentner.</span></li>
+    <li><strong>Haus oder Wohnung kaufen</strong><span>AFM, Konto, Grunderwerbsteuer, E9 und ENFIA. Damit nach dem Notar keine Überraschung kommt.</span></li>
+    <li><strong>Selbstständig oder eigene Firma</strong><span>Geschäftsbeginn, EFKA, myDATA und Buchhaltung auf Deutsch.</span></li>
+  </ul>
+  <p class="mehr-btn"><a class="btn" href={KONTAKT.formular}>Anfrage senden</a> <a class="btn ghost" href={KONTAKT.whatsapp} rel="noopener" target="_blank">Per WhatsApp schreiben</a></p>
 
   <h2>Kreta in Kürze</h2>
   <ul>
-    <li><strong>Größte griechische Insel</strong>, rund 625.000 Einwohner (Volkszählung 2021), etwa 260 km lang.</li>
-    <li><strong>Vier Regionalbezirke:</strong> Chania, Rethymno, Heraklion und Lasithi. Die meisten Ausländer leben an der Nordküste.</li>
-    <li><strong>Zwei große Flughäfen:</strong> Heraklion und Chania, dazu der kleine Flughafen Sitia im Osten. Ein neuer Großflughafen bei Kastelli entsteht.</li>
-    <li><strong>Als EU-Bürger</strong> dürfen Sie ohne Visum auf Kreta leben und arbeiten. Ab drei Monaten Aufenthalt melden Sie sich an.</li>
-    <li><strong>Mieten</strong> liegen 2026 je nach Region bei etwa 8,50 bis 11 € pro m² und Monat, Tendenz steigend.</li>
+    <li><strong>Größte griechische Insel</strong> mit rund 625.000 Einwohnern, etwa 260 km lang.</li>
+    <li><strong>Vier Regionen:</strong> Chania, Rethymno, Heraklion und Lasithi. Fast alle Ausländer leben an der Nordküste.</li>
+    <li><strong>Flughäfen:</strong> Heraklion und Chania, dazu der kleine Flughafen Sitia. Im Winter gibt es deutlich weniger Direktflüge nach Deutschland.</li>
+    <li><strong>Kein Visum:</strong> Als EU-Bürger ziehen Sie einfach her. Ab drei Monaten melden Sie sich bei der Polizei an.</li>
+    <li><strong>Miete 2026:</strong> rund 8,70 bis 10,60 € pro m², für 70 m² also etwa 600 bis 750 € kalt. Tendenz steigend.</li>
+    <li><strong>Monatsbudget:</strong> als Paar realistisch 1.650 bis 2.550 € inklusive Miete und Auto. <a href="/leben/lebenshaltungskosten/">So rechnen wir</a>.</li>
   </ul>
 
-  <h2>Der wichtigste Startpunkt</h2>
-  <p>Wenn Sie nur eine Seite lesen: Die <a href="/checkliste/">Checkliste „Ankommen auf Kreta in 10 Schritten“</a> zeigt die Reihenfolge von Steuernummer (AFM) über Anmeldung, Bankkonto und Krankenversicherung bis zum Auto.</p>
+  <h2>Klartext: Was Ihnen vorher keiner sagt</h2>
+  <div class="box warn">
+    <ul>
+      <li><strong>Billig ist Kreta nicht mehr.</strong> Mieten sind in fünf Jahren stark gestiegen, Supermarkt, Auto und Strom kosten so viel wie in Deutschland oder mehr.</li>
+      <li><strong>Der Winter ist kalt, und zwar drinnen.</strong> Viele Häuser sind nicht isoliert. Ohne gute Heizung frieren Sie bei 14 °C Außentemperatur.</li>
+      <li><strong>Jobs gibt es vor allem im Tourismus</strong>, saisonal und schlecht bezahlt. Wer sein Einkommen mitbringt, hat es viel leichter.</li>
+      <li><strong>Behörden brauchen Geduld.</strong> Vieles geht inzwischen online, aber ohne Steuernummer (AFM) und ohne Griechisch-Hilfe hängen Sie schnell fest.</li>
+      <li><strong>Urlaubsorte sind im Winter leer.</strong> Wer in Malia oder Agia Marina wohnt, sitzt von November bis April oft allein da.</li>
+    </ul>
+  </div>
+  <p>Mehr dazu auf der Seite <a href="/leben/vor-und-nachteile/">Leben auf Kreta: Vor- und Nachteile</a>. Die guten Seiten stehen da auch.</p>
 
   <h2>Regionen: Wo auf Kreta leben?</h2>
-  <p>Kreta ist vielfältiger, als es im Urlaub wirkt. Der Westen ist grüner und internationaler, die Mitte städtischer, der Osten ruhiger und günstiger.</p>
+  <p>Kreta ist vielfältiger, als es im Urlaub wirkt. Der Westen ist grüner und internationaler, die Mitte städtischer, der Osten ruhiger und günstiger. Zum <a href="/regionen/">Regionen-Vergleich</a>.</p>
   <KretaKarte />
   <Cards items={REGIONEN} />
+
+  <h2>Der wichtigste Startpunkt</h2>
+  <p>Wenn Sie nur eine Seite lesen: Die <a href="/checkliste/">Checkliste „Ankommen auf Kreta in 10 Schritten“</a> zeigt die Reihenfolge von Steuernummer (AFM) über Wohnung, Bankkonto und Anmeldung bis zur Krankenversicherung und zum Auto. Wer es falsch herum macht, verliert Wochen.</p>
 
   <h2>Leben auf Kreta</h2>
   <Cards items={LEBEN} />
 
+  <Wetterleiste />
+
   <h2>Behörden, Steuern und Firmengründung</h2>
-  <p>Die <a href="/behoerden-steuern/">Behörden-Seite</a> erklärt kurz AFM, Anmeldung, AMKA, Bankkonto und Selbstständigkeit. Für Steuern, Firmengründung und Buchhaltung verlinken wir auf ausführliche Ratgeber unseres Partners taxomade.</p>
+  <p>Die <a href="/behoerden-steuern/">Behörden-Seite</a> erklärt AFM, Anmeldung, AMKA, Bankkonto und Selbstständigkeit in einfachen Worten. Für Steuern, Firmengründung und Buchhaltung auf Kreta gibt es den ausführlichen Ratgeber <a href={TAXOMADE.kreta}>Auswandern nach Kreta: Steuern &amp; Anmeldung</a> unseres Partners taxomade.</p>
 
-  <h2>Fragen?</h2>
-  <p>Die häufigsten Fragen beantworten wir in den <a href="/faq/">FAQ zum Auswandern nach Kreta</a>. Eine <a href="/community/">Community</a> für Austausch vor Ort ist in Vorbereitung.</p>
+  <h2>Noch Fragen?</h2>
+  <p>Die häufigsten Fragen beantworten wir in den <a href="/faq/">FAQ zum Auswandern nach Kreta</a>. Oder Sie fragen uns direkt.</p>
 
-  <div class="box">
-    <p><strong>So arbeiten wir:</strong> Jede Seite beantwortet eine konkrete Frage, nennt offizielle Quellen und ein Stand-Datum. Preise nennen wir nur als Spanne mit Jahr. Keine Werbung, keine bezahlten Platzierungen. Mehr dazu unter <a href="/ueber-uns/">Über uns</a>.</p>
-  </div>
+  <h2 id="anfrage">Sie planen den Umzug nach Kreta?</h2>
+  <p>Schreiben Sie uns in einer Minute, was Sie brauchen. Wir melden uns per E-Mail und sagen Ihnen ehrlich, was Sie selbst erledigen können und wobei wir Ihnen die Arbeit abnehmen.</p>
+  <Kontaktformular />
 </Base>

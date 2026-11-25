@@ -1,12 +1,11 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Partner from '../../components/Partner.astro';
-import { Q, Q2 } from '../../data/quellen';
 import { TAXOMADE } from '../../data/site';
 const faq = [
   { q: 'Darf ich als Deutscher auf Kreta ein Haus kaufen?', a: 'Ja. EU-Bürger können in Griechenland Immobilien kaufen. In einigen Grenzregionen gelten Sonderregeln, für EU-Bürger sind diese in der Praxis aber meist eine Formalität. Ihr Anwalt prüft das vor dem Kauf.' },
   { q: 'Wie hoch sind die Kaufnebenkosten in Griechenland?', a: 'Grob 7 bis 10 % des Kaufpreises: Grunderwerbsteuer von 3,09 % auf den Kaufpreis bzw. mindestens den amtlichen Einheitswert, dazu Notar, Grundbuch bzw. Kataster, Anwalt und gegebenenfalls Makler, jeweils plus Mehrwertsteuer. Bei Neubauten kann statt der Grunderwerbsteuer Mehrwertsteuer anfallen.' },
-  { q: 'Was kostet ein Haus auf Kreta?', a: 'Laut Spitogatos lag der durchschnittliche Angebotspreis auf Kreta im zweiten Quartal 2026 bei rund 2.250 € pro m², 6,9 % mehr als ein Jahr zuvor. Je nach Lage, Zustand und Meerblick schwanken die Preise sehr stark.' },
+  { q: 'Was kostet ein Haus auf Kreta?', a: 'Inserate lagen 2026 im Schnitt bei rund 2.250 € pro m², 6,9 % mehr als ein Jahr zuvor. Ein renoviertes Dorfhaus bekommen Sie teils für deutlich weniger, eine Villa mit Meerblick bei Chania oder Elounda kostet ein Vielfaches.' },
 ];
 ---
 <Base
@@ -18,10 +17,9 @@ const faq = [
   lead="Ein Kauf auf Kreta ist für EU-Bürger gut machbar. Entscheidend ist die rechtliche Prüfung vor dem Notartermin, denn viele Probleme stecken in Papieren, nicht in Mauern."
   crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/haus-kaufen/', label: 'Haus kaufen' }]}
   faq={faq}
-  sources={[Q.mietenRemax, Q2.ev, Q2.pwc, Q2.ktima]}
 >
   <h2>Preise 2026</h2>
-  <p>Der durchschnittliche Angebotspreis für Wohnimmobilien auf Kreta lag im zweiten Quartal 2026 bei rund <strong>2.250 € pro m²</strong> (Spitogatos), ein Plus von 6,9 % zum Vorjahr und rund 50 % in fünf Jahren. Zum Vergleich: Ägäis-Inseln rund 2.940 €, Ionische Inseln rund 2.530 € pro m². Wer neu baut, sollte 2026 mit etwa 1.600 bis 2.300 € pro m² Baukosten rechnen, je nach Standard.</p>
+  <p>Der durchschnittliche Angebotspreis für Wohnimmobilien auf Kreta lag im zweiten Quartal 2026 bei rund <strong>2.250 € pro m²</strong>, ein Plus von 6,9 % zum Vorjahr und rund 50 % in fünf Jahren. Zum Vergleich: Ägäis-Inseln rund 2.940 €, Ionische Inseln rund 2.530 € pro m². Wer neu baut, sollte 2026 mit etwa 1.600 bis 2.300 € pro m² Baukosten rechnen, je nach Standard.</p>
 
   <h2>Ablauf in 7 Schritten</h2>
   <ol>
@@ -34,7 +32,7 @@ const faq = [
     <li><strong>Notartermin</strong> und Eintragung im Kataster (Ktimatologio).</li>
   </ol>
 
-  <h2>Kaufnebenkosten (Stand 2026)</h2>
+  <h2>Kaufnebenkosten 2026</h2>
   <table>
     <thead><tr><th>Posten</th><th>Übliche Größenordnung</th></tr></thead>
     <tbody>
@@ -46,7 +44,7 @@ const faq = [
       <tr><td>Ingenieur / Gutachten</td><td>nach Aufwand</td></tr>
     </tbody>
   </table>
-  <p class="small">Richtwerte aus den Leitfäden von Engel & Völkers Griechenland und PwC Griechenland. Bitte lassen Sie sich die genauen Kosten vor dem Vorvertrag schriftlich aufschlüsseln.</p>
+  <p class="small">Faustregel: Planen Sie rund 8 bis 10 % zusätzlich zum Kaufpreis ein. Lassen Sie sich die genauen Kosten vor dem Vorvertrag schriftlich aufschlüsseln.</p>
 
   <h2>Typische Fallen auf Kreta</h2>
   <ul>
@@ -59,4 +57,5 @@ const faq = [
   <Partner href={TAXOMADE.umzugSteuern} title="Steuern beim Umzug nach Griechenland">
     Immobilienbesitz bringt laufende Steuern mit sich, etwa die jährliche Immobiliensteuer ENFIA und gegebenenfalls Steuern auf Mieteinnahmen.
   </Partner>
+  <p>Weiterlesen: <a href="/leben/wohnung-mieten/">Erst mieten, dann kaufen</a> · <a href="/regionen/">Regionen im Vergleich</a> · <a href="/leben/vor-und-nachteile/">Vor- und Nachteile des Lebens auf Kreta</a></p>
 </Base>

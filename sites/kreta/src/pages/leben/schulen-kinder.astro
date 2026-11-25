@@ -1,6 +1,5 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { Q2 } from '../../data/quellen';
 const faq = [
   { q: 'Gibt es eine deutsche Schule auf Kreta?', a: 'Nein. Deutsche Auslandsschulen gibt es in Griechenland in Athen und Thessaloniki. Auf Kreta besuchen deutsche Kinder meist griechische öffentliche Schulen oder private bzw. internationale Schulen, vor allem in Heraklion und Chania.' },
   { q: 'Ab wann gilt in Griechenland die Schulpflicht?', a: 'Ab 4 Jahren: Zwei Jahre Kindergarten sind Pflicht, danach sechs Jahre Grundschule und drei Jahre Gymnasium. Die Schulpflicht endet in der Regel mit 15 Jahren.' },
@@ -13,7 +12,6 @@ const faq = [
   lead="Kinder lernen Griechisch oft schneller als ihre Eltern. Trotzdem ist der Schulstart der heikelste Teil eines Familienumzugs. So bereiten Sie ihn vor."
   crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/schulen-kinder/', label: 'Schulen & Kinder' }]}
   faq={faq}
-  sources={[Q2.minedu, { label: 'Ihr Europa: Schulbildung in einem anderen EU-Land', href: 'https://europa.eu/youreurope/citizens/education/school/index_de.htm' }, { label: 'Auslandsschulnetz: Deutsche Schulen im Ausland', href: 'https://www.auslandsschulnetz.de/' }]}
 >
   <h2>Das griechische Schulsystem</h2>
   <table>
@@ -38,4 +36,5 @@ const faq = [
     <li>Ältere Kinder (ab etwa 12) tun sich mit dem Sprachwechsel schwerer. Prüfen Sie hier besonders genau, welche Schule passt.</li>
     <li>Klären Sie bei der Familienkasse, ob Ihnen weiter deutsches Kindergeld zusteht. Das hängt davon ab, ob ein Elternteil in Deutschland arbeitet oder Rente bezieht.</li>
   </ul>
+  <p>Weiterlesen: <a href="/regionen/heraklion/">Heraklion</a> und <a href="/regionen/chania/">Chania</a> mit der größten Schulauswahl · <a href="/leben/lebenshaltungskosten/">Lebenshaltungskosten für Familien</a></p>
 </Base>
