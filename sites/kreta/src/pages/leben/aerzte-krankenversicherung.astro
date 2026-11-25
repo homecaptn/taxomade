@@ -1,6 +1,5 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { Q2 } from '../../data/quellen';
 const faq = [
   { q: 'Bin ich als Rentner auf Kreta krankenversichert?', a: 'Wenn Sie nur eine deutsche Rente beziehen und in Deutschland gesetzlich versichert sind, bleiben Sie in der Regel über Ihre deutsche Krankenkasse versichert. Mit dem Formular S1 lassen Sie sich bei der griechischen Sozialversicherung (EFKA) eintragen und nutzen dann das griechische öffentliche System. Die Kosten trägt Ihre deutsche Kasse.' },
   { q: 'Reicht die Europäische Krankenversicherungskarte (EHIC)?', a: 'Nur für vorübergehende Aufenthalte wie Urlaub. Wenn Sie Ihren Wohnsitz nach Kreta verlegen, brauchen Sie eine Versicherung über Arbeit, Selbstständigkeit, das Formular S1 oder eine private Versicherung.' },
@@ -14,7 +13,6 @@ const faq = [
   lead="Wer nach Kreta zieht, muss seine Krankenversicherung neu ordnen. Welcher Weg für Sie gilt, hängt davon ab, ob Sie arbeiten, selbstständig sind oder Rente beziehen."
   crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/aerzte-krankenversicherung/', label: 'Ärzte & Krankenversicherung' }]}
   faq={faq}
-  sources={[Q2.euHealth, Q2.dvka, Q2.efka, Q2.eopyy]}
 >
   <h2>Welche Versicherung gilt für wen?</h2>
   <table>
@@ -48,4 +46,5 @@ const faq = [
     <li>Klären Sie die Pflegeversicherung gesondert. Leistungen der deutschen Pflegeversicherung im Ausland sind eingeschränkt.</li>
   </ul>
   <div class="box"><p><strong>Notfall:</strong> 112 (europaweit) oder 166 (Rettungsdienst EKAB).</p></div>
+  <p>Weiterlesen: <a href="/rentner/">Als Rentner nach Kreta</a> · <a href="/checkliste/">Checkliste: AMKA und Anmeldung</a> · <a href="/regionen/heraklion/">Heraklion, das medizinische Zentrum</a></p>
 </Base>

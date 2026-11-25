@@ -1,6 +1,5 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { Q, Q2 } from '../../data/quellen';
 const faq = [
   { q: 'Wie viel kostet eine Wohnung auf Kreta 2026?', a: 'Die durchschnittlichen Angebotsmieten lagen im dritten Quartal 2026 zwischen rund 8,70 € (Lasithi) und 10,60 € pro m² (Chania). Für 70 m² sind das etwa 610 bis 745 € im Monat. Möblierte Wohnungen am Meer und in Altstädten liegen oft darüber.' },
   { q: 'Wie hoch ist die Kaution in Griechenland?', a: 'Üblich sind ein bis zwei Monatsmieten. Die Höhe ist Verhandlungssache und sollte im Vertrag stehen, ebenso wann und wie Sie die Kaution zurückbekommen.' },
@@ -12,16 +11,15 @@ const faq = [
   image="chania-gasse"
   imageAlt="Altstadtgasse in Chania"
   title="Wohnung mieten auf Kreta 2026: Preise, Vertrag, Tipps"
-  description="Wohnung mieten auf Kreta: Mietpreise 2026 nach Region, Ablauf, Kaution, Mietvertrag mit AFM, typische Fallen und wo Sie suchen. Mit Quellen und Stand-Datum."
+  description="Wohnung mieten auf Kreta: Mietpreise 2026 nach Region, Ablauf, Kaution, Mietvertrag mit AFM, typische Fallen und wo Sie wirklich etwas finden."
   h1="Wohnung mieten auf Kreta"
   lead="Wohnraum auf Kreta ist knapp, besonders im Westen und an der Küste. Mit realistischen Erwartungen und der richtigen Reihenfolge finden Sie trotzdem etwas Passendes."
   crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/wohnung-mieten/', label: 'Wohnung mieten' }]}
   faq={faq}
-  sources={[Q.mietenSpi, Q.mietenRemax, Q2.aade]}
 >
   <h2>Mietpreise 2026 nach Region</h2>
   <table>
-    <thead><tr><th>Region</th><th>Angebotsmiete Q3 2026</th><th>Veränderung zum Vorjahr</th><th>Beispiel 70 m²</th></tr></thead>
+    <thead><tr><th>Region</th><th>Miete pro m² (Herbst 2026)</th><th>Veränderung zum Vorjahr</th><th>Beispiel 70 m²</th></tr></thead>
     <tbody>
       <tr><td>Chania</td><td>10,63 €/m²</td><td>+6,3 %</td><td>ca. 745 €</td></tr>
       <tr><td>Heraklion</td><td>10,40 €/m²</td><td>+4,0 %</td><td>ca. 730 €</td></tr>
@@ -29,7 +27,7 @@ const faq = [
       <tr><td>Lasithi</td><td>8,67 €/m²</td><td>+8,4 %</td><td>ca. 605 €</td></tr>
     </tbody>
   </table>
-  <p class="small">Quelle: Spitogatos Property Index, durchschnittliche Angebotsmieten, Q3 2025 bis Q3 2026. Vertragsdaten von RE/MAX für 2026 kommen zu ähnlichen Werten (Heraklion rund 8,50 €, Chania rund 10 €, Rethymno rund 11 € pro m²). Kaltmiete ohne Strom, Wasser und Internet.</p>
+  <p class="small">Durchschnitt in Inseraten, Herbst 2026, Kaltmiete ohne Strom, Wasser und Internet. Tatsächlich abgeschlossene Verträge liegen in derselben Größenordnung (Heraklion rund 8,50 €, Chania rund 10 €, Rethymno rund 11 € pro m²). Möbliert, am Meer oder in der Altstadt zahlen Sie deutlich mehr.</p>
 
   <h2>So läuft die Suche ab</h2>
   <ol>

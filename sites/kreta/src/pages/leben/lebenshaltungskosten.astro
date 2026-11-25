@@ -1,27 +1,41 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { Q } from '../../data/quellen';
 const faq = [
   { q: 'Ist das Leben auf Kreta günstiger als in Deutschland?', a: 'Teilweise. Miete, Café-Besuche, Obst und Gemüse vom Markt sind meist günstiger. Supermarkt-Markenprodukte, Elektronik, Autos und importierte Waren kosten oft gleich viel oder mehr. Weil auch Einkommen auf Kreta niedriger sind, lohnt sich der Umzug finanziell vor allem mit Einkommen aus dem Ausland oder einer Rente.' },
-  { q: 'Wie viel Geld brauche ich im Monat auf Kreta?', a: 'Das hängt vor allem von der Miete ab. 2026 kostet eine 70-m²-Wohnung je nach Region rund 600 bis 750 € kalt. Rechnen Sie dazu Nebenkosten, Lebensmittel, Auto, Versicherungen und Rücklagen. Ein persönliches Budget erstellen Sie am besten mit Ihren eigenen Ausgaben aus Deutschland als Vergleich.' },
+  { q: 'Wie viel Geld brauche ich im Monat auf Kreta?', a: 'Als Single rund 1.200 bis 1.900 €, als Paar rund 1.650 bis 2.550 € im Monat, jeweils mit Miete und Auto. Krankenversicherung und Steuern kommen dazu. Den größten Unterschied macht die Miete: In Chania-Stadt zahlen Sie deutlich mehr als in einem Dorf in Lasithi.' },
 ];
 ---
 <Base
   image="taverne-falasarna"
   imageAlt="Taverne über dem Strand von Falasarna"
-  title="Lebenshaltungskosten auf Kreta 2026: Was kostet das Leben?"
-  description="Lebenshaltungskosten auf Kreta 2026: Miete nach Region, was günstiger und was teurer ist als in Deutschland, und wie Sie ein realistisches Monatsbudget planen."
+  title="Lebenshaltungskosten auf Kreta 2026: So viel brauchen Sie im Monat"
+  description="Was kostet das Leben auf Kreta 2026? Beispielbudget für Single und Paar, Mieten nach Region, was günstiger und was teurer ist als in Deutschland."
   h1="Lebenshaltungskosten auf Kreta"
-  lead="Kreta ist nicht mehr das günstige Paradies von früher. Mieten sind stark gestiegen, viele Alltagsdinge kosten so viel wie in Deutschland. Hier sehen Sie, wo es wirklich günstiger ist."
+  lead="Kreta ist nicht mehr das günstige Paradies von früher. Mieten sind stark gestiegen, viele Alltagsdinge kosten so viel wie in Deutschland. Hier sehen Sie, was ein Monat wirklich kostet und wo Sie sparen."
   crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/lebenshaltungskosten/', label: 'Lebenshaltungskosten' }]}
   faq={faq}
-  sources={[Q.mietenSpi, Q.mietenRemax, { label: 'ELSTAT: Verbraucherpreisindex Griechenland', href: 'https://www.statistics.gr/en/statistics/-/publication/DKT87/-' }, { label: 'Eurostat: Preisniveaus für Konsumgüter in der EU', href: 'https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Comparative_price_levels_of_consumer_goods_and_services' }]}
 >
-  <div class="box"><p><strong>Unser Grundsatz:</strong> Wir nennen nur Zahlen, die wir mit einer Quelle belegen können. Für Miete gibt es verlässliche Daten. Für viele andere Posten schwanken die Preise so stark, dass eine Pauschalzahl mehr schaden als helfen würde.</p></div>
+  <div class="box"><p><strong>Kurz gesagt:</strong> Als Single brauchen Sie auf Kreta 2026 realistisch <strong>1.200 bis 1.900 € im Monat</strong>, als Paar <strong>1.650 bis 2.550 €</strong>. Darin sind Miete und Auto enthalten, Krankenversicherung und Steuern nicht. Günstiger als in Deutschland ist vor allem die Miete, wenn Sie nicht in Chania-Stadt wohnen.</p></div>
 
-  <h2>Der größte Posten: Miete</h2>
+  <h2>Beispielbudget pro Monat (2026)</h2>
   <table>
-    <thead><tr><th>Region</th><th>Angebotsmiete Q3 2026</th><th>70 m² pro Monat (kalt)</th></tr></thead>
+    <thead><tr><th>Posten</th><th>Single</th><th>Paar</th></tr></thead>
+    <tbody>
+      <tr><td>Miete (kalt)</td><td>450–700 €</td><td>600–850 €</td></tr>
+      <tr><td>Strom (Klimaanlage im Sommer, Heizen im Winter)</td><td>50–120 €</td><td>70–180 €</td></tr>
+      <tr><td>Wasser und Gemeindeabgaben</td><td>15–30 €</td><td>15–30 €</td></tr>
+      <tr><td>Internet und Handy</td><td>40–60 €</td><td>55–80 €</td></tr>
+      <tr><td>Lebensmittel und Drogerie</td><td>300–450 €</td><td>500–700 €</td></tr>
+      <tr><td>Auto (Sprit, Versicherung, Steuer, Werkstatt)</td><td>150–250 €</td><td>150–250 €</td></tr>
+      <tr><td>Essen gehen, Kaffee, Freizeit</td><td>150–300 €</td><td>250–450 €</td></tr>
+      <tr><td><strong>Summe</strong></td><td><strong>ca. 1.200–1.900 €</strong></td><td><strong>ca. 1.650–2.550 €</strong></td></tr>
+    </tbody>
+  </table>
+  <p class="small">Unsere Richtwerte für ein normales Leben an der Nordküste, nicht für Luxus und nicht für Sparen um jeden Preis. Nicht enthalten: Krankenversicherung, Steuern, Flüge nach Deutschland, Rücklagen.</p>
+
+  <h2>Der größte Posten: Miete nach Region</h2>
+  <table>
+    <thead><tr><th>Region</th><th>Miete pro m² (Herbst 2026)</th><th>70 m² pro Monat (kalt)</th></tr></thead>
     <tbody>
       <tr><td>Chania</td><td>10,63 €/m²</td><td>ca. 745 €</td></tr>
       <tr><td>Heraklion</td><td>10,40 €/m²</td><td>ca. 730 €</td></tr>
@@ -29,7 +43,7 @@ const faq = [
       <tr><td>Lasithi</td><td>8,67 €/m²</td><td>ca. 605 €</td></tr>
     </tbody>
   </table>
-  <p class="small">Quelle: Spitogatos Property Index Q3 2026. Mehr unter <a href="/leben/wohnung-mieten/">Wohnung mieten</a>.</p>
+  <p class="small">Durchschnitt in Inseraten. Mehr unter <a href="/leben/wohnung-mieten/">Wohnung mieten</a>.</p>
 
   <h2>Was ist günstiger als in Deutschland?</h2>
   <ul>

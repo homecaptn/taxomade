@@ -3,10 +3,9 @@ import Base from '../../layouts/Base.astro';
 import Cards from '../../components/Cards.astro';
 import KretaKarte from '../../components/KretaKarte.astro';
 import { REGIONEN } from '../../data/site';
-import { Q } from '../../data/quellen';
 
 const faq = [
-  { q: 'Welche Region auf Kreta ist am günstigsten?', a: 'Nach den Angebotsmieten von Spitogatos ist Lasithi im Osten 2026 am günstigsten (rund 8,70 € pro m² im dritten Quartal 2026). Chania im Westen ist am teuersten (rund 10,60 € pro m²).' },
+  { q: 'Welche Region auf Kreta ist am günstigsten?', a: 'Bei den Mieten ist Lasithi im Osten 2026 am günstigsten (rund 8,70 € pro m² im dritten Quartal 2026). Chania im Westen ist am teuersten (rund 10,60 € pro m²).' },
   { q: 'Wo leben die meisten Deutschen auf Kreta?', a: 'Offizielle Zahlen nach Region gibt es nicht. Viele Deutsche und andere Europäer leben im Raum Chania (Apokoronas, Akrotiri, Kissamos), rund um Rethymno und an der Küste zwischen Heraklion und Agios Nikolaos.' },
   { q: 'Nordküste oder Südküste?', a: 'Die Nordküste hat die Städte, Krankenhäuser, Flughäfen und Fährhäfen. Die Südküste ist wärmer, ruhiger und wilder, die Wege zu Ämtern, Krankenhaus und Flughafen sind aber deutlich länger, oft über Bergstraßen.' },
 ];
@@ -20,11 +19,10 @@ const faq = [
   lead="Kreta ist rund 260 km lang. Zwischen dem grünen Westen und dem trockenen Osten liegen Welten. Diese Übersicht hilft Ihnen, die passende Gegend zu finden."
   crumbs={[{ href: '/regionen/', label: 'Regionen' }]}
   faq={faq}
-  sources={[Q.mietenSpi, Q.mietenRemax, Q.zensus, Q.kastelli]}
 >
   <h2>Die vier Regionen auf einen Blick</h2>
   <table>
-    <thead><tr><th>Region</th><th>Charakter</th><th>Angebotsmiete Q3 2026</th><th>Flughafen</th></tr></thead>
+    <thead><tr><th>Region</th><th>Charakter</th><th>Miete 2026</th><th>Flughafen</th></tr></thead>
     <tbody>
       <tr><td><a href="/regionen/chania/">Chania</a></td><td>Westen, grün, Berge, sehr international</td><td>ca. 10,60 €/m²</td><td>Chania (CHQ)</td></tr>
       <tr><td><a href="/regionen/rethymno/">Rethymno</a></td><td>Mitte-West, Altstadt, Uni, ruhiger</td><td>ca. 10,00 €/m²</td><td>Chania oder Heraklion, je ca. 1 Std.</td></tr>
@@ -32,7 +30,7 @@ const faq = [
       <tr><td><a href="/regionen/lasithi/">Lasithi</a></td><td>Osten, trocken, kleinere Städte</td><td>ca. 8,70 €/m²</td><td>Heraklion, klein: Sitia</td></tr>
     </tbody>
   </table>
-  <p class="small">Mieten: Durchschnittliche Angebotsmieten laut Spitogatos Property Index, drittes Quartal 2026. Tatsächlich vereinbarte Mieten können abweichen, siehe <a href="/leben/wohnung-mieten/">Wohnung mieten</a>.</p>
+  <p class="small">Mieten: Durchschnitt in Inseraten, Herbst 2026. Was tatsächlich bezahlt wird, kann abweichen, siehe <a href="/leben/wohnung-mieten/">Wohnung mieten</a>.</p>
 
   <KretaKarte />
   <Cards items={REGIONEN} />

@@ -1,9 +1,8 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { Q2 } from '../../data/quellen';
 const faq = [
   { q: 'Muss ich meinen deutschen Führerschein umschreiben lassen?', a: 'Nein. Ein deutscher EU-Kartenführerschein gilt in Griechenland bis zum Ablauf weiter. Wenn er abläuft und Sie in Griechenland wohnen, wird er dort erneuert. Alte Papierführerscheine sollten Sie vorher umtauschen.' },
-  { q: 'Wie lange darf ich mit deutschem Kennzeichen auf Kreta fahren?', a: 'Als Urlauber bis zu sechs Monate im Jahr. Wer seinen Wohnsitz nach Griechenland verlegt, muss das Auto in Griechenland anmelden und dafür eine Zulassungssteuer zahlen. Unter bestimmten Bedingungen gibt es Erleichterungen für Umzugsgut. Details nennt das Merkblatt der Deutschen Botschaft Athen.' },
+  { q: 'Wie lange darf ich mit deutschem Kennzeichen auf Kreta fahren?', a: 'Als Urlauber bis zu sechs Monate im Jahr. Wer seinen Wohnsitz nach Griechenland verlegt, muss das Auto in Griechenland anmelden und dafür eine Zulassungssteuer zahlen. Unter bestimmten Bedingungen gibt es Erleichterungen für Umzugsgut, das klärt der Zoll.' },
   { q: 'Lohnt es sich, das Auto aus Deutschland mitzunehmen?', a: 'Oft nicht. Fähre, Ummeldung und Zulassungssteuer kosten Geld, und Ersatzteile für seltene Modelle sind auf Kreta schwer zu bekommen. Rechnen Sie vorher nach und vergleichen Sie mit einem Kauf auf Kreta.' },
 ];
 ---
@@ -14,7 +13,6 @@ const faq = [
   lead="Ohne Auto geht auf Kreta außerhalb der Städte wenig. Beim Führerschein ist alles einfach, beim Auto mit deutschem Kennzeichen wird es kompliziert."
   crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/auto-fuehrerschein/', label: 'Auto & Führerschein' }]}
   faq={faq}
-  sources={[Q2.euDriving, Q2.euCar, Q2.botschaftVerkehr, Q2.mfaUmzug, { label: 'ADAC: Mit dem Auto in Griechenland', href: 'https://www.adac.de/reise-freizeit/reiseplanung/reiseziele/griechenland/uebersicht/mit-dem-auto/' }]}
 >
   <h2>Führerschein</h2>
   <p>Ihr EU-Führerschein gilt in Griechenland ohne Umschreibung. Verlängert oder ersetzt wird er künftig in dem Land, in dem Sie Ihren gewöhnlichen Wohnsitz haben, also in Griechenland. Zuständig sind die Verkehrsabteilungen der Region Kreta.</p>
@@ -44,4 +42,5 @@ const faq = [
     <li>Die Nordküstenstraße (VOAK) ist an vielen Stellen eng und unfallträchtig, sie wird abschnittsweise zur Autobahn ausgebaut.</li>
     <li>Busse (KTEL) verbinden die Städte an der Nordküste regelmäßig.</li>
   </ul>
+  <p>Weiterlesen: <a href="/checkliste/">Checkliste in 10 Schritten</a> · <a href="/leben/lebenshaltungskosten/">Was ein Auto im Monat kostet</a> · <a href="/regionen/">Regionen: wo es ohne Auto geht</a></p>
 </Base>

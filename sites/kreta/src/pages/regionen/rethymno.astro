@@ -1,8 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { Q } from '../../data/quellen';
 const faq = [
-  { q: 'Was kostet eine Wohnung in Rethymno?', a: 'Die Angebotsmiete lag im dritten Quartal 2026 bei rund 10,00 € pro m² (Spitogatos). Vertragsdaten von RE/MAX nennen für 2026 rund 11 € pro m², also etwa 880 € für 80 m².' },
+  { q: 'Was kostet eine Wohnung in Rethymno?', a: 'Die Angebotsmiete lag im dritten Quartal 2026 bei rund 10,00 € pro m². Bei tatsächlich abgeschlossenen Verträgen sind es 2026 eher rund 11 € pro m², also etwa 880 € für 80 m². Gute Wohnungen sind hier schnell weg.' },
   { q: 'Welcher Flughafen ist für Rethymno besser?', a: 'Beide liegen rund eine Stunde entfernt: Chania im Westen, Heraklion im Osten. Viele wählen je nach Flugangebot und Preis.' },
 ];
 ---
@@ -15,7 +14,6 @@ const faq = [
   lead="Rethymno liegt zwischen Chania und Heraklion. Die Stadt ist kleiner und gemütlicher als beide, mit Universität, Altstadt und Bergdörfern im Hinterland."
   crumbs={[{ href: '/regionen/', label: 'Regionen' }, { href: '/regionen/rethymno/', label: 'Rethymno' }]}
   faq={faq}
-  sources={[Q.mietenSpi, Q.mietenRemax, Q.uoc]}
 >
   <h2>Charakter</h2>
   <p>Venezianische Festung (Fortezza), Altstadt mit osmanischen Spuren, langer Stadtstrand. Durch die Universität ist die Stadt auch im Winter jung und lebendig. Das Hinterland mit dem Amari-Tal und dem Psiloritis-Massiv ist ländlich und traditionell.</p>
@@ -40,10 +38,10 @@ const faq = [
 
   <h2>Mietniveau</h2>
   <table>
-    <thead><tr><th>Quelle</th><th>Wert</th></tr></thead>
+    <thead><tr><th>Was</th><th>Preis</th></tr></thead>
     <tbody>
-      <tr><td>Angebotsmiete Q3 2026 (Spitogatos)</td><td>ca. 10,00 €/m², Q3 2025: 9,83 €/m²</td></tr>
-      <tr><td>Vertragsmieten 2026 (RE/MAX)</td><td>ca. 11 €/m², 80 m² rund 880 €</td></tr>
+      <tr><td>In Inseraten (Herbst 2026)</td><td>ca. 10,00 €/m², Q3 2025: 9,83 €/m²</td></tr>
+      <tr><td>Tatsächlich bezahlt (2026)</td><td>ca. 11 €/m², 80 m² rund 880 €</td></tr>
     </tbody>
   </table>
   <p>Wegen der vielen Studierenden ist das Angebot an kleinen Wohnungen zum Semesterstart im Herbst besonders knapp.</p>
@@ -54,4 +52,5 @@ const faq = [
     <li><strong>Hochschule:</strong> Universität Kreta mit Campus Gallos.</li>
     <li><strong>Einkaufen:</strong> Supermärkte, Donnerstagsmarkt, kleine Läden in der Altstadt.</li>
   </ul>
+  <p>Weiterlesen: <a href="/regionen/chania/">Chania</a> · <a href="/regionen/heraklion/">Heraklion</a> · <a href="/regionen/lasithi/">Lasithi</a> · <a href="/leben/wohnung-mieten/">Wohnung mieten</a> · <a href="/leben/lebenshaltungskosten/">Lebenshaltungskosten</a></p>
 </Base>

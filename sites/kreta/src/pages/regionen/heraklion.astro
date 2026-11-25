@@ -1,8 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { Q } from '../../data/quellen';
 const faq = [
-  { q: 'Was kostet eine Wohnung in Heraklion?', a: 'Die Angebotsmiete lag im dritten Quartal 2026 bei rund 10,40 € pro m² (Spitogatos). Vertragsdaten von RE/MAX nennen rund 8,50 € pro m², also etwa 680 € für 80 m².' },
+  { q: 'Was kostet eine Wohnung in Heraklion?', a: 'Die Angebotsmiete lag im dritten Quartal 2026 bei rund 10,40 € pro m². Tatsächlich bezahlt werden oft weniger, rund 8,50 € pro m², also etwa 680 € für 80 m².' },
   { q: 'Wann eröffnet der neue Flughafen Kastelli?', a: 'Der Bau läuft. Die Angaben zur Eröffnung wurden mehrfach verschoben, zuletzt war von 2027 bis 2028 die Rede. Bis dahin bleibt der Flughafen Nikos Kazantzakis in der Stadt in Betrieb.' },
 ];
 ---
@@ -15,10 +14,9 @@ const faq = [
   lead="Heraklion ist Verwaltungszentrum, Wirtschaftsmotor und medizinisches Zentrum der Insel. Weniger romantisch als Chania, dafür mit allem, was man im Alltag braucht."
   crumbs={[{ href: '/regionen/', label: 'Regionen' }, { href: '/regionen/heraklion/', label: 'Heraklion' }]}
   faq={faq}
-  sources={[Q.mietenSpi, Q.mietenRemax, Q.zensus, Q.kastelli, Q.uoc]}
 >
   <h2>Charakter</h2>
-  <p>Rund 180.000 Menschen leben in der Gemeinde Heraklion (Volkszählung 2021). Die Stadt ist dicht und lebhaft, mit venezianischer Stadtmauer, Hafen und dem Palast von Knossos vor den Toren. Im Süden liegen Weinberge und die fruchtbare Messara-Ebene.</p>
+  <p>Rund 180.000 Menschen leben in der Gemeinde Heraklion. Die Stadt ist dicht und lebhaft, mit venezianischer Stadtmauer, Hafen und dem Palast von Knossos vor den Toren. Im Süden liegen Weinberge und die fruchtbare Messara-Ebene.</p>
 
   <h2>Für wen passt Heraklion?</h2>
   <ul>
@@ -41,10 +39,10 @@ const faq = [
 
   <h2>Mietniveau</h2>
   <table>
-    <thead><tr><th>Quelle</th><th>Wert</th></tr></thead>
+    <thead><tr><th>Was</th><th>Preis</th></tr></thead>
     <tbody>
-      <tr><td>Angebotsmiete Q3 2026 (Spitogatos)</td><td>ca. 10,40 €/m², Q3 2025: 10,00 €/m²</td></tr>
-      <tr><td>Vertragsmieten 2026 (RE/MAX)</td><td>ca. 8,50 €/m², 80 m² rund 680 €</td></tr>
+      <tr><td>In Inseraten (Herbst 2026)</td><td>ca. 10,40 €/m², Q3 2025: 10,00 €/m²</td></tr>
+      <tr><td>Tatsächlich bezahlt (2026)</td><td>ca. 8,50 €/m², 80 m² rund 680 €</td></tr>
     </tbody>
   </table>
 
@@ -54,4 +52,5 @@ const faq = [
     <li><strong>Hochschulen und Forschung:</strong> Universität Kreta (Medizin, Naturwissenschaften), Hellenic Mediterranean University, Forschungszentrum FORTH.</li>
     <li><strong>Behörden:</strong> Sitz der Region Kreta und vieler Ämter.</li>
   </ul>
+  <p>Weiterlesen: <a href="/regionen/chania/">Chania</a> · <a href="/regionen/rethymno/">Rethymno</a> · <a href="/regionen/lasithi/">Lasithi</a> · <a href="/leben/wohnung-mieten/">Wohnung mieten</a> · <a href="/leben/arbeiten/">Arbeiten auf Kreta</a></p>
 </Base>

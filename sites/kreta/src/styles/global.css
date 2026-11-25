@@ -88,7 +88,6 @@ h1, h2, h3 { letter-spacing: -0.02em; }
 .page-head.has-img .lead { color: rgba(255,255,255,.9); }
 .page-head.has-img .stand { color: #cfe7c4; }
 .page-head.has-img .crumbs, .page-head.has-img .crumbs a { color: rgba(255,255,255,.82); }
-.ph-credit { position: absolute; right: 12px; bottom: 8px; z-index: 1; margin: 0; font-size: .7rem; color: rgba(255,255,255,.7); }
 @media (min-width: 760px) { .page-head.has-img { padding-top: 10rem; } }
 
 /* Fließtext */
@@ -188,14 +187,11 @@ h1, h2, h3 { letter-spacing: -0.02em; }
 .k-meer { font: italic 500 4.2px var(--sans); fill: #6b98ab; letter-spacing: .14em; }
 .karte figcaption { margin: .3rem .2rem 0; font-size: .78rem; }
 
-/* FAQ & Quellen */
+/* FAQ */
 .faq details { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: .9rem 1.1rem; margin-bottom: .6rem; }
 .faq details[open] { background: var(--soft); }
 .faq summary { cursor: pointer; font-weight: 600; }
 .faq details p { margin: .6rem 0 0; }
-.sources { margin-top: 2.8rem; padding-top: 1.2rem; border-top: 1px solid var(--line); }
-.prose .sources h2 { font-size: 1.1rem; }
-.sources li { font-size: .92rem; word-break: break-word; }
 
 /* Footer */
 .site-footer { background: #0f1c24; color: #c3ced4; padding: 3rem 0 2.6rem; }
@@ -209,3 +205,4 @@ h1, h2, h3 { letter-spacing: -0.02em; }
 .logo-foot em { color: #8cc3d8; }
 .foot-h { font-weight: 600; font-size: .8rem; text-transform: uppercase; letter-spacing: .1em; color: #8aa0aa; margin: 0 0 .7rem; }
 .site-footer .small { color: #9fb0b8; }
+.box ul:last-child, .box ol:last-child { margin-bottom: 0; }

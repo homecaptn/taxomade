@@ -4,33 +4,22 @@ import Partner from '../components/Partner.astro';
 import { TAXOMADE } from '../data/site';
 
 const faq = [
-  { q: 'Brauche ich als Deutscher ein Visum für Kreta?', a: 'Nein. Als EU-Bürger dürfen Sie ohne Visum in Griechenland leben und arbeiten. Wenn Sie länger als drei Monate bleiben, müssen Sie sich bei der Polizei (Ausländerabteilung) registrieren und erhalten eine Anmeldebescheinigung.' },
-  { q: 'Was sollte ich auf Kreta als Erstes erledigen?', a: 'Die griechische Steuernummer AFM. Ohne AFM bekommen Sie in der Regel keinen Mietvertrag, kein Bankkonto und keinen Strom- oder Internetvertrag. Viele beantragen sie schon vor dem Umzug.' },
+  { q: 'Brauche ich als Deutscher ein Visum für Kreta?', a: 'Nein. Als EU-Bürger dürfen Sie ohne Visum in Griechenland leben und arbeiten. Wenn Sie länger als drei Monate bleiben, holen Sie sich bei der Polizei an Ihrem Wohnort die Anmeldebescheinigung. Sie kostet 0,50 €.' },
+  { q: 'Was sollte ich auf Kreta als Erstes erledigen?', a: 'Die griechische Steuernummer AFM. Ohne AFM bekommen Sie in der Regel keinen Mietvertrag, kein Bankkonto und keinen Strom- oder Internetvertrag. Sie beantragen sie online über myAADE, am besten schon vor dem Umzug.' },
   { q: 'Wie lange dauert es, bis alles erledigt ist?', a: 'Rechnen Sie mit einigen Wochen bis wenigen Monaten. Wartezeiten bei Polizei, Finanzamt und Banken sind je nach Ort und Saison sehr unterschiedlich. Planen Sie Puffer ein und bringen Sie Kopien aller Dokumente mit.' },
   { q: 'Muss ich mich in Deutschland abmelden?', a: 'Wenn Sie Ihre Wohnung in Deutschland aufgeben und ins Ausland ziehen, ja: Die Abmeldung beim Bürgeramt ist innerhalb von zwei Wochen nach dem Auszug Pflicht. Was das steuerlich bedeutet, hängt davon ab, ob Sie in Deutschland noch eine Wohnung behalten.' },
 ];
 
-const sources = [
-  { label: 'gov.gr: Registrierungspflicht für EU-Bürger ab drei Monaten Aufenthalt (englisch)', href: 'https://www.gov.gr/en/sdg/residence/temporary-or-permanent-move/general/obligation-for-citizens-to-register-their-residence-for-periods-exceeding-three-months' },
-  { label: 'mitos.gov.gr: Anmeldebescheinigung für EU-Bürger als Arbeitnehmer oder Selbstständige (englisch)', href: 'https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Certificate_of_registration_for_citizens_of_the_Union_residing_in_Greece_as_employees_or_non-employees' },
-  { label: 'mitos.gov.gr: Anmeldebescheinigung für wirtschaftlich nicht aktive EU-Bürger, z. B. Rentner (englisch)', href: 'https://en.mitos.gov.gr/index.php/%CE%94%CE%94:Certificate_of_registration_for_Union_citizens_residing_in_Greece_as_financially_inactive_persons' },
-  { label: 'AADE: Griechische Steuerverwaltung (AFM, Taxisnet)', href: 'https://www.aade.gr/' },
-  { label: 'AMKA: Sozialversicherungsnummer, offizielles Portal', href: 'https://www.amka.gr/' },
-  { label: 'Ihr Europa: Wohnsitz in einem anderen EU-Land', href: 'https://europa.eu/youreurope/citizens/residence/index_de.htm' },
-  { label: 'Ihr Europa: Krankenversicherung im EU-Ausland', href: 'https://europa.eu/youreurope/citizens/health/index_de.htm' },
-  { label: 'Deutsche Botschaft Athen: Merkblatt Verkehrsangelegenheiten (PDF)', href: 'https://griechenland.diplo.de/blob/2189376/0777a94665a1c5180ffa56d6c3850e07/merkblatt-verkehrsangelegenheiten-data.pdf' },
-];
 ---
 <Base
   image="agios-nikolaos-abend"
   imageAlt="Agios Nikolaos am Abend"
   title="Ankommen auf Kreta: Checkliste in 10 Schritten (2026)"
-  description="Auswandern nach Kreta Schritt für Schritt: AFM, Wohnung, Bankkonto, Anmeldung, AMKA, Krankenversicherung, Steuern und Auto. Die richtige Reihenfolge mit offiziellen Quellen."
+  description="Auswandern nach Kreta Schritt für Schritt: AFM, Wohnung, Bankkonto, Anmeldung, AMKA, Krankenversicherung, Steuern und Auto. Die richtige Reihenfolge, damit Sie keine Wochen verlieren."
   h1="Ankommen auf Kreta in 10 Schritten"
   lead="Die richtige Reihenfolge spart Wochen. Diese Checkliste zeigt, was Sie als EU-Bürger vor und nach dem Umzug nach Kreta erledigen und welcher Schritt den nächsten möglich macht."
   crumbs={[{ href: '/checkliste/', label: 'Checkliste' }]}
   faq={faq}
-  sources={sources}
 >
   <div class="box">
     <p><strong>Kurz gesagt:</strong> Erst die Steuernummer AFM, dann Wohnung und Bankkonto, danach Anmeldung bei der Polizei, AMKA und Krankenversicherung. Steuern und Selbstständigkeit klären Sie am besten schon vor dem Umzug.</p>
@@ -43,7 +32,7 @@ const sources = [
     </li>
     <li>
       <h3>Griechische Steuernummer (AFM) beantragen</h3>
-      <p>Die AFM ist der Schlüssel für fast alles: Mietvertrag, Strom, Internet, Bankkonto, Autokauf. Sie wird beim Finanzamt (DOY) bzw. über die Steuerverwaltung AADE vergeben. Wer noch nicht in Griechenland wohnt, beantragt sie oft über einen bevollmächtigten Vertreter. Die AFM selbst ist kostenlos.</p>
+      <p>Die AFM ist der Schlüssel für fast alles: Mietvertrag, Strom, Internet, Bankkonto, Autokauf. Seit Ende 2023 beantragen Sie sie online über myAADE: Ausweis hochladen, Identität per Videoanruf bestätigen, fertig. Das geht schon von Deutschland aus, und genau so sollten Sie es machen. Die AFM ist kostenlos. Wer das nicht selbst auf Griechisch durchklicken will, lässt es von einem Buchhalter oder Anwalt mit Vollmacht erledigen.</p>
     </li>
     <li>
       <h3>Taxisnet-Zugang und griechische Handynummer</h3>
@@ -59,7 +48,7 @@ const sources = [
     </li>
     <li>
       <h3>Anmeldebescheinigung bei der Polizei</h3>
-      <p>Bleiben Sie länger als drei Monate, beantragen Sie die Anmeldebescheinigung für EU-Bürger (Βεβαίωση εγγραφής πολίτη της Ένωσης) bei der Ausländerabteilung der Polizei an Ihrem Wohnort. Je nach Situation brauchen Sie Ausweis, Fotos, Wohnsitznachweis und Belege über Arbeit, Selbstständigkeit oder ausreichende Mittel plus Krankenversicherung. Die Bescheinigung ist unbefristet. Nach fünf Jahren können Sie das Daueraufenthaltsdokument beantragen.</p>
+      <p>Bleiben Sie länger als drei Monate, beantragen Sie die Anmeldebescheinigung für EU-Bürger (Βεβαίωση εγγραφής πολίτη της Ένωσης) bei der Ausländerabteilung der Polizei an Ihrem Wohnort. Mitbringen: Ausweis, drei Passfotos, Mietvertrag oder Stromrechnung und einen Nachweis über Arbeit oder Selbstständigkeit. Rentner zeigen stattdessen Rentenbescheid und Krankenversicherung. Die Gebühr beträgt 0,50 €, die Bescheinigung gibt es meist direkt und sie ist unbefristet. Nach fünf Jahren können Sie das Daueraufenthaltsdokument beantragen.</p>
     </li>
     <li>
       <h3>Sozialversicherungsnummer AMKA</h3>
@@ -79,8 +68,8 @@ const sources = [
     </li>
   </ol>
 
-  <Partner href={TAXOMADE.umzugSteuern} title="Umzug nach Griechenland aus Deutschland: Steuern im Überblick">
-    AFM, Steuerpflicht im Umzugsjahr und Doppelbesteuerung erklärt taxomade ausführlich.
+  <Partner href={TAXOMADE.kreta} title="Auswandern nach Kreta: Steuern &amp; Anmeldung 2026">
+    AFM, Anmeldung, Steuerpflicht, 50 % Steuervorteil und 7 % für Rentner erklärt taxomade ausführlich.
   </Partner>
 
   <h2>Typische Fehler</h2>

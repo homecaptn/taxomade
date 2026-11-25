@@ -1,0 +1,66 @@
+---
+import Base from '../../layouts/Base.astro';
+
+const faq = [
+  { q: 'Lohnt es sich, nach Kreta auszuwandern?', a: 'Für viele ja, wenn das Einkommen stimmt. Wer Rente, Remote-Gehalt oder eigene Kunden mitbringt, bekommt viel Lebensqualität: Klima, Natur, Essen, eine entspanntere Art zu leben. Wer auf Kreta erst einen gut bezahlten Job finden muss, hat es schwer.' },
+  { q: 'Was sind die größten Nachteile auf Kreta?', a: 'Gestiegene Mieten, kalte und feuchte Häuser im Winter, wenig gut bezahlte Jobs, Bürokratie auf Griechisch, lange Wege zu Fachärzten außerhalb von Heraklion und im Winter weniger Flüge nach Deutschland.' },
+  { q: 'Kann man auf Kreta gut leben ohne Griechisch?', a: 'Im Alltag an der Nordküste ja, mit Englisch kommen Sie weit. Bei Behörden, Handwerkern, im öffentlichen Gesundheitssystem und für echte Freundschaften mit Kretern hilft Griechisch enorm. Wer bleibt, sollte im ersten Jahr anfangen zu lernen.' },
+  { q: 'Wie sind die Kreter zu Ausländern?', a: 'Meist sehr herzlich und hilfsbereit, Gastfreundschaft wird groß geschrieben. Wer sich bemüht, ein paar Worte Griechisch spricht und im Dorf grüßt, wird schnell aufgenommen. Wer wie ein Dauerurlauber lebt, bleibt eher außen vor.' },
+];
+---
+<Base
+  image="taverne-falasarna"
+  imageAlt="Taverne über dem Strand von Falasarna"
+  title="Leben auf Kreta: Vor- und Nachteile, ehrlich gesagt (2026)"
+  description="Leben auf Kreta: Was wirklich gut ist und was nervt. Klima, Kosten, Winter, Jobs, Behörden, Ärzte und Menschen. Ehrliche Vor- und Nachteile für Auswanderer."
+  h1="Leben auf Kreta: Vor- und Nachteile"
+  lead="Im Urlaub sehen Sie Strand und Taverne. Wer hier lebt, erlebt auch Behörden, Winterregen und Mietverträge. Hier steht beides, ohne Schönfärberei."
+  crumbs={[{ href: '/leben/', label: 'Leben auf Kreta' }, { href: '/leben/vor-und-nachteile/', label: 'Vor- und Nachteile' }]}
+  faq={faq}
+>
+  <div class="box"><p><strong>Kurz gesagt:</strong> Kreta lohnt sich, wenn Sie Ihr Einkommen mitbringen, nicht im Urlaubsort wohnen und den ersten Winter einplanen. Wer billig leben und vor Ort einen gut bezahlten Job finden will, wird oft enttäuscht.</p></div>
+
+  <h2>Was auf Kreta wirklich gut ist</h2>
+  <ul>
+    <li><strong>Klima:</strong> rund 300 Sonnentage, baden von Mai bis Oktober, Winter an der Küste meist zweistellig.</li>
+    <li><strong>Natur auf engem Raum:</strong> Strand am Morgen, Berge am Nachmittag, Schluchten, Dörfer, Olivenhaine.</li>
+    <li><strong>Essen:</strong> Gemüse, Obst, Käse und Olivenöl aus der Region, oft vom Nachbarn. Essen gehen ist in Orten mit Einheimischen noch bezahlbar.</li>
+    <li><strong>Menschen:</strong> Kreter sind stolz, herzlich und hilfsbereit. Familie und Nachbarschaft zählen mehr als Termine.</li>
+    <li><strong>Sicherheit:</strong> Wenig Kriminalität im Alltag. Kinder spielen draußen, Türen stehen in Dörfern oft offen.</li>
+    <li><strong>Kein reines Urlaubsnest:</strong> Mit Heraklion, Chania und Rethymno gibt es echte Städte mit Universität, Krankenhäusern und Leben im Winter.</li>
+    <li><strong>Steuervorteile:</strong> Zuzügler können sieben Jahre lang die Hälfte ihres Arbeitseinkommens steuerfrei stellen, Rentner pauschal 7 % zahlen. Mehr unter <a href="/behoerden-steuern/">Behörden & Steuern</a>.</li>
+  </ul>
+
+  <h2>Was nervt</h2>
+  <ul>
+    <li><strong>Mieten:</strong> In fünf Jahren stark gestiegen. Gute Wohnungen gehen über Bekannte weg, bevor sie online stehen. Ferienvermietung macht den Markt knapp.</li>
+    <li><strong>Winter im Haus:</strong> Viele Häuser haben keine Dämmung und keine richtige Heizung. Feuchtigkeit und Schimmel sind normal, nicht die Ausnahme.</li>
+    <li><strong>Jobs und Löhne:</strong> Wenig feste Stellen außerhalb des Tourismus, Löhne weit unter deutschem Niveau.</li>
+    <li><strong>Bürokratie:</strong> Vieles geht online, aber auf Griechisch. Ein Papier fehlt immer. Ohne Buchhalter geht für Selbstständige praktisch nichts.</li>
+    <li><strong>Gesundheit:</strong> Öffentliche Krankenhäuser sind überlastet, für Fachärzte zahlen viele privat. Außerhalb von Heraklion sind die Wege zu Spezialisten lang.</li>
+    <li><strong>Autofahren:</strong> Die Nordküstenstraße ist eng und gefährlich, Verkehrsregeln werden locker gesehen. Ohne Auto geht außerhalb der Städte wenig.</li>
+    <li><strong>Teure Alltagsdinge:</strong> Supermarkt-Markenware, Elektronik, Autos und Sprit kosten so viel wie in Deutschland oder mehr.</li>
+    <li><strong>Weit weg im Winter:</strong> Von November bis März gibt es deutlich weniger Direktflüge nach Deutschland.</li>
+  </ul>
+
+  <h2>Für wen Kreta passt</h2>
+  <table>
+    <thead><tr><th>Passt gut</th><th>Wird schwierig</th></tr></thead>
+    <tbody>
+      <tr><td>Rentner mit deutscher Rente</td><td>Wer billig leben will, ohne Einkommen</td></tr>
+      <tr><td>Remote-Arbeiter und Selbstständige mit Kunden im Ausland</td><td>Wer vor Ort einen gut bezahlten Job sucht</td></tr>
+      <tr><td>Familien mit kleinen Kindern</td><td>Familien mit Teenagern ohne Griechisch</td></tr>
+      <tr><td>Wer Geduld hat und ein wenig Griechisch lernt</td><td>Wer deutsche Abläufe und Pünktlichkeit erwartet</td></tr>
+    </tbody>
+  </table>
+
+  <h2>So testen Sie, ob es passt</h2>
+  <ol>
+    <li><strong>Einen Winter vor Ort verbringen</strong>, nicht nur den Sommer. Am besten von November bis März.</li>
+    <li><strong>In einem Ort mit Einheimischen wohnen</strong>, nicht in einer Ferienanlage.</li>
+    <li><strong>Erst mieten, dann kaufen.</strong> Siehe <a href="/leben/wohnung-mieten/">Wohnung mieten</a>.</li>
+    <li><strong>Das Budget ehrlich rechnen.</strong> Siehe <a href="/leben/lebenshaltungskosten/">Lebenshaltungskosten</a>.</li>
+  </ol>
+
+  <p>Weiterlesen: <a href="/regionen/">Welche Region passt zu Ihnen?</a> · <a href="/checkliste/">Checkliste in 10 Schritten</a> · <a href="/rentner/">Als Rentner nach Kreta</a></p>
+</Base>

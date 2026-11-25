@@ -1,8 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { Q } from '../../data/quellen';
 const faq = [
-  { q: 'Was kostet eine Wohnung in Chania?', a: 'Die durchschnittliche Angebotsmiete lag im dritten Quartal 2026 bei rund 10,60 € pro m² (Spitogatos). Für 70 m² sind das etwa 740 € im Monat. In der Altstadt, in Chalepa und am Meer liegen die Preise oft darüber, im Hinterland darunter.' },
+  { q: 'Was kostet eine Wohnung in Chania?', a: 'Die durchschnittliche Angebotsmiete lag im dritten Quartal 2026 bei rund 10,60 € pro m². Für 70 m² sind das etwa 740 € im Monat. In der Altstadt, in Chalepa und am Meer liegen die Preise oft darüber, im Hinterland darunter.' },
   { q: 'Ist Chania im Winter belebt?', a: 'Ja. Chania ist eine Stadt mit rund 110.000 Einwohnern in der Gemeinde, Universität und Verwaltung. Reine Urlaubsorte wie Agia Marina oder Platanias sind im Winter dagegen sehr ruhig.' },
 ];
 ---
@@ -16,7 +15,6 @@ const faq = [
   lead="Chania gilt als schönste Stadt Kretas und ist bei Ausländern besonders beliebt. Das hat seinen Preis: Hier sind die Mieten 2026 am höchsten auf der Insel."
   crumbs={[{ href: '/regionen/', label: 'Regionen' }, { href: '/regionen/chania/', label: 'Chania' }]}
   faq={faq}
-  sources={[Q.mietenSpi, Q.mietenRemax, Q.zensus, Q.tuc]}
 >
   <h2>Charakter</h2>
   <p>Venezianischer Hafen, enge Altstadtgassen, im Süden die Weißen Berge (Lefka Ori) mit Schnee bis ins Frühjahr. Der Westen ist grüner und regenreicher als der Osten. Die Stadt hat eine große internationale Gemeinschaft, viele Cafés, Märkte und Kultur auch im Winter.</p>
@@ -44,10 +42,10 @@ const faq = [
 
   <h2>Mietniveau</h2>
   <table>
-    <thead><tr><th>Quelle</th><th>Wert</th></tr></thead>
+    <thead><tr><th>Was</th><th>Preis</th></tr></thead>
     <tbody>
-      <tr><td>Angebotsmiete Q3 2026 (Spitogatos)</td><td>ca. 10,60 €/m², Q3 2025: 10,00 €/m²</td></tr>
-      <tr><td>Vertragsmieten 2026 (RE/MAX)</td><td>ca. 10 €/m², 80 m² rund 800 €</td></tr>
+      <tr><td>In Inseraten (Herbst 2026)</td><td>ca. 10,60 €/m², Q3 2025: 10,00 €/m²</td></tr>
+      <tr><td>Tatsächlich bezahlt (2026)</td><td>ca. 10 €/m², 80 m² rund 800 €</td></tr>
     </tbody>
   </table>
   <p>Chania ist 2026 der teuerste Ort Kretas zum Mieten. Gute Wohnungen werden oft über Bekannte und Facebook-Gruppen vergeben, bevor sie online stehen.</p>

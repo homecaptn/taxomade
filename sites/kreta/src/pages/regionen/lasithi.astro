@@ -1,8 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { Q } from '../../data/quellen';
 const faq = [
-  { q: 'Ist Lasithi die günstigste Region Kretas?', a: 'Bei den Mieten ja: Die Angebotsmiete lag im dritten Quartal 2026 bei rund 8,70 € pro m² (Spitogatos), für 70 m² etwa 610 €. Allerdings stiegen die Mieten dort zuletzt am schnellsten (plus 8,4 % in einem Jahr).' },
+  { q: 'Ist Lasithi die günstigste Region Kretas?', a: 'Bei den Mieten ja: Die Angebotsmiete lag im dritten Quartal 2026 bei rund 8,70 € pro m², für 70 m² etwa 610 €. Allerdings stiegen die Mieten dort zuletzt am schnellsten (plus 8,4 % in einem Jahr).' },
   { q: 'Welcher Flughafen ist für Lasithi am besten?', a: 'In der Regel Heraklion. Von Agios Nikolaos sind es rund eine Stunde Fahrt, von Ierapetra und Sitia deutlich mehr. Der kleine Flughafen Sitia hat vor allem Inlandsflüge und einzelne Saisonverbindungen.' },
 ];
 ---
@@ -15,7 +14,6 @@ const faq = [
   lead="Der Osten Kretas ist trockener, ruhiger und günstiger. Drei kleine Städte prägen die Region, jede mit eigenem Charakter."
   crumbs={[{ href: '/regionen/', label: 'Regionen' }, { href: '/regionen/lasithi/', label: 'Lasithi' }]}
   faq={faq}
-  sources={[Q.mietenSpi, Q.zensus, Q.hmu]}
 >
   <h2>Charakter</h2>
   <p>Weniger Regen, kargere Landschaft, viel Licht. Das Leben ist langsamer, die Gemeinschaften sind kleiner. Im Sommer kann Wasser in manchen Dörfern knapp werden, fragen Sie vor dem Mieten oder Kaufen danach.</p>
@@ -40,9 +38,9 @@ const faq = [
 
   <h2>Mietniveau</h2>
   <table>
-    <thead><tr><th>Quelle</th><th>Wert</th></tr></thead>
+    <thead><tr><th>Was</th><th>Preis</th></tr></thead>
     <tbody>
-      <tr><td>Angebotsmiete Q3 2026 (Spitogatos, Regionalbezirk Lasithi)</td><td>ca. 8,70 €/m², Q3 2025: 8,00 €/m²</td></tr>
+      <tr><td>In Inseraten (Herbst 2026)</td><td>ca. 8,70 €/m², Q3 2025: 8,00 €/m²</td></tr>
     </tbody>
   </table>
 
@@ -51,4 +49,5 @@ const faq = [
     <li><strong>Krankenhäuser:</strong> Allgemeine Krankenhäuser in Agios Nikolaos, Ierapetra und Sitia. Für komplexe Fälle wird nach Heraklion überwiesen.</li>
     <li><strong>Hochschule:</strong> Standorte der Hellenic Mediterranean University in Agios Nikolaos, Ierapetra und Sitia.</li>
   </ul>
+  <p>Weiterlesen: <a href="/rentner/">Als Rentner nach Kreta</a> · <a href="/regionen/heraklion/">Heraklion</a> · <a href="/leben/haus-kaufen/">Haus kaufen</a> · <a href="/leben/lebenshaltungskosten/">Lebenshaltungskosten</a></p>
 </Base>
