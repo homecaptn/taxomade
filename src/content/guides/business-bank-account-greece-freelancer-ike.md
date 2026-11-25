@@ -1,7 +1,8 @@
 ---
-title: "Business Bank Account in Greece for Freelancers and IKEs (2026)"
+title: "Greek Business Bank Account: Freelancers & IKEs (2026)"
 description: "Do Greek freelancers need a separate business account? What an IKE needs, documents banks ask for, the professional account rule and neobank limits."
 pubDate: 2026-11-11
+updatedDate: 2026-11-25
 category: "bookkeeping"
 image: "/images/guides/bank_account_hero.png"
 faq:
@@ -17,7 +18,7 @@ faq:
     answer: "For a sole trader with an AFM and registered activity, usually one branch visit. For an IKE, expect one to three weeks, longer if the shareholders are non-EU residents, a foreign company owns the shares or the bank asks extra compliance questions."
 ---
 
-Once you register as a freelancer or form an IKE in Greece, your bank account stops being a private matter. AADE can require you to declare it, your clients may only pay certain amounts electronically, and your expenses can lose their tax deduction if you pay them in cash. This guide covers the business side. For opening a personal account as a newcomer, see [opening a bank account in Greece](/guides/open-bank-account-greece/).
+Once you register as a freelancer or form an IKE in Greece, your bank account stops being a private matter. AADE can require you to declare it, your clients may only pay certain amounts electronically, and your expenses can lose their tax deduction if you pay them in cash. This guide covers the business side only: the professional account, IKE accounts and payment rules. For opening a personal account as a newcomer (documents, remote onboarding, everyday fees), see [opening a bank account in Greece](/guides/open-bank-account-greece/).
 
 ## The short answer
 
@@ -31,7 +32,7 @@ Once you register as a freelancer or form an IKE in Greece, your bank account st
 
 Greek law has no general "every freelancer needs a business account" rule. The duty depends on your activity.
 
-Businesses that serve consumers, or that work under one of the activity codes listed in the card-acceptance decision (KYA 119899/2023, which replaced KYA 45231/2017), must accept card and instant payments, including IRIS. The same payees must **declare their professional account(s)** to AADE through its online service, using their TAXISnet credentials, within one month of starting the activity, and declare any change within a month.
+Businesses that serve consumers, or that work under one of the activity codes listed in the card-acceptance decision (KYA 119899/2023), must accept card and instant payments, including IRIS. The same payees must **declare their professional account(s)** to AADE through its online service, using their TAXISnet credentials, within one month of starting the activity, and declare any change within a month.
 
 The list of codes is long: retail, transport, health, education, repairs and many professional services. Whether you are on it depends on the KAD you register with, not on your nationality or turnover. A developer or consultant who only invoices foreign companies is often outside the scope; a yoga teacher or translator who works for private clients usually is not.
 
@@ -49,15 +50,15 @@ Even if you are not obliged, open a second account. It costs little, makes your 
 
 Two separate rules:
 
-**Selling to consumers.** Any sale of €500 or more to a private individual must be settled by card, bank transfer or another electronic method. Cash is not allowed, and the business that accepts it faces a fine of **twice the cash amount** ([Law 3842/2010, art. 20(3), as amended by Law 5301/2026](https://www.taxheaven.gr/law/5301/2026/arthro/77); Tax Procedure Code, art. 57(10)).
+**Selling to consumers.** Any sale of €500 or more to a private individual must be settled by card, bank transfer or another electronic method. Cash is not allowed, and the business that accepts it faces a fine of **twice the cash amount** ([Law 3842/2010, art. 20(3), as amended by Law 5301/2026, art. 77](https://www.taxheaven.gr/law/5301/2026/arthro/77); Tax Procedure Code, art. 57(10), as amended by Law 5301/2026, art. 38).
 
 **Buying as a business.** Purchases of goods or services above €500 that you do not pay through a bank (transfer, business card, bank cheque) are **not deductible** from your business income ([Income Tax Code, art. 23(b)](https://www.taxheaven.gr/law/4172/2013/arthro/23)). The rule bites even if only part of the bill is paid in cash.
 
-If you sell to consumers in a shop or studio, you also need a card terminal (POS) or an IRIS-enabled setup; failing to accept cards costs €1,500 (KYA 119899/2023, art. 5). If you issue retail receipts through a cash register or an e-invoicing provider, the terminal has to be linked to it.
+If you sell to consumers in a shop or studio, you also need a card terminal (POS) or an IRIS-enabled setup; not having a terminal or not accepting IRIS when you are in scope costs **€1,500** (Law 4446/2016, art. 65; KYA 119899/2023). If you issue retail receipts through a cash register or an e-invoicing provider, the terminal has to be linked to it.
 
 ## What an IKE needs
 
-An IKE is a separate legal person. It needs an account in its own name, and the administrator cannot run company money through a personal account. If it sells to consumers, it must accept IRIS (mandatory for companies since 1 December 2025) through a declared professional account. Expect a full due-diligence review. Typical documents:
+An IKE is a separate legal person. It needs an account in its own name, and the administrator cannot run company money through a personal account. If it sells to consumers, it must accept IRIS (mandatory for businesses in scope since 1 December 2025) through a declared professional account. Expect a full due-diligence review. Typical documents:
 
 - **GEMI general certificate** (γενικό πιστοποιητικό) and **certificate of representation** (πιστοποιητικό εκπροσώπησης), usually no older than one to three months.
 - **Articles of association**, plus any amendments.
@@ -90,8 +91,8 @@ Advantages: a Greek IBAN that AADE, EFKA, IRIS and Greek clients accept without 
 
 ### E-money providers and neobanks
 
-- **Viva.com:** Greek provider, offers **Greek (GR) IBANs** on request (for a monthly fee), popular with small businesses for card acceptance and IRIS. A realistic alternative to a systemic bank for the professional account.
-- **Wise Business and Revolut Business:** good for multi-currency invoicing and foreign clients, but they currently issue non-Greek IBANs. Revolut has Bank of Greece approval for a local branch and has announced Greek IBANs; check which IBAN your account actually shows before declaring it.
+- **Viva.com:** Greek provider, offers **Greek (GR) IBANs** on request (about €10 per month per IBAN in 2026), popular with small businesses for card acceptance and IRIS. A realistic alternative to a systemic bank for the professional account.
+- **Wise Business and Revolut Business:** good for multi-currency invoicing and foreign clients, but they currently issue non-Greek IBANs. Revolut received Bank of Greece approval for a local branch in July 2026 and has announced Greek IBANs, with no confirmed launch date as of November 2026; check which IBAN your account actually shows before declaring it.
 
 Greek taxes can be paid from any SEPA account. The problem is everything else: the provider must confirm your IBAN to AADE for the professional account, and it is unclear whether foreign EMIs do this reliably; IRIS works only through participating providers; EFKA payments run most smoothly from a Greek IBAN. Our recommendation: a Greek business account as the declared professional account, plus Wise or Revolut for foreign currency. The rule says every account that carries business payments must be declared, so if you are in scope, check with your accountant how to handle the second one. Social security is covered in [EFKA for freelancers](/guides/efka-social-security-freelancers-greece/).
 
@@ -119,7 +120,7 @@ Bring client contracts or invoices and explain your money flows in two or three 
 
 ## Where taxomade fits
 
-We set up the paperwork side as part of [ongoing bookkeeping](/greece/ongoing-bookkeeping/), from €89 a month: we prepare and file the professional account declaration, check your KAD codes against the card and IRIS rules, and keep your myDATA, VAT and annual returns in line with your bank statements, in English, German or Greek. Send us a message on [WhatsApp](https://wa.me/491743426818) or through our contact form for a free compliance check.
+We set up the paperwork side as part of [ongoing bookkeeping](/greece/ongoing-bookkeeping/), from €89/month: we prepare and file the professional account declaration, check your KAD codes against the card and IRIS rules, and keep your myDATA, VAT and annual returns in line with your bank statements, in English, German or Greek. Send us a message on [WhatsApp](https://wa.me/491743426818) or through our contact form for a free compliance check.
 
 ## FAQ
 
@@ -143,4 +144,4 @@ Typically the GEMI general certificate and certificate of representation, the ar
 
 For a sole trader with an AFM and registered activity, usually one branch visit. For an IKE, expect one to three weeks, longer if the shareholders are non-EU residents, a foreign company owns the shares or the bank asks extra compliance questions.
 
-*Rules as of November 2026 (sources: Law 4446/2016, arts. 62 and 65; KYA 119899/13-12-2023, arts. 1, 4–6, as amended by KYA 18333/2025; Law 5193/2025, art. 219; Law 3842/2010, art. 20(3), as amended by Law 5301/2026; Tax Procedure Code (Law 5104/2024), art. 57(10); Income Tax Code, art. 23(b); Law 4557/2018, art. 20; AADE decisions A.1098/2022 and A.1155/2023; banks' and providers' published terms).*
+*Rules as of November 2026 (sources: Law 4446/2016, arts. 62 and 65; KYA 119899/13-12-2023, arts. 1, 4–6, as amended by KYA 18333/2025; KYA 45231/2017, art. 5β, as amended; Law 5193/2025, art. 219; Law 3842/2010, art. 20(3), as amended by Law 5301/2026, art. 77; Tax Procedure Code (Law 5104/2024), art. 57(10), as amended by Law 5301/2026, art. 38; Income Tax Code, art. 23(b); Law 4557/2018, art. 20; AADE decisions A.1098/2022 and A.1155/2023; banks' and providers' published terms).*
