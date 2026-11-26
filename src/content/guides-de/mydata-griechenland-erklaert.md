@@ -91,7 +91,7 @@ Nach A.1138/2020 in der aktuellen Fassung ([Überblick taxheaven](https://www.ta
 
 </div>
 
-Eine einzige Jahresfrist gibt es bei myDATA also nicht. Die Plattform läuft im Takt Ihrer Umsatzsteuererklärungen. Wer seit dem 1. Januar 2024 mit einfacher Buchführung selbstständig ist, gibt die Umsatzsteuer **monatlich** ab und kann erst nach 24 Monaten auf Antrag zur vierteljährlichen Abgabe wechseln (AADE-Entscheidung A.1049/2025); bei doppelter Buchführung ist die Abgabe immer monatlich. Alle Termine an einem Ort: [Steuerfristen in Griechenland](/guides/greek-tax-deadlines-calendar-2026/) (Englisch).
+Eine einzige Jahresfrist gibt es bei myDATA also nicht. Die Plattform läuft im Takt Ihrer Umsatzsteuererklärungen. Wer seit dem 1. Januar 2024 mit einfacher Buchführung selbstständig ist, gibt die Umsatzsteuer **monatlich** ab und kann erst nach 24 Monaten auf Antrag zur vierteljährlichen Abgabe wechseln (AADE-Entscheidung A.1049/2025); bei doppelter Buchführung ist die Abgabe immer monatlich. Alle Termine an einem Ort: [Steuerfristen in Griechenland](/de/ratgeber/steuerfristen-griechenland-2026/).
 
 ## E-Rechnung (B2B) in Griechenland
 

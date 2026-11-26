@@ -93,7 +93,7 @@ Lassen Sie die Unterlagen direkt an Ihren neuen Buchhalter schicken und halten S
 Wechseln können Sie an jedem Tag, aber manche Zeitpunkte sind günstiger als andere:
 
 - **Zum Monatsende** bleiben die Buchungszeiträume sauber getrennt.
-- **Nicht kurz vor einer Frist:** Umsatzsteuererklärungen sind zum Beispiel bis zum letzten Werktag des Monats nach Ende des Zeitraums fällig ([Umsatzsteuergesetz Art. 43, Gesetz 5144/2024](https://www.taxheaven.gr/law/5144/2024/arthro/43)), die Zusammenfassende Meldung (VIES) für Kunden in der EU bis zum 26. des Folgemonats. Ein Wechsel wenige Tage davor erzeugt unnötigen Druck. Alle Termine finden Sie im [griechischen Steuerkalender](/guides/greek-tax-deadlines-calendar-2026/) (Englisch).
+- **Nicht kurz vor einer Frist:** Umsatzsteuererklärungen sind zum Beispiel bis zum letzten Werktag des Monats nach Ende des Zeitraums fällig ([Umsatzsteuergesetz Art. 43, Gesetz 5144/2024](https://www.taxheaven.gr/law/5144/2024/arthro/43)), die Zusammenfassende Meldung (VIES) für Kunden in der EU bis zum 26. des Folgemonats. Ein Wechsel wenige Tage davor erzeugt unnötigen Druck. Alle Termine finden Sie im [griechischen Steuerkalender](/de/ratgeber/steuerfristen-griechenland-2026/).
 - **Vor der Saison der jährlichen Steuererklärung** (die Abgabe öffnet meist Mitte März): ein guter Zeitpunkt, wenn Ihr neuer Buchhalter das ganze Jahr übernehmen soll.
 
 ## Wie lange dauert der Buchhalterwechsel?

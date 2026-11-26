@@ -3,6 +3,7 @@ title: "Greek Tax Deadlines Calendar 2026–2027 for Freelancers and Small Busin
 description: "Greek tax deadlines 2026–2027: income tax return and instalments, VAT, VIES, EFKA, ENFIA, 5C/5B applications, e-invoicing and late-filing fines."
 pubDate: 2026-10-30
 updatedDate: 2026-11-14
+translationOf: "steuerfristen-griechenland-2026"
 category: "tax"
 faq:
   - question: "When is the deadline for tax returns in Greece in 2026?"
@@ -108,7 +109,7 @@ You need to have been non-resident for tax purposes in Greece for 5 of the previ
 For [Article 5B](/guides/retiring-to-greece-7-percent-flat-tax/), the cut-off is also 2 July, but the deadline is **31 October** ([AADE press release, 25 September 2026](https://www.aade.gr/sites/default/files/2026-09/d.t._25.09.2026.pdf); [A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf)):
 
 - **Move by 2 July:** choose that year or the next. For that year, apply by 31 October of that year. For the next year, apply by 31 October of the next year, and the regime starts then.
-- **Move later:** the regime starts the following year, and you apply by 31 October of that year.
+- **Move after 2 July:** the regime starts the following year, and you apply by 31 October of the following year.
 
 ## E-invoicing from 2 November 2026
 
