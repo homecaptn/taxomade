@@ -1,8 +1,8 @@
 ---
-title: "Hiring Your First Employee in Greece: Costs, ERGANI & EFKA (2026)"
+title: "Hiring Your First Employee in Greece 2026: Costs & ERGANI"
 description: "What it really costs to hire your first employee in Greece in 2026: employer EFKA, 14 salaries, ERGANI II, the digital work card and a worked example."
 pubDate: 2026-10-15
-updatedDate: 2026-11-14
+updatedDate: 2026-11-26
 category: "bookkeeping"
 image: "/images/guides/freelancer_setup_hero.png"
 faq:
@@ -11,7 +11,7 @@ faq:
   - question: "What is the minimum wage in Greece in 2026?"
     answer: "€920 gross per month for employees from 1 April 2026, paid 14 times a year. A further increase from 1 April 2027 has been announced, with a target of €1,000 by January 2028; the 2027 amount has not been set."
   - question: "What do I have to file before my first employee starts?"
-    answer: "As a sole proprietor, register as an employer with e-EFKA to get an employer number (AME); an IKE formed through the GEMI one-stop-shop gets one automatically. Then file the digital hiring declaration in ERGANI II before the first working hour; the employee can confirm the main terms in MyErgani. Starting without the declaration counts as undeclared work."
+    answer: "As a sole proprietor, register as an employer with e-EFKA to get an employer number (AME); an IKE formed through the GEMI one-stop-shop gets one automatically. Then file the digital hiring declaration in ERGANI II before the first working hour; the employee can then confirm the main terms in MyErgani. Starting without the declaration counts as undeclared work."
   - question: "Can I dismiss an employee during the first year in Greece?"
     answer: "During the first 12 months of an open-ended contract, the employer can terminate without notice and without severance, unless agreed otherwise. Probation can last up to six months and counts towards those 12 months. The termination still has to be declared in ERGANI II."
 ---
@@ -37,15 +37,15 @@ Your first hire in Greece is a bigger step than it looks from abroad. The salary
 
 ERGANI II, the Ministry of Labour's employment register, has been fully live since 16 February 2026. Three rules matter for a first hire:
 
-- **Hiring declaration before work starts.** The digital hiring declaration (which replaced the old E3 form) is filed before the employee's first working hour. The employee can confirm the main terms digitally, for example in MyErgani, the employee's ERGANI app. A trial day without it counts as undeclared work.
-- **Contract terms on file.** The main terms of employment are posted in ERGANI II before hiring, and later changes, including salary changes, are declared there as well.
+- **Hiring declaration before work starts.** The digital hiring declaration (which replaced the old E3 form) is filed before the employee's first working hour and includes the main terms of employment. The employee is notified and can accept or reject the main terms in MyErgani, the employee's ERGANI app. A trial day without it counts as undeclared work.
+- **Changes on file.** Later changes to the terms, including salary changes, are declared in ERGANI II with a separate change declaration.
 - **Terminations** are declared in ERGANI II as well, including the end of a probation period.
 
-The fine for undeclared work is currently **€10,500 per worker**, reduced to €7,000, €5,000 or €3,000 if you then hire the person full-time for 3, 6 or 12 months.
+The fine for undeclared work is **€10,500 per worker**. It is reduced if you then hire the person on a regular contract.
 
 ### The digital work card
 
-The digital work card records each employee's actual start and end of work in real time. It already covers about 2.5 million workers in sectors such as industry, retail, banking, insurance, tourism and food service. In 2026 it extends further: health, cleaning and telecoms from 12 October 2026, and **consulting, advertising, other office activities, repairs and logistics from 16 November 2026**. Businesses in the November sectors have been in a pilot phase since 29 June; fines apply from 16 November. If the card does not match the hours actually worked, the same €10,500 fine applies per employee.
+The digital work card records each employee's actual start and end of work in real time. It started in sectors such as industry, retail, banking, insurance, tourism and food service, and with the 2026 extensions covers about 2.5 million workers. Health services, telecoms, personal care and cleaning followed from 12 October 2026, and **consulting, advertising, other office activities, repairs and logistics from 16 November 2026**, after a pilot phase that began on 29 June 2026. If overtime or a change of schedule is not recorded on the card, the fine is €10,500 per employee.
 
 ## 3. What you pay: wages and contributions
 
@@ -59,7 +59,7 @@ The digital work card records each employee's actual start and end of work in re
 | Employee (withheld from pay) | 13.37% |
 | Total | 35.16% |
 
-Contributions are calculated on gross pay up to €7,761.94 a month. The payroll declaration (APD, ΑΠΔ) and payment are due by the last working day of the following month; when the declaration deadline is extended, the payment deadline is not. From 1 April 2027, [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) (art. 21) cuts the employee's unemployment contribution by 0.5 points, from 1.20% to 0.70% (total employee rate 13.37% to 12.87%); the employer's 1.20% stays. Until then, the rates above apply.
+Contributions are calculated on gross pay up to €7,761.94 a month (e-EFKA circular 4/2026). The payroll declaration (APD, ΑΠΔ) and payment are due by the last working day of the following month. From 1 April 2027, [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) (art. 21) cuts the employee's unemployment contribution by 0.5 points, from 1.20% to 0.70% (total employee rate 13.37% to 12.87%); the employer's 1.20% stays. Until then, the rates above apply.
 
 **Income tax withholding** follows the 2026 scale (9% to 44%, [Law 5246/2025](https://www.taxheaven.gr/law/5246/2025/arthro/3)), with lower rates for employees under 30 and for parents. Payroll works out the annual tax, deducts the employee tax credit and withholds one fourteenth each month.
 
@@ -97,7 +97,7 @@ A probation period of **up to six months** can be agreed. During the **first 12 
 ## 7. Hiring people from abroad
 
 - **EU citizens** need no work permit, only an AFM and AMKA.
-- **Non-EU citizens** need a residence permit with the right to work, or an employer-led invitation procedure. Since Law 5275/2026 the minimum contract for invited workers is six months (previously 12), and single residence-and-work permit applications must be decided within 90 days.
+- **Non-EU citizens** need a residence permit with the right to work, or an employer-led invitation procedure. Since Law 5275/2026 the minimum contract for invited workers is six months (previously 12), and single residence-and-work permit applications are to be decided within 90 days, extendable by 30.
 - **Digital Nomad Visa holders** cannot work for a Greek employer; the visa only covers work for employers and clients outside Greece. They are also not eligible for Article 5C ([5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa/)).
 - **Someone living in another country** generally falls under that country's employment and social security rules; for one or two people abroad, an Employer of Record is often simpler.
 
@@ -109,7 +109,7 @@ If your new employee moves to Greece and qualifies for [Article 5C](/guides/50-p
 
 - **A "trial day" before the ERGANI declaration.** That is undeclared work, at €10,500.
 - **Budgeting 12 salaries.** It is 14, plus about 22% on top.
-- **Paying late because the APD deadline moved.** The payment deadline did not.
+- **Paying the APD late.** Declaration and payment are due by the last working day of the following month.
 - **Missing the work card** in consulting, advertising or office businesses from 16 November 2026.
 - **Paying someone full-time on freelance invoices** to avoid payroll. That can be reclassified as employment, with back contributions and fines.
 
@@ -125,7 +125,7 @@ Roughly 17 times the monthly gross salary per year. An employee on €1,500 gros
 
 ### What do I have to file before my first employee starts?
 
-As a sole proprietor, register as an employer with e-EFKA to get an employer number (AME); an IKE formed through the GEMI one-stop-shop gets one automatically. Then file the digital hiring declaration in ERGANI II before the first working hour; the employee can confirm the main terms in MyErgani. Starting without the declaration counts as undeclared work.
+As a sole proprietor, register as an employer with e-EFKA to get an employer number (AME); an IKE formed through the GEMI one-stop-shop gets one automatically. Then file the digital hiring declaration in ERGANI II before the first working hour; the employee can then confirm the main terms in MyErgani. Starting without the declaration counts as undeclared work.
 
 ### Can I dismiss an employee during the first year in Greece?
 
@@ -133,6 +133,6 @@ During the first 12 months of an open-ended contract, the employer can terminate
 
 ## How taxomade can help
 
-We prepare and file the employer registration where needed, the ERGANI II declarations, monthly payroll, the APD and withholding returns, alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping/). Bookkeeping for a sole proprietor starts from €89/month; IKE bookkeeping and payroll are priced separately, depending on your setup and number of employees. Send us a message before your first hire, not after it.
+We prepare and file the employer registration where needed, the ERGANI II declarations, monthly payroll, the APD and withholding returns, alongside your [ongoing bookkeeping](/greece/ongoing-bookkeeping/). Bookkeeping for a sole proprietor starts from €89/month; IKE bookkeeping and payroll are priced on request. Send us a message before your first hire, not after it.
 
-*Rules as of November 2026 (sources: Law 5053/2023, Law 5239/2025, Law 5246/2025, Law 5275/2026, e-EFKA circular 4/2026, Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 21; the 2027 minimum wage is not yet set, and the worked example is simplified).*
+*Rules as of November 2026 (sources: Joint Ministerial Decision 8934/2026 (ΦΕΚ Β' 1759/27.03.2026), Law 5053/2023, Law 5239/2025, Law 5246/2025, Law 5275/2026, e-EFKA circular 4/2026, Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 21; the 2027 minimum wage is not yet set, and the worked example is simplified).*

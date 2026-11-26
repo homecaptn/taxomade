@@ -1,8 +1,8 @@
 ---
-title: "Greek IKE vs Cyprus Ltd vs UAE Company for Founders (2026): Tax, Substance, Costs"
+title: "Greek IKE vs Cyprus Ltd vs UAE Company 2026: Tax Compared"
 description: "Greek IKE, Cyprus Ltd or UAE company in 2026? Corporate tax, dividends, substance, audit and VAT compared, and why living in Greece changes the answer."
 pubDate: 2026-11-03
-updatedDate: 2026-11-14
+updatedDate: 2026-11-26
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -22,11 +22,11 @@ Founders comparing a Greek IKE, a Cyprus Ltd and a UAE company usually start wit
 
 ## The short answer
 
-- **Corporate tax:** Greek IKE **22%**. Cyprus **15%** from 2026. UAE **0%** up to AED 375,000, then **9%**; qualifying free zone income can be taxed at 0%.
+- **Corporate tax:** Greek IKE **22%**. Cyprus **15%** from 2026. UAE **0%** up to AED 375,000, then **9%**; qualifying free zone income can be taxed at 0%, and Small Business Relief applies up to AED 3 million revenue until 2029.
 - **Dividends to you as a Greek resident:** taxed in Greece at **5%**, whichever country the company is in.
 - **Substance:** a Cyprus or UAE company has to be genuinely managed there. If you run it from your desk in Athens, Greece can treat it as a Greek tax resident.
 - **CFC rules:** Article 66 of the Greek Income Tax Code can tax a controlled foreign company's passive income in your hands, even if nothing is paid out.
-- **Audit:** required in Cyprus, where small companies can opt for a lighter review by the auditor; in the UAE, required for corporate tax for qualifying free zone companies and above AED 50 million revenue, and many licences ask for audited accounts anyway; usually not for a small IKE.
+- **Audit:** required in Cyprus, where small companies can opt for a lighter statutory review; in the UAE, required for corporate tax for qualifying free zone companies and above AED 50 million revenue, and many licences ask for audited accounts anyway; usually not for a small IKE.
 
 ## Side by side
 
@@ -36,24 +36,24 @@ Founders comparing a Greek IKE, a Cyprus Ltd and a UAE company usually start wit
 | Dividends to a Greek-resident shareholder | 5% withheld | Generally no Cyprus withholding; 5% in Greece | 0% UAE withholding; 5% in Greece |
 | Substance / management and control | Resident in Greece | Management and control in Cyprus; incorporation test unless a treaty says otherwise | Free zone 0% needs adequate substance in the UAE |
 | Setup and annual compliance | Online formation in days; double-entry books, monthly VAT, myDATA, accounts on GEMI | Registrar of Companies; accounts, tax return, annual return | Free zone or mainland licence and renewal; corporate tax registration and return |
-| Audit | Only above size thresholds | Required; small companies can opt for an auditor's review | For corporate tax: qualifying free zone companies and revenue above AED 50 million; many licences require audited accounts anyway |
+| Audit | Only above size thresholds | Required; small companies can opt for a statutory review | For corporate tax: qualifying free zone companies and revenue above AED 50 million; many licences require audited accounts anyway |
 | VAT | 24% | 19% | 5% |
 
 ## Greek IKE
 
 The IKE is taxed at [22% corporate income tax](https://www.taxheaven.gr/law/4172/2013/arthro/58). When profit is paid out, [5% dividend tax](https://www.aade.gr/sites/default/files/2020-02/e2012_2020pro.pdf) is withheld. Profit left in the company carries 22% only.
 
-Formation takes a few days. The ongoing costs are what count: EFKA for the administrator, the trade fee for premises in Attica (none outside Attica or on the Attica islands from tax year 2026, half for tax year 2027, abolished from tax year 2028 under Law 5355/2026, arts. 14 and 31), double-entry books and monthly VAT returns, all covered in our [IKE setup and annual costs guide](/guides/ike-greece-setup-annual-costs/). A statutory audit applies only above [size thresholds](https://www.eea.gr/wp-content/uploads/2018/11/elteereyna-gia-ta-oria-ypagogis-ton-oikonomikon-katastaseon-se-elegxo-1.pdf) that a typical founder company stays well below.
+Formation takes a few days. The ongoing costs are what count: EFKA for the administrator, the trade fee (under Law 5355/2026, art. 14, no longer due outside Attica and on the Attica islands from tax year 2026, halved for the rest of Attica for tax year 2027 and abolished from tax year 2028), double-entry books and monthly VAT returns, all covered in our [IKE setup and annual costs guide](/guides/ike-greece-setup-annual-costs/). As a rule of thumb, ongoing accounting for an IKE costs about twice as much as for a sole proprietorship. A statutory audit applies only above [size thresholds](https://www.eea.gr/wp-content/uploads/2018/11/elteereyna-gia-ta-oria-ypagogis-ton-oikonomikon-katastaseon-se-elegxo-1.pdf) that a typical founder company stays well below.
 
 ## Cyprus Ltd
 
 From tax year 2026, Cyprus taxes company profits at 15%, up from 12.5%, under the tax reform laws published in the Official Gazette on 31 December 2025. The reform also abolished deemed dividend distribution for profits earned after 31 December 2025 and added an incorporation test to company residence.
 
-Cyprus generally does not withhold tax on dividends paid to non-resident individuals. Annual financial statements go through a statutory audit by a licensed auditor; small companies below the size thresholds can now opt for a lighter review by the auditor instead. [VAT is 19%](https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/6F2D9F654287FF02C2258251002C8130), with registration above [€15,600](https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/88A7B920B681122AC22582510035432D) of taxable supplies. Official sources: the [Cyprus Tax Department](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) and the [Registrar of Companies](https://www.companies.gov.cy/en/about). For personal tax in Cyprus, see [Greece vs Cyprus, Portugal and Spain for freelancers](/guides/greece-vs-cyprus-portugal-spain-freelancers/).
+Cyprus generally does not withhold tax on dividends paid to non-resident individuals. Annual financial statements go through a statutory audit by a licensed auditor. Small private companies can opt for a lighter statutory review instead: for financial years starting on or after 6 February 2026, turnover up to €300,000 and total assets up to €500,000 for two consecutive years (Companies Law Cap. 113, s. 152A, as amended by Law 2(I)/2026). [VAT is 19%](https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/6F2D9F654287FF02C2258251002C8130), with registration above [€15,600](https://www.mof.gov.cy/mof/tax/taxdep.nsf/All/88A7B920B681122AC22582510035432D) of taxable supplies. Official sources: the [Cyprus Tax Department](https://www.mof.gov.cy/mof/tax/taxdep.nsf/index_en/index_en) and the [Registrar of Companies](https://www.companies.gov.cy/en/about). For personal tax in Cyprus, see [Greece vs Cyprus, Portugal and Spain for freelancers](/guides/greece-vs-cyprus-portugal-spain-freelancers/).
 
 ## UAE company
 
-Under [Federal Decree-Law No. 47 of 2022](https://mof.gov.ae/wp-content/uploads/2025/04/Federal-Decree-Law-No.-47-of-2022-and-its-amendments.pdf), corporate tax is 0% up to AED 375,000 of taxable income and 9% above. A company incorporated in the UAE is resident there; a foreign company is too if it is effectively managed and controlled in the UAE.
+Under [Federal Decree-Law No. 47 of 2022](https://mof.gov.ae/wp-content/uploads/2025/04/Federal-Decree-Law-No.-47-of-2022-and-its-amendments.pdf), corporate tax is 0% up to AED 375,000 of taxable income and 9% above. Resident businesses with revenue up to AED 3 million can elect Small Business Relief and be treated as having no taxable income for tax periods ending on or before 31 December 2029 (extended by Ministerial Decision No. 131 in August 2026); Qualifying Free Zone Persons and members of large multinational groups cannot use it. A company incorporated in the UAE is resident there; a foreign company is too if it is effectively managed and controlled in the UAE.
 
 A free zone company that is a **Qualifying Free Zone Person** pays 0% on qualifying income. Conditions include adequate substance in the UAE, arm's-length pricing and audited financial statements ([Ministerial Decision No. 84 of 2025](https://mof.gov.ae/wp-content/uploads/2025/04/Ministerial-Decision-No.-84-of-2025-on-Audited-Financial-Statements.pdf)). Other income is taxed at 9%, and non-qualifying revenue above the de minimis limit of Cabinet Decision No. 100 of 2023 (AED 5 million or 5% of revenue, whichever is lower) costs the status. Mainland companies pay the regular rates. Outside corporate tax, many free zone authorities require audited accounts to renew the licence.
 
@@ -121,4 +121,4 @@ Not automatically. A Qualifying Free Zone Person pays 0% corporate tax on qualif
 
 15%. The Cyprus tax reform raised the rate from 12.5% for tax year 2026 and abolished the deemed dividend distribution rules for profits earned after 31 December 2025.
 
-*Rules as of November 2026 (sources: Greece: Income Tax Code arts. 4, 40, 58, 64 and 66, Law 4172/2013, Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) arts. 14 and 31; Cyprus: 2026 tax reform; UAE: Federal Decree-Law No. 47 of 2022 as amended, Cabinet Decision No. 100 of 2023, Ministerial Decision No. 84 of 2025).*
+*Rules as of November 2026 (sources: Greece: Income Tax Code arts. 4, 40, 58, 64 and 66, Law 4172/2013, Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 14; Cyprus: 2026 tax reform laws (Official Gazette 31.12.2025), Companies Law Cap. 113 as amended by Law 2(I)/2026; UAE: Federal Decree-Law No. 47 of 2022 as amended, Cabinet Decision No. 100 of 2023, Ministerial Decisions No. 73 of 2023, No. 84 of 2025 and No. 131 (2026)).*
