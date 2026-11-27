@@ -1,11 +1,12 @@
 ---
-title: "Germany to Greece: Avoiding Double Tax in the Year You Move (2026)"
+title: "Germany to Greece: Double Tax in the Year You Move (2026)"
 description: "The year you move from Germany to Greece: who taxes which months, dual residence, late invoices and bonuses, exit tax timing and the papers you need."
 pubDate: 2026-11-14
+updatedDate: 2026-11-27
 category: "tax"
 faq:
   - question: "Do I pay tax in Germany and Greece in the year I move?"
-    answer: "You file in both, but each country taxes a different part of the year. Germany taxes your income up to the date you leave, and your Greek income afterwards only raises the German rate. Greece taxes your worldwide income from your first day of residence and credits German tax on German-source income from that period, up to the Greek tax on it."
+    answer: "You file in both, but each country taxes a different part of the year. Germany taxes your income up to the date you leave, and your Greek earnings afterwards only raise the German rate. Greece taxes your worldwide income from your first day of residence and credits German tax on German-source income from that period, up to the Greek tax on it."
   - question: "When do I become tax resident in Greece after moving from Germany?"
     answer: "If you stay more than 183 days in any 12-month period, Greece treats you as resident from your first day of presence. A permanent home or centre of vital interests in Greece can make you resident even with fewer days. Germany's unlimited tax liability ends when you give up your German home and habitual abode."
   - question: "What if I keep my flat in Germany after moving to Greece?"
@@ -20,7 +21,7 @@ The year you move from Germany to Greece is when double taxation actually happen
 
 ## The short answer
 
-- **Germany taxes you until you leave.** One German return for the year covers the months before your move plus German-source income afterwards. Your Greek income doesn't get taxed in Germany, but it raises your German rate.
+- **Germany taxes you until you leave.** One German return for the year covers the months before your move plus German-source income afterwards. Your Greek earnings aren't taxed in Germany, but they raise your German rate (Greek rent does not).
 - **Greece taxes you from your first day here**, provided you stay more than 183 days in any 12-month period. From that day, Greece taxes worldwide income.
 - **The danger zone is overlap:** a German flat you keep, invoices for German work paid after the move, bonuses, German rent, and GmbH shares.
 - **Make the dates match:** your German deregistration, your arrival in Greece and the start of your Greek registration should tell the same story.
@@ -30,7 +31,7 @@ The year you move from Germany to Greece is when double taxation actually happen
 
 ### Germany: one return, two periods
 
-German income tax is annual, but residence can end mid-year. Under [§2(7) EStG](https://dejure.org/gesetze/EStG/2.h.html), German-source income from the months after you leave is included in that one resident assessment. Your Greek income for the rest of the year isn't taxed in Germany, but under [§32b(1) no. 2 EStG](https://www.gesetze-im-internet.de/estg/__32b.html) it counts towards the rate on your German income (Progressionsvorbehalt). Special expenses such as insurance premiums you pay after leaving are generally no longer deductible ([§50(1) EStG](https://www.gesetze-im-internet.de/estg/__50.html)).
+German income tax is annual, but residence can end mid-year. Under [§2(7) EStG](https://dejure.org/gesetze/EStG/2.h.html), German-source income from the months after you leave is included in that one resident assessment. Your Greek income for the rest of the year isn't taxed in Germany, but under [§32b(1) no. 2 EStG](https://www.gesetze-im-internet.de/estg/__32b.html) it counts towards the rate on your German income (Progressionsvorbehalt). Rent from Greek property is different: while you are German resident, the treaty exempts it and, as EU property income, it does not raise your rate ([§ 32b(1) sentence 2 no. 3 EStG](https://www.gesetze-im-internet.de/estg/__32b.html)).
 
 ### Greece: resident from day one
 
@@ -50,7 +51,7 @@ Julia, a freelance UX designer, lives in Munich until 30 June 2026 and arrives i
 
 ### 1. A German home you keep
 
-Under [§8 AO](https://www.steuertipps.de/lexikon/w/wohnsitz), you keep a German domicile as long as you have a home there that you can use. Deregistering alone doesn't end it; the flat decides. Then both countries see you as resident, and Article II of the treaty breaks the tie: [permanent home first, then centre of vital interests](https://rechtsanwalt-griechenland.de/wp-content/uploads/2026/07/Doppelbesteuerungsabkommen_Deutschland_Griechenland.pdf), then habitual abode, then nationality.
+Under [§8 AO](https://www.gesetze-im-internet.de/ao_1977/__8.html), you keep a German domicile as long as you have a home there that you can use. Deregistering alone doesn't end it; the flat decides. Then both countries see you as resident, and Article II of the treaty breaks the tie: [permanent home first, then centre of vital interests](https://datenbank.nwb.de/Dokument/94976_II/), then habitual abode, then nationality.
 
 With a home in both countries, the centre of vital interests decides: where your partner and children live, where you work, where your social life is. That is an argument, not a certainty. Selling, renting out long-term or giving up the flat removes it.
 
@@ -62,7 +63,7 @@ Freelancers: finish and invoice everything you did in Germany from your German b
 
 ### 3. Bonuses and back pay
 
-For treaty purposes, Germany allocates bonuses to the period they were earned for, not the date they are paid ([BMF letter of 12 December 2023, section 5.5.1](https://www.steuerschroeder.de/blog/wp-content/uploads/2023/12/2023-12-12-steuerliche-behandlung-arbeitslohn-doppelbesteuerungsabkommen.pdf), amended 19 December 2025). Your 2026 bonus for German work, paid in March 2027 while you live in Athens, is pay for work performed in Germany. Under Article XI(2) Germany may tax it, and the 183-day exception in Article XI(3) doesn't help because your employer is German.
+For treaty purposes, Germany allocates bonuses to the period they were earned for, not the date they are paid ([BMF letter of 12 December 2023](https://www.steuerschroeder.de/blog/wp-content/uploads/2023/12/2023-12-12-steuerliche-behandlung-arbeitslohn-doppelbesteuerungsabkommen.pdf), as amended on [19 December 2025](https://www.steuerschroeder.de/blog/wp-content/uploads/2025/12/2025-12-19-steuerliche-behandlung-des-arbeitslohns.pdf)). Your 2026 bonus for German work, paid in March 2027 while you live in Athens, is pay for work performed in Germany. Under Article XI(2) Germany may tax it, and the 183-day exception in Article XI(3) doesn't help because your employer is German.
 
 If Greece also taxes it as income of a resident, it credits the German tax, but only up to the Greek tax on that income. If Germany withheld more, the difference is lost.
 
@@ -70,7 +71,7 @@ For salary you earn while working from Greece, the employer can usually stop Ger
 
 ### 4. German rent and investments
 
-Rent from a German flat stays taxable in Germany all year (Article XIII). In Greece it enters your return only for the months you were resident, and the credit is limited to the German tax on that share.
+Rent from a German flat stays taxable in Germany all year (Article XIII). In Greece it enters your return only for the months you were resident; Greece credits the German tax on that share, up to the Greek tax on it.
 
 German dividends and interest work the same way; rates and refunds are in the [treaty guide](/guides/germany-greece-double-tax-treaty/).
 
@@ -108,7 +109,7 @@ The Greek return for the move year is where credits are claimed and where most m
 
 ### Do I pay tax in Germany and Greece in the year I move?
 
-You file in both, but each country taxes a different part of the year. Germany taxes your income up to the date you leave, and your Greek income afterwards only raises the German rate. Greece taxes your worldwide income from your first day of residence and credits German tax on German-source income from that period, up to the Greek tax on it.
+You file in both, but each country taxes a different part of the year. Germany taxes your income up to the date you leave, and your Greek earnings afterwards only raise the German rate. Greece taxes your worldwide income from your first day of residence and credits German tax on German-source income from that period, up to the Greek tax on it.
 
 ### When do I become tax resident in Greece after moving from Germany?
 
@@ -126,4 +127,4 @@ Germany allocates salary to the period in which it was earned. A bonus for work 
 
 On the day your unlimited German tax liability ends, usually the day you give up your German home. If you hold at least 1% of a corporation and were taxable in Germany for at least 7 of the last 12 years, the gain on the shares is taxed as if you had sold them that day. Since 2022, EU moves get no open-ended deferral, only seven annual instalments on application.
 
-*Rules as of November 2026 (sources: Germany–Greece tax treaty of 18 April 1966, Arts. II, XI, XIII, XVII, XX; EStG §§2(7), 32b, 39(4), 50(1); AO §8; AStG §§2 and 6; BMF letter of 12 December 2023 as amended 19 December 2025; Greek Income Tax Code art. 4; AADE).*
+*Rules as of November 2026 (sources: Germany–Greece tax treaty of 18 April 1966, Arts. II, XI, XIII, XVII, XX; EStG §§2(7), 32b, 39(4); AO §8; AStG §§2 and 6; BMF letter of 12 December 2023 as amended 19 December 2025; Greek Income Tax Code art. 4; AADE).*

@@ -1,8 +1,8 @@
 ---
-title: "Golden Visa Greece 2026: Tax Obligations After You Get the Permit"
+title: "Golden Visa Greece: Tax Obligations for Holders (2026)"
 description: "What Golden Visa holders owe Greece each year: tax residence, E1 and E2 returns, ENFIA, the Airbnb ban, work limits and the €100,000 and 7% regimes."
 pubDate: 2026-11-09
-updatedDate: 2026-11-15
+updatedDate: 2026-11-27
 category: "tax"
 image: "/images/guides/afm_hero.png"
 faq:
@@ -53,7 +53,7 @@ ENFIA, the annual property tax, is assessed on what you own on 1 January and pos
 
 ### The municipal property fee (TAP, from 2027 TTA)
 
-Until the end of 2026, municipalities charge a property fee (TAP) of 0.025% to 0.035% of the property value a year through the electricity bill ([Law 2130/1993, art. 24](https://www.taxheaven.gr/law/2130/1993/arthro/24)). From 1 January 2027, the Local Development Fee (TTA) replaces TAP: each municipality sets a rate of 0.030% to 0.070%, still collected through the electricity bill ([Law 5314/2026, arts. 392–396 and 448](https://www.taxheaven.gr/law/5314/2026/arthro/392)). A sale in 2026 still needs a TAP certificate; under the TTA, the Land Registry notifies the municipality and the seller owes the fee up to the date of the transfer.
+Until the end of 2026, municipalities charge a property fee (TAP) of 0.025% to 0.035% of the property value a year through the electricity bill ([Law 2130/1993, art. 24](https://www.taxheaven.gr/law/2130/1993/arthro/24)). From 1 January 2027, the Local Development Fee (TTA) replaces TAP: each municipality sets a rate, generally 0.030% to 0.070%, still collected through the electricity bill ([Law 5314/2026, arts. 392–396 and 448](https://www.taxheaven.gr/law/5314/2026/arthro/392)). A sale in 2026 still needs a TAP certificate; under the TTA, the Land Registry notifies the municipality and the seller owes the fee up to the date the transfer is registered.
 
 ### Income tax return: only with Greek income
 
@@ -65,7 +65,7 @@ Greece taxes residents on at least a presumed living expense based on their home
 
 ## The short-term rental ban
 
-Since [Law 5100/2024](https://www.taxheaven.gr/law/5100/2024/arthro/64), properties acquired for an investor permit may not be let short-term or sublet (art. 100(7A)). Circular 1/2026 of the Ministry of Migration (April 2026) defines short-term as a let or sublet under 60 days with no services beyond accommodation and bed linen, advertised online or not. The penalty is **revocation of the permit and a €50,000 fine**. Properties bought under the old thresholds or in the transitional period, now closed, are outside the ban.
+Since [Law 5100/2024](https://www.taxheaven.gr/law/5100/2024/arthro/64), properties acquired for an investor permit may not be let short-term or sublet (art. 100(7A)). Short-term means a let or sublet of up to 59 days with no services beyond bed linen, through a platform or not (article 111 of Law 4446/2016; [AADE FAQ](https://www.aade.gr/sites/default/files/2025-09/FAQs_braxixronias_mistosis_0.pdf)). The penalty is **revocation of the permit and a €50,000 fine**. Properties bought under the old thresholds or in the transitional period, now closed, are outside the ban.
 
 Long-term leases are allowed, but subletting is banned too: put a no-sublet clause in the lease.
 
@@ -75,7 +75,7 @@ The permit is renewed for five years at a time while the property "remains in yo
 
 The 2026 thresholds: €800,000 in Attica, Thessaloniki, Mykonos, Santorini and islands over 3,100 residents; €400,000 elsewhere, in both cases for a single home of at least 120 m²; €250,000 for conversions and listed buildings.
 
-Article 16 of [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) raises transfer tax on homes bought by individuals tax resident outside the EU/EEA to 15% instead of 3% (15.45% instead of 3.09% with the municipal surcharge), on final contracts from 1 July 2027. The test is tax residence, not nationality. Buyers entitled to the first-home exemption (article 42 of the Property Tax Code) are exempt; a Golden Visa purchase alone does not qualify. It matters if you swap properties, not for what you own.
+Article 16 of [Law 5355/2026](https://www.taxheaven.gr/law/5355/2026) raises transfer tax on homes bought by individuals tax resident outside the EU/EEA from 3% to 15% (plus the municipal surcharge), on final contracts from 1 July 2027. The test is tax residence, not nationality. Buyers entitled to the first-home exemption (article 42 of the Property Tax Code) are exempt; a Golden Visa purchase alone does not qualify. It matters if you swap properties, not for what you own.
 
 ## If you move to Greece for real
 
@@ -119,4 +119,4 @@ Not on the Golden Visa. The investor permit gives no right to any form of employ
 
 ENFIA, the annual property tax, assessed on what you own on 1 January, and the municipal property fee charged through the electricity bill: TAP until 2026, the Local Development Fee (TTA) from 2027. If you let the property long-term, the rent is taxed at 15% to 45% and you file an E1 return with form E2.
 
-*Rules as of November 2026 (sources: Migration Code (Law 5038/2023) arts. 95 and 100, as amended by Law 5100/2024, art. 64, and Law 5275/2026, art. 29; Law 4446/2016, art. 111; Circular 1/2026 of the Ministry of Migration and Asylum; Income Tax Code arts. 4, 5A, 5B, 5C and 33; AADE FAQ for non-residents (November 2025); AADE decisions A.1069/2024 and A.1147/2026; Law 2130/1993, art. 24; Law 5314/2026 (Local Government Code), arts. 392–396 and 448; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 16).*
+*Rules as of November 2026 (sources: Migration Code (Law 5038/2023) arts. 95 and 100, as amended by Law 5100/2024, art. 64, and Law 5275/2026, art. 29; Law 4446/2016, art. 111; Income Tax Code arts. 4, 5A, 5B, 5C and 33; AADE FAQs for non-residents (November 2025) and on short-term rentals; AADE decisions A.1069/2024 and A.1147/2026; Law 2130/1993, art. 24; Law 5314/2026 (Local Government Code), arts. 392–396 and 448; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), art. 16).*

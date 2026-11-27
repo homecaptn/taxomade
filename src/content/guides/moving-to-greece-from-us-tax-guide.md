@@ -2,7 +2,7 @@
 title: "Moving to Greece from the US: Tax and Setup Guide (2026)"
 description: "Moving from the US to Greece: US filing abroad, FEIE vs foreign tax credit, FBAR, the 1950 treaty, Social Security, state tax and the Greek setup."
 pubDate: 2026-10-20
-updatedDate: 2026-11-14
+updatedDate: 2026-11-27
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -13,12 +13,12 @@ faq:
   - question: "Do I pay US self-employment tax if I freelance in Greece?"
     answer: "No, if you are covered by EFKA. Under the totalization agreement in force since 1 September 1994, self-employed people living in Greece are covered only by Greece. Attach the Greek certificate of coverage to your US return each year."
   - question: "Can Americans get Greece's 50% tax break (Article 5C)?"
-    answer: "Generally yes, if you were not Greek tax resident in 5 of the last 6 years, take a Greek job or register a business in Greece and stay at least two years. Digital Nomad Visa holders are not eligible. If you use the foreign tax credit, the US can take part of the saving back."
+    answer: "Generally yes, if you were not Greek tax resident in 5 of the last 6 years, work for a Greek-based employer (or a Greek branch of a foreign company) or start business activity in Greece, and stay at least two years. Digital Nomad Visa holders are not eligible. If you use the foreign tax credit, the US can take part of the saving back."
   - question: "Is my US Social Security taxed in Greece?"
     answer: "The 1950 treaty has no Social Security article. US citizens stay subject to US tax on up to 85% of benefits, and as a Greek tax resident you also declare them in Greece, which generally credits US tax on US-source income. How this works with the 7% retiree regime needs an individual check."
 ---
 
-Americans moving to Greece are usually remote employees, freelancers with US clients, or retirees. Unlike other movers, you never leave your home tax system: you file in both countries. This guide covers both sides and how they interact.
+Americans moving to Greece are usually remote employees, freelancers with US clients, or retirees. Unlike other movers, you don't leave your home tax system: you file in both countries. This guide covers both sides and how they interact.
 
 ## The short answer
 
@@ -42,7 +42,7 @@ Which works better depends on your income mix and your Greek tax; that is your U
 
 ## 2. The 1950 treaty and its saving clause
 
-The [US–Greece income tax convention](https://www.irs.gov/pub/irs-trty/greece.pdf) was signed in Athens on 20 February 1950. Article XIV(1), the saving clause, lets each country tax its own citizens and residents as though the treaty did not exist. For Americans in Greece, the treaty does not reduce US tax; relief on the US side comes from the credit or the exclusion. In the other direction, Greece credits US tax on US-source income (Article XIV(3)).
+The [US–Greece income tax convention](https://www.irs.gov/pub/irs-trty/greece.pdf) was signed in Athens on 20 February 1950 and has been in force since 30 December 1953. Article XIV(1), the saving clause, lets each country tax its own citizens and residents as though the treaty did not exist. For Americans in Greece, the treaty does not reduce US tax; relief on the US side comes from the credit or the exclusion. In the other direction, Greece credits US tax on US-source income (Article XIV(3)).
 
 It has no Social Security article; Article XVIII provides for exchange of information. The US and Greece also have an [estate tax treaty](https://www.irs.gov/businesses/small-businesses-self-employed/estate-gift-tax-treaties-international), but no gift tax treaty.
 
@@ -57,7 +57,7 @@ Under the [Model 1A FATCA agreement](https://www.aade.gr/en/businesses/issues-in
 
 The [US–Greece social security agreement](https://www.ssa.gov/international/Agreement_Pamphlets/documents/Greece.pdf) has applied since 1 September 1994.
 
-- **Self-employed:** covered only by the country where you live. Living in Greece, you pay EFKA, request a certificate of coverage from the Greek fund and attach a copy to your US return each year. Without it, US self-employment tax applies once net earnings reach $400, exclusion or not.
+- **Self-employed:** covered only by the country where you live. Living in Greece, you pay EFKA, request a certificate of coverage from the Greek fund you pay into and attach a photocopy to your US return each year. Without it, US self-employment tax applies once net earnings reach $400, exclusion or not.
 - **Employees** posted by a US employer for up to five years can stay in US Social Security with a certificate (USA/GR 1) the employer requests from SSA. If you moved on your own and simply work remotely from Greece, you are not posted: the work-location rule normally puts you under Greek social security (EFKA).
 - **Benefits:** US citizens can [keep receiving Social Security in Greece](https://www.ssa.gov/pubs/EN-05-10137.pdf); up to 85% stays subject to US income tax. As a Greek tax resident you also declare the benefit in Greece.
 
@@ -82,20 +82,20 @@ Beyond 90 days in 180, Americans need a national visa and residence permit. The 
 
 - **Digital Nomad Visa:** €3,500 net per month, work only for employers and clients outside Greece. **DNV holders cannot use Article 5C** ([5C vs the Digital Nomad Visa](/guides/5c-vs-digital-nomad-visa/), [DNV guide](/guides/ultimate-guide-dnv-greece/)).
 - **Financially independent person** permit: €3,500 per month of stable income, no right to work. The usual retiree route.
-- **Golden Visa:** €800,000 in Attica, Thessaloniki, Mykonos, Santorini and larger islands, €400,000 elsewhere, or €250,000 for certain conversions to residential use and listed-building restorations.
+- **Golden Visa:** €800,000 in Attica, Thessaloniki, Mykonos, Santorini and islands with more than 3,100 residents, €400,000 elsewhere, or €250,000 for certain conversions to residential use and listed-building restorations.
 - **Employment or self-employment permits:** the routes into Article 5C.
 
 ## 8. The Greek side
 
-You become [Greek tax resident](/guides/tax-residency-greece-183-days/) with your main home or centre of life here, or after 183 days in a 12-month period. Step one is your [AFM](/guides/what-is-greek-afm-number/), also needed before buying property ([AFM for buyers](/guides/afm-greece-property-buyers-non-residents/)). Buy a home while still US tax resident and, on final contracts from 1 July 2027, transfer tax is 15% instead of 3% (15.45% instead of 3.09% with the municipal surcharge), unless the article 42 first-home exemption applies ([Law 5355/2026](https://www.taxheaven.gr/law/5355/2026), art. 16). Income tax runs from 9% to 44%; the return is filed mid-March to 15 July.
+You become [Greek tax resident](/guides/tax-residency-greece-183-days/) with your main home or centre of life here, or after 183 days in a 12-month period. Step one is your [AFM](/guides/what-is-greek-afm-number/), also needed before buying property ([AFM for buyers](/guides/afm-greece-property-buyers-non-residents/)). Buy a home while still US tax resident and, on final contracts from 1 July 2027, transfer tax is 15% instead of 3% (plus the municipal surcharge), unless the article 42 first-home exemption applies ([Law 5355/2026](https://www.taxheaven.gr/law/5355/2026), art. 16). Income tax runs from 9% to 44%; the return is filed mid-March to 15 July.
 
-**Freelancers** register a business, join EFKA by the 10th of the month after starting (new starters €150.46 per month plus €10 for most freelancers; lowest standard class €250.77), file VAT monthly for the first 24 months and pay a tax advance on next year's tax (55%, halved in the first year with business income; cut to 50% from the advance assessed with the 2027 tax return under article 12 of Law 5355/2026). Mandatory B2B e-invoicing is being phased in from 2 November 2026; check with your accountant when it applies to invoices to US clients. Steps: [freelancer setup](/guides/freelancer-setup-greece/), [EFKA guide](/guides/efka-social-security-freelancers-greece/).
+**Freelancers** register a business, join EFKA by the 10th of the month after starting (new starters €150.46 per month plus €10 for most freelancers; lowest standard class €250.77), file VAT returns monthly as a new business with simple books, with a switch to quarterly on request after 24 months ([A.1049/2025](https://www.taxheaven.gr/circulars/50029/a-1049-2025)), and pay a [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax/) on next year's tax (55%, halved in the first year with business income; 50% from the return for tax year 2027, filed in 2028, under Law 5355/2026, art. 12). From 2 November 2026, invoices to Greek and non-EU businesses must be issued as e-invoices, with a transition to 31 January 2027; **US business clients are non-EU, so your invoices to them are in scope** ([e-invoicing](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece)). Steps: [freelancer setup](/guides/freelancer-setup-greece/), [EFKA guide](/guides/efka-social-security-freelancers-greece/).
 
-**Article 5C** exempts 50% of Greek employment or business income for seven years, if you were not Greek tax resident in 5 of the last 6 years and take a Greek job or register a business here ([how 5C works](/guides/50-percent-tax-break-article-5c/)). The move must come from a tax cooperation state; for the US that rests on the treaty's information exchange and the FATCA agreement, so confirm it when you apply.
+**Article 5C** exempts 50% of Greek employment or business income for seven years, if you were not Greek tax resident in 5 of the last 6 years and work for a Greek-based employer (or a Greek branch of a foreign company) or start business activity here ([how 5C works](/guides/50-percent-tax-break-article-5c/)). The move must come from a tax cooperation state; for the US that rests on the treaty's information exchange and the FATCA agreement, so confirm it when you apply.
 
 **Article 5B** taxes retirees' foreign income at 7% for 15 years, if you were not Greek tax resident in 5 of the last 6 years; apply by 31 October of the year you want it to start (A.1192/2026) ([7% flat tax guide](/guides/retiring-to-greece-7-percent-flat-tax/)).
 
-**The US catch.** The foreign tax credit only counts Greek tax actually paid. When 5C lowers Greek tax on foreign-source earnings, your US credit falls too, and the US may collect the difference. US-source pensions and Social Security are taxed by the US either way, so 5B mainly removes the Greek top-up. If you plan to own a Greek company (IKE), check the US side first: US owners of foreign companies usually face extra filings (Form 5471) and US tax on company profits.
+**The US catch.** The foreign tax credit only counts Greek tax actually paid. When 5C lowers Greek tax on foreign-source earnings, your US credit falls too, and the US may collect the difference. US-source pensions and Social Security are taxed by the US either way, so 5B mainly removes the Greek top-up. If you plan to own a Greek company (IKE), check the US side first: US owners of foreign companies usually face extra filings (Form 5471) and can owe US tax on company profits.
 
 ## How we can help
 
@@ -117,10 +117,10 @@ No, if you are covered by EFKA. Under the totalization agreement in force since 
 
 ### Can Americans get Greece's 50% tax break (Article 5C)?
 
-Generally yes, if you were not Greek tax resident in 5 of the last 6 years, take a Greek job or register a business in Greece and stay at least two years. Digital Nomad Visa holders are not eligible. If you use the foreign tax credit, the US can take part of the saving back.
+Generally yes, if you were not Greek tax resident in 5 of the last 6 years, work for a Greek-based employer (or a Greek branch of a foreign company) or start business activity in Greece, and stay at least two years. Digital Nomad Visa holders are not eligible. If you use the foreign tax credit, the US can take part of the saving back.
 
 ### Is my US Social Security taxed in Greece?
 
 The 1950 treaty has no Social Security article. US citizens stay subject to US tax on up to 85% of benefits, and as a Greek tax resident you also declare them in Greece, which generally credits US tax on US-source income. How this works with the 7% retiree regime needs an individual check.
 
-*Rules as of November 2026 (sources: US and Greek rules as reviewed in October 2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), arts. 12 and 16).*
+*Rules as of November 2026 (sources: IRS Publication 54 and Rev. Proc. 2025-32; IRS comparison of Form 8938 and FBAR requirements; US–Greece income tax convention of 20 February 1950, in force 1953, Arts. XI, XIV and XVIII; US–Greece social security agreement of 1994; US–Greece FATCA agreement (Model 1A); California FTB Publication 1031; Greek Income Tax Code arts. 4, 5B and 5C; AADE decisions A.1049/2025 and A.1192/2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026), arts. 12 and 16).*
