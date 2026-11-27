@@ -2,8 +2,9 @@
 title: "Moving to Greece from Austria: Tax and Setup Guide (2026)"
 description: "Moving from Austria to Greece: ending Austrian tax residency, exit tax on shares and crypto, the 2007 treaty, pensions, social security and Greek setup."
 pubDate: 2026-10-22
-updatedDate: 2026-10-28
+updatedDate: 2026-11-27
 category: "tax"
+translationOf: "umzug-griechenland-aus-oesterreich-steuern"
 image: "/images/guides/tax_residency_hero.png"
 faq:
   - question: "When does my Austrian tax liability end if I move to Greece?"
@@ -52,6 +53,7 @@ The gain up to your departure is taxed at **27.5%**. Mostly new assets are caugh
 For a move within the EU/EEA there is relief:
 
 - **Private assets:** on application, the tax is assessed but [not collected until you actually sell](https://www.ris.bka.gv.at/eli/bgbl/1988/400/P27/NOR40274825); you apply in the Austrian return for the year you leave. A later move outside the EU/EEA counts as a sale.
+- **New from 1 July 2026:** under the [Budget Measures Act 2026](https://ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_43/BGBLA_2026_I_43.pdf) (BGBl. I Nr. 43/2026), where the deferred income exceeds €100,000 in an assessment year, you must prove to the Finanzamt (in writing or via FinanzOnline, with your current address) by the end of each following year that no sale has happened yet; a missing proof counts as a sale. This applies to deferrals decided after 30 June 2026. Older open deferrals from decisions before 1 July 2026, where more than €100,000 was originally deferred, need a one-time proof by 31 December 2026.
 - **Business assets:** the exit tax is paid in instalments, over five years for fixed assets and two for current assets (§6 Z 6 EStG, on application).
 
 If you run your GmbH alone from Greece, its place of management, and with it its tax residence, can move as well. That triggers exit tax on the company's hidden reserves (payable in instalments within the EU) and Greek corporate tax from then on. A managing director working from Greece is insured with EFKA, not the SVS. Talk to your Steuerberater before you deregister. For a new Greek company, see [setting up an IKE](/guides/ike-greece-setup-annual-costs/).
@@ -63,7 +65,7 @@ If you run your GmbH alone from Greece, its place of management, and with it its
 | Freelance work done from Greece | Greece, unless you keep a fixed base in Austria |
 | Employment | Where the work is physically done |
 | Rent from Austrian property | Austria; Greece credits |
-| Statutory (PVA, SVS), company and private pensions | Greece only |
+| Statutory (PVA, SVS), company and private pensions | Greece only (Art. 18 for pensions from past employment, otherwise Art. 21) |
 | Civil service pensions | Austria, unless you are a Greek national living in Greece |
 | Austrian dividends | Austria may keep 15% (27.5% withheld, the rest reclaimable); Greece credits only up to its own 5% dividend tax |
 | Gains on shares after the move | Greece (deferred Austrian exit tax still falls due on sale) |
@@ -74,7 +76,7 @@ You close or suspend your Austrian Gewerbe (or inform the Finanzamt and SVS as a
 
 - **Austrian business clients** are invoiced without VAT under the reverse charge; the Austrian small-business exemption no longer applies ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients/)).
 - **Social security:** under EU Regulation 883/2004 you are insured where you work, so with EFKA, from about €150 per month for new freelancers ([EFKA guide](/guides/efka-social-security-freelancers-greece/)). An Austrian A1 only helps for temporary postings or if you also work substantially in Austria.
-- **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request, myDATA for every invoice, e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027; invoices to Austrian clients are not covered ([e-invoicing](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece)), and a [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax/) halved only in your first year with business income.
+- **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request, myDATA for every invoice, e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027; invoices to Austrian clients are not covered ([e-invoicing](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece)), and a [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax/) of 55%, halved only in your first year with business income and cut to 50% from the tax year 2027 return ([Law 5355/2026](https://www.taxheaven.gr/law/5355/2026), art. 12).
 
 Steps in order: [AFM](/guides/what-is-greek-afm-number/), [freelancer setup](/guides/freelancer-setup-greece/), [freelancer taxes 2026](/guides/freelancer-taxes-greece-2026/).
 
@@ -85,7 +87,7 @@ Steps in order: [AFM](/guides/what-is-greek-afm-number/), [freelancer setup](/gu
 - **Tax:** statutory and private pensions are taxed in Greece. The PVA keeps withholding Austrian tax until you send a [Greek residence certificate on form ZS-QU1](https://pv.at/de/flipbooks/PV-504/flipbook.pdf). Once a year you return a proof of life.
 - **Civil servants:** a Beamtenpension is taxed only in Austria (treaty Art. 19), unless you are also a Greek national; Greece does not tax it.
 - **Health:** with only an Austrian pension, you stay insured through Austria and get Greek care via form S1; a health contribution is deducted from the pension.
-- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years, unless a tax treaty exempts it. Move by 2 July and you can apply by 31 October of that year; move later and it starts the following year ([A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf)). Statutory, company and private pensions are taxed only in Greece, so the 7% applies to them in full. Income the treaty leaves to Austria alone (civil service pensions, unless you are also a Greek national) is not taxed in Greece, so the 7% does not reach it. Where both countries may tax, such as Austrian rent or dividends, Austrian tax is credited against the 7% up to the Greek tax on that income, and any excess is not refunded (A.1192/2026, art. 5). Whether 5B beats the normal 9–44% scale depends on your pension ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/)).
+- **Article 5B:** if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years, unless a tax treaty exempts it. Move by 2 July and you can apply by 31 October of that year; move later and it starts the following year, with the application due by 31 October of that following year ([A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf)). Statutory, company and private pensions are taxed only in Greece, so the 7% applies to them in full. Income the treaty leaves to Austria alone (civil service pensions, unless you are also a Greek national) is not taxed in Greece, so the 7% does not reach it. Where both countries may tax, such as Austrian rent or dividends, Austrian tax is credited against the 7% up to the Greek tax on that income, and any excess is not refunded (A.1192/2026, art. 5). Whether 5B beats the normal 9–44% scale depends on your pension ([7% flat tax](/guides/retiring-to-greece-7-percent-flat-tax/)).
 
 Familienbeihilfe generally ends once the family lives in Greece, unless a parent still works in Austria or receives an Austrian pension. Austrian pension periods are kept and combined with Greek ones under EU rules.
 
@@ -95,7 +97,7 @@ If you were not Greek tax resident in **5 of the previous 6 years**, [Article 5C
 
 ## How we can help
 
-We prepare and file the Greek side: tax and business registration, the 5C or 5B application, and your returns as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/). The Austrian exit stays with your Steuerberater; we share the Greek documents they need. Send us a message for a free check.
+At taxomade, we prepare and file the Greek side: tax and business registration, the 5C or 5B application, and [ongoing bookkeeping](/greece/ongoing-bookkeeping/) from **€89/month** with myDATA, VAT returns and your annual tax return included, in English, German or Greek. The Austrian exit stays with your Steuerberater; we share the Greek documents they need. Send us a message on WhatsApp or via the contact form for a free check.
 
 ## Frequently asked questions
 
@@ -119,4 +121,4 @@ No. Under EU Regulation 883/2004 you are insured where you work, so a freelancer
 
 Yes, if you were not Greek tax resident in 5 of the previous 6 years and take a job with a Greek employer or register as a sole trader in Greece. Digital Nomad Visa holders are not eligible.
 
-*Rules as of October 2026 (EStG §§1 and 27, Austria–Greece tax treaty 2007, EU Regulation 883/2004, Greek Income Tax Code art. 5B/5C, A.1192/2026).*
+*Rules as of November 2026 (sources: EStG §§1 and 27, Budget Measures Act 2026 (BGBl. I Nr. 43/2026), Austria–Greece tax treaty 2007, EU Regulation 883/2004, Greek Income Tax Code art. 5B/5C, A.1192/2026, Law 5355/2026 art. 12).*
