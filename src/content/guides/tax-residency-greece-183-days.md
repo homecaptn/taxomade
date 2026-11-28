@@ -1,8 +1,8 @@
 ---
-title: "Tax Residency in Greece: When Do You Actually Pay?"
+title: "Greek Tax Residency 2026: The 183-Day Rule Explained"
 description: "The 183-day rule, centre of vital interests, double tax treaties and Article 5C: when Greece actually taxes you as a resident."
 pubDate: 2026-04-22
-updatedDate: 2026-11-06
+updatedDate: 2026-11-28
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -15,10 +15,10 @@ faq:
   - question: "Do US citizens living in Greece pay tax in both countries?"
     answer: "They file in both. The US taxes by citizenship, and the 1950 treaty does not stop that; double tax is avoided through the Foreign Earned Income Exclusion or the Foreign Tax Credit."
   - question: "How do I stop being a Greek tax resident when I leave?"
-    answer: "Apply to transfer your tax residency abroad by the first ten days of March of the year after you leave, with a foreign tax residency certificate by early September. AADE accepts late filings until 31 December of the following year."
+    answer: "Apply to transfer your tax residency abroad by around 10 March of the year after you leave (the last working day of the first ten days of March), with a foreign tax residency certificate by early September. AADE accepts late filings until 31 December of the following year."
 ---
 
-Whether Greece taxes your income comes down to one question: are you a Greek tax resident? For most remote workers the answer turns on the 183-day rule, but days are not the only test. Here is how it works, what an AFM has to do with it, and how treaties and Article 5C change the picture.
+Whether Greece taxes your income comes down to one question: are you a Greek tax resident? For most remote workers the answer turns on the 183-day rule, but days are not the only test. Here is how it works, what an AFM has to do with it, and how treaties and Article 5C change the picture. Once you are resident, proving it abroad is a separate step with its own guide: the [Greek tax residence certificate](/guides/greek-tax-residency-certificate/).
 
 ## The short answer
 
@@ -54,9 +54,9 @@ Your tax residency is determined by your physical presence (the 183-day rule) an
 
 If you become Greek tax resident, will both Greece and your home country tax you? Usually not. Greece has [double taxation treaties with more than 50 countries](https://www.aade.gr/en/citizens/texts-contracts-treaties-avoidance-double-taxation-greece), including the UK, the US, Canada, Germany and every EU member state except Sweden, which terminated its treaty with Greece from 2022.
 
-There is **no comprehensive treaty with Australia**, only an [airline-profits agreement](https://www.ato.gov.au/forms-and-instructions/foreign-income-tax-offset-rules-guide-2026/attachment-a-countries-and-jurisdictions-that-have-a-tax-treaty-with-australia). Negotiations on one were still ongoing in 2026, but nothing has been signed.
+There is **no comprehensive treaty with Australia**, only an [airline-profits agreement](https://www.ato.gov.au/forms-and-instructions/foreign-income-tax-offset-rules-guide-2026/attachment-a-countries-and-jurisdictions-that-have-a-tax-treaty-with-australia).
 
-Under these treaties, tax paid in Greece is usually credited in your home country, or vice versa, or the income is exempt in one of the two countries, so in most cases you do not pay full tax twice. Abroad, you prove Greek residence with a [Greek tax residence certificate](/guides/greek-tax-residency-certificate/), issued online by AADE. If both countries claim you as resident, the treaty tie-breaker decides: permanent home, then centre of vital interests, then habitual abode, then nationality.
+Under these treaties, tax paid in Greece is usually credited in your home country, or vice versa, or the income is exempt in one of the two countries, so in most cases you do not pay full tax twice. Abroad, you prove Greek residence with a tax residence certificate issued online by AADE; how to apply is covered in our [certificate guide](/guides/greek-tax-residency-certificate/). If both countries claim you as resident, the treaty tie-breaker decides: permanent home, then centre of vital interests, then habitual abode, then nationality.
 
 ### The US exception
 
@@ -82,6 +82,10 @@ The application is due by the [last working day of the first ten days of March o
 
 Track your days, check where your home and centre of vital interests are, and remember that an AFM is just an ID number. With proper planning, Greek tax residency can work in your favour, especially if you qualify for Article 5C.
 
+## Getting it right from the start
+
+Once you are resident, Greece expects a return on your worldwide income every year, and self-employed residents file VAT and myDATA on top. Our [freelancer tax guide](/guides/freelancer-taxes-greece-2026/) covers what that means in practice. We prepare and file these as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); send us a message for a free check of your situation.
+
 ## Frequently asked questions
 
 ### How many days can I stay in Greece without becoming tax resident?
@@ -102,10 +106,6 @@ They file in both. The US taxes by citizenship, and the 1950 treaty does not sto
 
 ### How do I stop being a Greek tax resident when I leave?
 
-Apply to transfer your tax residency abroad by the first ten days of March of the year after you leave, with a foreign tax residency certificate by early September. AADE accepts late filings until 31 December of the following year.
+Apply to transfer your tax residency abroad by around 10 March of the year after you leave (the last working day of the first ten days of March), with a foreign tax residency certificate by early September. AADE accepts late filings until 31 December of the following year.
 
-## Getting it right from the start
-
-Once you are resident, Greece expects a return on your worldwide income every year, and self-employed residents file VAT and myDATA on top. Our [freelancer tax guide](/guides/freelancer-taxes-greece-2026/) covers what that means in practice. We prepare and file these as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/); send us a message for a free check of your situation.
-
-*Rules as of November 2026 (Income Tax Code art. 4 and 5C, POL.1201/2017).*
+*Rules as of November 2026 (sources: Income Tax Code (Law 4172/2013) arts. 4 and 5C; AADE decision POL.1201/2017; AADE FAQ for non-residents, November 2025; AADE page on transferring tax residency abroad; IRS inflation adjustments for tax year 2026).*

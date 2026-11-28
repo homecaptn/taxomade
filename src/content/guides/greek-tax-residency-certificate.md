@@ -1,7 +1,8 @@
 ---
-title: "Greek Tax Residency Certificate: How to Get It and Why You Need It (2026)"
+title: "Greek Tax Residency Certificate: How to Get It (2026)"
 description: "How to get a Greek tax residency certificate online from AADE, which years it covers, what banks and foreign tax offices need it for, and why it fails."
 pubDate: 2026-11-15
+updatedDate: 2026-11-28
 category: "tax"
 faq:
   - question: "How do I get a tax residency certificate in Greece?"
@@ -11,7 +12,7 @@ faq:
   - question: "Can I get a Greek tax residency certificate in my first year after moving?"
     answer: "For the current year, yes, if the tax register already shows you as a Greek resident with a Greek address. You declare that you will file a Greek return for that year, including foreign income. A certificate for a past year requires the Greek return for that year to be filed first."
   - question: "Does the Greek tax residence certificate need an apostille?"
-    answer: "Most countries accept the digital certificate without one. If an authority insists on an apostille or legalisation, you first issue the digital certificate and then ask AADE's International Tax Relations Directorate for a hand-signed paper version, which can be apostilled."
+    answer: "Most countries accept the digital certificate without one. If an authority insists on an apostille or legalisation, you first issue the digital certificate and then ask AADE's International Tax Relations Directorate for a hand-signed paper version, which can be apostilled by the Decentralised Administration of Attica."
   - question: "Will AADE stamp my foreign tax form, such as a German residence confirmation?"
     answer: "No. AADE no longer completes or stamps other countries' forms. You fill in the foreign form yourself and submit it together with the digital Greek certificate, which AADE says treaty partners have been informed about and accept."
   - question: "How many years back can I get a Greek tax residence certificate?"
@@ -20,14 +21,14 @@ faq:
 
 Your bank abroad wants proof that you now live in Greece for tax purposes. Your old country's pension office wants to stop withholding tax. A German broker wants a treaty form. In each case the answer is the same document: the Greek **tax residence certificate** (πιστοποιητικό φορολογικής κατοικίας, ΠΦΚ), issued online by AADE.
 
-This guide covers the certificate itself. Whether you are a Greek tax resident in the first place is a separate question, covered in [tax residency in Greece and the 183-day rule](/guides/tax-residency-greece-183-days/).
+This guide covers only the certificate: how to apply, which years it covers and why applications fail. Whether you are a Greek tax resident in the first place (183 days, centre of vital interests, treaty tie-breakers) is a separate question, covered in [tax residency in Greece and the 183-day rule](/guides/tax-residency-greece-183-days/).
 
 ## The short answer
 
 - **What it is:** an official AADE document confirming you are a Greek tax resident under Article 4 of the Income Tax Code, for a specific year.
 - **How to get it:** online only, in myAADE under *Registry & Communication → Tax Residence Certificate*, with your personal TAXISnet codes. Issued immediately, free.
 - **Language:** Greek and English on the same document, with an electronic seal and QR code.
-- **Which years:** the current year, plus past years for which you filed a Greek return as a resident. Never the following year.
+- **Which years:** the current year, plus past years for which you filed a Greek return as a resident. Not the following year.
 - **Typical blocker:** the tax register still showing you as non-resident or with a foreign address.
 - **Foreign forms:** AADE no longer stamps them. You send the foreign form together with the Greek certificate.
 
@@ -77,7 +78,7 @@ The certificate is generated automatically on submission, free of charge. Before
 
 The certificate is bilingual, Greek and English, so translation is only needed if the receiving authority demands it. Authenticity is checked by its QR code and unique issue number.
 
-AADE says [most countries accept it without an apostille](https://aade.gr/en/tax-services/income/application/issuance-tax-residence-certificate-trc). If yours doesn't, issue the digital version first, then ask AADE's International Tax Relations Directorate (ΔΔΦΟΣ, Peiraios 180, Tavros) for a hand-signed paper replacement, either in person, by post, or through *My Requests* (Τα Αιτήματά μου) in myAADE with the digital certificate attached. That paper version can then be apostilled.
+AADE says [most countries accept it without an apostille](https://aade.gr/en/tax-services/income/application/issuance-tax-residence-certificate-trc). If yours doesn't, issue the digital version first, then ask AADE's International Tax Relations Directorate (ΔΔΦΟΣ, Peiraios 180, Tavros) for a hand-signed paper replacement, either in person, by post, or through *My Requests* (Τα Αιτήματά μου) in myAADE with the digital certificate attached. AADE's FAQ names the Decentralised Administration of Attica as the apostille authority; alternatively, the Foreign Ministry's KEPPAE can validate the document.
 
 ## What you will use it for
 
@@ -90,7 +91,7 @@ Your old tax office may keep treating you as resident until you show where you a
 Foreign payers withhold tax at their domestic rate unless you prove treaty residence elsewhere. With a treaty certificate, you can claim the reduced rate up front or a refund afterwards. Typical cases:
 
 - **Pensions:** where the treaty gives Greece the right to tax, the paying fund or foreign tax office typically wants the certificate before it stops withholding or exempts the pension. See [Greek tax on foreign pensions](/guides/greek-pension-tax-foreign-retirees/).
-- **Dividends:** for example, German withholding of 26.375% can be reduced to the 25% treaty rate through a refund claim.
+- **Dividends and interest:** where the treaty caps the source country's withholding tax, the certificate supports a reduced rate at source or a refund claim for the excess.
 
 AADE no longer fills in or stamps foreign claim forms. You complete the foreign form yourself and attach the Greek certificate. AADE states that treaty partners have been informed and accept the digital version, but the receiving authority has the final say, so check its requirements before you file.
 
@@ -106,7 +107,7 @@ Under the 7% regime for pensioners ([Article 5B](/guides/retiring-to-greece-7-pe
 
 ### The register still says "non-resident"
 
-Many people get their AFM as non-residents before moving, often through a representative. That status doesn't change automatically when you arrive. Until it does, the application won't issue a certificate. The fix is a residence change through *My Requests → Registry → Changes of personal information* (Μεταβολές στοιχείων φυσικού προσώπου), with form Δ210 and the supporting documents AADE asks for. Applicants under 5A, 5B or 5C are excluded from this registry route; their status is handled through the regime application ([AADE FAQ for non-residents](https://aade.gr/sites/default/files/2025-11/FAQs_omogeneis_gr_0.pdf)).
+Many people get their AFM as non-residents before moving, often through a representative. That status doesn't change automatically when you arrive. Until it does, the application won't issue a certificate. The fix is a residence change through *My Requests → Registry → Changes of personal information* (Μεταβολές στοιχείων φυσικού προσώπου), with form Δ210 and the supporting documents AADE asks for. AADE's [FAQ for non-residents](https://aade.gr/sites/default/files/2025-11/FAQs_omogeneis_gr_0.pdf) excludes people applying under Articles 5A, 5B or 5C from this route; for them, the change of residence goes with the regime application (see the 5B and 5C section above).
 
 ### Address still abroad in TAXISnet
 
@@ -144,7 +145,7 @@ For the current year, yes, if the tax register already shows you as a Greek resi
 
 ### Does the Greek tax residence certificate need an apostille?
 
-Most countries accept the digital certificate without one. If an authority insists on an apostille or legalisation, you first issue the digital certificate and then ask AADE's International Tax Relations Directorate for a hand-signed paper version, which can be apostilled.
+Most countries accept the digital certificate without one. If an authority insists on an apostille or legalisation, you first issue the digital certificate and then ask AADE's International Tax Relations Directorate for a hand-signed paper version, which can be apostilled by the Decentralised Administration of Attica.
 
 ### Will AADE stamp my foreign tax form, such as a German residence confirmation?
 

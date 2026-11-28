@@ -2,7 +2,7 @@
 title: "Greek Tax Return (E1) for Foreigners: Step by Step (2026)"
 description: "How to file the Greek E1 tax return as a foreigner: who must file, E1/E2/E3, myAADE access, deadlines, the 4/3/2% discount, foreign income and fines."
 pubDate: 2026-11-06
-updatedDate: 2026-11-15
+updatedDate: 2026-11-28
 category: "tax"
 image: "/images/guides/tax_residency_hero.png"
 faq:
@@ -94,7 +94,7 @@ Individuals who file by the dates below and pay in full by the first instalment 
 | 15 June | 3% |
 | 15 July | 2% |
 
-For tax year 2025, [AADE decision A.1140/2026](https://www.taxheaven.gr/circulars/54406/a-1140-2026) kept the 2% for returns filed by 24 July 2026. For tax year 2026, the dates are 15 May, 15 June and 15 July 2027. Partners in entities that keep simple books, such as most general and limited partnerships (OE, EE), may file until the last working day of July and keep the 2% until then.
+For tax year 2025, [AADE decision A.1140/2026](https://www.aade.gr/sites/default/files/2026-07/a1140_2026.pdf) (ΦΕΚ Β' 4274/13.07.2026) extended the deadline and kept the 2% for returns filed by 24 July 2026. For tax year 2026, the dates are 15 May, 15 June and 15 July 2027. Partners in entities that keep simple books, such as most general and limited partnerships (OE, EE), may file until the last working day of July and keep the 2% until then.
 
 ### Instalments
 
@@ -153,4 +153,4 @@ As a Greek tax resident, you declare your foreign income in the E1 together with
 
 Up to €100 of tax, including zero or a refund, there is no fine. Above that, the fine is €100, or €250 (simple books) or €500 (double-entry books) if the return covers business income. It is issued automatically when you file.
 
-*Rules as of November 2026 (sources: Income Tax Code arts. 9, 67(3) and (6) and 69; Law 5297/2026 art. 249; AADE decision A.1140/2026; Art. 53 Law 5104/2024; AADE guidance and FAQ for non-residents (November 2025); AADE press release of 16 March 2026 and auto-submission figures of April 2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 12).*
+*Rules as of November 2026 (sources: Income Tax Code arts. 9, 67(3) and (6) and 69; Law 5297/2026 art. 249; AADE decision A.1140/2026 (ΦΕΚ Β' 4274/13.07.2026); Art. 53 Law 5104/2024; AADE guidance and FAQ for non-residents (November 2025); AADE press release of 16 March 2026 and auto-submission figures of April 2026; Law 5355/2026 (ΦΕΚ Α' 188/13.11.2026) art. 12).*
