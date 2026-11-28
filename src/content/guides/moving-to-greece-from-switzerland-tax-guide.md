@@ -1,9 +1,10 @@
 ---
-title: "Moving to Greece from Switzerland: Tax and Setup Guide (2026)"
+title: "Moving to Greece from Switzerland: Tax and Setup Guide 2026"
 description: "Moving from Switzerland to Greece: tax residence, the 1983 treaty, AHV and pension fund money, pillar 3a, health insurance and the Greek tax setup."
 pubDate: 2026-10-23
-updatedDate: 2026-10-28
+updatedDate: 2026-11-28
 category: "tax"
+translationOf: "umzug-griechenland-aus-der-schweiz-steuern"
 image: "/images/guides/tax_residency_hero.png"
 faq:
   - question: "Can I withdraw my Swiss pension fund money when I move to Greece?"
@@ -67,7 +68,7 @@ Private capital gains on shares, funds and crypto are tax-free in Switzerland, s
 
 **AHV** is paid to a Greek account without Swiss tax. [Voluntary AHV](https://www.zas.admin.ch/de/beitritt-zur-freiwilligen-ahviv) is only open to people living outside the EU/EFTA, so not from Greece.
 
-**Pension fund (BVG).** Leaving for an EU state, you cannot take [the mandatory part in cash](https://sfbvg.ch/aufgaben/barauszahlung-nach-ausreise) if you are compulsorily insured there, as freelancers and employees in Greece are. It stays in a Swiss vested benefits account until you draw it, at the earliest five years before the reference age; the supra-mandatory part can be paid out. For Greece, the Sicherheitsfonds BVG checks your insurance status no earlier than 366 days after you leave.
+**Pension fund (BVG).** Leaving for an EU state, you cannot take [the mandatory part in cash](https://sfbvg.ch/en/tasks/cash-payment-on-departure-abroad) if you are compulsorily insured there, as freelancers and employees in Greece are. It stays in a Swiss vested benefits account until you draw it, at the earliest five years before the reference age; the supra-mandatory part can be paid out. Whether you are compulsorily insured in Greece is confirmed by the Greek authority through the Sicherheitsfonds BVG, for Greece no earlier than 366 days after you leave Switzerland.
 
 **Lump sums and pillar 3a.** A lump sum taken while you still live in Switzerland is taxed there at the reduced rate for capital benefits. Taken after the move, Switzerland withholds tax at source. For private-law pension funds and pillar 3a, [Greek residents can reclaim it](https://www.sz.ch/public/upload/assets/84283/Merkblatt_Quellenbesteuerung_privatrechtlicher_Vorsorgeleistungen_an_Personen_ohne_Wohnsitz_oder_Aufenthalt_in_der_Schweiz_Stand_1_Januar_2025.pdf?fp=3) within three years, with a confirmation that the Greek tax office knows about the payment; Greece may then tax it. Lump sums from public-law pension funds stay taxed in Switzerland unless you are a Greek national. Pillar 3a can be withdrawn in full when you leave; the EU block applies only to the mandatory BVG part. How Greece treats a given lump sum, including under 5B, needs an individual check, so plan the timing before you deregister.
 
@@ -79,7 +80,7 @@ You close your Swiss sole proprietorship (AHV compensation office, Swiss VAT if 
 
 - **Swiss business clients** are invoiced without Greek VAT, as the service is supplied outside the EU ([VAT with foreign clients](/guides/vat-freelancers-greece-foreign-clients/)).
 - **Social security:** EU Regulation 883/2004 applies to Switzerland through the free movement agreement, so you are insured where you work: with EFKA, from about €150 per month for new freelancers ([EFKA guide](/guides/efka-social-security-freelancers-greece/)). A Swiss A1 only helps for temporary postings or if you also work substantially in Switzerland. Cancel your Swiss health insurance with your deregistration confirmation; EFKA covers you in Greece.
-- **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request; myDATA for every invoice; and e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027. **Swiss clients are non-EU, so your invoices to them are in scope** ([e-invoicing](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece)). The [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax/) is halved only in your first year with business income; Greek income tax runs on a 9–44% scale.
+- **Greek routine:** VAT returns monthly for the first 24 months for new businesses with simple books, then quarterly on request; myDATA for every invoice; and e-invoicing for invoices to Greek and non-EU businesses from 2 November 2026, with a transition to 31 January 2027. **Swiss clients are non-EU, so your invoices to them are in scope** ([e-invoicing](/guides/mydata-greece-explained/#e-invoicing-b2b-in-greece)). The [tax advance](/guides/hidden-costs-moving-to-greece-advance-tax/) of 55% of your tax on business income is halved only in your first year with business income; from tax year 2027, with the return filed in 2028, it drops to 50% ([Law 5355/2026](https://www.taxheaven.gr/law/5355/2026), art. 12). Greek income tax runs on a 9–44% scale.
 
 Steps in order: [AFM](/guides/what-is-greek-afm-number/), [freelancer setup](/guides/freelancer-setup-greece/), [freelancer taxes 2026](/guides/freelancer-taxes-greece-2026/).
 
@@ -87,13 +88,13 @@ Steps in order: [AFM](/guides/what-is-greek-afm-number/), [freelancer setup](/gu
 
 ## 7. Articles 5C and 5B
 
-If you were not Greek tax resident in **5 of the previous 6 years**, [Article 5C](/guides/50-percent-tax-break-article-5c/) exempts 50% of Greek employment or business income for **7 years**. You need a Greek employer, a Greek establishment of a foreign employer, or your own sole proprietorship in Greece (an IKE does not count, nor does a salary from your Swiss company). Start by 2 July and you apply by 31 December of that year; later, by 31 December of the next. AADE allows it alongside 5A or 5B. **Digital Nomad Visa holders are not eligible** ([5C vs DNV](/guides/5c-vs-digital-nomad-visa/)). Estimate the effect with the [5C calculator](/greece/5c-tax-calculator/).
+If you were not Greek tax resident in **5 of the previous 6 years**, [Article 5C](/guides/50-percent-tax-break-article-5c/) exempts 50% of Greek employment or business income for **7 years**. You need a Greek employer, a Greek establishment of a foreign employer, or your own sole proprietorship in Greece (IKE profits do not qualify; a salary from a Greek company counts as employment income and goes through the employment route; a salary from your Swiss company does not count). Start by 2 July and you apply by 31 December of that year; later, by 31 December of the next. AADE allows it alongside 5A or 5B. **Digital Nomad Visa holders are not eligible** ([5C vs DNV](/guides/5c-vs-digital-nomad-visa/)). Estimate the effect with the [5C calculator](/greece/5c-tax-calculator/).
 
 For **Article 5B**, if you receive a foreign pension and were not Greek tax resident in 5 of the previous 6 years, your foreign income is taxed at 7% for 15 years, unless a tax treaty exempts it. Move by 2 July and you can apply by 31 October of that year; move later and it starts the following year ([A.1192/2026](https://www.aade.gr/sites/default/files/2026-09/a1192_2026fek.pdf)). AHV, private-law pension fund and pillar 3a pensions are taxed in Greece, not in Switzerland, so the 7% applies to them in full. Income the treaty leaves to Switzerland alone (pensions and lump sums from Swiss public employers and public-law pension funds, unless you are a Greek national) is not taxed in Greece, so the 7% does not reach it. Where both countries may tax, such as Swiss rent, dividends or interest, Swiss tax is credited against the 7% up to the Greek tax on that income, and any excess is not refunded (A.1192/2026, art. 5). The 7% is paid in one payment by the last working day of December.
 
 ## How we can help
 
-We prepare and file the Greek side: tax and business registration, the 5C or 5B application, and your returns as part of our [ongoing bookkeeping](/greece/ongoing-bookkeeping/). The Swiss exit stays with your Treuhänder; we share the Greek documents they need. Send us a message for a free check.
+At taxomade, we prepare and file the Greek side: tax and business registration, the 5C or 5B application, and [ongoing bookkeeping](/greece/ongoing-bookkeeping/) from **€89/month** with myDATA, VAT returns and your annual tax return included, in English, German or Greek. The Swiss exit stays with your Treuhänder; we share the Greek documents they need, such as the confirmation for reclaiming withholding tax on a lump sum. Send us a message on WhatsApp or via the contact form for a free check.
 
 ## Frequently asked questions
 
@@ -117,4 +118,4 @@ No. Under the EU–Switzerland free movement agreement, Swiss citizens can live 
 
 Yes, if you were not Greek tax resident in 5 of the previous 6 years and take a job with a Greek employer or register as a sole trader in Greece. Digital Nomad Visa holders are not eligible.
 
-*Rules as of October 2026 (DBG art. 3, 8 and 16, Switzerland–Greece tax treaty 1983 with 2010 protocol, EU–Switzerland Agreement on the Free Movement of Persons, EU Regulation 883/2004, FZG art. 5 and 25f, Greek Income Tax Code art. 5B/5C, A.1192/2026).*
+*Rules as of November 2026 (sources: DBG art. 3, 8 and 209; Switzerland–Greece tax treaty of 16 June 1983, SR 0.672.937.21, with 2010 protocol; EU–Switzerland Agreement on the Free Movement of Persons; EU Regulation 883/2004; FZG art. 5 and 25f; AHV leaflet 10.02; Sicherheitsfonds BVG, cash payment after departure; cantonal leaflets on withholding tax on private-law pension benefits, 2025; Greek Income Tax Code art. 5B/5C; AADE decisions A.1049/2025 and A.1192/2026; Law 5355/2026, art. 12).*
